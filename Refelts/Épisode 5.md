@@ -32,6 +32,8 @@
 
         ils(elles) apprennent
 6. (s')approcher    v.pr. (+de) 走近，靠近
+
+    Exp. Le navire s'approche de la terre. 船靠岸
 7. une campagne n.f. 鄉村
 8. une chose    n.f. 東西，事物
 9. un cinéma    n.m. 電影；電影院
@@ -47,6 +49,10 @@
     faire la cuisine    做飯，做菜
 14. (se)décourager  v.pr. 泄氣
 15. depuis  prép. 自從……以來
+
+    depuis +（時間/事件）  自從……
+
+    Exp. Depuis 2019, je comence à apprendre à jouer de la guitare.
 16. désolé, e   adj. 感到抱歉的
 17. deuxième    adj.num. 第二
 18. dire    v.t. 說
@@ -65,6 +71,10 @@
 
         ils(elles) disent
 19. donner  v.t. 給予
+
+    donner qqch à qqn
+
+    Exp. Je donne les bonbons aux enfants.
 20. un droit    n.m. 法律
 21. efficace    adj. 有效率的，起作用的
 22. enfant  n. 孩子
@@ -75,6 +85,11 @@
 27. une fac n.f.學院，大學（faculté的縮寫，用於口語）
 28. facile  adj. 簡單的，容易的
 29. faire   v.t. 做
+
+    faire une enquête 做調查
+
+    faire ses études 學習
+
 
     變位：
 
