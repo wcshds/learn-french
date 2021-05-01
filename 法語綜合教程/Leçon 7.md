@@ -1,5 +1,7 @@
 # Dialogue
 
+(Jo)
+
 ## Vocabulaire
 
 1. une conversation  
@@ -87,7 +89,39 @@
 
 18. le parfum  香水
 19. apprendre  v.t. 學習
+
+    變位（第三組）：
+
+        j'apprends
+
+        tu apprends
+
+        il (elle) apprend
+
+        nous apprenons
+
+        vous apprenez
+
+        ils (elles) apprennent
+
+
 20. faire  v.t. 做
+
+    變位（第三組）：
+
+        je fais
+
+        tu fais
+
+        il (elle) fait
+
+        nous faisons [ fəzɔ̃ ]
+
+        vous faites
+
+        ils (elles) font
+
+
 21. la vie  生活
 22. un employé, une employée  職員
 23. une banque  銀行
@@ -107,12 +141,60 @@
 
         ils (elles) habitent
 
+
 25. une ville  城市
 26. connaître  v.t. 認識；瞭解
+
+    變位（第三組）：
+
+        je connais
+
+        tu connais
+
+        il (elle) connaît
+
+        nous connaissons
+
+        vous connaissez
+
+        ils (elles) connaissent
+
+
 27. venir  v.i. 來
+
+    變位（第三組）：
+
+        je viens
+
+        tu viens
+
+        il (elle) vient
+
+        nous venons
+
+        vous venez
+
+        ils (elles) viennent
+
 28. premier, première  adj. 第一的
 29. une fois  次
 30. entrer  v.i. 進來
+
+    變位（第一組）：
+
+        j'entre
+
+        tu entres
+
+        il (elle) entre
+
+        nous entrons
+
+        vous entrez
+
+        ils (elles) entrent
+
+
 31. ici  這裡
 32. un coup de téléphone  一個電話
 33. au revoir  再見
