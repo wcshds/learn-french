@@ -1,3 +1,15 @@
+# Grammaire
+
+## Les articles définis et indéfinis (定冠詞與不定冠詞)
+
+### 構成
+
+|           | masculin |  féminin  |
+|  -------  | -------- | --------- |
+| singulier | un ami<br/>un supermarché  |  une aime<br/>une voiture |
+| pluriel   | des amis<br/>des supermarchés | des amies<br/>des voitures |
+
+
 # Dialogue
 
 (Joëlle en ligne sur Internet, dans un salon de Chat.)
@@ -42,8 +54,6 @@ J : C'est la première fois que j'entre ici.
 J : Excusez-moi, Dragon céleste. Quelqu'un m'appelle.
 
 D : C'est dommage. Au revoir, Lavande magique.
-
-
 
 
 ### Vocabulaire
