@@ -4,6 +4,7 @@
 
 ### 構成
 
+**Les articles indéfinis**
 |           |          masculin             |           féminin          |
 | :-------: | :---------------------------: | :------------------------: |
 | singulier |   un ami<br/>un supermarché   |  une aime<br/>une voiture  |
