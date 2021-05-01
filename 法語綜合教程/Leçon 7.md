@@ -31,6 +31,50 @@
 *la -> l'  amie   &emsp;&emsp;  la -> l'  habitante*
 
 
+### 用法
+
+1. 不定冠詞用在不確指的或初次提到的名詞前，定冠詞用在確指的或已經提到過的名詞前，如：
+
+    Voilà un ordinateur. C'est l'ordinateur de Joëlle.
+
+    Voilà des étudiants. Ce sont les étudiants de la classe A.
+
+2. 定冠詞還可表示總體意義，如：
+
+    J'adore le rock.
+
+    J'aime le français.
+
+3. 表示日期的時候，定冠詞用於以下三種情況：
+
+    1. le + 星期幾 = 每逢星期幾，如：
+
+        Nous avons cours de français le lundi, le mercredi et le vendredi.
+
+    2. soir或matin之前加le，表示每天早晨、每天晚上，如：
+
+        Marc est toujours pressé le matin.
+
+    3. 在基數詞前加le，可以表示日期，如：
+
+        Nous sommes le 16 octobre. （今天是10月16日。）
+
+        *說明：每月1號用序數詞，如：le premier octobre（10月1號）。*
+
+*以下幾種情況需要省略冠詞：*
+1. 表示人名、城市名的專有名詞前不用冠詞，如：Joëlle, Paris
+2. 表示狀態的動詞（如être）後面如跟身份、職業的名詞，冠詞可以省略，如：
+
+    Nous sommes étudiants.
+
+    Il est Français.
+
+    Elle est Chinoise.
+
+
+
+
+
 # Dialogue
 
 (Joëlle en ligne sur Internet, dans un salon de Chat.)
