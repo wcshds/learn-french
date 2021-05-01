@@ -44,6 +44,8 @@ J : Excusez-moi, Dragon céleste. Quelqu'un m'appelle.
 D : C'est dommage. Au revoir, Lavande magique.
 
 
+
+
 ### Vocabulaire
 
 1. une conversation  
