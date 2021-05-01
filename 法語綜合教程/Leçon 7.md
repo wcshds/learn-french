@@ -4,9 +4,9 @@
 
 ### 構成
 
-|           | masculin |  féminin  |
-|  -------  | -------- | --------- |
-| singulier | un ami<br/>un supermarché  |  une aime<br/>une voiture |
+|           |          masculin             |           féminin          |
+| :-------: | :---------------------------: | :------------------------: |
+| singulier |   un ami<br/>un supermarché   |  une aime<br/>une voiture  |
 | pluriel   | des amis<br/>des supermarchés | des amies<br/>des voitures |
 
 
