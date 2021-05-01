@@ -11,7 +11,9 @@
 | pluriel   | des amis<br/>des supermarchés | des amies<br/>des voitures |
 
 *注意：在口語中，遇到以元音開始的名詞時，不要忘記聯誦或連音。*
+
 *un ami      une amie*
+
 *des amis      des amies*
 
 **Les articles définis（定冠詞）**
@@ -21,7 +23,9 @@
 | pluriel   | les livres<br/> les étudiants | les tables<br/>les activités |
 
 *注意：le, la遇到以元音或啞音h開始的名詞時，不要忘記省音。*
+
 *le -> l'  ami      le -> l'  habitant*
+
 *la -> l'  amie     la -> l'  habitante*
 
 
