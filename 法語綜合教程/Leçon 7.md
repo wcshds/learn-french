@@ -12,9 +12,9 @@
 
 *注意：在口語中，遇到以元音開始的名詞時，不要忘記聯誦或連音。*
 
-*un ami  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  une amie*
+*un ami  &emsp;&emsp;  une amie*
 
-*des amis  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  des amies*
+*des amis  &emsp;&emsp;  des amies*
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 *注意：le, la遇到以元音或啞音h開始的名詞時，不要忘記省音。*
 
-*le -> l'  ami   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   le -> l'  habitant*
+*le -> l'  ami   &emsp;&emsp;   le -> l'  habitant*
 
-*la -> l'  amie   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  la -> l'  habitante*
+*la -> l'  amie   &emsp;&emsp;  la -> l'  habitante*
 
 
 # Dialogue
