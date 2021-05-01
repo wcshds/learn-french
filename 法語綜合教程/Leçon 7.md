@@ -44,7 +44,7 @@ J : Excusez-moi, Dragon céleste. Quelqu'un m'appelle.
 D : C'est dommage. Au revoir, Lavande magique.
 
 
-## Vocabulaire
+### Vocabulaire
 
 1. une conversation  
 2. sur Internet  在因特網上
