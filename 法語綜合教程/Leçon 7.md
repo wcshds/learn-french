@@ -1,6 +1,48 @@
 # Dialogue
 
-(Jo)
+(Joëlle en ligne sur Internet, dans un salon de Chat.)
+
+
+Joëlle : Bonjour.
+
+Dragon céleste : Bonjour. Je me présente : je m'appelle Dragon céleste. Je suis français.
+
+J : Moi, je m'appelle Lavande magique. Je suis chinoise. Pourquoi est-ce que vous vous appelez Dragon céleste ?
+
+D : Parce que j'adore le kung-fu chinois. Et vous ? Pourquoi Lavande magique ?
+
+J : Parce que j'aime le parfum français.
+
+D : Vous parlez français ?
+
+J : Un peu. Je commence à apprendre le français.
+
+D : Que faites-vous dans la vie ?
+
+J : Je suis étudiante. Et vous ?
+
+D : Je suis employé de banque.
+
+J : Vous habitez à Paris ?
+
+D : Oui. Et vous ? Dans quelle ville habitez-vous ?
+
+J : J'habite à Hangzhou. Est-ce que vous connaissez Hangzhou ?
+
+D : Non.
+
+J : Vous venez souvent au salon de Chat ?
+
+D : Oui, très souvent. Et vous ?
+
+J : C'est la première fois que j'entre ici.
+
+(Le portable de Joëlle sonne.)
+
+J : Excusez-moi, Dragon céleste. Quelqu'un m'appelle.
+
+D : C'est dommage. Au revoir, Lavande magique.
+
 
 ## Vocabulaire
 
