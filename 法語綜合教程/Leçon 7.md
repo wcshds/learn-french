@@ -156,6 +156,14 @@
     *法語名詞的性別從古希臘語和拉丁語沿襲而來，是約定俗成的語言習慣。我們在學習過程中，需要逐個記憶。基本的方法是通過名詞前的冠詞來分辯名詞的陰陽性。*
 
 
+**陰陽性詞形不同的名詞**
+
+un homme &emsp;&emsp; une femme
+un père &emsp;&emsp; une mère
+un roi &emsp;&emsp; une reine
+un monsieur &emsp;&emsp; une dame (OU une demoiselle)
+
+
 ### 名詞的數(le nombre)
 
 
