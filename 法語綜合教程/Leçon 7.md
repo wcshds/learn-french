@@ -73,6 +73,90 @@
 
 
 
+## Les noms（名詞）
+
+### 構成
+
+名詞包括：
+
+專有名詞 -> Chine, France, Paul, Hélène等；
+
+普通名詞 -> professeur, étudiant, salon, table等
+
+### 名詞的性(le genre)
+法語的名詞有陰陽性之分。
+
+1. 指人或動物的名詞性別一般由人或動物本身的性別決定
+
+    |    masculin    |     féminin     |
+    | :------------: | :-------------: |
+    |    un homme    |    une femme    |
+    |    un chat     |    une chatte   |
+    | un journaliste | une journaliste |
+    |   un employé   |  une employée   |
+
+    陽性名詞變陰性的一般規則是在陽性詞末加字母-e
+
+    un ami  &emsp;&emsp;  une amie
+
+    un employé  &emsp;&emsp;  une employée
+
+    <br />
+
+    -e之前如是輔音字母，則有讀音變化
+
+    un étudiant  &emsp;&emsp;  une étudiante
+
+    un cousin（堂、表兄弟）  &emsp;&emsp;  une cousine（堂、表姐妹）
+
+    <br />
+
+    如果陽性名詞本身以-e結尾，陰性形式不變
+
+    un journaliste  &emsp;&emsp;  une journaliste
+
+    <br />
+
+    特殊情況
+
+        1. 陽性以-er結尾，陰性爲-ère
+
+            un étranger（外國人；陌生人） &emsp;&emsp; une étrangère
+
+        2. 陽性以-eur結尾，陰性爲-euse
+
+            un danseur &emsp;&emsp; une danseuse [ z ]
+
+        3. 陽性以-teur結尾，陰性爲-trice
+
+            un acteur &emsp;&emsp; une actrice
+
+            例外：
+            
+            acheteur  &emsp;&emsp; acheteuse
+
+        4. 陽性以-f結尾，陰性爲-ve
+
+            un sportif &emsp;&emsp; une sportive
+
+        5. 在陽性名詞尾添加相同的輔音字母，再加-e
+
+            un paysan（農民） &emsp;&emsp; une paysanne
+
+            un chat &emsp;&emsp; une chatte
+
+
+2. 指事物的名詞也有陰陽性的區別
+
+    |      masculin      |    féminin     |
+    | :----------------: | :------------: |
+    |   un portable      |   une montre   |
+    |   un supermarché   |   une banque   |
+
+    *法語名詞的性別從古希臘語和拉丁語沿襲而來，是約定俗成的語言習慣。我們在學習過程中，需要逐個記憶。基本的方法是通過名詞前的冠詞來分辯名詞的陰陽性。*
+
+
+### 名詞的數(le nombre)
 
 
 # Dialogue
