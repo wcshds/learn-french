@@ -214,6 +214,10 @@
 
     le cheval（馬）           les chevaux
     le journal（報紙）        les journaux
+    l'hôpital                les hôpitaux
+
+    例外：
+    un bal（舞會）            des bals
 
 
 # Dialogue
