@@ -463,7 +463,7 @@ D : C'est dommage. Au revoir, Lavande magique.
     2. habiter + lieu
 
         Ils habitent 15, rue Wenxiang.
-        
+
         Elle habite (à) Paris.
 
 
@@ -478,6 +478,22 @@ D : C'est dommage. Au revoir, Lavande magique.
         nous connaissons
         vous connaissez
         ils (elles) connaissent
+
+    1. connaître + qqch.
+
+        Vous connaissez la France ?
+
+        Je ne connais pas bien Paris.
+
+        Sylvie connaît un bon restaurant français.
+
+    2. connaître + qn
+
+        Lucien connaît un bon médecin.
+
+        Je connais bien Marie, c'est une fille très gentille.
+
+        Joëlle connaît un Français dans un salon de discussion.
 
 
 27. venir  v.i. 來
