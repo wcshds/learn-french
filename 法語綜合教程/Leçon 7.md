@@ -550,6 +550,5 @@ D : C'est dommage. Au revoir, Lavande magique.
 
 
 31. ici  這裡
-32. un coup de téléphone  一個電話
-33. au revoir  再見
-34. un dommage  遺憾
+32. au revoir  再見
+33. un dommage  遺憾
