@@ -351,15 +351,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第一組）：
 
         j'adore
-
         tu adores
-
         il (elle) adore
-
         nous adorons
-
         vous adorez
-
         ils (elles) adorent
 
 
@@ -382,15 +377,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第一組）：
 
         j'aime
-
         tu aimes
-
         il (elle) aime
-
         nous aimons
-
         vous aimez
-
         ils (elles) aiment
 
 
