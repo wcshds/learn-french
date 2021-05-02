@@ -97,23 +97,21 @@
 
     陽性名詞變陰性的一般規則是在陽性詞末加字母-e
 
-    un ami  &emsp;&emsp;  une amie
-
-    un employé  &emsp;&emsp;  une employée
+        un ami                    une amie
+        un employé                une employée
 
     <br />
 
     -e之前如是輔音字母，則有讀音變化
 
-    un étudiant  &emsp;&emsp;  une étudiante
-
-    un cousin（堂、表兄弟）  &emsp;&emsp;  une cousine（堂、表姐妹）
+        un étudiant               une étudiante
+        un cousin（堂、表兄弟）     une cousine（堂、表姐妹）
 
     <br />
 
     如果陽性名詞本身以-e結尾，陰性形式不變
 
-    un journaliste  &emsp;&emsp;  une journaliste
+    un journaliste                une journaliste
 
     <br />
 
