@@ -177,6 +177,43 @@
     le bras（手臂）           les bras
     une croix（十字）         des croix
     un nez（鼻子）            des nez
+    un pays（國家）           des pays
+    une voix（聲音）          des voix
+
+<br />
+
+以下列字母結尾的名詞構成複數時加-x
+
+    -eau: un manteau           des manteaux
+          un chapeau（帽子）    des chapeaux
+    -au:  le noyau（核心）      des noyaux
+    -eu:  le cheveu            les cheveux
+    -œu:  le vœu（心願）        les vœux
+
+    例外：
+    un pneu（輪胎）             des pneus
+
+7個以-ou結尾的名詞構成複數時詞尾加-x
+
+    le bijou（首飾）          les bijoux
+    le chou（卷心菜）         les choux
+    le caillou（卵石）        les cailloux
+    le genou（膝蓋）          les genoux  
+    le hibou（貓頭鷹）        les hiboux
+    le joujou（玩具）         les joujoux
+    le pou（蝨子）            les poux
+
+說明：其餘以-ou結尾的名詞變複數時加-s
+
+    le clou（釘子）           les clous
+    le trou（窟窿）           les trous
+
+<br />
+
+以-al結尾的名詞構成複數時變爲-aux
+
+    le cheval（馬）           les chevaux
+    le journal（報紙）        les journaux
 
 
 # Dialogue
