@@ -507,8 +507,26 @@ D : C'est dommage. Au revoir, Lavande magique.
         vous venez
         ils (elles) viennent
 
+    Je vais au supermarché, tu viens avec moi ?
+
+    1. venir à, chez
+
+        Pascal ne vient pas souvent au salon de discussion.
+
+        Vous venez chez moi demain ?
+
+    2. venir de
+
+        Je viens de Shanghai, et toi ? D'où viens-tu ?
+
 28. premier, première  adj. 第一的
+
+    la première dame 第一夫人
+
 29. une fois  次
+
+    la première fois 第一次
+
 30. entrer  v.i. 進來
 
     變位（第一組）：
@@ -519,6 +537,16 @@ D : C'est dommage. Au revoir, Lavande magique.
         nous entrons
         vous entrez
         ils (elles) entrent
+
+    1. entrer + dans + lieu
+
+        C'est la première fois que Joëlle entre dans un salon de Chat.
+
+        Elle entre dans le restaurant avec sa mère.
+
+        Il entre dans un café avec ses amis français.
+
+        Le professeur entre dans la salle de class à huit heures et quart.
 
 
 31. ici  這裡
