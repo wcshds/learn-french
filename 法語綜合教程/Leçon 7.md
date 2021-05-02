@@ -220,6 +220,58 @@
     un bal（舞會）            des bals
 
 
+### Les adjectifs qualificatifs（品質形容詞）
+品質形容詞表示人和事物的性質或狀態，可以使被修飾的名詞更加準確，如：
+
+    un homme amusant               une femme élégante
+
+法語形容詞的性、數必須與它所修飾的名詞或代詞一致，如：
+
+    un étudiant travailleur        des étudiants travailleurs
+    une étudiante travailleuse     des étudiantes travailleuses
+
+1. 性的變化
+
+    1. 在陽性形容詞後加-e
+
+        gai（歡快的） -> gaie
+        grand（身材高大的） -> grande
+
+    2. 以-e結尾的陽性形容詞變陰性時詞形不變
+
+        mince（苗條的） -> mince
+        drôle（有趣的） -> drôle
+
+    3. 部分形容詞變陰性時，除加-e以外，在詞形上也有所變化
+
+        long -> longue
+        doux -> douce
+        gros -> grosse
+        premier -> première
+        gentil -> gentille
+        travailleur -> travailleuse
+
+    *有時，形容詞陰性形式在口語裡聽不出，但書寫時務必加-e*
+    *Il est gai.    Elle est gaie*
+
+2. 數的變化
+
+    1. 通常情況下，在形容詞尾加-s
+
+        long -> longs
+        mince -> minces
+
+    2. 以-s, -x結尾的形容詞變複數時，詞形不變
+
+        français -> français
+        doux -> doux
+
+    3. 形容詞變陰性複數時，要先變陰性，然後變複數
+
+        doux -> douce -> douces
+        gentil -> gentille -> gentilles
+
+
 # Dialogue
 
 (Joëlle en ligne sur Internet, dans un salon de Chat.)
@@ -268,8 +320,11 @@ D : C'est dommage. Au revoir, Lavande magique.
 
 ### Vocabulaire
 
-1. une conversation  
-2. sur Internet  在因特網上
+1. une conversation  會話
+2. sur Internet [ ɛ̃tɛʀnɛt ]  在因特網上
+
+    sur 在……上；關於……
+
 3. en ligne  在綫
 
     1. 指在網上
@@ -285,6 +340,12 @@ D : C'est dommage. Au revoir, Lavande magique.
 11. un homme  男人
 12. un Français, une Française  法國人
 13. un Chinois, une Chinoise  中國人
+
+    français, chinois等詞作爲語言講時首字母小寫；作爲一國人講時首字母必須大寫。
+
+    Il est Français. Il est français. 大小寫皆可，但前者是名詞，後者是形容詞。（後者用得更多）
+
+
 14. adorer  v.t. 酷愛
 
     變位（第一組）：
@@ -302,7 +363,7 @@ D : C'est dommage. Au revoir, Lavande magique.
         ils (elles) adorent
 
 
-    1. adorer qqch./qn
+    1. adorer + qqch./qn
 
         Léa adore le chocolat.
         
@@ -310,7 +371,7 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         Les étudiants adorent leur professeur de français, madame Lane.
 
-    2. adorer v.
+    2. adorer + v.
 
         Il adore parler français avec ses amis.
 
@@ -337,7 +398,7 @@ D : C'est dommage. Au revoir, Lavande magique.
         ils (elles) aiment
 
 
-    1. aimer qqch./qn
+    1. aimer + qqch./qn
 
         Cécile aime beaucoup la musique classque.
 
@@ -347,7 +408,7 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         Quasimodo aime Esmeralda, mais Esmeralda aime Phoebus.
 
-    2. aimer v.
+    2. aimer + v.
 
         J'aime aller au cinéma, mais je n'aime pas regarder télévision.
 
@@ -385,8 +446,17 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         ils (elles) font
 
+    Que faites-vous dans la vie ?  你的職業是什麽？
+
+    Que fait-il dans la salle de classe ?  他在教室裡做什麽？
+
+    Les étudiants font des exercices après la classe.  學生們在課後做練習。
+
 
 21. la vie  生活
+
+    la vie en rose  玫瑰人生
+
 22. un employé, une employée  職員
 23. une banque  銀行
 24. habiter  v.t.&v.i. 居住
@@ -404,6 +474,22 @@ D : C'est dommage. Au revoir, Lavande magique.
         vous habitez
 
         ils (elles) habitent
+
+    1. habiter + prép. + lieu
+
+        Moi, j'habite à Shanghai.
+
+        Où habitez-vous ?
+
+        Dans quelle ville  habitez-vous ?
+
+        Où habitent les étudiants ?
+
+    2. habiter + lieu
+
+        Ils habitent 15, rue Wenxiang.
+
+        Elle habite (à) Paris.
 
 
 25. une ville  城市
