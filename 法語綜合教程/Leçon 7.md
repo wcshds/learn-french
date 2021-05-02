@@ -158,13 +158,12 @@
 
 **陰陽性詞形不同的名詞**
 
-un homme &emsp;&emsp; une femme
-
-un père &emsp;&emsp; une mère
-
-un roi &emsp;&emsp; une reine
-
-un monsieur &emsp;&emsp; une dame (OU une demoiselle)
+    |     masculin      |                féminin                 |
+    | :---------------: | :------------------------------------: |
+    |    un homme       |              une femme                 |
+    |    un père        |              une mère                  |
+    |    un roi         |              une reine                 |
+    |    un monsieur    |   une dame <br />(OU une demoiselle)   |
 
 
 ### 名詞的數(le nombre)
