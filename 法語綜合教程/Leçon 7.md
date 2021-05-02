@@ -159,8 +159,11 @@
 **陰陽性詞形不同的名詞**
 
 un homme &emsp;&emsp; une femme
+
 un père &emsp;&emsp; une mère
+
 un roi &emsp;&emsp; une reine
+
 un monsieur &emsp;&emsp; une dame (OU une demoiselle)
 
 
