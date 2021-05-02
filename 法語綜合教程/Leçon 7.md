@@ -132,7 +132,6 @@
             un acteur                     une actrice
 
             例外：
-            
             un acheteur                   une acheteuse
 
         4. 陽性以-f結尾，陰性爲-ve
@@ -142,7 +141,6 @@
         5. 在陽性名詞尾添加相同的輔音字母，再加-e
 
             un paysan（農民）              une paysanne
-
             un chat                       une chatte
 
 
@@ -167,6 +165,20 @@
 
 
 ### 名詞的數(le nombre)
+法語名詞有單數和複數兩種形式。構成複數的一般方法是在單數名詞詞尾加-s
+
+|    singulier     |    pluriel     |
+| :--------------: | :------------: |
+|     un homme     |   des hommes   |
+|     un femme     |   des femmes   |
+
+<br />
+
+以-s, -x, -z結尾的名詞複數無變化
+
+    le bras（手臂）           les bras
+    une croix（十字）         des croix
+    un nez（鼻子）            des nez
 
 
 # Dialogue
