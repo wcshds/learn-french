@@ -361,13 +361,17 @@ D : C'est dommage. Au revoir, Lavande magique.
     1. adorer + qqch./qn
 
         Léa adore le chocolat.
+
         Jean adore le kung-fu chinois.
+
         Les étudiants adorent leur professeur de français, madame Lane.
 
     2. adorer + v.
 
         Il adore parler français avec ses amis.
+
         En classe, madame Lane adore poser des questions aux étudiants. 
+
         J'adore lire des romans français.
 
 15. le kung-fu  功夫
@@ -387,8 +391,11 @@ D : C'est dommage. Au revoir, Lavande magique.
     1. aimer + qqch./qn
 
         Cécile aime beaucoup la musique classque.
+
         Les Chinois aiment le thé, et les Français aiment le café.
+
         Est-ce que vous aimez le kung-fu chinois ?
+
         Quasimodo aime Esmeralda, mais Esmeralda aime Phoebus.
 
     2. aimer + v.
@@ -446,13 +453,17 @@ D : C'est dommage. Au revoir, Lavande magique.
     1. habiter + prép. + lieu
 
         Moi, j'habite à Shanghai.
+
         Où habitez-vous ?
+
         Dans quelle ville  habitez-vous ?
+
         Où habitent les étudiants ?
 
     2. habiter + lieu
 
         Ils habitent 15, rue Wenxiang.
+        
         Elle habite (à) Paris.
 
 
