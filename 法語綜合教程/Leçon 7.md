@@ -366,17 +366,13 @@ D : C'est dommage. Au revoir, Lavande magique.
     1. adorer + qqch./qn
 
         Léa adore le chocolat.
-        
         Jean adore le kung-fu chinois.
-
         Les étudiants adorent leur professeur de français, madame Lane.
 
     2. adorer + v.
 
         Il adore parler français avec ses amis.
-
         En classe, madame Lane adore poser des questions aux étudiants. 
-
         J'adore lire des romans français.
 
 15. le kung-fu  功夫
@@ -401,11 +397,8 @@ D : C'est dommage. Au revoir, Lavande magique.
     1. aimer + qqch./qn
 
         Cécile aime beaucoup la musique classque.
-
         Les Chinois aiment le thé, et les Français aiment le café.
-
         Est-ce que vous aimez le kung-fu chinois ?
-
         Quasimodo aime Esmeralda, mais Esmeralda aime Phoebus.
 
     2. aimer + v.
@@ -418,15 +411,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第三組）：
 
         j'apprends
-
         tu apprends
-
         il (elle) apprend
-
         nous apprenons
-
         vous apprenez
-
         ils (elles) apprennent
 
 
@@ -435,19 +423,14 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第三組）：
 
         je fais
-
         tu fais
-
         il (elle) fait
-
         nous faisons [ fəzɔ̃ ]
-
         vous faites
-
         ils (elles) font
 
     Que faites-vous dans la vie ?  你的職業是什麽？
-
+    
     Que fait-il dans la salle de classe ?  他在教室裡做什麽？
 
     Les étudiants font des exercices après la classe.  學生們在課後做練習。
@@ -464,31 +447,22 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第一組）：
 
         j'habite
-
         tu habites
-
         il (elle) habite
-
         nous habitons
-
         vous habitez
-
         ils (elles) habitent
 
     1. habiter + prép. + lieu
 
         Moi, j'habite à Shanghai.
-
         Où habitez-vous ?
-
         Dans quelle ville  habitez-vous ?
-
         Où habitent les étudiants ?
 
     2. habiter + lieu
 
         Ils habitent 15, rue Wenxiang.
-
         Elle habite (à) Paris.
 
 
@@ -498,15 +472,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第三組）：
 
         je connais
-
         tu connais
-
         il (elle) connaît
-
         nous connaissons
-
         vous connaissez
-
         ils (elles) connaissent
 
 
@@ -515,15 +484,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第三組）：
 
         je viens
-
         tu viens
-
         il (elle) vient
-
         nous venons
-
         vous venez
-
         ils (elles) viennent
 
 28. premier, première  adj. 第一的
@@ -533,15 +497,10 @@ D : C'est dommage. Au revoir, Lavande magique.
     變位（第一組）：
 
         j'entre
-
         tu entres
-
         il (elle) entre
-
         nous entrons
-
         vous entrez
-
         ils (elles) entrent
 
 
