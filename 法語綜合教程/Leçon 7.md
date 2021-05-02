@@ -121,29 +121,29 @@
 
         1. 陽性以-er結尾，陰性爲-ère
 
-            un étranger（外國人；陌生人） &emsp;&emsp; une étrangère
+            un étranger（外國人；陌生人）    une étrangère
 
         2. 陽性以-eur結尾，陰性爲-euse
 
-            un danseur &emsp;&emsp; une danseuse [ z ]
+            un danseur                    une danseuse [ z ]
 
         3. 陽性以-teur結尾，陰性爲-trice
 
-            un acteur &emsp;&emsp; une actrice
+            un acteur                     une actrice
 
             例外：
             
-            acheteur  &emsp;&emsp; acheteuse
+            un acheteur                   une acheteuse
 
         4. 陽性以-f結尾，陰性爲-ve
 
-            un sportif &emsp;&emsp; une sportive
+            un sportif                    une sportive
 
         5. 在陽性名詞尾添加相同的輔音字母，再加-e
 
-            un paysan（農民） &emsp;&emsp; une paysanne
+            un paysan（農民）              une paysanne
 
-            un chat &emsp;&emsp; une chatte
+            un chat                       une chatte
 
 
 2. 指事物的名詞也有陰陽性的區別
