@@ -235,20 +235,27 @@
     1. 在陽性形容詞後加-e
 
         gai（歡快的） -> gaie
+
         grand（身材高大的） -> grande
 
     2. 以-e結尾的陽性形容詞變陰性時詞形不變
 
         mince（苗條的） -> mince
+
         drôle（有趣的） -> drôle
 
     3. 部分形容詞變陰性時，除加-e以外，在詞形上也有所變化
 
         long -> longue
+
         doux -> douce
+
         gros -> grosse
+
         premier -> première
+
         gentil -> gentille
+
         travailleur -> travailleuse
 
     *有時，形容詞陰性形式在口語裡聽不出，但書寫時務必加-e*
@@ -259,16 +266,19 @@
     1. 通常情況下，在形容詞尾加-s
 
         long -> longs
+
         mince -> minces
 
     2. 以-s, -x結尾的形容詞變複數時，詞形不變
 
         français -> français
+
         doux -> doux
 
     3. 形容詞變陰性複數時，要先變陰性，然後變複數
 
         doux -> douce -> douces
+
         gentil -> gentille -> gentilles
 
 
@@ -276,11 +286,31 @@
 品質形容詞在句中可以作：
 1. 形容詞
 
-    Elle a de longs cheveux bruns.
+    Elle a de longs cheveux bruns.  （她披着褐色長髮。）
 
 2. 表語
 
-    Elle est grande, mince, élégante.
+    Elle est grande, mince, élégante.  （她高個兒，身材苗條，氣質優雅。）
+
+### 位置
+
+1. 一般情況下，法語的形容詞放在被修飾的名詞後面：
+
+    Elle a les yeux noirs.  （她的眼睛是黑色的。）
+
+    Elle aime le parfum français.  （她喜歡法國香水。）
+
+2. 一些常用的形容詞，如grand, petit等通常放在被修飾的名詞前面：
+
+    un grand fauteuil  （一把大的扶手椅）
+
+    une petite chambre  （一間小房間）
+
+3. 當形容詞作同位語時，其位置一般在有關名詞或代詞的前面或後面，並用逗號隔開：
+
+    Pressé, Philippe cherche partout ses lunettes.  （菲利普急急忙忙到處找眼鏡。）
+
+    Marc, prêt, va en classe.  （馬克準備好了，他上課去。）
 
 
 # Dialogue
