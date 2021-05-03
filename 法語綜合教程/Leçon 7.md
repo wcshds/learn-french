@@ -220,7 +220,7 @@
     un bal（舞會）            des bals
 
 
-### Les adjectifs qualificatifs（品質形容詞）
+## Les adjectifs qualificatifs（品質形容詞）
 品質形容詞表示人和事物的性質或狀態，可以使被修飾的名詞更加準確，如：
 
     un homme amusant               une femme élégante
@@ -272,6 +272,17 @@
         gentil -> gentille -> gentilles
 
 
+### 作用
+品質形容詞在句中可以作：
+1. 形容詞
+
+    Elle a de longs cheveux bruns.
+
+2. 表語
+
+    Elle est grande, mince, élégante.
+
+
 # Dialogue
 
 (Joëlle en ligne sur Internet, dans un salon de Chat.)
@@ -317,6 +328,52 @@ J : Excusez-moi, Dragon céleste. Quelqu'un m'appelle.
 
 D : C'est dommage. Au revoir, Lavande magique.
 
+
+### 課文注釋
+
+1. commencer à + v.  開始做某事
+2. C'est la première fois que... 這是我第一次……（強調句）
+
+    C'est la première fois que je rencontre un Japonais sur Internet.
+
+    （意義上與非強調的Je rencontre un Japonais sur Internet pour la première fois.相同 ）
+
+    C'est la première fois qu'il parle de sa vie en France.
+
+    C'est la première fois qu'elle va au théâtre.
+
+    C'est la première fois que j'ai un téléphone portable.
+
+    <br />
+
+    基本句型：C'est...que...（強調句）
+
+    C'est sur Internet que Lavande magique parle avec Dragon céleste.
+
+    C'est à huit heures que le cours d'anglais commence.
+
+    C'est avec Sophie que je vais au cinéma.
+
+3. parler de qn, qqch.  談論某人/某事
+4. 道歉的說法：
+
+    Excusez-moi.
+
+    Pardon.
+
+    Je suis désolé, e.  程度較大
+
+    回答：
+
+    Ce n'est pas grave.
+
+    Ce n'est rien.
+
+    Ça ne fait rien.
+
+    Pas grave.
+
+5. appeler qn.  打電話給某人
 
 ### Vocabulaire
 
@@ -552,3 +609,84 @@ D : C'est dommage. Au revoir, Lavande magique.
 31. ici  這裡
 32. au revoir  再見
 33. un dommage  遺憾
+
+    C'est dommage.  
+
+    dommage前不加冠詞，習慣用語
+
+
+# Texte
+
+Joëlle Bai est étudiante de première année. Elle est grande, mince, élégante. Elle a de longs cheveux bruns et les yeux noirs. 
+
+
+
+### Vocabulaire
+
+1. une année  年；年級
+
+    Bonne année !  新年快樂
+
+    étudiant,e de première année  一年級的學生
+
+2. grand, grande  adj. 高的
+3. mince  adj. 苗條的
+4. élégant, élégante  adj. 優雅的
+5. long, longue  adj. 長的
+6. un cheveu (des cheveux)  頭髮
+7. brun, brune  adj. 褐色的
+8. un œil [ œj ] (des yeux [ jø ])  眼睛
+
+    œil pour œil = dent pour dent  以牙還牙，以眼還眼
+
+9. noir, noire  adj. 黑色的
+10. doux, douce  adj. 溫柔的
+11. le sens [ sɑ̃ːs ] de l'humour  幽默感
+12. drôle  adj. 滑稽的
+
+    也可指貶義
+
+13. gai, gaie  adj. 愉快的
+14. amusant, amusante  adj. 風趣的（主要指褒義的）
+15. rencontrer  v.t. 遇見
+
+    變位（第一組）：
+        je rencontre
+        tu rencontres
+        il (elle) rencontre
+        nous rencontrons
+        vous rencontrez
+        ils (elles) rencontrent
+
+16. quelqu'un  pron. indéf. 某人
+17. un pseudonyme  假名；網名
+18. bien sûr  loc. adv. 當然
+19. petit, petite  adj. 小的
+20. gros, grosse  adj. 胖的
+21. malin, maligne  adj. 狡黠的
+22. savoir v.t. 知道
+
+    變位（第三組）：
+        je sais
+        tu sais
+        il (elle) sait
+        nous savons
+        vous savez
+        ils (elles) savent
+
+    1. savoir + qqch.
+
+    Je connais une fable de La Fontaire.  讀過
+
+    Je sais une fable de La Fontaire.  通曉、背誦
+
+    <br />
+
+    Je n'en sais rien.  我不知道有這件事。
+
+    2. savoir + v.  會做……（掌握一種技能）
+
+    Elle sait parler trois langues.
+
+    Alice a quatre ans, mais elle sait déjà lire et écrire.
+
