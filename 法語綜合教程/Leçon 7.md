@@ -308,6 +308,7 @@
     une petite chambre  （一間小房間）
 
     更多的例子：
+    
         beau  美麗的
         joli  漂亮的
         jeune  年輕的  un jeune Français
@@ -320,6 +321,7 @@
         nouveau  新的
 
     *注意*
+
         grand, petit用來形容人指高大或矮小時，一般仍放在後面。
         
         Napoléon est un homme petit, mais c'est un grand homme.
