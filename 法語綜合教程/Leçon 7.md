@@ -259,6 +259,7 @@
         travailleur -> travailleuse
 
     *有時，形容詞陰性形式在口語裡聽不出，但書寫時務必加-e*
+
     *Il est gai.    Elle est gaie*
 
 2. 數的變化
@@ -305,6 +306,24 @@
     un grand fauteuil  （一把大的扶手椅）
 
     une petite chambre  （一間小房間）
+
+    更多的例子：
+        beau  美麗的
+        joli  漂亮的
+        jeune  年輕的  un jeune Français
+        vieux  年長的
+        grand  大的  une grande ville
+        petit  小的  une petite ville
+        gros  胖的，龐大的
+        mauvais  壞的
+        bon  好的  C'est un bon film français.
+        nouveau  新的
+
+    *注意*
+        grand, petit用來形容人指高大或矮小時，一般仍放在後面。
+        
+        Napoléon est un homme petit, mais c'est un grand homme.
+        拿破侖身材矮小，但是個偉人。
 
 3. 當形容詞作同位語時，其位置一般在有關名詞或代詞的前面或後面，並用逗號隔開：
 
