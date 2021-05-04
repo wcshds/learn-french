@@ -308,7 +308,7 @@
     une petite chambre  （一間小房間）
 
     更多的例子：
-    
+
         beau  美麗的
         joli  漂亮的
         jeune  年輕的  un jeune Français
@@ -668,7 +668,35 @@ D : C'est dommage. Au revoir, Lavande magique.
 
 # Texte
 
-Joëlle Bai est étudiante de première année. Elle est grande, mince, élégante. Elle a de longs cheveux bruns et les yeux noirs. 
+Joëlle Bai est étudiante de première année. Elle est grande, mince, élégante. Elle a de longs cheveux bruns et les yeux noirs. Joëlle est non seulement douce et gentille, mais elle a aussi/encore le sens de l'humour.
+
+Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céleste. C'est un pseudonyme, bien sûr. Comment est-il ? Est-il grand ou petit ? gros ou mince ? gentil ou malin ? Joëlle n'en sait rien ...
+
+
+### 課文注釋
+
+1. 形容外表長相時的說法
+
+    1. 形容詞位置在後時：avoir + 定冠詞 + 身體部位名 + 形容詞
+
+        La dame a les cheveux gris.
+
+        La fille a les yeux noirs et les cheveux bruns.
+
+        J'ai toujours les mains froides.
+
+        Joëlle a le visage rond.
+
+    2. 衹要有形容詞位置在前時：avoir + 不定冠詞 + 形容詞 + 身體部位名 （複數des要變爲de）
+
+        Sophie a un petit nez.
+
+        Thomas a une grande bouche.
+
+        Daniel a de beaux yeux verts.
+
+        Hélène a de belles dents blanches.
+
 
 
 
