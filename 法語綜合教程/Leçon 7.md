@@ -730,7 +730,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 15. rencontrer  v.t. 遇見
 
     變位（第一組）：
-    
+
         je rencontre
         tu rencontres
         il (elle) rencontre
@@ -757,9 +757,9 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 
     1. savoir + qqch.
 
-    Je connais une fable de La Fontaire.  讀過
+        Je connais une fable de La Fontaire.  讀過
 
-    Je sais une fable de La Fontaire.  通曉、背誦
+        Je sais une fable de La Fontaire.  通曉、背誦
 
     <br />
 
@@ -767,7 +767,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 
     2. savoir + v.  會做……（掌握一種技能）
 
-    Elle sait parler trois langues.
+        Elle sait parler trois langues.
 
-    Alice a quatre ans, mais elle sait déjà lire et écrire.
+        Alice a quatre ans, mais elle sait déjà lire et écrire.
 
