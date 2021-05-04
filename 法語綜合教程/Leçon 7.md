@@ -730,6 +730,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 15. rencontrer  v.t. 遇見
 
     變位（第一組）：
+    
         je rencontre
         tu rencontres
         il (elle) rencontre
@@ -746,6 +747,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 22. savoir v.t. 知道
 
     變位（第三組）：
+
         je sais
         tu sais
         il (elle) sait
