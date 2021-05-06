@@ -1,6 +1,6 @@
 # Grammaire
 
-## Les articles définis et indéfinis (定冠詞與不定冠詞)
+## Les articles définis et indéfinis （定冠詞與不定冠詞）
 
 ### 構成
 
@@ -339,10 +339,6 @@
     描述人一般先說身高再說身材：
 
         Il est petit et gros.
-
-    主導地位的形容詞在前：
-
-        
 
 
 # Dialogue
