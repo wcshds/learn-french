@@ -13,7 +13,7 @@
             <td>
                 singulier
             </td>
-            <td>
+            <td style="text-align: center;">
                 je
             </td>
         </tr>
