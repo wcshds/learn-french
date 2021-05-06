@@ -4,7 +4,7 @@
 
 ### 構成
 
-<table style="text-align: center;">
+<table style="text-align: center; ">
     <tbody>
         <tr>
             <td rowspan="2">
