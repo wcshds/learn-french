@@ -114,3 +114,49 @@ Elles regardent des photos.
 3. Combien êtes-vous dans la famille ?  - Nous sommes quatre dans la famille.
 
 4. \- Que font vos parents ?  - Mon père est médecin. Mon mère est actrice.
+
+
+### Vocabulaire
+
+1. une famille  家庭
+2. un âge  年紀
+3. combien  adv. 多少
+
+    1. combien (prix)
+
+        Les roses-là, elles coûtent/ça coûte/c'est combien ? Trois euros la rose.
+
+    2. combien (nombre)
+
+        Combien êtes-vous dans la classe/dans la chambre/dans la famille ?
+
+    3. combien de...
+
+        Combien de livres avez-vous ?
+
+4. des parents  父母
+5. et cetera [ ɛtseteʁa ]  loc.adv. 等等（縮寫爲 etc. ）
+6. originaire  adj. 出生於……
+7. un grand-père  祖父；外祖父
+8. une grand-mère  祖母；外祖母
+9. moi  pron. 我
+10. un frère  兄弟
+11. une sœur  姐妹
+12. non plus  loc.adv. 也不，也沒有
+13. un père  父親
+14. un ingénieur  工程師
+15. une mère  母親
+16. un médecin  醫生
+17. un enfant, une enfant  孩子
+18. unique  adj. 唯一的
+19. un ouvrier, une ouvrière  工人
+20. beaucoup  adv. 許多
+21. vieux, vieil, vieille  adj. 年老的
+22. jeune  adj. 年輕的
+23. un jardin  花園
+24. des affaires  生意
+25. une école  學校
+26. secondaire [ səɡɔ̃dɛʁ ]  adj. 中等的
+27. ne ... jamais  從不
+28. une maison  家
+29. occupé, occupée  adj. 忙碌的
