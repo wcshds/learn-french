@@ -4,15 +4,10 @@
 
 ### 構成
 
-<style>
-    td {
-        text-align: center;
-    }
-</style>
 <table>
     <tbody>
         <tr>
-            <td rowspan="2">
+            <td rowspan="2" style="text-align: center;">
                  première personne<br />（第一人稱）
             </td>
             <td>
