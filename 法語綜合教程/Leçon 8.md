@@ -97,3 +97,19 @@ Elles regardent des photos.
 
     - Où sont mes lunettes ?
     - Elles sont dans le fauteuil.
+
+
+# Dialogue
+
+### 句型
+
+1. \- D'où venez-vous ?  - Je viens de Shanghai.
+    \- De quelle ville êtes-vous ?  - Je suis de Shanghai.
+
+    de 表示從……來
+
+2. \- Quel âge avez-vous ?  - J'ai 19 ans.
+
+3. Combien êtes-vous dans la famille ?  - Nous sommes quatre dans la famille.
+
+4. \- Que font vos parents ?  - Mon père est médecin. Mon mère est actrice.
