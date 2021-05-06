@@ -104,6 +104,7 @@ Elles regardent des photos.
 ### 句型
 
 1. \- D'où venez-vous ?  - Je viens de Shanghai.
+
     \- De quelle ville êtes-vous ?  - Je suis de Shanghai.
 
     de 表示從……來
