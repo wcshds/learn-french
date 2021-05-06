@@ -334,6 +334,17 @@
     Marc, prêt, va en classe.  （馬克準備好了，他上課去。）
 
 
+4. 多個形容詞的先後順序
+
+    描述人一般先說身高再說身材：
+
+        Il est petit et gros.
+
+    主導地位的形容詞在前：
+
+        
+
+
 # Dialogue
 
 (Joëlle en ligne sur Internet, dans un salon de Chat.)
@@ -723,7 +734,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 11. le sens [ sɑ̃ːs ] de l'humour  幽默感
 12. drôle  adj. 滑稽的
 
-    也可指貶義
+        也可指貶義
 
 13. gai, gaie  adj. 愉快的
 14. amusant, amusante  adj. 風趣的（主要指褒義的）
@@ -763,7 +774,7 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 
     <br />
 
-    Je n'en sais rien.  我不知道有這件事。
+        Je n'en sais rien.  我不知道有這件事。
 
     2. savoir + v.  會做……（掌握一種技能）
 
