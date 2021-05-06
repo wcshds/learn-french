@@ -8,7 +8,7 @@
     <tbody>
         <tr>
             <td rowspan="2">
-                 première personne
+                 première personne<br />（第一人稱）
             </td>
             <td>
                 singulier
@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td rowspan="2">
-                 deuxième personne
+                 deuxième personne<br />（第二人稱）
             </td>
             <td>
                 singulier
@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td rowspan="2">
-                 troisième personne
+                 troisième personne<br />（第三人稱）
             </td>
             <td>
                 singulier
