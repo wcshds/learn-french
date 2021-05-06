@@ -97,6 +97,6 @@ Elles regardent des photos.
 
 *il, ils, elle, elles也可能分別代表指物的陽性或陰性名詞。*
 
-*- Où sont mes lunettes ?*
+    - Où sont mes lunettes ?*
 
-*- Elles sont dans le fauteuil.*
+    - Elles sont dans le fauteuil.*
