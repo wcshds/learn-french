@@ -66,6 +66,8 @@
     </tbody>
 </table>
 
+*注意：*
+
 *1. tu用於親朋好友、同學、同事和熟人之間，如：Tu vas bien ? 其他交際場合一般用vous，如：Vous voulez danser avec moi ?*
 
 *2. 在口語中，「我們、咱們」往往用on表示。on後面的動詞變位用第三人稱單數，同il和elle一樣，如：On y va ! （走吧）*
@@ -91,4 +93,10 @@ Ils cherchent un ami.
 
 Elles regardent des photos.
 
+*注意：*
+
 *il, ils, elle, elles也可能分別代表指物的陽性或陰性名詞。*
+
+*- Où sont mes lunettes ?*
+
+*- Elles sont dans le fauteuil.*
