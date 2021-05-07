@@ -145,6 +145,23 @@
         Leurs parents sont jeunes.
 
 
+## Les verbes du premier groupe（第一組動詞）
+
+法語動詞分爲三組。第一、二組爲規則動詞，第三組爲不規則動詞。
+
+### 構成
+
+第一組動詞有一個識別的標記，即動詞不定式以-er結尾（aller除外）。第一組動詞變位時，去掉不定式詞尾-er，根據人稱分別加上：
+
+    j	-e
+    tu	-es
+    il (elle)	-e
+    nous	-ons
+    vous	-ez
+    ils (elles)	-ent（注意：-ent不發音）
+
+
+
 
 # Dialogue
 
