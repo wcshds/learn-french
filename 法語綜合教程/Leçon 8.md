@@ -377,29 +377,29 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 ### Vocabulaire
 
-1. Thérèse  泰蕾絲
-2. né, née  adj. 出生的
-3. enseigner  v.t. 教
-4. le chinois  漢語
-5. un lycée  高中
-6. donner  v.t. 給；授（課）
-7. sociologie  n.f. 社會學
-8. une université  大學
-9. âgé, âgée  adj. 上了年紀的
-10. quatre-vingt-treize  九十三
-11. quatre-vingt-neuf  八十九
-12. (être) à la retraite  退休
-13. depuis  prép. 自……以來
-14. longtemps  adv. 長久
-15. chaque  adj.indéf. 每個
-16. un jour  天
-17. rentrer  v.i. 返回；回家
-18. par  prép. 每
-19. une semaine  星期
-20. penser à  v.t. ind. 想念
-21. donc  conj. 因此
-22. une petite-fille  孫女；外孫女
-23. alors  adv. 于是
-24. tous  adj. indéf. 所有的
-25. un soir  晚上
-26. faire parler  使開口說話
+1. Thérèse	泰蕾絲
+2. né, née	adj. 出生的
+3. enseigner	v.t. 教
+4. le chinois	漢語
+5. un lycée	高中
+6. donner	v.t. 給；授（課）
+7. sociologie	n.f. 社會學
+8. une université	大學
+9. âgé, âgée	adj. 上了年紀的
+10. quatre-vingt-treize	九十三
+11. quatre-vingt-neuf	八十九
+12. (être) à la retraite	退休
+13. depuis	prép. 自……以來
+14. longtemps	adv. 長久
+15. chaque	adj.indéf. 每個
+16. un jour	天
+17. rentrer	v.i. 返回；回家
+18. par	prép. 每
+19. une semaine	星期
+20. penser à	v.t. ind. 想念
+21. donc	conj. 因此
+22. une petite-fille	孫女；外孫女
+23. alors	adv. 于是
+24. tous	adj. indéf. 所有的
+25. un soir	晚上
+26. faire parler	使開口說話
