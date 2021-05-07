@@ -116,6 +116,35 @@
 | féminin   |        notre classe<br />votre classe<br />leur classe       | nos amies<br />vos amies<br />leurs amies |
 
 
+### 用法
+
+1. 如擁有者爲單數，被限定的名詞也是單數，要根據名詞的陰陽性用mon, ton, son或ma, ta, sa，如：
+
+        Je cherche ma montre.
+        Tu cherches ton manteau.
+        Il cherche sa classe.
+        Elle cherche son dictionnaire.
+
+2. 如擁有者爲單數，被限定的名詞爲複數，用mes, tes, ses，如：
+
+        J'aime mes livres.
+        Tu aimes tes amis.
+        Il aime ses parents.
+        Elle aime ses grands-parents.
+
+3. 如擁有者爲複數，而被限定的名詞是單數，用notre, votre, leur，如：
+
+        Voilà notre chambre.
+        C'est votre université ?
+        Leur professeur arrive à huit heures.
+
+4. 如擁有者爲複數，被限定的名詞也是複數，用nos, vos, leurs，如：
+
+        Nos chambres sont petites.
+        Vos livres sont dans la chambre.
+        Leurs parents sont jeunes.
+
+
 
 # Dialogue
 
