@@ -211,6 +211,32 @@
         ne ... plus（不再）			Mes grands-parents ne travaillent plus.
 
 
+### de在否定句中
+
+1. 在否定句中，de代替直接賓語前的不定冠詞un, une, des，如：
+
+        - Vous avez des frères ? - Non, je n'ai pas de frères.
+        - Vous avez un manteau noir ? - Non, je n'ai pas de manteau noir.
+
+2. 否定句中使用de要注意以下三點：
+
+    1. 看肯定句中的冠詞是否指不確定概念（un, une, des表示不確指概念，le, la, les表示確指概念），如不是，則不可用de：
+
+        肯定式：Marie apprend le français.
+
+        否定式：Pierre n'apprend pas le français.（français前面是定冠詞le，是確指概念，在否定式中不能用de替代）
+
+    2. 看冠詞後面的名詞是否是直接賓語，如不是，則不可用de替代：
+
+        肯定式：C'est un étudiant.
+
+        否定式：Ce n'est pas un étudiant.（un étudiant是表語，而不是直接賓語，否定式中不用de替代）
+
+    3. de用於絕對否定的概念，如不是，就不用de：
+
+            Je n'ai pas une question, j'ai beaucoup de questions.
+            （= Je n'ai pas seulement une question. 不是絕對否定）
+
 
 
 # Dialogue
