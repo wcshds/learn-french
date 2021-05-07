@@ -208,7 +208,7 @@
         ne ... jamais（從不）			Charles ne travailles jamais le dimanche.
         ne ... rien（什麽也不）			Monica ne fait rien le dimanche.
         ne ... pas du tout（一點兒也不）	Georges n'est pas du tout gentil.
-        ne ... plus（不再）				Mes grands-parents ne travaillent plus.
+        ne ... plus（不再）			Mes grands-parents ne travaillent plus.
 
 
 
