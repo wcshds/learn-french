@@ -137,12 +137,27 @@ Elles regardent des photos.
 4. des parents  父母
 5. et cetera [ ɛtseteʁa ]  loc.adv. 等等（縮寫爲 etc. ）
 6. originaire  adj. 出生於……
+
+    1. être originaire de + lieu
+
+            Exp. Marie est originaire de Paris.
+            La famille de Paul est originaire de Lille.
+            La fondue est originaire de Suisse.  這種火鍋原産於瑞士。
+
+    2. être d'origine + adj.  出身，血統
+
+            Exp. Il est d'origine franâise.
+            Charlize Theron est américaine. Elle est d'origine africaine.
+
 7. un grand-père  祖父；外祖父
 8. une grand-mère  祖母；外祖母
 9. moi  pron. 我
 10. un frère  兄弟
 11. une sœur  姐妹
 12. non plus  loc.adv. 也不，也沒有
+
+    
+
 13. un père  父親
 14. un ingénieur  工程師
 15. une mère  母親
