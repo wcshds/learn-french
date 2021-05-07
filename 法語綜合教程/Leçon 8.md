@@ -266,9 +266,9 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 ### Vocabulaire
 
-1. une famille  家庭
-2. un âge  年紀
-3. combien  adv. 多少
+1. une famille&emsp;&emsp;家庭
+2. un âge&emsp;&emsp;年紀
+3. combien&emsp;&emsp;adv. 多少
 
     1. combien (prix)
 
@@ -282,9 +282,9 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
             Combien de livres avez-vous ?
 
-4. des parents  父母
-5. et cetera [ ɛtseteʁa ]  loc.adv. 等等（縮寫爲 etc. ）
-6. originaire  adj. 出生於……
+4. des parents&emsp;&emsp;父母
+5. et cetera [ ɛtseteʁa ]&emsp;&emsp;loc.adv. 等等（縮寫爲 etc. ）
+6. originaire&emsp;&emsp;adj. 出生於……
 
     1. être originaire de + lieu
 
@@ -297,27 +297,27 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
             Exp. Il est d'origine franâise.
             Charlize Theron est américaine. Elle est d'origine africaine.
 
-7. un grand-père  祖父；外祖父
-8. une grand-mère  祖母；外祖母
-9. moi  pron. 我
-10. un frère  兄弟
-11. une sœur  姐妹
-12. non plus  loc.adv. 也不，也沒有
+7. un grand-père&emsp;&emsp;祖父；外祖父
+8. une grand-mère&emsp;&emsp;祖母；外祖母
+9. moi&emsp;&emsp;pron. 我
+10. un frère&emsp;&emsp;兄弟
+11. une sœur&emsp;&emsp;姐妹
+12. non plus&emsp;&emsp;loc.adv. 也不，也沒有
 
         - Je n'aime pas le café, et toi ? - Moi non plus.
         «Elle ne parlait pas, Charles non plus.» (Flaubert, Madame Bovary)
         Mon frère et moi, nous n'aimons pas le rock. Nous n'aimons pas le rap non plus.
         (Nous n'aimons ni le rock ni le rap.)
 
-13. un père  父親
-14. un ingénieur  工程師
-15. une mère  母親
-16. un médecin  醫生
-17. un enfant, une enfant  孩子
-18. unique  adj. 唯一的
-19. un ouvrier, une ouvrière  工人
-20. beaucoup  adv. 許多
-21. vieux, vieil, vieille  adj. 年老的
+13. un père&emsp;&emsp;父親
+14. un ingénieur&emsp;&emsp;工程師
+15. une mère&emsp;&emsp;母親
+16. un médecin&emsp;&emsp;醫生
+17. un enfant, une enfant&emsp;&emsp;孩子
+18. unique&emsp;&emsp;adj. 唯一的
+19. un ouvrier, une ouvrière&emsp;&emsp;工人
+20. beaucoup&emsp;&emsp;adv. 許多
+21. vieux, vieil, vieille&emsp;&emsp;adj. 年老的
 
         陽性單數：
             vieux : un vieux chauffeur
@@ -330,22 +330,22 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
             vieilles : des vieilles chansons
 
 
-22. jeune  adj. 年輕的
-23. un jardin  花園
+22. jeune&emsp;&emsp;adj. 年輕的
+23. un jardin&emsp;&emsp;花園
 24. affaire
 
-    1. affaire(s)  事，事情
+    1. affaire(s)&emsp;&emsp;事，事情
 
             Exp. une affaire urgente
             C'est mon affaire.  這是我的事。(It's my business.)
 
-    2. affaires  生意
+    2. affaires&emsp;&emsp;生意
 
             C'est un homme d'affaires.  這是個商人。
             Je suis désolé, mais les affaires sont les affaires.  公事公辦。
             Range tes affaires !
 
-25. une école  學校
+25. une école&emsp;&emsp;學校
 
     école maternelle  幼兒園
 
@@ -355,21 +355,21 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
     université/les grandes écoles
 
-26. secondaire [ səɡɔ̃dɛʁ ]  adj. 中等的
-27. ne ... jamais  從不
+26. secondaire [ səɡɔ̃dɛʁ ]&emsp;&emsp;adj. 中等的
+27. ne ... jamais&emsp;&emsp;從不
 
         Tous les jours, Clémence va à l'école à sept heures et demie et elle n'est jamais en retard.
         Il ne parle jamais de sa famille.
         Julien ne répond jamais aux questions de son professeur.
 
-28. une maison  家，房子
+28. une maison&emsp;&emsp;家，房子
 
         Les Duparc habitent dans une maison au bord de la mer.
         Ils ont une maison de compagne/de vacances.
         Sa grand-mère est dans une maison de retraite.  他的祖母在養老院。
         Sophie est triste, parce que son mari n'est jamais à la maison.
 
-29. occupé, occupée  adj. 忙碌的
+29. occupé, occupée&emsp;&emsp;adj. 忙碌的
 
 
 # Texte
