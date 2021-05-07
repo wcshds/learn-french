@@ -153,8 +153,8 @@
 
 第一組動詞有一個識別的標記，即動詞不定式以-er結尾（aller除外）。第一組動詞變位時，去掉不定式詞尾-er，根據人稱分別加上：
 
-    je				-e
-    tu				-es
+    je			-e
+    tu			-es
     il (elle)		-e
     nous			-ons
     vous			-ez
