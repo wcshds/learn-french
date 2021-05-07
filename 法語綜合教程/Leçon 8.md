@@ -174,6 +174,43 @@
     manger : nous mangeons			commencer : nous commençons
 
 
+### 及物動詞和不及物動詞
+
+動詞是連接主語、賓語的橋梁，是組織語句的關鍵成分，在語言交際中起着至關重要的作用。法語中，動詞分及物動詞和不及物動詞。
+
+1. 及物動詞又須細分爲：
+
+    1. 直接及物動詞（動詞 + 賓語），如：
+
+            Je cherche mon portable. （我找我的手機。）
+
+    2. 間接及物動詞（動詞 + 介詞 + 賓語），如：
+
+            Je parle de ma famille. （我談我的家庭。）
+
+2. 不及物動詞後面不跟賓語，如：
+
+        Je travaille. （我在學習。 / 我在工作。）
+
+
+## La négation（否定式）
+
+1. 法語否定式的基本結構是「ne + 變位動詞 + pas」，如：
+
+        Je ne sais pas.
+
+    如果動詞以元音字母或啞音h開始，ne要省音，寫成n'，如：
+
+        Je n'aime pas ça.
+
+2. 否定式中的pas還可以被另一些否定詞替代：
+
+        ne ... jamais（從不）			Charles ne travailles jamais le dimanche.
+        ne ... rien（什麽也不）			Monica ne fait rien le dimanche.
+        ne ... pas du tout（一點兒也不）	Georges n'est pas du tout gentil.
+        ne ... plus（不再）				Mes grands-parents ne travaillent plus.
+
+
 
 
 # Dialogue
