@@ -73,6 +73,25 @@
 *2. 在口語中，「我們、咱們」往往用on表示。on後面的動詞變位用第三人稱單數，同il和elle一樣，如：On y va ! （走吧）*
 
 
+### 用法
+
+主語人稱代詞代表說話或做行爲動作的人：
+
+    Je suis étudiant.
+    Tu as un ordinateur ?
+    Il travaille dans la classe.
+    Elle arrive à huit heures.
+    Nous parlons français.
+    Vous aimez la musique ?
+    Ils cherchent un ami.
+    Elles regardent des photos.
+
+*注意：il, ils, elle, elles也可能分別代表指物的陽性或陰性名詞。*
+
+    - Où sont mes lunettes ?
+    - Elles sont dans le fauteuil.
+
+
 ## Les adjectifs possessifs（主有形容詞）
 
 主有形容詞放在名詞前，說明所有或領屬關係。主有形容詞必須與**所限定的名詞**性、數一致。
@@ -86,11 +105,9 @@
 
 *注意：在以元音或啞音h開頭的陰性名詞前*
 
-*ma -> mon   Exp. mon université*
-
-*ta -> ton   Exp. ton amie*
-
-*sa -> son   Exp. son école*
+    ma -> mon   Exp. mon université
+    ta -> ton   Exp. ton amie
+    sa -> son   Exp. son école
 
 **表二（我們的，你們的，他/她們的）**
 |           |                          singulier                           |                   pluriel                 |
@@ -98,31 +115,6 @@
 | masculin  | notre professeur<br />votre professeur<br />leur professeur  |   nos amis<br />vos amis<br />leurs amis  |
 | féminin   |        notre classe<br />votre classe<br />leur classe       | nos amies<br />vos amies<br />leurs amies |
 
-
-### 用法
-
-主語人稱代詞代表說話或做行爲動作的人：
-
-Je suis étudiant.
-
-Tu as un ordinateur ?
-
-Il travaille dans la classe.
-
-Elle arrive à huit heures.
-
-Nous parlons français.
-
-Vous aimez la musique ?
-
-Ils cherchent un ami.
-
-Elles regardent des photos.
-
-*注意：il, ils, elle, elles也可能分別代表指物的陽性或陰性名詞。*
-
-    - Où sont mes lunettes ?
-    - Elles sont dans le fauteuil.
 
 
 # Dialogue
