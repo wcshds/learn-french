@@ -164,6 +164,14 @@
 
     donner : je donne, tu donnes, il (elle) donne,
     	nous donnons, vous donnez, ils (elles) donnent
+    rentrer : je rentre, tu rentres, il (elle) rentre,
+    	nous rentrons, vous rentrez, ils (elles) rentrent
+    travailleur : je travaille, tu travailles, il (elle) travaille,
+    	nous travaillons, vous travaillez, ils (elles) travaillent
+
+*注意：動詞不定式以-ger, -cer結尾的第一組動詞在變位時，第一人稱複數（nous）的詞形稍有變化，如：*
+
+    manger : nous mangeons			commencer : nous commençons
 
 
 
