@@ -85,8 +85,11 @@
 | féminin   |   ma mère<br />ta mère<br />sa mère   |    mes amies<br />tes amies<br />ses amies    |
 
 *注意：在以元音或啞音h開頭的陰性名詞前*
+
 *ma -> mon   Exp. mon université*
+
 *ta -> ton   Exp. ton amie*
+
 *sa -> son   Exp. son école*
 
 **表二（我們的，你們的，他/她們的）**
