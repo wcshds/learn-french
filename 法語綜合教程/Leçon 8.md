@@ -163,7 +163,7 @@
 如：
 
     donner : je donne, tu donnes, il (elle) donne,
-    		nous donnons, vous donnez, ils (elles) donnent
+    	nous donnons, vous donnez, ils (elles) donnent
 
 
 
