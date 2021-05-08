@@ -520,7 +520,7 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
         vous apprenez
         ils (elles) aprennent
 
-    1. apprendre qqch. （指學習一項技能）
+    1. apprendre qqch.&emsp;&emsp;（指學習一項技能）
 
             Exp. Nous apprenons le français depuis un mois.
 
@@ -529,6 +529,6 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
             étuidier le droit, la médecine
 
 
-    2. apprendre à + v.
+    2. apprendre à + v.&emsp;&emsp;（指學習一項技能）
 
             Exp. apprendre à lire（識字）, à écrire（寫字）, à marcher（走路）, à conduire（開車）, à nager（游泳）
