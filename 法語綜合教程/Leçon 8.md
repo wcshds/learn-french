@@ -434,7 +434,7 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 14. longtemps&emsp;&emsp;adv. 長久
 
-        depuis longtemps		長久以來
+        depuis longtemps	長久以來
 
 15. chaque&emsp;&emsp;adj.indéf. 每個
 16. un jour&emsp;&emsp;天
