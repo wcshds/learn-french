@@ -532,3 +532,12 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
     2. apprendre à + v.&emsp;&emsp;（指學習一項技能）
 
             Exp. apprendre à lire（識字）, à écrire（寫字）, à marcher（走路）, à conduire（開車）, à nager（游泳）
+
+    3. apprendre qqch. à qn.&emsp;&emsp;（指教授一項技能）
+
+            Exp. Madame Lane apprend le français aux étudiants.
+
+    4. apprendre à qn. à + v.&emsp;&emsp;（指教授一項技能）
+
+            Exp. Monsieur Lavigne apprend à son fils à conduire.
+            Madame Savatovsky apprend à sa petite fille à écrire.
