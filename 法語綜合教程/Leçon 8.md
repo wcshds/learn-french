@@ -381,6 +381,7 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 2. né, née&emsp;&emsp;adj. 出生的
 
         être né(e) à Shanghai
+        être né(e) dans la province du Liaoning
 
 3. enseigner&emsp;&emsp;v.t. 教
 
@@ -437,14 +438,74 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
         depuis longtemps	長久以來
 
 15. chaque&emsp;&emsp;adj.indéf. 每個
+
+    1. chaque + temps
+
+            Exp. Chaque année, les Duparc vont à la montagne.
+            Ils vont au cinéma chaque semaine.
+            Il vient chaque samedi/tous les samedis/le samedi.
+
+    2. chaque + personne
+
+            Exp. Chaque professeur pose une question à Jacque.
+            Derrière chaque grand homme, il y a une femme.
+
+    3. chaque + chose
+
+            Exp. Chaque pays a ses propres traditions.
+
+
+
 16. un jour&emsp;&emsp;天
 17. rentrer&emsp;&emsp;v.i. 返回；回家
+
+        Après la classe, Sophie ne rentre pas dans sa chambre. Elle va à la bibliothèque.
+        Le professeur rentre dans son bureau
+        Le père d'Amélie travaille beaucoup. Il rentre à la maison (chez lui) à 22 heures。
+        Que faites-vous après la conférence ? Je rentre chez moi.
+
 18. par&emsp;&emsp;prép. 每
+
+    ... fois par + une période
+
+        Exp. Le bébé mange cinq fois par jour.
+        Thérèse téléphone à sa grand-mère une fois par jour.
+        Adèle rentre à la maison une fois par semaine.
+        Les Durand vont au théâtre deux fois par an.
+
 19. une semaine&emsp;&emsp;星期
 20. penser à&emsp;&emsp;v.t. ind. 想念
+
+    1. penser à qqch./qn./+ v.
+
+            Exp. Je pense à toi.
+            Tu habites à l'université. Tes parents pensent beaucoup à toi.
+            Les étudiants pensent déjà aux vacances d'hiver.  學生已經心心念念寒假了。
+            Pense à prendre le parapluie. Il pleut.  記得帶傘。下雨了。
+
+    2. penser de qqch./qn.  (相當於think of)
+
+            Exp. - Qu'est-ce que tu penses de Marc ? - Il est gentil.
+
 21. donc&emsp;&emsp;conj. 因此
 22. une petite-fille&emsp;&emsp;孫女；外孫女
+
+        C'est sa petite-fille.  這是他的（外）孫女。
+        C'est une petite fille.  這是一個小女孩。
+        C'est son petit-fils.  這是他的孫子（外孫）。
+        C'est un garçon.  這是一個男孩。
+
+
 23. alors&emsp;&emsp;adv. 于是
 24. tous&emsp;&emsp;adj. indéf. 所有的
+
+        tous les jours
+        tous les lundis
+        tous les matins
+        tous les soirs
+        tous les après-midis
+
+    *注意：一般不說tous les semaines*
+
 25. un soir&emsp;&emsp;晚上
 26. faire parler&emsp;&emsp;使開口說話
