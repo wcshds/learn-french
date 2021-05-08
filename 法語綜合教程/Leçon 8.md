@@ -373,7 +373,7 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 
 # Texte
-Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professeurs. Ses parents sont professeurs, ses grands-parents sont professeur aussi. Sa mère enseigne le chinois au lycée. Son père donne des cours de sociologie à l'université. Ses grands-parents sont âges. Son grand-père a quatre-vingt-treize ans, et sa grand-mère, quatre-vingt-neuf ans. Ils sont à la retraite depuis longtemps. Mais vous savez, ils parlent français, les grands-parents de Thérèse ! Chaque jour, ils apprennent à Thérèse à parler français. Maintenant, Thérèse entre à l'université. Elle rentre à la maison seulement une fois par semaine. Les grands-parents pensent donc beaucoup à leur petite-fille. Alors, ils téléphonent tous les soirs pour faire parler français à Thérèse.
+Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professeurs. Ses parents sont professeurs, ses grands-parents sont professeur, eux aussi. Sa mère enseigne le chinois au lycée. Son père donne des cours de sociologie à l'université. Ses grands-parents sont âges. Son grand-père a quatre-vingt-treize ans, et sa grand-mère, quatre-vingt-neuf ans. Ils sont à la retraite depuis longtemps. Mais vous savez, ils parlent français, les grands-parents de Thérèse ! Chaque jour, ils apprennent à Thérèse à parler français. Maintenant, Thérèse entre à l'université. Elle rentre à la maison seulement une fois par semaine. Les grands-parents pensent donc beaucoup à leur petite-fille. Alors, ils téléphonent tous les soirs pour faire parler français à Thérèse.
 
 ### Vocabulaire
 
@@ -509,3 +509,26 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
 
 25. un soir&emsp;&emsp;晚上
 26. faire parler&emsp;&emsp;使開口說話
+27. apprendre&emsp;&emsp;v.t. 學習
+
+    變位（第三組）：
+
+        j'apprends
+        tu apprends
+        il (elle) apprend
+        nous apprenons
+        vous apprenez
+        ils (elles) aprennent
+
+    1. apprendre qqch. （指學習一項技能）
+
+            Exp. Nous apprenons le français depuis un mois.
+
+        學習一門專業用étudier
+
+            étuidier le droit, la médecine
+
+
+    2. apprendre à + v.
+
+            Exp. apprendre à lire（識字）, à écrire（寫字）, à marcher（走路）, à conduire（開車）, à nager（游泳）
