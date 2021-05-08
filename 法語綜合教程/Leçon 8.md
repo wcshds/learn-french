@@ -379,18 +379,63 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 1. Thérèse&emsp;&emsp;泰蕾絲
 2. né, née&emsp;&emsp;adj. 出生的
+
+        être né(e) à Shanghai
+
 3. enseigner&emsp;&emsp;v.t. 教
+
+    1. enseigner + une discipline
+
+            Exp. Madame Lane enseigne les maths dans un collège.(au collège)
+
+    2. un enseignant, une enseignante&emsp;&emsp;教師（範圍比professeur大）
+
+            Il est enseignant. Elle est enseignante.
+
+
 4. le chinois&emsp;&emsp;漢語
 5. un lycée&emsp;&emsp;高中
 6. donner&emsp;&emsp;v.t. 給；授（課）
+
+    donner qqch. (à qn.)
+
+        Exp. Madame Green donne des cours d'anglais aux étudiants de première année.
+        Le professeur va donner une conférence sur la littérature française.  老師做一個關於法國文學的講座。
+        Marc donne un cadeau d'anniversaire à son amie Joëlle.  Marc給他的朋友Joëlle一個生日禮物。
+
 7. sociologie&emsp;&emsp;n.f. 社會學
 8. une université&emsp;&emsp;大學
 9. âgé, âgée&emsp;&emsp;adj. 上了年紀的
+
+        un homme âgé
+        une dame âgée
+        les personnes âgées  （注意personne是個陰性詞）
+
+    是比vieux更有禮貌的說法：une vieille femme
+
 10. quatre-vingt-treize&emsp;&emsp;九十三
 11. quatre-vingt-neuf&emsp;&emsp;八十九
 12. (être) à la retraite&emsp;&emsp;退休
 13. depuis&emsp;&emsp;prép. 自……以來
+
+    1. depuis + temps（一段時間或時間的起點）
+
+            Exp. Il pleut depuis huit jours/quinze jours.  雨下了一週/兩週。（這裡huit jours/quinze jours 表示一週/兩週）
+            Il pleut depuis deux semaines.
+            - Depuis quand êtes-vous là ? - Depuis mardi.
+
+    2. depuis + lieu
+
+            Exp. Les Pyrénées s'étendent depuis l'Atlantique jusqu'à la Méditerranée.
+
+    3. depui que ...
+
+            Exp. Depuis qu'il fait froid, je ne quitte plus la maison.
+
 14. longtemps&emsp;&emsp;adv. 長久
+
+        depuis longtemps		長久以來
+
 15. chaque&emsp;&emsp;adj.indéf. 每個
 16. un jour&emsp;&emsp;天
 17. rentrer&emsp;&emsp;v.i. 返回；回家
