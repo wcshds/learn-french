@@ -373,7 +373,7 @@ Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous s
 
 
 # Texte
-
+Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professeurs. Ses parents sont professeurs, ses grands-parents sont professeur aussi. Sa mère enseigne le chinois au lycée. Son père donne des cours de sociologie à l'université. Ses grands-parents sont âges. Son grand-père a quatre-vingt-treize ans, et sa grand-mère, quatre-vingt-neuf ans. Ils sont à la retraite depuis longtemps. Mais vous savez, ils parlent français, les grands-parents de Thérèse ! Chaque jour, ils apprennent à Thérèse à parler français. Maintenant, Thérèse entre à l'université. Elle rentre à la maison seulement une fois par semaine. Les grands-parents pensent donc beaucoup à leur petite-fille. Alors, ils téléphonent tous les soirs pour faire parler français à Thérèse.
 
 ### Vocabulaire
 
