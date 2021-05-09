@@ -9,7 +9,7 @@
 <table>
     <tbody>
         <tr>
-            <td colspan="2">
+            <td rowspan="2">
                 de
             </td>
             <td>
@@ -24,7 +24,7 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td rowspan="2">
                 à
             </td>
             <td>
