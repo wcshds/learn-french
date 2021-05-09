@@ -14,12 +14,16 @@
             </td>
             <td>
                 de + le = du
-                <br />
-                de + les = des
             </td>
             <td>
                 Elle rentre du lycée.
-                <br />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                de + les = des
+            </td>
+            <td>
                 Le professeur est content des étudiants.
             </td>
         </tr>
@@ -28,11 +32,17 @@
                 à
             </td>
             <td>
-                à + le = au<br />à + les = aux
+                à + le = au
             </td>
             <td>
                 Je vais au supermarché
-                <br />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                à + les = aux
+            </td>
+            <td>
                 Il donne des cours aux étudiants.
             </td>
         </tr>
