@@ -132,7 +132,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 2. un tapis&emsp;&emsp;地毯
 
-3. une armoire&emsp;&emsp;衣柜
+3. une armoire&emsp;&emsp;衣櫃
 
 4. un bureau&emsp;&emsp;書桌
 
