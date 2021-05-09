@@ -109,7 +109,7 @@
     ta -> ton   Exp. ton amie
     sa -> son   Exp. son école
 
-**表二（我們的，你們的，他/她們的）**
+**表二（我們的，你們（您）的，他/她們的）**
 |           |                          singulier                           |                   pluriel                 |
 | :-------: | :----------------------------------------------------------: | :---------------------------------------: |
 | masculin  | notre professeur<br />votre professeur<br />leur professeur  |   nos amis<br />vos amis<br />leurs amis  |
@@ -245,7 +245,7 @@
 
 Marc : Je viens de Changchun, mais ma famille est originaire de Kunming. J'ai dix-neuf ans. Nous sommes cinq dans la famille : mon grand-père, ma grand-mère, mes parents et moi. Je n'ai pas de frère. Je n'ai pas de sœur non plus. Mon père est ingénieur, ma mère est médecin.
 
-Joëlle : Je suis de Hangzhou. J'ai dix-huit dans. Nous sommes trois dans la famille : mon père, ma mère et moi. Je suis enfant unique, moi aussi. Mes parents sont ouvriers. Ils travaillent beaucoup. Ils ne sont pas très vieux, mais ils ne sont pas jeunes non plus.
+Joëlle : Je suis de Hangzhou. J'ai dix-huit ans. Nous sommes trois dans la famille : mon père, ma mère et moi. Je suis enfant unique, moi aussi. Mes parents sont ouvriers. Ils travaillent beaucoup. Ils ne sont pas très vieux, mais ils ne sont pas jeunes non plus.
 
 Philippe : Je suis de Suzhou. C'est une ville de jardins. J'ai vingt ans. Nous sommes quatre dans la famille : mon père, ma mère, ma sœur et moi. Mon père est homme d'affaires. (OU Mon père est dans les affaires.) ; ma mère ne travaille pas ; ma sœur va à l'école secondaire. Mes parents sont gentils. Mais mon père, il n'est jamais à la maison. Il est toujours occupé. Ma mère, elle est toujours à la maison, et elle est toujours occupée !
 
