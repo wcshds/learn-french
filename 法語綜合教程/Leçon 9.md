@@ -93,11 +93,11 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 2. une salle de séjour/un grand séjour(客廳，包括飯廳)
 
-(= un salon + une salle à manger)
+    (= un salon + une salle à manger)
 
-un séjour avec espace salle à manger
+    un séjour avec espace salle à manger
 
-un séjour avec une cuisine intégrée ouverte sur une salle à manger
+    un séjour avec une cuisine intégrée ouverte sur une salle à manger
 
 3. une salle de bains&emsp;&emsp;浴室
 
@@ -118,9 +118,9 @@ un séjour avec une cuisine intégrée ouverte sur une salle à manger
 <br />
 **句型**
 
-1. - Combien de pièces y a-t-il dans l'appartement ?
+1. \- Combien de pièces y a-t-il dans l'appartement ?
 
-   - Il y a ... pièces : ...
+   \- Il y a ... pièces : ...
 
 2. C'est un appartement de ... pièces.
 
@@ -154,9 +154,9 @@ un séjour avec une cuisine intégrée ouverte sur une salle à manger
 
 **句型**
 
-1. Combien de mètres carrés mesure la chambre ?
+1. \- Combien de mètres carrés mesure la chambre ?
 
-    Elle mesure ... mètres carrés.
+    \- Elle mesure ... mètres carrés.
 
 2. Qu'est-ce qu'il y a dans la chambre ?
 
