@@ -38,3 +38,13 @@
         </tr>
     </tbody>
 </table>
+
+*注意：*
+1. à, de和la, l'相遇時，保持原來的形式，如：
+
+        à + la : Thérèse rentre à la maison.
+        à + l' : Joëlle parle à l'employé de banque.
+        de + la : Il vient de la classe.
+        de + l' : Elle ne connaît pas tous les professeurs de l'école.
+
+2. 要分清des的詞性，明確是不定冠詞還是縮合冠詞。
