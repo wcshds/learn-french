@@ -67,15 +67,15 @@ Il y a的否定式是il n'y a pas。不定式後面的名詞前用介詞de，不
 
 1. 用肯定句的形式，語調上升：
 
-    Il y a un bureau dans ta chambre ?
+        Il y a un bureau dans ta chambre ?
 
 2. est-ce que + 肯定句：
 
-    Est-ce qu'il y a un bureau dans ta chambre ?
+        Est-ce qu'il y a un bureau dans ta chambre ?
 
 3. 主謂語倒置
 
-    Y a-t-il un bureau dans ta chambre ?  （y a和il之間加-t-，是爲便於發音的緣故）
+        Y a-t-il un bureau dans ta chambre ?  （y a和il之間加-t-，是爲便於發音的緣故）
 
 
 **用combien提問：**
