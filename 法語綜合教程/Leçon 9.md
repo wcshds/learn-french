@@ -87,6 +87,92 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
     Combien de bureaux est-ce qu'il y a dans votre chambre ?
 
 
+## Les pronoms personnels compléments d'objet directs（直接賓語人稱代詞）
+
+直接賓語人稱代詞代替前面提到過的名詞。
+
+### 構成和用法
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="3">
+                singulier
+            </td>
+            <td>
+                première personne
+            </td>
+            <td>
+                me
+            </td>
+            <td>
+                Elle me regarde.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                deuxième personne
+            </td>
+            <td>
+                te
+            </td>
+            <td>
+                Il t'appelle.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                troisième personne
+            </td>
+            <td>
+                le / la
+            </td>
+            <td>
+                Je le connais.
+                <br/>
+                Je la connais.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                pluriel
+            </td>
+            <td>
+                première personne
+            </td>
+            <td>
+                nous
+            </td>
+            <td>
+                Ils nous cherchent.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                deuxième personne
+            </td>
+            <td>
+                vous
+            </td>
+            <td>
+                Nous vous attendons.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                troisième personne
+            </td>
+            <td>
+                les
+            </td>
+            <td>
+                Tu les aimes ?
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 # Dans un appartement（公寓裡不同房間的叫法）
 
 1. une chambre&emsp;&emsp;房間
