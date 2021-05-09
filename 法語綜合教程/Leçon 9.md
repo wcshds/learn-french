@@ -96,7 +96,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 <table>
     <tbody>
         <tr>
-            <td colspan="3">
+            <td rowspan="3">
                 singulier
             </td>
             <td>
@@ -134,7 +134,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
             </td>
         </tr>
         <tr>
-            <td colspan="3">
+            <td rowspan="3">
                 pluriel
             </td>
             <td>
