@@ -379,11 +379,29 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
         ils (elles) répondent
 
 16. eh bien&emsp;&emsp;interj. 語氣詞
+
+    （表示停頓）
+
 17. un lit&emsp;&emsp;牀
 18. un bureau&emsp;&emsp;書桌
 19. une chaise&emsp;&emsp;椅子
 20. une armoire&emsp;&emsp;衣櫃
 21. assez&emsp;&emsp;adv. 相當；足夠
+
+    1. assez + adj./adv.
+            
+            1. 相當：
+                Je trouve ma chambre aassez grande/petite.
+                Elle est assez jolie.
+            2. 足夠(assez ... pour ...)
+                Il est assez grand pour faire du vélo.
+                Il parle assez fort pour qu'on l'entende.（他說話足夠響，我們能聽見他講話。）
+
+    2. assez de ...
+
+            Exp. Les Duparc ont assez d'argent pour faire un voyage en Égypte.
+            Il n'y a pas assez d'huile dans la salade.
+
 22. une place&emsp;&emsp;空間，地方
 23. mettre&emsp;&emsp;v.t. 放
 24. des affaires&emsp;&emsp;個人物品
