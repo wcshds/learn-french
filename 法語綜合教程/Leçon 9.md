@@ -305,11 +305,59 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 # Dialogue
 
+(La grand-mère de Thérèse l'appelle sur son portable.)
+
+Thérèse : Allô !
+
+Grand-mère : Allô ! Thérèse, c'est mamie.
+
+T : Bonjour, mamie.
+
+Gr : Bonjour, ma petite. Tu es bien installée dans ton dortoir ?
+
+T : Oui, mamie.
+
+Gr : Et ta chambre, tu la trouves comment ?
+
+T : Je la trouve très bien : claire et propre.
+
+Gr : Elle est grande ou petite ?
+
+T : Ni grande ni petite, elle mesure environ 17 m<sup>2</sup>(mètres carrés).
+
+Gr : Vous êtes combien dans la chambre ?
+
+T : Nous sommes quatre : Joëlle, Martine, Nathalie et moi.
+
+Gr : Elles sont gentilles ?
+
+T : Oui, je les trouve sympathiques.
+
+Gr : Et qu'est-ce qu'il y a dans ta chambre ?
+
+T : Eh bien, il y a quatre lits, quatre bureaux, quatre chaises et quatre armoirs.
+
+Gr : Est-ce que tu as assez de place pour mettre tes affaires ?
+
+T : Oui, mamie.
+
+Gr : Est-ce que tu les ranges bien, tes affaires ?
+
+T : Oui, mamie.
+
+Gr : Tu comprends, Thérèse, une armoire, ce n'est pas une poubelle, hein ?
+
+T : Oh, ça va ça va, mamie !
+
+Gr : Allez, je raccroche. À demain, Thérèse, je t'embrasse.
+
+T : À demain, mamie. Au revoir.
+
 ### Vocabulaire
 
 1. appeler&emsp;&emsp;v.t. 打電話；叫
 
-    變位（第三組）：
+    變位（第一組，注意l的數量）：
 
         j'appelle
         tu appelles
@@ -393,20 +441,68 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
             1. 相當：
                 Je trouve ma chambre aassez grande/petite.
                 Elle est assez jolie.
-            2. 足夠(assez ... pour ...)
+
+            2. 足夠(assez ... pour ...)：
                 Il est assez grand pour faire du vélo.
                 Il parle assez fort pour qu'on l'entende.（他說話足夠響，我們能聽見他講話。）
 
-    2. assez de ...
+    2. assez de ...&emsp;&emsp;足夠
 
             Exp. Les Duparc ont assez d'argent pour faire un voyage en Égypte.
             Il n'y a pas assez d'huile dans la salade.
 
-22. une place&emsp;&emsp;空間，地方
+22. place
+
+    une place 作可數名詞講時表示「廣場」
+
+        la place de l'étoile	星形廣場
+
+    作不可數名詞講時表示「空間，地方」
+
 23. mettre&emsp;&emsp;v.t. 放
+
+    變位（第三組）：
+
+        je mets
+        tu mets
+        il (elle) met
+        nous mettons
+        vous mettez
+        ils (elles) mettent
+
+    1. mettre qch. + prép. + endroit
+
+            Exp. Isabelle met ses affaires dans l'armoire.
+            Il met du sucre dans le café.
+            Je mets mon ordinateur sur le bureau.
+
+    2. mettre + vêtement(s)
+
+            Exp. mettre un manteau/une cravate（領帶）/un collier（項鏈）/une bague（戒指）/du rouge à lèvres（口紅）/du parfum（香水）
+
+    3. mettre + un certain temps à v.&emsp;&emsp;花費一段時間
+
+            Exp. Je mets une heure et demie à aller à l'ècole.
+
 24. des affaires&emsp;&emsp;個人物品
 25. ranger&emsp;&emsp;v.t. 整理
 26. comprendre&emsp;&emsp;v.t. 懂，理解
+
+    變位（第三組）：
+
+        je comprends
+        tu comprends
+        il (elle) comprend
+        nous comprenons
+        vous comprenez
+        ils (elles) comprennent
+
+    * comprendre qn/qch.
+
+        Exp. Vous comprenez ma question ?
+        Tu comprend tes parents ?
+
 27. une poubelle&emsp;&emsp;垃圾箱
-28. raccrocher&emsp;&emsp;v.i. 掛斷電話
-29. embrasser&emsp;&emsp;v.t. 擁抱；親吻
+28. hein&emsp;&emsp;語氣詞
+29. raccrocher&emsp;&emsp;v.i. 掛斷電話
+30. embrasser&emsp;&emsp;v.t. 擁抱；親吻
