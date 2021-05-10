@@ -322,6 +322,17 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 
 2. installé, installée&emsp;&emsp;安頓好的
+
+    動詞原型 installer
+
+    1. installer qn. / qqch.&emsp;&emsp;把某人安頓好/安裝設備
+
+            Exp. Il a installé sa famille à Paris.
+            Pierre est malade. Il faut l'installer dans son lit.
+            Les étudiants sont bien installés à la cité universitaire.(cité U).
+
+            Les Durand ont installé le téléphone/le chauffage central dans leur maison de compagne.
+
 3. un dortoir&emsp;&emsp;宿舍
 4. trouver&emsp;&emsp;v.t. 覺得；找到
 5. clair, claire&emsp;&emsp;adj. 明亮的
