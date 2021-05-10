@@ -182,6 +182,49 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
     </tbody>
 </table>
 
+*注意*
+
+1.  如果直接賓語人稱代詞me, te, le, la置於以元音或啞音h開頭的動詞前，必須省音，分別寫成m', t', l'：
+
+        Le français, je l'apprends depuis huit semaines.
+        Je t'aime, mais pourquoi est-ce que tu ne m'aimes pas ?
+
+2. 直接賓語人稱代詞置於voici, voilà前，用以代替人或物：
+
+        - Où est ma montre ? - Ah, la voilà.
+        Nous voilà arrivés.
+
+### 位置
+
+1. 直接賓語人稱代詞一般放在動詞前：
+
+    肯定式：
+
+        Ma montre, je l'ai depuis cinq ans.
+
+    否定式：
+
+        - Tu cherches ta montre ? - Non, je ne la cherche pas.
+
+    疑問式：
+
+        Ta montre, la cherches-tu ?
+
+2. 在肯定命令式中，直接賓語人稱代詞放在動詞後面。這時me改爲moi：
+
+        Écoutez-moi.（您聽我說。）
+        Ta chambre, range-la.（整理一下你的房間。）
+
+3. 在否定命令式中，直接賓語人稱代詞放在動詞的前面：
+
+        Tes affaires, ne les range pas maintenant.（現在不要整理你的東西。）
+        Ne me regarde pas.
+        Ne nous regardez pas.
+
+4. 如果句中有動詞不定式，直接賓語人稱代詞一般置於變位動詞和動詞不定式之間：
+
+        Philippe est mon ami. Je veux le présenter à mes parents.
+        Les exercices, vous ne voulez pas les faire maintement ?
 
 # Dans un appartement（公寓裡不同房間的叫法）
 
@@ -257,3 +300,49 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 2. Qu'est-ce qu'il y a dans la chambre ?
 
     Il y a ...
+
+
+# Dialogue
+
+### Vocabulaire
+
+1. appeler&emsp;&emsp;v.t. 打電話；叫
+
+    變位（第三組）：
+
+            j'appelle
+            tu appelles
+            il (elle) appelle
+            nous appelons
+            vous appelez
+            ils (elles) appellent
+
+
+2. installé, installée&emsp;&emsp;安頓好的
+3. un dortoir&emsp;&emsp;宿舍
+4. trouver&emsp;&emsp;v.t. 覺得；找到
+5. clair, claire&emsp;&emsp;adj. 明亮的
+6. propre&emsp;&emsp;adj. 乾淨的
+7. ni&emsp;&emsp;conj. 也不
+8. mesurer&emsp;&emsp;v.i. 大小爲，尺寸爲
+9. un mètre carré&emsp;&emsp;平方米
+10. environ&emsp;&emsp;adv. 大約，左右
+11. il y a&emsp;&emsp;有
+12. Martine&emsp;&emsp;馬蒂娜
+13. Nathalie&emsp;&emsp;納塔莉
+14. sympathique&emsp;&emsp;adj. 給人好感的
+15. répondre&emsp;&emsp;v.t. 回答
+16. eh bien&emsp;&emsp;interj. 語氣詞
+17. un lit&emsp;&emsp;牀
+18. un bureau&emsp;&emsp;書桌
+19. une chaise&emsp;&emsp;椅子
+20. une armoire&emsp;&emsp;衣櫃
+21. assez&emsp;&emsp;adv. 相當；足夠
+22. une place&emsp;&emsp;空間，地方
+23. mettre&emsp;&emsp;v.t. 放
+24. des affaires&emsp;&emsp;個人物品
+25. ranger&emsp;&emsp;v.t. 整理
+26. comprendre&emsp;&emsp;v.t. 懂，理解
+27. une poubelle&emsp;&emsp;垃圾箱
+28. raccrocher&emsp;&emsp;v.i. 掛斷電話
+29. embrasser&emsp;&emsp;v.t. 擁抱；親吻
