@@ -255,6 +255,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 8. un balcon&emsp;&emsp;陽臺
 
 <br />
+
 **句型**
 
 1. \- Combien de pièces y a-t-il dans l'appartement ?
