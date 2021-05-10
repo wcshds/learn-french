@@ -325,7 +325,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
     動詞原型 installer
 
-    1. installer qn. / qqch.&emsp;&emsp;把某人安頓好/安裝設備
+    * installer qn. / qqch.&emsp;&emsp;把某人安頓好/安裝設備
 
             Exp. Il a installé sa famille à Paris.
             Pierre est malade. Il faut l'installer dans son lit.
@@ -335,17 +335,49 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 3. un dortoir&emsp;&emsp;宿舍
 4. trouver&emsp;&emsp;v.t. 覺得；找到
+
+    1. trouver qn/qch.
+
+            Exp. -Qu'est-ce que tu cherches ? - Mon portable. Ah, je l'ai trouvé ! Il est dans mon sac. 
+            Je ne trouve pas mon stylo.
+            Les Durand n'ont pas encore trouvé de femme de ménage.
+
+    2. trouver qc/qqch. + adj.
+
+            Exp. Tout le monde le trouve gentil.
+            Nous trouvons notre chambre très petite.
+            Ils trouvent le français facile.
+            J'ai trouvé ce vin excellent.
+
 5. clair, claire&emsp;&emsp;adj. 明亮的
 6. propre&emsp;&emsp;adj. 乾淨的
 7. ni&emsp;&emsp;conj. 也不
 8. mesurer&emsp;&emsp;v.i. 大小爲，尺寸爲
+
+        Exp. Il mesure 1m80 (un mètre quatre-vingts).
+        La chambre mesure seize mètres carrés.
+        Combien de mètres carrès mesure cet appartement.
+
 9. un mètre carré&emsp;&emsp;平方米
 10. environ&emsp;&emsp;adv. 大約，左右
 11. il y a&emsp;&emsp;有
 12. Martine&emsp;&emsp;馬蒂娜
 13. Nathalie&emsp;&emsp;納塔莉
 14. sympathique&emsp;&emsp;adj. 給人好感的
+
+    可簡寫爲sympa
+
 15. répondre&emsp;&emsp;v.t. 回答
+
+    變位（第三組）：
+
+        je réponds
+        tu réponds
+        il (elle) répond
+        nous répondons
+        vous répondez
+        ils (elles) répondent
+
 16. eh bien&emsp;&emsp;interj. 語氣詞
 17. un lit&emsp;&emsp;牀
 18. un bureau&emsp;&emsp;書桌

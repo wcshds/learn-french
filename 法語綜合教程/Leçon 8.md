@@ -398,7 +398,7 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
 5. un lycée&emsp;&emsp;高中
 6. donner&emsp;&emsp;v.t. 給；授（課）
 
-    donner qqch. (à qn.)
+    * donner qqch. (à qn.)
 
         Exp. Madame Green donne des cours d'anglais aux étudiants de première année.
         Le professeur va donner une conférence sur la littérature française.  老師做一個關於法國文學的講座。
@@ -466,7 +466,7 @@ Thérèse a dix-huit ans. Elle est née à Nanjing, dans une famille de professe
 
 18. par&emsp;&emsp;prép. 每
 
-    ... fois par + une période
+    * ... fois par + une période
 
         Exp. Le bébé mange cinq fois par jour.
         Thérèse téléphone à sa grand-mère une fois par jour.
