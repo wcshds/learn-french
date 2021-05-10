@@ -499,8 +499,8 @@ T : À demain, mamie. Au revoir.
 
     * comprendre qn/qch.
 
-        Exp. Vous comprenez ma question ?
-        Tu comprend tes parents ?
+            Exp. Vous comprenez ma question ?
+            Tu comprend tes parents ?
 
 27. une poubelle&emsp;&emsp;垃圾箱
 28. hein&emsp;&emsp;語氣詞
