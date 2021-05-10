@@ -310,12 +310,14 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
     變位（第三組）：
 
-            j'appelle
-            tu appelles
-            il (elle) appelle
-            nous appelons
-            vous appelez
-            ils (elles) appellent
+        j'appelle
+        tu appelles
+        il (elle) appelle
+        nous appelons
+        vous appelez
+        ils (elles) appellent
+
+    appeler + qn.&emsp;&emsp;打電話給某人
 
 
 2. installé, installée&emsp;&emsp;安頓好的
