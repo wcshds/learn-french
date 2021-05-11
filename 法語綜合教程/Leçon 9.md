@@ -506,3 +506,16 @@ T : À demain, mamie. Au revoir.
 28. hein&emsp;&emsp;語氣詞
 29. raccrocher&emsp;&emsp;v.i. 掛斷電話
 30. embrasser&emsp;&emsp;v.t. 擁抱；親吻
+31. bien
+
+    1. adv.
+
+            Exp. Paul parle bien anglais.
+            Il travaille bien.
+            Les étudiants répondent bien à leur professeur.
+
+    2. adj.
+
+            Exp. Je le trouve bien, ce vase. 我覺得這個花瓶挺好的。
+            Elle est encore très bien pour son âge. 她在這個年紀保養得還不錯。
+            Êtes-vous bien dans ces chaussures ? 你這雙鞋合腳嗎？
