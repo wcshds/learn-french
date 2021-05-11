@@ -559,6 +559,10 @@ T : À demain, mamie. Au revoir.
 
 # Texte
 
+(Joëlle décrit son appartement idéal.)
+
+Voici l'appartement de mes rêves : il est grand et donne sur un parc. Il y a cinq pièces : le salon, la salle à manger et trois chambres. Et puis la cuisine, deux salles de bains. Les murs sont de couleur verte, parce que c'est une couleur reposante... Ma chambre est au bout du couloir. Dans ma chambre, il y a un lit, une armoire, un bureau, des étagères. Au milieu de la chambre, il y a un beau tapis. Le lit est à côté de la porte, et le bureau, près de la fenêtre. Bien sûr, il y a un fauteuil confortable devant le bureau. C'est clair, c'est calme, c'est mon paradis ! Je suis tellement heureuse dedans.
+
 ### Vocabulaire
 
 1. décrire&emsp;&emsp;v.t. 描述
