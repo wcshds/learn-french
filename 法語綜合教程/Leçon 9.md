@@ -330,7 +330,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
     au-dessous (de)&emsp;&emsp;在……下方
 
-![Les prépositions de lieu](./images/Les%20pr%C3%A9positions%20de%20lieu.png)
+![Les prépositions de lieu](https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20pr%C3%A9positions%20de%20lieu.png)
 
 <br />
 
@@ -555,3 +555,77 @@ T : À demain, mamie. Au revoir.
             Exp. Je le trouve bien, ce vase. 我覺得這個花瓶挺好的。
             Elle est encore très bien pour son âge. 她在這個年紀保養得還不錯。
             Êtes-vous bien dans ces chaussures ? 你這雙鞋合腳嗎？
+
+
+# Texte
+
+### Vocabulaire
+
+1. décrire&emsp;&emsp;v.t. 描述
+
+    變位（第三組）：
+
+        je décris
+        tu décris
+        il (elle) décrit
+        nous décrivons
+        vous décrivez
+        ils (elles) décrivent
+
+2. un appartement&emsp;&emsp;套房
+3. idéal, idéale, idéaux&emsp;&emsp;adj. 理想的
+4. un rêve&emsp;&emsp;夢；夢想
+
+    1. Dans le sommeil... 表示在睡眠中（夢）
+
+            Exp. Bonne nuit ! Fais de beaux rêves !
+            Le rêve est la réalisation d'un désir. (Freud)
+
+    2. Dans la consciente... 表示意識中的（夢想中的）
+
+            Exp. Voici la maison/l'appartement/la voiture de mes rêves.
+            C'est la femme de mes rêves.
+            L'Égypte, c'est le pays de mes rêves.
+
+
+5. donner sur&emsp;&emsp;朝向（一般指風景）
+
+        Exp. Son appartement donne sur la mer.
+        Les fenêtres de son séjour donnent sur la Tour Eiffel.
+
+6. un parc&emsp;&emsp;公園
+7. une pièce&emsp;&emsp;房間，居室
+8. une salle de séjour&emsp;&emsp;起居室
+9. une salle à manger&emsp;&emsp;飯廳
+10. et puis&emsp;&emsp;此外，還有
+11. une cuisine&emsp;&emsp;廚房
+12. une salle de bain**s**&emsp;&emsp;浴室
+13. un mur&emsp;&emsp;牆
+14. vert, verte&emsp;&emsp;adj. 綠色的
+15. une couleur&emsp;&emsp;顏色
+
+    * être de couleur...
+
+            - De quelle couleur sont les murs ?
+            - Ils sont de couleur verte.
+
+            - De quelle couleur est la robe de Simone ?
+            - Elle est de couleur bleue.
+
+16. reposant, reposante&emsp;&emsp;adj. 使得到休息的
+17. au bout de&emsp;&emsp;loc.prép. 在……末端
+18. un couloir&emsp;&emsp;走廊
+19. une étagère&emsp;&emsp;擱板；多層架子
+20. au milieu de&emsp;&emsp;在……中間
+21. un tapis&emsp;&emsp;地毯
+22. à côté de&emsp;&emsp;loc.prép.在……旁邊
+23. porte&emsp;&emsp;門
+24. près de&emsp;&emsp;loc.prép. 在……附近
+25. une fenêtre&emsp;&emsp;窗
+26. devant&emsp;&emsp;prép.在……前面
+27. confortable&emsp;&emsp;adj. 舒適的
+28. calme&emsp;&emsp;adj. 安靜的
+29. un paradis&emsp;&emsp;天堂
+30. tellement&emsp;&emsp;adv. 如此
+31. heureux, heureuse&emsp;&emsp;adj. 幸福的
+32. dedans&emsp;&emsp;adv. 在裡面
