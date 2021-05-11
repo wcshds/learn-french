@@ -318,6 +318,8 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
     au-dessous (de)&emsp;&emsp;在……下方
 
+![avatar](https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20pr%C3%A9positions%20de%20lieu.png)
+
 <br />
 
 **句型**
