@@ -614,18 +614,60 @@ T : À demain, mamie. Au revoir.
 
 16. reposant, reposante&emsp;&emsp;adj. 使得到休息的
 17. au bout de&emsp;&emsp;loc.prép. 在……末端
+
+        Exp. La cuisine est au bout du couloir.
+        Son bureau est au bout du couloir.
+        Attends-moi au bout de la rue.
+        Elle habite dans une maison au bout du village.
+        
+        也可指時間意義：
+            Au bout de dix minutes, il commence à parler. 十分鐘後他（才）開始說話。
+
 18. un couloir&emsp;&emsp;走廊
 19. une étagère&emsp;&emsp;擱板；多層架子
-20. au milieu de&emsp;&emsp;在……中間
+20. au milieu de&emsp;&emsp;在……中央（相當於in the center of）
+
+        Exp. Il y a une table basse au milieu du salon. 客廳中央有個茶几。
+        Il y a un fauteuil au milieu du bureau. 書房中間有個扶手椅。
+
+        也可指時間意義：
+            Nous sommes au milieu de l'été. 現在是盛夏。
+        
+        L'Empire du Milieu 中國
+
 21. un tapis&emsp;&emsp;地毯
 22. à côté de&emsp;&emsp;loc.prép.在……旁邊
+
+        Exp. Le salon est à côté de la salle à manger.
+        Il y a une table de chevet à côté du lit.
+
+        Pierre marche à côté de Martine.	Pierre和Martine並排走。
+
 23. porte&emsp;&emsp;門
 24. près de&emsp;&emsp;loc.prép. 在……附近
+
+        Exp. Victor habite près de l'université.
+        La bibliothèque est près de notre salle de classe.
+        Y a-t-il un cinéma près d'ici ?
+
+        也可指時間意義：
+            Mon Dieu ! Il est près de huit heures ! On va être en retard.
+
 25. une fenêtre&emsp;&emsp;窗
 26. devant&emsp;&emsp;prép.在……前面
+
+        Exp. Il y a une pelouse devant notre bâtiment. 我們大樓前有一塊草坪。
+        Tous les hommes sont égaux devant la loi. 法律面前人人平等。
+        Il pleure devant tout le monde. 他在所有人面前哭了。
+
 27. confortable&emsp;&emsp;adj. 舒適的
 28. calme&emsp;&emsp;adj. 安靜的
-29. un paradis&emsp;&emsp;天堂
+29. le paradis&emsp;&emsp;天堂
+
+    l'enfer&emsp;&emsp;地獄
+
 30. tellement&emsp;&emsp;adv. 如此
 31. heureux, heureuse&emsp;&emsp;adj. 幸福的
 32. dedans&emsp;&emsp;adv. 在裡面
+
+    dans後面須加名詞，而dedans後面不用加（要依上文推斷在哪裡）
