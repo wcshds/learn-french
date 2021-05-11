@@ -290,6 +290,34 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
 11. une porte&emsp;&emsp;門
 
+# Les prépositions de lieu（方位介詞）
+
+1. dans&emsp;&emsp;在……裡面
+
+2. sur&emsp;&emsp;在……上面
+
+    sous&emsp;&emsp;在……下面
+
+3. devant&emsp;&emsp;在……前面
+
+    derrière&emsp;&emsp;在……後面
+
+    *注意：avant和après指時間上的前與後，devant和derrière指空間上的前與後*
+
+4. en face (de)&emsp;&emsp;在……對面
+
+5. à côté (de)&emsp;&emsp;在……旁邊
+
+6. entre&emsp;&emsp;在兩者之間
+
+7. à gauche (de)&emsp;&emsp;在……左邊
+
+    à droite (de)&emsp;&emsp;在……右邊
+
+8. au-dessus (de)&emsp;&emsp;在……上空
+
+    au-dessous (de)&emsp;&emsp;在……下方
+
 <br />
 
 **句型**
