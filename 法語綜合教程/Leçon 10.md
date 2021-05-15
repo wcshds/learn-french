@@ -141,7 +141,7 @@
     <tbody>
         <tr>
             <td colspan="2" align="center">
-                avoir
+                <strong>avoir</strong>
             </td>
         </tr>
         <tr>
