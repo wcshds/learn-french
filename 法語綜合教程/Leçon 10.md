@@ -66,5 +66,5 @@
 4. 被指定的名詞後可加-ci或-là；-ci指近處，-là指遠處：
 
         cette maison-ci（這所房子）	cette maison-là（那所房子）
-        ce livre-ci（這本書）	ce livre-là（那本書）
+        ce livre-ci（這本書）		ce livre-là（那本書）
         ces jours-ci（最近幾天）	ces jours-là（那幾天）
