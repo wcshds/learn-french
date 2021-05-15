@@ -226,6 +226,57 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
         Philippe est mon ami. Je veux le présenter à mes parents.
         Les exercices, vous ne voulez pas les faire maintement ?
 
+
+## Les prépositions devant les noms de pays ou de ville（國家或城市名詞前介詞的用法）
+
+1. 表示「在……國家」或「去……國家」：
+
+    1. 在陰性國名和以元音字母開始的陽性國名前，用en（不加冠詞）：
+
+            Je vais (OU Je suis) en France / en Italie / en Chine / en Irak.
+
+    2. 在以輔音開始的陽性國名前用au（= à + le）：
+
+            Elle travaille au Japon.
+            Il va au Canada.
+
+    3. 在複數國名前用aux（= à + les）：
+
+            Vous allez aux États-Unis ?
+
+2. 表示「來自……國家」：
+
+    1. 在陰性國名前，用de（不加冠詞）：
+
+            Je viens de France.
+            Tu viens de Chine ?
+
+    2. 在陽性國名前，用du（= de + le）；
+
+            Nous venons du Japon.
+            Elles viennent du Canada.
+
+    3. 在複數國名前，用des（= de + les）：
+
+            Je viens des États-Unis.
+
+    4. 如果國名以元音開始，無論陰陽性，都用d'（不加冠詞）：
+
+            Elle vient d'Italie.
+            Il vient d'Irak.
+
+3. 城市名前一般不用冠詞：
+
+    1. 用à表示去或在某城市：
+
+            Nous sommes à Shanghai.
+            Elles vont à Londres.
+
+    2. 用de表示來自某城市：
+
+            Je suis de Hangzhou.
+            Tu viens de Paris.
+
 # Dans un appartement（公寓裡不同房間的叫法）
 
 1. une chambre&emsp;&emsp;房間
@@ -647,7 +698,7 @@ Voici l'appartement de mes rêves : il est grand et donne sur un parc. Il y a ci
 
         Pierre marche à côté de Martine.	Pierre和Martine並排走。
 
-23. porte&emsp;&emsp;門
+23. une porte&emsp;&emsp;門
 24. près de&emsp;&emsp;loc.prép. 在……附近
 
         Exp. Victor habite près de l'université.
