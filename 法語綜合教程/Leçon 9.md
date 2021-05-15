@@ -304,7 +304,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
     le Brésil	巴西
 
 
-### Les pronoms personnels toniques（重讀人稱代詞）
+## Les pronoms personnels toniques（重讀人稱代詞）
 
 ### 構成和用法
 
