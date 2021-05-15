@@ -74,7 +74,7 @@
 副代詞en是一個無性數變化的代詞，代替不定冠詞或數量詞後面的名詞。
 
 ## 用法
-1. 代替直接賓語中的「不定冠詞 + 名詞部分」：
+1. 代替直接賓語中的「不定冠詞 + 名詞部分」（人或物）：
 
         - Tu as des amis dans cette ville ?
         - Oui, j'en ai.  (en = des amis)
@@ -82,7 +82,7 @@
         - Y a-t-il des dortoirs dans ton université ?
         - Oui, il y en a.  (en = des dortoirs)
 
-2. 代替直接賓語中數詞後的名詞：
+2. 代替直接賓語中數詞後的名詞（人或物）：
 
         - Combien de professeurs avez-vous ?
         - Nous en avons dix. (en = professeurs)
@@ -90,20 +90,41 @@
         - Combien de classes y a-t-il dans votre école ?
         - Il y en a seize.  (en = classes)
 
-3. 代替直接賓語中數量副詞短語（如 beaucoup de, un peu de, assez de, trop de 等）中的「de + 名詞部分」：
+3. 代替直接賓語中數量副詞補語（如 beaucoup de, un peu de, assez de, trop de 等）中的「de + 名詞部分」：
 
         - Vous faites beaucoup d'exercises ?
         - Oui, nous en faisons beaucoup.  (en = d'exercises)
 
-4. en 之所以被稱爲「副代詞」，因爲它可替代由「de」引導的地點狀語：
+4. 在否定句中，代替直接賓語中的「de + 名詞部分」：
+
+        - Vous avez des CD ?
+        - Oui, Marc en a huit, Joëlle en a cinq, Thérèse en a dix. Mais moi, je n'en ai pas.
+
+5. en 之所以被稱爲「副代詞」，因爲它可替代由「de」引導的地點狀語：
 
         - Tu viens de la maison ?
         - Oui, j'en viens.
 
-5. 在否定句中，代替直接賓語中的「de + 名詞部分」：
+6. en 代替介詞 de 引導的形容詞補語（物）：
 
-        - Vous avez des CD ?
-        - Oui, Marc en a huit, Joëlle en a cinq, Thérèse en a dix. Mais moi, je n'en ai pas.
+        Le patron est content de mon travail.
+        = Le patron en est content.
+
+        Je suis sûr du résultat.
+        = J'en suis sûr.
+
+        Le patron est content de sa secrétaire.
+        = Le patron est content d'elle.（代替人要用重讀人稱代詞）
+
+7. 代替介詞 de 引導的間接賓語（物）：
+
+        Cette émission parle d'Alibaba.
+        = Cette émission en parle.
+
+        Cette émission parle de MaYun.
+        = Cette émission parle de lui.（代替人要用重讀人稱代詞）
+
+
 
 
 *注意：en與直接賓語人稱代詞le, la, les的共同點與不同點：en和le, la, les都可代替直接賓語；不同的是en代替不確指的直接賓語，le, la, les代替確指的直接賓語。如：*
