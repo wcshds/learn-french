@@ -176,11 +176,8 @@
                 Est-ce qu'ils (elles) ont ... ?
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody>
+        <tr>
+        </tr>
         <tr>
             <td colspan="2" align="center">
                 <strong>apprendre</strong>
