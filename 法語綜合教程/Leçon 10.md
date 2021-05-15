@@ -137,6 +137,7 @@
 ## Les phrases interrogatives（疑問句）
 一般情況下，將動詞和代詞主語倒置或用「est-ce que + 陳述句」即構成疑問式。
 
+### 動詞疑問式
 <table>
     <tbody>
         <tr>
@@ -221,3 +222,64 @@
 *注意：*
 1. 在疑問式第 1 式中，如動詞第三人稱單數的變位形式不以 t, d 結尾，應在動詞與人稱代詞之間加字母 t，並在 t 的前後各加一個連字符，如：Où travaille-t-il ?
 2. 口語中疑問句的主語和謂語往往不倒置，而用聲調表達，如：Tu as cours aujourd'hui ?
+
+### 疑問句的形式
+1. 主語爲人稱代詞時
+
+    1. 一般疑問句——三種形式
+
+        1. 陳述句詞序，句末用升調：
+
+                Elle lit des livres de philosophie ?
+
+        2. Est-ce que + 陳述句詞序：
+
+                Est-ce qu'elle lit des livres de philosophie ?
+
+        3. 動詞 + 人稱代詞主語（主謂倒裝，用連字號連接）（+ 其他成分）：
+
+                Lit-elle des livres de philosophie ?
+
+    2. 特殊疑問句——兩種形式
+
+        1. 疑問詞 + est-ce que + 陳述句詞序：
+
+                Quand est-ce qu'il commence à apprendre l'italien ?
+
+        2. 疑問詞 + 動詞 + 人稱代詞主語（主謂倒裝，用連字號連接）（+ 其他成分）：
+
+                Quand commence-t-il à apprendre l'italien ?
+
+2. 主語爲名詞時
+
+    1. 一般疑問句——兩種形式
+
+        1. Est-ce que + 陳述句詞序：
+
+                Est-ce que Pierre répond bien aux questions du professeur ?
+                Est-ce que son voisin préfère se promencer dans le jardin public ?
+
+        2. 名詞主語 + 動詞 + 與主語同性數的人稱代詞（衹有四種情況：il, elle, ils, elles）：
+
+                Pierre répond-il bien aux questions du professeur ?
+                Ses voisines préfèrent-elles se promencer dans le jardin public ?
+
+    2. 特殊疑問句——三種形式：
+
+        1. 疑問詞 + 動詞 + 主語：
+
+                Où travaille sa sœur ?
+                Quand commence le cours de français ?
+                Où habitent les Dupont ?
+
+        2. 疑問詞 + 名詞主語 + 動詞 + 與主語同性數的人稱代詞：
+
+                Où sa sœur travaille-t-elle ?（這種無直接賓語的句子往往採用第一種形式）
+                Quand le cours de français commence-t-il ?（同上）
+                Pourquoi Pierre déteste-t-il l'histoire ?（有直接賓語，不能採用第一種形式）
+
+        3. 疑問詞 + est-ce que + 陳述句詞序：
+
+                Où est-ce que sa sœur travaille ?
+                Pourquoi est-ce que M. Dupont est en retard ?
+                Qui est-ce que le stagiaire regarde ?
