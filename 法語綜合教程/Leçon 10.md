@@ -145,8 +145,8 @@
             </td>
         </tr>
         <tr>
-            <td>第 1 式</td>
-            <td>第 2 式</td>
+            <td width="50%">第 1 式</td>
+            <td width="50%">第 2 式</td>
         </tr>
         <tr>
             <td>
