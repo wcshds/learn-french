@@ -178,3 +178,45 @@
         </tr>
     </tbody>
 </table>
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2" align="center">
+                <strong>apprendre</strong>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" align="center">第 1 式</td>
+            <td width="50%" align="center">第 2 式</td>
+        </tr>
+        <tr>
+            <td>
+                Apprends-je ... ?
+                <br />
+                Apprends-tu ... ?
+                <br />
+                Apprend-il (elle) ?
+                <br />
+                Apprenons-nous ... ?
+                <br />
+                Apprenez-vous ... ?
+                <br />
+                Apprennent-ils (elles) ... ?
+            </td>
+            <td>
+                Est-ce que j'apprends ... ?
+                <br />
+                Est-ce que tu apprends ... ?
+                <br />
+                Est-ce qu'il (elle) apprend ... ?
+                <br />
+                Est-ce que nous apprenons ... ?
+                <br />
+                Est-ce que vous apprenez ... ?
+                <br />
+                Est-ce qu'ils (elles) apprennent ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
