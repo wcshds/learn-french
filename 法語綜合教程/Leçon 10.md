@@ -137,10 +137,10 @@
 ## Les phrases interrogatives（疑問句）
 一般情況下，將動詞和代詞主語倒置或用「est-ce que + 陳述句」即構成疑問式。
 
-<table style="text-align: center !important;">
-    <tbody style="text-align: center !important;">
-        <tr style="text-align: center !important;">
-            <td colspan="2" style="text-align: center !important;">
+<table align="center">
+    <tbody>
+        <tr>
+            <td colspan="2">
                 avoir
             </td>
         </tr>
