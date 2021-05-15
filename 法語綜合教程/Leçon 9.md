@@ -243,6 +243,7 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
     3. 在複數國名前用aux（= à + les）：
 
             Vous allez aux États-Unis ?
+            Vous travaillez aux Philippines ?
 
 2. 表示「來自……國家」：
 
@@ -276,6 +277,134 @@ combien是數量副詞。數量副詞後，名詞前的冠詞一般省略，衹�
 
             Je suis de Hangzhou.
             Tu viens de Paris.
+
+
+### 常見國家名
+
+    la Suisse	瑞士
+    le Danemark	丹麥
+    le Vietnam	越南
+    la Chine	中國
+    le Japon	日本
+    le Laos	老撾
+    l'Italie	意大利
+    L'Allemagne	德國
+    la Corée du Sud	韓國
+    la Corée du Nord	朝鮮
+    les États-Unis	美國
+    l'Espagne	西班牙
+    l'Angleterre	英國
+    la France	法國
+    le Combodge	柬埔寨
+    l'Égypte	埃及
+    le Mali	馬里
+    la Roumanie	羅馬尼亞
+    les Philippines	菲律賓
+    l'Argentine	阿根廷
+    le Brésil	巴西
+
+
+### Les pronoms personnels toniques（重讀人稱代詞）
+
+### 構成和用法
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan="3">
+                singulier
+            </td>
+            <td>
+                première personne
+            </td>
+            <td>
+                moi
+            </td>
+            <td>
+                Moi, je suis dans ma chambre.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                deuxième personne
+            </td>
+            <td>
+                toi
+            </td>
+            <td>
+                Toi, tu es devant ton ordinateur.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                troisième personne
+            </td>
+            <td>
+                lui / elle
+            </td>
+            <td>
+                Lui, il est dans son lit.
+                <br/>
+                Elle, elle est dans la classe.
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                pluriel
+            </td>
+            <td>
+                première personne
+            </td>
+            <td>
+                nous
+            </td>
+            <td>
+                Nous, nous sommes à la bibliothèque.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                deuxième personne
+            </td>
+            <td>
+                vous
+            </td>
+            <td>
+                Vous, vous êtes dans la salle de lecture.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                troisième personne
+            </td>
+            <td>
+                eux / elles
+            </td>
+            <td>
+                Eux, ils sont à la cantine.
+                <br />
+                Elles, elles sont à l'université.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+重讀人稱代詞可以歸納爲以下三種主要用法：
+
+1. 作主語的同謂語，用於加強語氣：
+
+        Moi, j'apprends le français. 我學習法語。
+
+2. 跟介詞連用：
+
+        Tu viens chez moi à quelle heure ? 你幾點來我家？
+
+3. 作表語：
+
+        - C'est toi ? 是你嗎？
+        - Oui, c'est moi. 對，是我。
+
+*注意：複數前的動詞用c'est或ce sont均可，例如：C'est eux.（更常用）或Ce sont eux.*
 
 # Dans un appartement（公寓裡不同房間的叫法）
 
