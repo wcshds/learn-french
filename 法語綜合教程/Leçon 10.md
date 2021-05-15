@@ -125,12 +125,56 @@
         = Cette émission parle de lui.（代替人要用重讀人稱代詞）
 
 
-
-
 *注意：en與直接賓語人稱代詞le, la, les的共同點與不同點：en和le, la, les都可代替直接賓語；不同的是en代替不確指的直接賓語，le, la, les代替確指的直接賓語。如：*
 
     - Vous avez des amis dans cette ville ?
     - Oui, j'en ai trois ou quatre.
-    
+
     - Vous connaissez cette demoiselle ?
     - Oui, je la connais.
+
+
+## Les phrases interrogatives（疑問句）
+一般情況下，將動詞和代詞主語倒置或用「est-ce que + 陳述句」即構成疑問式。
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2" style="text-align: center !important;">
+                avoir
+            </td>
+        </tr>
+        <tr>
+            <td>第 1 式</td>
+            <td>第 2 式</td>
+        </tr>
+        <tr>
+            <td>
+                Ai-je [ ɛʒ ] ... ?
+                <br />
+                As-tu ... ?
+                <br />
+                A-t-il (elle) ?
+                <br />
+                Avons-nous ... ?
+                <br />
+                Avez-vous ... ?
+                <br />
+                Ont-ils (elles) ... ?
+            </td>
+            <td>
+                Est-ce que j'ai ... ?
+                <br />
+                Est-ce que tu as ... ?
+                <br />
+                Est-ce qu'il (elle) a ... ?
+                <br />
+                Est-ce que nous avons ... ?
+                <br />
+                Est-ce que vous avez ... ?
+                <br />
+                Est-ce qu'ils (elles) ont ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
