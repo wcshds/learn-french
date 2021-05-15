@@ -131,9 +131,6 @@
 
     - Vous avez des amis dans cette ville ?
     - Oui, j'en ai trois ou quatre.
-    - Vous aimez vos amis ?
-    - Oui, je les aime.
-    - Vous rencontrez des amis dans la rue ?
-    - Non, je n'en rencontre pas souvent.
+    
     - Vous connaissez cette demoiselle ?
     - Oui, je la connais.
