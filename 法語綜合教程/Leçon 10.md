@@ -176,7 +176,7 @@
                 Est-ce qu'ils (elles) ont ... ?
             </td>
         </tr>
-        <tr>
+        <tr height="16px">
         </tr>
         <tr>
             <td colspan="2" align="center">
