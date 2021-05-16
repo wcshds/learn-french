@@ -339,3 +339,163 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
         </tr>
     </tbody>
 </table>
+
+*注意：*
+1. combien 是疑問副詞，用於提問。combien 後面跟名詞時須加 de。如：
+
+        Combien d'heures de cours as-tu par semaine ? （你每週有多少節課？）
+
+2. 如果用來表示程度（程度副詞），後面的名詞前則不用 de。（beaucoup 是用於修飾動詞的）如：
+
+        J'aime beaucoup le français.
+
+3. un peu + de + 不可數名詞，如：
+
+        Je mets un peu de sucre / lait dans mon café.
+
+    peu + de + 可數或不可數名詞，如：
+
+        Il y a peu de lait.
+
+
+# Texte
+
+<table>
+    <tbody>
+        <tr>
+            <td></td>
+            <td>
+                <strong>lundi</strong>
+            </td>
+            <td>
+                <strong>mardi</strong>
+            </td>
+            <td>
+                <strong>mercredi</strong>
+            </td>
+            <td>
+                <strong>jeudi</strong>
+            </td>
+            <td>
+                <strong>vendredi</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                8h - 9h30
+            </td>
+            <td>
+                français (niveau débutant)
+            </td>
+            <td>
+                français (niveau débutant)
+            </td>
+            <td>
+                anglais
+            </td>
+            <td>
+                français (niveau débutant)
+            </td>
+            <td>
+                français (niveau débutant)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                9h30 - 9h50
+            </td>
+            <td colspan="5">
+                récréation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                9h50 - 11h20
+            </td>
+            <td>
+                anglais
+            </td>
+            <td>
+                anglais (compréhension orale)
+            </td>
+            <td>
+                français (expression orale)
+            </td>
+            <td>
+                littérature contemporaine chinoise
+            </td>
+            <td>
+                français (méthode audiovisuelle)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                11h30 - 12h30
+            </td>
+            <td colspan="5">
+                déjeuner
+            </td>
+        </tr>
+        <tr>
+            <td>
+                13h30 - 15h
+            </td>
+            <td>
+                philosophie
+            </td>
+            <td>
+                histoire de France
+            </td>
+            <td>
+                linguistique générale
+            </td>
+            <td>
+                économie politique internationale
+            </td>
+            <td rowspan="3">
+                conférence               
+            </td>
+        </tr>
+        <tr>
+            <td>
+                15h - 15h20
+            </td>
+            <td colspan="4">
+                récréation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                15h20 - 16h50
+            </td>
+            <td>
+                éducation physique
+            </td>
+            <td>
+                informatique
+            </td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                17h - 18h
+            </td>
+            <td colspan="5">
+                dîner
+            </td>
+        </tr>
+        <tr>
+            <td>
+                18h30 - 20h
+            </td>
+            <td></td>
+            <td>
+                cours à option
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
