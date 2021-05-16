@@ -504,6 +504,29 @@ Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les v
 
 <br />
 
+### 課文注釋
+
+1. comme&emsp;&emsp;用於限定某個範圍
+
+        Qu'est-ce que vous aimez comme musique ?
+        Qu'est-ce que vous apprenez comme langue ?
+        Qu'est-ce que vous faites comme travail ?
+        Qu'est-ce que vous prenez comme dessert ?
+
+2. savoir que ...&emsp;&emsp;知道……
+
+        Elle sait que l'anglais est une langue très utile.
+        Je sais que tu parles bien français.
+        Ils savent qu'on ne l'aime pas beaucoup et qu'on le trouve bizarre.
+
+3. ça fait + temps + que&emsp;&emsp;該句型用於強調時間之長
+
+        Ça fait vingt ans que les Dupont habitent dans ce quartier.
+        Ça fait dix ans que Pierre apprend l'anglais. Il apprend le français depuis deux mois.
+        Ça fait sept ans que je connais mon ami Julien.
+        Ça fait trente ans qu'il travaille dans cette banque. (Il travaille dans cette banque depuis 1990.)
+        Ah te voilà enfin ! Ça fait deux heures que je t'attends !
+
 ### 句型
 
 \- Qu'est-ce que vous avez comme cours le lundi ?
