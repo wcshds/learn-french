@@ -500,3 +500,9 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
         </tr>
     </tbody>
 </table>
+
+<br />
+
+### 句型
+
+Qu'est-ce que vous avez comme cours le lundi ?
