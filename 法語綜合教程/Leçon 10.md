@@ -359,6 +359,7 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 
 
 # Texte
+Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les voici : français, anglais, histoire, informatique. Joëlle aime bien le français et l'informatique. Mais est-ce qu'elle aime aussi l'anglais ? Pas vraiment. Elle sait que l'anglais est très utile, mais ça fait dix ans qu'elle apprend cette langue. Et l'histoire ? Non, à vrai dire, elle déteste ce cours-là, parce qu'elle le trouve monotone. Mais justement, cet après-midi, elle a deux heures de cours d'histoire. Alors, qu'est-ce qu'elle fait en classe ? Eh bien, elle regarde le professeur mais elle a l'esprit ailleurs.
 
 <h3 align="center">Emploi du temps de Joëlle</h3>
 <table>
@@ -552,14 +553,25 @@ Modèle 2 :
             C'est une histoire d'amour.
 
 4. une informatique&emsp;&emsp;信息技術
-5. pas tellement&emsp;&emsp;不怎麽地
+5. pas vraiment&emsp;&emsp;不怎麽地
+
+        Je n'aime pas vraiment le café.
+
 6. utile&emsp;&emsp;adj. 有用的
 7. une langue&emsp;&emsp;語言
+
+        une langue étrangère	外語
+
 8. à vrai dire&emsp;&emsp;loc.adv. 說眞的
 9. détester&emsp;&emsp;v.t. 討厭
 10. monotone&emsp;&emsp;adj. 單調的
 11. justement&emsp;&emsp;adv. 恰恰
-12. un esprit&emsp;&emsp;精神
+12. l'esprit&emsp;&emsp;n.m. 精神
+
+        Les joueurs ont l'esprit d'équipe.	球員具有團隊精神。
+        Les grands esprits se rencontrent.	英雄所見略同。
+        Pierre a l'esprit ailleurs. (être dans la lune)	Pierre在開小差。
+
 13. ailleurs&emsp;&emsp;adv. 在別處
 14. un niveau (des niveaux)&emsp;&emsp;水平
 15. débutant, débutante&emsp;&emsp;adj. 初級的
