@@ -514,3 +514,59 @@ Modèle 1 :
 Modèle 2 :
 
 \- Le matin, français niveau débutant et anglais. L'après-midi, philosophie et éducation physique.
+
+### Vocabulaire
+
+1. une journée&emsp;&emsp;一天，白天
+
+    un jour 指天數
+
+        Léa travaille à la bibliothèque tous les jours.
+
+        Bonne journée ! 祝你一天愉快！
+
+    une journée 指一天內（從早到晚）
+
+        Léa travaille à la bibliothèque toute la journée.
+
+    **類似的詞還有：un soir, une soirée; un an, une année**
+
+2. plein, pleine&emsp;&emsp;adj. 满的
+
+        Le sac est plein / à moitié plein.
+        La salle de classe est pleine.
+        Le métro est plein aux heures de pointe. 高峰時段地鐵擠滿了人。
+
+         avoir une journée pleine
+
+3. histoire
+
+    1. l'histoire&emsp;&emsp;歷史
+
+            Exp. l'histoire de Chine, de France, d'Allemagne, du Japon, du Canada, des États-Unis
+            l'histoire de l'art, de la littérature, des religions
+
+    2. une histoire, des histoires&emsp;&emsp;故事
+
+            Esp. La grand-mère de Thérèse adore raconter des histoires.
+            C'est une histoire d'amour.
+
+4. une informatique&emsp;&emsp;信息技術
+5. pas tellement&emsp;&emsp;不怎麽地
+6. utile&emsp;&emsp;adj. 有用的
+7. une langue&emsp;&emsp;語言
+8. à vrai dire&emsp;&emsp;loc.adv. 說眞的
+9. détester&emsp;&emsp;v.t. 討厭
+10. monotone&emsp;&emsp;adj. 單調的
+11. justement&emsp;&emsp;adv. 恰恰
+12. un esprit&emsp;&emsp;精神
+13. ailleurs&emsp;&emsp;adv. 在別處
+14. un niveau (des niveaux)&emsp;&emsp;水平
+15. débutant, débutante&emsp;&emsp;adj. 初級的
+16. une récréation&emsp;&emsp;課間休息
+17. une linguistique [ lɛ̃ɡɥistik ]&emsp;&emsp;語言學
+18. une littérature&emsp;&emsp;文學
+19. une économie politique&emsp;&emsp;政治經濟學
+20. international, internationale, internationaux&emsp;&emsp;adj. 國際的
+21. audiovisuel, audiovisuelle&emsp;&emsp;adj. 視聽的
+22. un dîner&emsp;&emsp;晚餐
