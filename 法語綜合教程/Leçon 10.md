@@ -272,7 +272,7 @@
                 Quand commence le cours de français ?
                 Où habitent les Dupont ?
 
-        2. 疑問詞 + 名詞主語 + 動詞 + 與主語同性數的人稱代詞：
+        2. 疑問詞 + 名詞主語 + 動詞 + 與主語同性數的人稱代詞（+ 其他成分）：
 
                 Où sa sœur travaille-t-elle ?（這種無直接賓語的句子往往採用第一種形式）
                 Quand le cours de français commence-t-il ?（同上）
@@ -283,3 +283,27 @@
                 Où est-ce que sa sœur travaille ?
                 Pourquoi est-ce que M. Dupont est en retard ?
                 Qui est-ce que le stagiaire regarde ?
+
+*注意：*
+1. 如果動詞後面還有直接賓語，或者當句子意思不清時，則衹能採用第二或第三種形式：
+
+        Où est-ce que sa sœur étudie l'espagnol ?
+        Qui le stagiaire regarde-t-il ?
+        （注意區分 Qui est-ce que le stagiaire regarde ? 和 Qui regarde le stagiaire ?）
+
+2. 以 que 構成的疑問句，衹能採用第一和第三種形式（因爲 que 本身作直接賓語）：
+
+        Que fait son cousin ?
+        Qu'est-ce que son cousin fait ?
+
+3. 如果疑問詞帶有介詞，則要把該介詞前置至疑問詞前：
+
+        Avec qui parle le directeur ?
+        À quoi penses-tu ?（前有介詞時 que 要變成 quoi）
+        À qui pense cette dame en blanc ?
+        À qui Yasmine pose-t-elle des questions ?
+        De quoi parlez-vous ?
+        À quelle heure commence la conférence ?
+        Dans quelle salle de classe les élèves révisent-ils leurs leçons d'anglais ?
+        D'où venez-vous ?
+        D'où vient cette hôtesse de l'air ?
