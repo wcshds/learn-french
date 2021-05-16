@@ -361,7 +361,7 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 # Texte
 
 <table>
-    <caption>Emploi du temps de Joëlle</caption>
+    <caption align="center" style="font-size: 24px;">Emploi du temps de Joëlle</caption>
     <tbody align="center">
         <tr>
             <td width="20%"></td>
