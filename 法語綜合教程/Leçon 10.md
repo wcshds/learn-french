@@ -361,7 +361,7 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 # Texte
 
 <table>
-    <tbody>
+    <tbody align="center">
         <tr>
             <td></td>
             <td>
