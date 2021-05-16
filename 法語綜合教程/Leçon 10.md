@@ -320,20 +320,20 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 <table>
     <tbody>
         <tr>
-            <td width="25%">
+            <td width="25%" align="center">
                 J'ai
             </td>
-            <td width="25%">
+            <td width="25%" align="center">
                 assez<br />
                 beaucoup<br />
                 peu<br />
                 pas mal<br />
                 trop
             </td>
-            <td width="25%">
+            <td width="25%" align="center">
                 de
             </td>
-            <td width="25%">
+            <td width="25%" align="center">
                 questions.
             </td>
         </tr>
