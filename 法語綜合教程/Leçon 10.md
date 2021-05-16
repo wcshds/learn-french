@@ -307,3 +307,10 @@
         Dans quelle salle de classe les élèves révisent-ils leurs leçons d'anglais ?
         D'où venez-vous ?
         D'où vient cette hôtesse de l'air ?
+
+## Les adverbes de quantité（數量副詞）
+
+### 形式
+
+assez（相當多）	beaucoup（很多）	un peu（一點）	peu（極少）
+pas mal（不少）	combien（多少）	trop（太多）
