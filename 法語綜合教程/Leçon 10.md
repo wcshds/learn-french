@@ -363,20 +363,20 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 <table>
     <tbody align="center">
         <tr>
-            <td></td>
-            <td>
+            <td width="20%"></td>
+            <td width="16%">
                 <strong>lundi</strong>
             </td>
-            <td>
+            <td width="16%">
                 <strong>mardi</strong>
             </td>
-            <td>
+            <td width="16%">
                 <strong>mercredi</strong>
             </td>
-            <td>
+            <td width="16%">
                 <strong>jeudi</strong>
             </td>
-            <td>
+            <td width="16%">
                 <strong>vendredi</strong>
             </td>
         </tr>
