@@ -505,4 +505,5 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 
 ### 句型
 
-Qu'est-ce que vous avez comme cours le lundi ?
+    - Qu'est-ce que vous avez comme cours le lundi ?
+    - Le matin, j'ai un cours de français et un cours d'anglais. L'après-midi, j'ai un cours de philosophie et un cours d'éducation physique.
