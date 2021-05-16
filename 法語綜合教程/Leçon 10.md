@@ -311,6 +311,31 @@
 ## Les adverbes de quantité（數量副詞）
 
 ### 形式
-
 assez（相當多）	beaucoup（很多）	un peu（一點）	peu（極少）
-pas mal（不少）	combien（多少）	trop（太多）
+pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop（太多）
+
+### 特點
+數量副詞的後面如跟名詞，往往通過介詞 de 引導，如：
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                J'ai
+            </td>
+            <td>
+                assez<br />
+                beaucoup<br />
+                peu<br />
+                pas mal<br />
+                trop
+            </td>
+            <td>
+                de
+            </td>
+            <td>
+                questions.
+            </td>
+        </tr>
+    </tbody>
+</table>
