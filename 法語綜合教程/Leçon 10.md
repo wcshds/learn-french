@@ -358,6 +358,42 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
         Il y a peu de lait.
 
 
+# Dialogue
+
+### Vocabulaire
+1. en&emsp;&emsp;pron. 代詞
+2. une activité&emsp;&emsp;活動
+3. lire&emsp;&emsp;v.t. 讀
+4. écrire&emsp;&emsp;v.t. 寫
+5. un exercise&emsp;&emsp;練習
+6. l'après-midi&emsp;&emsp;n.m. 下午
+7. un travail&emsp;&emsp;工作
+8. pas mal de&emsp;&emsp;不少……
+9. comme&emsp;&emsp;conj. 作爲；如同
+10. l'anglais&emsp;&emsp;n.m. 英語
+11. quelquefois&emsp;&emsp;adv. 有時候
+12. une éducation physique&emsp;&emsp;體育
+13. une philosophie&emsp;&emsp;哲學
+14. classique&emsp;&emsp;adj. 古典的
+15. une conférence&emsp;&emsp;講座
+16. normalement&emsp;&emsp;adv. 通常
+17. un cours à option&emsp;&emsp;選修課
+18. ce (cet), cette&emsp;&emsp;adj.dém. 這個
+19. un emploi du temps&emsp;&emsp;時間表，日程表
+20. chargé, chargée&emsp;&emsp;adj. 充滿的
+21. pour&emsp;&emsp;prép. 對於；爲了
+22. un semestre&emsp;&emsp;學期
+23. habitué, habituée&emsp;&emsp;adj. 習慣的
+24. parler de&emsp;&emsp;談論
+25. n'est-ce pas ?&emsp;&emsp;對不對？是不是？
+26. un sport&emsp;&emsp;運動
+27. un combat&emsp;&emsp;戰鬥，格鬥
+28. dire&emsp;&emsp;v.t. 說
+29. pratiquer&emsp;&emsp;v.t. 從事，實踐
+30. un film [ film ]&emsp;&emsp;電影
+31. un passe-temps&emsp;&emsp;消遣，娱樂
+32. favori, favorite&emsp;&emsp;adj. 最喜歡的
+
 # Texte
 Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les voici : français, anglais, histoire, informatique. Joëlle aime bien le français et l'informatique. Mais est-ce qu'elle aime aussi l'anglais ? Pas vraiment. Elle sait que l'anglais est très utile, mais ça fait dix ans qu'elle apprend cette langue. Et l'histoire ? Non, à vrai dire, elle déteste ce cours-là, parce qu'elle le trouve monotone. Mais justement, cet après-midi, elle a deux heures de cours d'histoire. Alors, qu'est-ce qu'elle fait en classe ? Eh bien, elle regarde le professeur mais elle a l'esprit ailleurs.
 
