@@ -487,6 +487,8 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
         C'est son disque favori.
         Quel est votre passe-temps favori ?
 
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20loisirs.png" width = "50%">
+
 # Texte
 Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les voici : français, anglais, histoire, informatique. Joëlle aime bien le français et l'informatique. Mais est-ce qu'elle aime aussi l'anglais ? Pas vraiment. Elle sait que l'anglais est très utile, mais ça fait dix ans qu'elle apprend cette langue. Et l'histoire ? Non, à vrai dire, elle déteste ce cours-là, parce qu'elle le trouve monotone. Mais justement, cet après-midi, elle a deux heures de cours d'histoire. Alors, qu'est-ce qu'elle fait en classe ? Eh bien, elle regarde le professeur mais elle a l'esprit ailleurs.
 
