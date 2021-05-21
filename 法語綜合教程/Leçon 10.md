@@ -364,14 +364,60 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 1. en&emsp;&emsp;pron. 代詞
 2. une activité&emsp;&emsp;活動
 3. lire&emsp;&emsp;v.t. 讀
+
+    變位（第三組）：
+
+        je lis
+        tu lis
+        il (elle) lit
+        nous lisons
+        vous lisez
+        ils (elles) lisent
+
+    lire un roman, un journal, un texte
+
 4. écrire&emsp;&emsp;v.t. 寫
+
+    變位（第三組）：
+
+        je écris
+        tu écris
+        il (elle) écrit
+        nous écrivons
+        vous écrivez
+        ils (elles) écrivent
+
+    Il ne sait ni lire ni écrire. 他既不識字也不會寫。
+
+    1. écrire qqch.
+
+            Exp. Écrivez votre nom sur cette feuille de papier. 在這張紙上寫上你的名字。
+            - Qu'est-ce que tu écris ? - Un article. / Une lettre. / Un roman.
+
+    2. écrire (qqch.) à qn.
+
+            Je vais écrire (une lettre) à mon petit frère.
+            Elle écrit une carte postale à ses grands-parents.
+
 5. un exercise&emsp;&emsp;練習
-6. l'après-midi&emsp;&emsp;n.m. 下午
+
+    faire des exercises
+
+6. l'après-midi&emsp;&emsp;**n.m. ou n.f.** 下午
+
+    既可作陽性也可作陰性，意思一樣。
+
 7. un travail&emsp;&emsp;工作
 8. pas mal de&emsp;&emsp;不少……
+
+    pas mal de（更口語化） = beaucoup de
+
 9. comme&emsp;&emsp;conj. 作爲；如同
 10. l'anglais&emsp;&emsp;n.m. 英語
 11. quelquefois&emsp;&emsp;adv. 有時候
+
+    La fréquence: 
+
 12. une éducation physique&emsp;&emsp;體育
 13. une philosophie&emsp;&emsp;哲學
 14. classique&emsp;&emsp;adj. 古典的
