@@ -360,6 +360,58 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 
 # Dialogue
 
+(Joëlle en conversation avec Dragon céleste sur Internet.)
+
+Dragon cèleste : Vous apprenez le français depuis combien de semaines Lavande magique ?
+
+Joëlle : Depuis sept ou huit semaines.
+
+D : En semaine, combien d'heures de cours avez-vous le matin ?
+
+J : J'en ai trois ou quatre.
+
+D : Quelles sont les activités en classe ?
+
+J : Eh bien, nous lisons, nous écrivons, nous parlons et nous faisons des exercises.
+
+D : Et l'après-midi, vous avez beaucoup de travail ?
+
+J : Oui, j'en ai pas mal.
+
+D : Qu'est-ce que vous avez comme cours ?
+
+J : J'ai un cours de français et un cours d'anglais. L'après-midi, quelquefois, j'ai un cours de philosophie ou un cours de chinois classique, parfois, un cours d'éducation physique ou une conférence.
+
+D : Et le soir, est-ce que vous avez encore des cours ?
+
+J : Normalement, le mardi soir, j'ai un cours à option.
+
+D : Oh là là ! Il est bien chargé, votre emploi du temps !
+
+J : Oui, pour ce semestre.
+
+D : Est-ce que vous êtes habituée à la vie à l'unversité ?
+
+J : Hmm, ça va. Parlons de vous maintenant, Dragon cèleste !
+
+D : De moi ?
+
+J : Oui, de vous. Vous connaissez bien le kung-fu, n'est-ce pas ?
+
+D : Oui, je le connais assez bien, c'est un sport de combat.
+
+J ; Alors dites-moi Dragon cèleste, est-ce que vous pratiquez ce sport ?
+
+D : Non, mais j'aime beaucoup les films de kung-fu.
+
+J : Vous êtes employé de banque et vous aimez le kung-fu.
+
+D : Oui, c'est ça.
+
+J : C'est bizarre.
+
+D : Non, ce n'est pas bizarre, c'est mon passe-temps favori.
+
 ### Vocabulaire
 1. en&emsp;&emsp;pron. 代詞
 2. une activité&emsp;&emsp;活動
@@ -488,6 +540,16 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
         Quel est votre passe-temps favori ?
 
     <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20loisirs.png" width = "50%">
+33. quel, quelle, quels, quelles&emsp;&emsp;疑問形容詞
+
+        Quel est votre nom ?
+        Quel est votre numéro de téléphone ?
+        Quels sont vos problèmes ?
+        Quel âge as-tu ?
+        Quel roman lis-tu ?
+        Quels sports pratiquez-vous ? (Qu'est-ce que vous pratiquez comme sports ?)
+        De quelle ville êtes-vous ?
+        Pour quelle entreprise travaille ton frère ?
 
 # Texte
 Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les voici : français, anglais, histoire, informatique. Joëlle aime bien le français et l'informatique. Mais est-ce qu'elle aime aussi l'anglais ? Pas vraiment. Elle sait que l'anglais est très utile, mais ça fait dix ans qu'elle apprend cette langue. Et l'histoire ? Non, à vrai dire, elle déteste ce cours-là, parce qu'elle le trouve monotone. Mais justement, cet après-midi, elle a deux heures de cours d'histoire. Alors, qu'est-ce qu'elle fait en classe ? Eh bien, elle regarde le professeur mais elle a l'esprit ailleurs.
