@@ -417,7 +417,8 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 11. quelquefois&emsp;&emsp;adv. 有時候
 
     La fréquence: 
-    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/La%20fr%C3%A9quence.png" width="50%">
+
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/La%20fr%C3%A9quence.png" width="50%" align="center">
 
 12. une éducation physique&emsp;&emsp;體育
 13. une philosophie&emsp;&emsp;哲學
