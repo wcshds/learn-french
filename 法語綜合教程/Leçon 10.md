@@ -418,7 +418,7 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 
     La fréquence: 
 
-    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/La%20fr%C3%A9quence.png" width="50%" align="center">
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/La%20fr%C3%A9quence.png" width="50%">
 
 12. une éducation physique&emsp;&emsp;體育
 13. une philosophie&emsp;&emsp;哲學
@@ -429,18 +429,63 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 18. ce (cet), cette&emsp;&emsp;adj.dém. 這個
 19. un emploi du temps&emsp;&emsp;時間表，日程表
 20. chargé, chargée&emsp;&emsp;adj. 充滿的
+
+        un emploi du temps chargé
+        une journée bien chargée
+        un livreur chargé de paquets 拿滿包裹的快遞員
+        les bras chargés de cadeaux
+
 21. pour&emsp;&emsp;prép. 對於；爲了
 22. un semestre&emsp;&emsp;學期
 23. habitué, habituée&emsp;&emsp;adj. 習慣的
+
+    1. être habitué(e) à ...
+
+            Exp. Cet étranger n'est pas encore habitué à la cuisine chinoise.
+            Ils sont habitués au bruit.
+
+    2.  habitué(e) 也可作名詞用，表示「常客」
+    
+            C'est un habitué de ce café. 這是這家咖啡店的常客。
+
+
 24. parler de&emsp;&emsp;談論
 25. n'est-ce pas ?&emsp;&emsp;對不對？是不是？
 26. un sport&emsp;&emsp;運動
 27. un combat&emsp;&emsp;戰鬥，格鬥
-28. dire&emsp;&emsp;v.t. 說
+28. dire&emsp;&emsp;v. 說
+
+    變位（第三組）：
+
+        je dis
+        tu dis
+        il (elle) dit
+        nous disons
+        vous dites
+        ils (elles) disent
+
+    1. dire (qqch.) à qn.
+
+            Exp. Le professeur entre dans la classe et dit bonjour à tout le monde.
+            Il dit au revoir à ses amis et rentre à la maison.
+            Dites-moi, est-ce que vous aimez la cuisine japonaise ?
+
+    2. dire à qn. de + v.
+
+            Exp. Martine dit à son fils de ranger sa chambre.
+            Je dis à mes voisins de ne pas faire de bruit après 23 heures.
+
 29. pratiquer&emsp;&emsp;v.t. 從事，實踐
 30. un film [ film ]&emsp;&emsp;電影
 31. un passe-temps&emsp;&emsp;消遣，娱樂
 32. favori, favorite&emsp;&emsp;adj. 最喜歡的
+
+        Émile Zola est mon auteur favori. (préféré)
+        Quel / Qui est votre acteur favori ?
+        Quel est votre roman favori ?
+        C'est ma robe favorite.
+        C'est son disque favori.
+        Quel est votre passe-temps favori ?
 
 # Texte
 Le mardi, Joëlle a une journée pleine. Qu'est-ce qu'elle a comme cours ? Les voici : français, anglais, histoire, informatique. Joëlle aime bien le français et l'informatique. Mais est-ce qu'elle aime aussi l'anglais ? Pas vraiment. Elle sait que l'anglais est très utile, mais ça fait dix ans qu'elle apprend cette langue. Et l'histoire ? Non, à vrai dire, elle déteste ce cours-là, parce qu'elle le trouve monotone. Mais justement, cet après-midi, elle a deux heures de cours d'histoire. Alors, qu'est-ce qu'elle fait en classe ? Eh bien, elle regarde le professeur mais elle a l'esprit ailleurs.
