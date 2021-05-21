@@ -362,7 +362,7 @@ pas mal（不少，口語化的說法）	combien（多少，疑問副詞）	trop
 
 (Joëlle en conversation avec Dragon céleste sur Internet.)
 
-Dragon cèleste : Vous apprenez le français depuis combien de semaines Lavande magique ?
+Dragon cèleste : Vous apprenez le français depuis combien de semaines, Lavande magique ?
 
 Joëlle : Depuis sept ou huit semaines.
 
