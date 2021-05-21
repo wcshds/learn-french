@@ -400,7 +400,7 @@ J : Oui, de vous. Vous connaissez bien le kung-fu, n'est-ce pas ?
 
 D : Oui, je le connais assez bien, c'est un sport de combat.
 
-J ; Alors dites-moi Dragon cèleste, est-ce que vous pratiquez ce sport ?
+J : Alors dites-moi Dragon cèleste, est-ce que vous pratiquez ce sport ?
 
 D : Non, mais j'aime beaucoup les films de kung-fu.
 
