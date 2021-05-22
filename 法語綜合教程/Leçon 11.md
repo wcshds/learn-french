@@ -9,6 +9,32 @@
     neiger :		il neige	下雪
     falloir :		il faut		應該
 
+### 用法
+
+用 il fait 表示自然現象：
+
+    Quel temps fait-il ?
+
+    Il fait beau (temps).						天晴。
+    Il fait mauvais (temps).					天氣不好。
+    Il fait chaud.								天熱。
+    Il fait froid.								天冷。
+    Il ne fait ni chaud ni froid.				天氣不熱也不冷。
+    Il fait lourd.								天氣悶熱。
+    Il fait doux.								天氣溫暖。
+    Il fait frais.								天涼。
+    Il fait sec.								天氣乾燥。
+    Il fait humide.								天氣潮濕。
+    Il fait un temps magnifique / splendide.	天氣好極了。
+    Il fait un temps épouvantable / terrible.	天氣糟透了
+    Il fait trente degrés (30℃).				氣溫30度。    
+    Il fait moins cinq degrés (-5℃).            氣溫零下5度。
+
+
+也可用 il y a 表示天氣情況：
+
+    Il y a du soleil.                           有太陽。
+    Il y a du vent.                             有風。
 
 Quel temps fait-il ?
 
