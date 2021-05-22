@@ -48,7 +48,7 @@
     <tbody align="center">
         <tr>
             <td colspan="2">
-                第一組動詞 entrer
+                <strong>第一組動詞 entrer</strong>
             </td>
         </tr>
         <tr>
