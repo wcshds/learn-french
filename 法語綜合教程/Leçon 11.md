@@ -37,11 +37,59 @@
     Il y a du vent.					有風。
 
 
+## L'impératif（命令式）
+
+命令式是表示命令、號召或請求的語式。
+
+### 形式
+命令式有三種人稱變位形式，即第二人稱單數、第一人稱複數和第二人稱複數。一般情況下，刪去人稱代詞，保留動詞直陳式現在時即構成動詞命令式。如：
+
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2">
+                第一組動詞 entrer
+            </td>
+        </tr>
+        <tr>
+            <td>
+                直陳式現在時
+            </td>
+            <td>
+                命令式
+            </td>
+        </tr>
+        <tr>
+            <td>
+                tu entres
+            </td>
+            <td>
+                entre
+            </td>
+        </tr>
+        <tr>
+            <td>
+                nous entrons
+            </td>
+            <td>
+                entrons
+            </td>
+        </tr>
+        <tr>
+            <td>
+                vous entrez
+            </td>
+            <td>
+                entrez
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 # Dialogue
 (Joëlle et Thérèse dans la chambre.)
 
-JOëlle : Est-ce qu'il pleut, Thérèse ? Quel temps fait-il ?
+Joëlle : Est-ce qu'il pleut, Thérèse ? Quel temps fait-il ?
 
 Thérèse : Je ne sais pas, je suis occupée; tu vois, je suis en train de lire le journal.
 
