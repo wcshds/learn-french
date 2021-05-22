@@ -101,9 +101,41 @@
         Tu ne viens pas ? Alors j'y vais moi-même.
 
 13. sois&emsp;&emsp;動詞 être 的命令式
-14. une température&emsp;&emsp;溫度
-15. voir&emsp;&emsp;v.t. 看見
+14. la température&emsp;&emsp;溫度
+15. voir&emsp;&emsp;v. 看見
+
+    變位（第三組）：
+
+        je vois
+        tu vois
+        il (elle) voit
+        nous voyons
+        vous voyez
+        ils (elles) voient
+
+    1. vi.
+
+            Exp. Je mets mes lunettes pour mieux voir.
+            La nuit tombe. On ne voit pas clairement.
+
+    2. voir + qn. / qch.
+
+            Exp. Va voir le médecin.
+            Je suis heureuse de te (re)voir.
+            La nuit tombe. On ne voit rien dehors.
+
 16. s'habiller&emsp;&emsp;v.pr. 穿衣
+
+    \* habiller + qn./qch.
+
+        Exp. habiller un enfant le matin	每天早上給孩子穿衣服
+        habiller un livre	包書皮
+
+    \* s'habiller
+
+        Exp. Je ne sais pas comment m'habiller aujourd'hui.	我不知道今天穿什麽。
+        Coco Chanel s'habille toujours en noir.	香奈兒女士總是穿黑色的衣服。
+
 17. sortir&emsp;&emsp;v.i. 出去
 18. attendre&emsp;&emsp;v.t. 等候
 19. un degré&emsp;&emsp;度
