@@ -43,17 +43,63 @@
 ### Vocabulaire
 
 1. pleuvoir [ pløvwɑːʁ ]&emsp;&emsp;v.impers. 下雨
-2. un temps&emsp;&emsp;天氣
+
+        Il pleure dans mon cœur
+        Comme il pleut sur la ville
+
+2. le temps&emsp;&emsp;天氣
 3. il fait&emsp;&emsp;表示天氣情況
 4. être en train de&emsp;&emsp;正在……
 5. un journal (des journaux)&emsp;&emsp;報紙
 6. par&emsp;&emsp;prép. 通過
+
+    1. à travers (lieu)&emsp;&emsp;穿過，透過（地點、物件）
+
+            Exp. passer par la porte / le couloir
+            regarder par la fenêtre
+            Je peux voir la Tour Eiffel par la fenêtre du salon.
+    
+    2. moyen, manière
+
+            Exp. J'ai appris la nouvelle par mes voisins.
+            répondre par/avec oui ou non, par le silence
+
 7. s'il te plaît&emsp;&emsp;請（你）
+
+    s'il vous plaît&emsp;&emsp;請（您）
+
 8. gris, grise&emsp;&emsp;adj. 灰色的；陰沈的
-9. vent&emsp;&emsp;風
+
+        Il fait gris.
+
+9. du vent&emsp;&emsp;風
+
+        Il fait du vent.
+        Il y a du vent.
+
 10. dehors [ dəɔːʁ ]&emsp;&emsp;adv. 在外面
+
+    \* dehors, en dehors de
+    \* dedans, dans
+
+        Attendez-moi dehors.
+        Je suis dehors toute la journée.
+        On va manger dehors. (dans le jardin OU en ville, au restaurant)
+        Dehors ! (Va-t'en !)	快走！
+
 11. un thermomètre&emsp;&emsp;溫度計
 12. toi-même&emsp;&emsp;pron. 你自己
+
+    \* soi 泛指的重讀人稱代詞，表示「自己」
+        
+        Après la conférence, chacun rentre chez soi.
+        Après la conférence, Pierre rentre chez lui.
+
+    \* soi-mème
+
+        Ici, on fait tout soi-même.
+        Tu ne viens pas ? Alors j'y vais moi-même.
+
 13. sois&emsp;&emsp;動詞 être 的命令式
 14. une température&emsp;&emsp;溫度
 15. voir&emsp;&emsp;v.t. 看見
