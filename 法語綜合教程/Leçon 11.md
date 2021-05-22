@@ -4,10 +4,10 @@
 
 法語中有一小部分動詞變位僅有第三人稱單數形式，此時，主語代詞 il 並不指具體的人或物，這類動詞被稱爲無人稱動詞，例如
 
-    pleuvoir		il pleut	下雨
-    geler			il gèle		結冰
-    neiger			il neige	下雪
-    falloir			il faut		應該
+    pleuvoir :		il pleut	下雨
+    geler :			il gèle		結冰
+    neiger :			il neige	下雪
+    falloir :			il faut		應該
 
 
 Quel temps fait-il ?
