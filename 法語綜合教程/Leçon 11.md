@@ -90,6 +90,93 @@
 
 *tu vas -> va; tu ouvres -> ouvre*
 
+<br />
+
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2">
+                <strong>第二組動詞 finir</strong>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                直陳式現在時
+            </td>
+            <td width="50%">
+                命令式
+            </td>
+        </tr>
+        <tr>
+            <td>
+                tu finis
+            </td>
+            <td>
+                finis
+            </td>
+        </tr>
+        <tr>
+            <td>
+                nous finissons
+            </td>
+            <td>
+                finissons
+            </td>
+        </tr>
+        <tr>
+            <td>
+                vous finissez
+            </td>
+            <td>
+                finissez
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2">
+                <strong>不規則動詞 attendre</strong>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                直陳式現在時
+            </td>
+            <td width="50%">
+                命令式
+            </td>
+        </tr>
+        <tr>
+            <td>
+                tu attends
+            </td>
+            <td>
+                attends
+            </td>
+        </tr>
+        <tr>
+            <td>
+                nous attendons
+            </td>
+            <td>
+                attendons
+            </td>
+        </tr>
+        <tr>
+            <td>
+                vous attendez
+            </td>
+            <td>
+                attendez
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 # Dialogue
 (Joëlle et Thérèse dans la chambre.)
 
