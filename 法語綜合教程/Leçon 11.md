@@ -86,6 +86,10 @@
     </tbody>
 </table>
 
+*注意：第一組動詞中，第二人稱單數的命令式詞尾-s要去掉。此外，aller, ouvrir（打開）的第二人稱單數命令式詞尾-s也要刪去：*
+
+*tu vas -> va; tu ouvres -> ouvre*
+
 # Dialogue
 (Joëlle et Thérèse dans la chambre.)
 
