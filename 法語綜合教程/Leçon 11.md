@@ -39,6 +39,31 @@
 
 
 # Dialogue
+(Joëlle et Thérèse dans la chambre.)
+
+JOëlle : Est-ce qu'il pleut, Thérèse ? Quel temps fait-il ?
+
+Thérèse : Je ne sais pas, je suis occupée; tu vois, je suis en train de lire le journal.
+
+J : Regarde par la fenêtre, s'il te plaît.
+
+T : Oui, il pleut, il fait gris et il y a du vent.
+
+J : Est-ce qu'il fait froid dehors ?
+
+T : Dehors, je ne sais pas, mais dedans ça va.
+
+J : Regarde le thermomètre, quelle est la température ?
+
+T : Va voir toi-même !
+
+J : S'il te plaît, sois gentille, dis-moi quelle est la température, je ne sais pas comment m'habiller pour sortir.
+
+T : Bon, attends. Onze degrés.
+
+J : Merci. Il pleut encore ?
+
+T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le beau temps.
 
 ### Vocabulaire
 
@@ -136,11 +161,57 @@
         Exp. Je ne sais pas comment m'habiller aujourd'hui.	我不知道今天穿什麽。
         Coco Chanel s'habille toujours en noir.	香奈兒女士總是穿黑色的衣服。
 
-17. sortir&emsp;&emsp;v.i. 出去
-18. attendre&emsp;&emsp;v.t. 等候
+17. sortir&emsp;&emsp;v. 出去
+
+    變位（第三組）：
+
+        je sors
+        tu sors
+        il (elle) sort
+        nous sortons
+        vous sortez
+        ils (elles) sortent
+
+    1. vi.
+    
+            Exp. Philippe sort de sa chambre.
+            Sortez !
+            Il fait très froid. Je n'ai pas envie de sortir.
+            Le week-end, elle sort avec ses amies.	每週末，她都和朋友們出去。
+            Marc sort avec Joëlle depuis un an.	Marc和Joëlle在一起一年了。
+
+    2. sortir + qn./qch.
+
+            Exp. Je sors ma voiture du garage.	我把車從車庫裡開了出來。
+            Martine sort une feuille de papier de sa poche.	Martine從口袋裡拿出了一張紙。
+            sortir un enfant, un chien	溜娃，溜狗
+
+18. attendre&emsp;&emsp;v.t. 
+
+    變位（第三組）：
+
+        j'attends
+        tu attends
+        il (elle) attend
+        nous attendons
+        vous attendez
+        ils (elles) attendent
+
 19. un degré&emsp;&emsp;度
 20. presque&emsp;&emsp;adv. 幾乎
-21. changer&emsp;&emsp;v.i. 變化
+21. changer&emsp;&emsp;v. 變化
+
+    1. vi.
+
+            Exp. Le temps va changer.
+            Tu as changé.
+
+    2. changer de qch.
+
+            Exp. Tu veux changer de place avec moi ?
+            Il change d'appartement. (déménager)
+            Véronique change toujours de coiffure.
+
 22. vite&emsp;&emsp;adv. 快
 23. de la pluie&emsp;&emsp;雨
 24. beau, bel, belle&emsp;&emsp;adj. 美麗的
