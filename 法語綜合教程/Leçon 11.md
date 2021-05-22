@@ -28,13 +28,13 @@
     Il fait un temps magnifique / splendide.	天氣好極了。
     Il fait un temps épouvantable / terrible.	天氣糟透了
     Il fait trente degrés (30℃).			氣溫30度。    
-    Il fait moins cinq degrés (-5℃).	氣溫零下5度。
+    Il fait moins cinq degrés (-5℃).		氣溫零下5度。
 
 
 也可用 il y a 表示天氣情況：
 
-    Il y a du soleil.			有太陽。
-    Il y a du vent.				有風。
+    Il y a du soleil.				有太陽。
+    Il y a du vent.					有風。
 
 Quel temps fait-il ?
 
