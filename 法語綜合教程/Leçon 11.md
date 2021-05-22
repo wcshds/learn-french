@@ -13,7 +13,7 @@
 
 用 il fait 表示自然現象：
 
-    Quel temps fait-il ?			天氣怎麽樣？
+    Quel temps fait-il ?				天氣怎麽樣？
 
     Il fait beau (temps).				天晴。
     Il fait mauvais (temps).			天氣不好。
