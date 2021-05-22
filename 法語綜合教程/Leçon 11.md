@@ -6,8 +6,8 @@
 
     pleuvoir :		il pleut	下雨
     geler :			il gèle		結冰
-    neiger :			il neige	下雪
-    falloir :			il faut		應該
+    neiger :		il neige	下雪
+    falloir :		il faut		應該
 
 
 Quel temps fait-il ?
