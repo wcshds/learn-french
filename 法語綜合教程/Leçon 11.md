@@ -52,10 +52,10 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 直陳式現在時
             </td>
-            <td>
+            <td width="50%">
                 命令式
             </td>
         </tr>
