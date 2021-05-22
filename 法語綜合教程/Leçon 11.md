@@ -131,11 +131,7 @@
                 finissez
             </td>
         </tr>
-    </tbody>
-</table>
-
-<table>
-    <tbody align="center">
+        <tr height="16px"></tr>
         <tr>
             <td colspan="2">
                 <strong>不規則動詞 attendre</strong>
