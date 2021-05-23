@@ -76,7 +76,7 @@
                 <br />
                 tu ne finis pas
                 <br />
-                il (elle) ne finis pas
+                il (elle) ne finit pas
                 <br />
                 nous ne finissons pas
                 <br />
