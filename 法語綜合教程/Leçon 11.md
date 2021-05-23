@@ -36,6 +36,79 @@
     Il y a du soleil.				有太陽。
     Il y a du vent.					有風。
 
+## Les verbes du deuxième groupe（第二組動詞）
+
+### 構成
+
+不定式以-ir 結尾的規則動詞屬於第二組動詞。第二組動詞的直陳式現在時變位是由詞根加詞尾-is, -is, -it, issons, -issez, -issent 構成的。如：
+
+<table>
+    <tbody align="center">
+        <tr>
+            <td colspan="2">
+                finir（結束）
+            </td>
+        </tr>
+        <tr>
+            <td>
+                forme affirmative
+            </td>
+            <td>
+                forme négative
+            </td>
+        </tr>
+        <tr>
+            <td>
+                je finis
+                tu finis
+                il (elle) finit
+                nous finissons
+                vous finissez
+                ils (elles) finissent
+            </td>
+            <td>
+                je ne finis pas
+                tu ne finis pas
+                il (elle) ne finis pas
+                nous ne finissons pas
+                vous ne finissez pas
+                ils (elles) ne finissent pas
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                forme interrogative
+            </td>
+        </tr>
+        <tr>
+            <td>
+                première forme
+            </td>
+            <td>
+                deuxième forme
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Finis-je ... ?
+                Finis-tu ... ?
+                Finit-il (elle) ... ?
+                Finissons-nous ... ?
+                Finissez-vous ... ?
+                Finissent-ils (elles) ... ?
+            </td>
+            <td>
+                Est-ce que je finis ... ?
+                Est-ce que tu finis ... ?
+                Est-ce qu'il (elle) finit ... ?
+                Est-ce que nous finissons ... ?
+                Est-ce que vous finissez ... ?
+                Est-ce qu'ils (elles) finissent ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## L'impératif（命令式）
 
@@ -454,7 +527,22 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
 18. le soleil&emsp;&emsp;太陽
 19. briller&emsp;&emsp;v.i. 閃耀
 20. le ciel&emsp;&emsp;天空
-21. tout&emsp;&emsp;adv. 非常
+21. tout
+
+    1. adv. 非常
+
+            Exp. Il habite tout seul dans ce grand appartement.
+            Les enfants jouent tout seuls dans le jardin.
+
+            C'est un salle de cinéma toute neuve.
+            Regarde tes mains, elles sont toutes sales !
+
+            Elle est tout / toute heureuse de le rencontrer dans la rue.
+            Il boit la bouteille tout / toute entière.
+
+            Le parking est tout près du supermarché.
+            Parlez tout doucement. Le bébé dort.
+
 22. bleu, bleue&emsp;&emsp;adj. 藍色的
 23. un souffle de vent&emsp;&emsp;一絲風
 24. un fruit&emsp;&emsp;水果
