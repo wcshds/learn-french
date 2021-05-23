@@ -172,9 +172,9 @@
 
 *注意：être, avoir, savoir等動詞命令式變位形式較特殊，須牢記：*
 
-    être : 		sois	soyons		soyez
-    avoir : 	aie	ayons		ayez
-    savoir : 	sache	sachons		sachez
+    être : 		sois	soyons	soyez
+    avoir : 	aie	ayons	ayez
+    savoir : 	sache	sachons	sachez
 
 
 # Dialogue
