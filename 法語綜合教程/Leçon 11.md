@@ -366,6 +366,18 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 
 # Texte
 
+(Li Wei, étudiant originaire de la province du Henan, décrit les quatre saisons de son pays natal.)
+
+Il y a quatre saisons dans une année : le printemps, l'été, l'automne et l'hiver.
+
+Au printemps, la nature se réveille. Il fait beau. Les jours s'allongent, les fleurs poussent dans les jardins et les arbres se couvrent de feuilles.
+
+L'été est la saison la plus chaude. Le soleil brille. Le ciel est tout bleu. Il n'y a pas un souffle de vent. Les fruits mûrissent dans les jardins.
+
+En automne, les jours diminuent. Le ciel est gris. Le vent souffle fort. Il pleut souvent. Le soleil devient pâle et le temps devient frais. Les feuilles jaunissent et tombent.
+
+En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres n'ont plus de feuilles.
+
 ### Vocabulaire
 1. la province&emsp;&emsp;（中國的）省
 
