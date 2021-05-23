@@ -176,6 +176,13 @@
     avoir : 	aie	ayons	ayez
     savoir : 	sache	sachons	sachez
 
+### 命令式的否定
+
+通常在肯定命令式前後加 ne ... pas 構成否定，如：
+
+    Ne sois pas en retard.
+    Ne regarde pas la télévision maintenant.
+
 
 # Dialogue
 (Joëlle et Thérèse dans la chambre.)
@@ -355,6 +362,78 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 23. de la pluie&emsp;&emsp;雨
 24. beau, bel, belle&emsp;&emsp;adj. 美麗的
 25. le beau temps&emsp;&emsp;晴天
+
+
+# Texte
+
+### Vocabulaire
+1. la province&emsp;&emsp;（中國的）省
+
+    法國人則稱除巴黎外的地區爲province（外省）
+
+    法國人說的「省」是région, département
+
+2. le Henan&emsp;&emsp;河南
+
+    la province du Henan&emsp;&emsp;河南省
+
+3. une saison&emsp;&emsp;季節
+
+    les quatre saisons&emsp;&emsp;四季
+
+4. le pays natal&emsp;&emsp;故鄉
+5. le printemps&emsp;&emsp;春
+6. l'été&emsp;&emsp;夏
+7. l'automne&emsp;&emsp;秋
+8. l'hiver&emsp;&emsp;冬
+9. la nature&emsp;&emsp;大自然
+10. se réveiller&emsp;&emsp;v.pr. 甦醒，復甦
+
+    1. v.
+
+        \* réveiller qn./qch. 叫醒某人/某物
+
+            Exp. Réveille-moi à six heures demain matin, s'il te plaît.
+            Il ne faut pas réveiller le chat qui dort (dormir). 諺語，表示「不要惹是生非」。
+
+        \* se réveiller 醒來
+
+            Exp. Philippe se réveille tous les matins de bonne heure.
+            Réveille-toi, c'est l'heure.
+
+    2. n.
+
+            mettre le réveil à six heures 把鬧鐘調到六點
+
+11. s'allonger&emsp;&emsp;v.pr. 變長
+12. une fleur&emsp;&emsp;花
+13. pousser&emsp;&emsp;v.i. 生長
+14. un arbre&emsp;&emsp;樹
+15. se couvrir&emsp;&emsp;v.pr. 披蓋
+16. une feuille&emsp;&emsp;葉
+17. chaud, chaude&emsp;&emsp;炎熱的
+18. le soleil&emsp;&emsp;太陽
+19. briller&emsp;&emsp;v.i. 閃耀
+20. le ciel&emsp;&emsp;天空
+21. tout&emsp;&emsp;adv. 非常
+22. bleu, bleue&emsp;&emsp;adj. 藍色的
+23. un souffle de vent&emsp;&emsp;一絲風
+24. un fruit&emsp;&emsp;水果
+25. mûrir&emsp;&emsp;v.i. 成熟
+26. diminuer&emsp;&emsp;v.i. 縮短，減少
+27. souffler&emsp;&emsp;v.i. 颳風；吹
+28. fort&emsp;&emsp;adv. 有力地，猛烈地
+29. devenir&emsp;&emsp;v.i. 成爲；變成
+30. pâle&emsp;&emsp;adj. 蒼白的；暗淡的
+31. frais, fraîche&emsp;&emsp;adj. 天涼的；新鮮的
+32. jaunir&emsp;&emsp;v.i. 變黃
+33. tomber&emsp;&emsp;v.i. 落下，掉下
+34. parfois&emsp;&emsp;adv. 有時
+35. neiger&emsp;&emsp;v.impers. 下雪
+36. tout&emsp;&emsp;pron.indéf. 一切
+37. glacé, glacée&emsp;&emsp;adj. 結冰的
+38. givré, givrée&emsp;&emsp;adj. 鋪滿霜的
+
 
 
 
