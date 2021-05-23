@@ -389,7 +389,7 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 9. la nature&emsp;&emsp;大自然
 10. se réveiller&emsp;&emsp;v.pr. 甦醒，復甦
 
-    1. v.
+    1. réveiller&emsp;&emsp;v.
 
         \* réveiller qn./qch. 叫醒某人/某物
 
@@ -401,15 +401,42 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
             Exp. Philippe se réveille tous les matins de bonne heure.
             Réveille-toi, c'est l'heure.
 
-    2. n.
+    2. réveil&emsp;&emsp;n.
 
             mettre le réveil à six heures 把鬧鐘調到六點
 
 11. s'allonger&emsp;&emsp;v.pr. 變長
+
+        Les jours s'allongent.	白天（日照時間）變長。
+
 12. une fleur&emsp;&emsp;花
-13. pousser&emsp;&emsp;v.i. 生長
+13. pousser&emsp;&emsp;v.
+
+    1. pousser qn./qch.&emsp;&emsp;推……
+
+            Exp. pousser une porte
+            Il pousse les gens pour entrer dans la salle.	他把人推開進入房間。
+
+    2. vi.&emsp;&emsp;生長；推
+
+            Exp. Ne poussez pas !	不要推我！
+            Les plantes / Les arbres / Les légumes poussent bien dans le jardin.
+            Les chevaux de mon fils poussent vite.
+
 14. un arbre&emsp;&emsp;樹
 15. se couvrir&emsp;&emsp;v.pr. 披蓋
+
+    \* couvrir qch. (avec / de qch.)
+
+        Exp. couvrir un lit d'un dessus-de-lit	用牀罩把牀蓋上
+        couvrir un plat avec un couvercle
+
+    \* se couvrir de qch. / qcn.
+
+        Exp. Le ciel se couvre de nuageds.
+        Les champs se couvrent de fleurs.
+        La place se couvre de curieux.
+
 16. une feuille&emsp;&emsp;葉
 17. chaud, chaude&emsp;&emsp;炎熱的
 18. le soleil&emsp;&emsp;太陽
@@ -420,7 +447,19 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 23. un souffle de vent&emsp;&emsp;一絲風
 24. un fruit&emsp;&emsp;水果
 25. mûrir&emsp;&emsp;v.i. 成熟
-26. diminuer&emsp;&emsp;v.i. 縮短，減少
+26. diminuer&emsp;&emsp;v. 縮短，減少
+
+    1. vi.
+
+            Exp. La chaleur diminue.
+            Sa colère diminue.
+            Les prix diminuent.
+
+    2. diminuer qch.
+
+            Exp. diminuer les prix
+            diminuer le volume
+
 27. souffler&emsp;&emsp;v.i. 颳風；吹
 28. fort&emsp;&emsp;adv. 有力地，猛烈地
 29. devenir&emsp;&emsp;v.i. 成爲；變成
