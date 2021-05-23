@@ -43,17 +43,17 @@
 不定式以-ir 結尾的規則動詞屬於第二組動詞。第二組動詞的直陳式現在時變位是由詞根加詞尾-is, -is, -it, issons, -issez, -issent 構成的。如：
 
 <table>
-    <tbody align="center">
+    <tbody>
         <tr>
-            <td colspan="2">
+            <td colspan="2" align="center">
                 finir（結束）
             </td>
         </tr>
         <tr>
-            <td width="50%">
+            <td width="50%" align="center">
                 forme affirmative
             </td>
-            <td width="50%">
+            <td width="50%" align="center">
                 forme négative
             </td>
         </tr>
@@ -86,15 +86,15 @@
             </td>
         </tr>
         <tr>
-            <td colspan="2">
+            <td colspan="2" align="center">
                 forme interrogative
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 première forme
             </td>
-            <td>
+            <td align="center">
                 deuxième forme
             </td>
         </tr>
