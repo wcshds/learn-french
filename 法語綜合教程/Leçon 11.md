@@ -60,18 +60,28 @@
         <tr>
             <td>
                 je finis
+                <br />
                 tu finis
+                <br />
                 il (elle) finit
+                <br />
                 nous finissons
+                <br />
                 vous finissez
+                <br />
                 ils (elles) finissent
             </td>
             <td>
                 je ne finis pas
+                <br />
                 tu ne finis pas
+                <br />
                 il (elle) ne finis pas
+                <br />
                 nous ne finissons pas
+                <br />
                 vous ne finissez pas
+                <br />
                 ils (elles) ne finissent pas
             </td>
         </tr>
@@ -91,18 +101,28 @@
         <tr>
             <td>
                 Finis-je ... ?
+                <br />
                 Finis-tu ... ?
+                <br />
                 Finit-il (elle) ... ?
+                <br />
                 Finissons-nous ... ?
+                <br />
                 Finissez-vous ... ?
+                <br />
                 Finissent-ils (elles) ... ?
             </td>
             <td>
                 Est-ce que je finis ... ?
+                <br />
                 Est-ce que tu finis ... ?
+                <br />
                 Est-ce qu'il (elle) finit ... ?
+                <br />
                 Est-ce que nous finissons ... ?
+                <br />
                 Est-ce que vous finissez ... ?
+                <br />
                 Est-ce qu'ils (elles) finissent ... ?
             </td>
         </tr>
