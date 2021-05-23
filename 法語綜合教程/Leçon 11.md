@@ -50,10 +50,10 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td width="50%">
                 forme affirmative
             </td>
-            <td>
+            <td width="50%">
                 forme négative
             </td>
         </tr>
