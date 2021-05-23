@@ -463,6 +463,26 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 27. souffler&emsp;&emsp;v.i. 颳風；吹
 28. fort&emsp;&emsp;adv. 有力地，猛烈地
 29. devenir&emsp;&emsp;v.i. 成爲；變成
+
+    變位（第三組）：
+
+        je deviens
+        tu deviens
+        il (elle) devient
+        nous devenons
+        vous devenez
+        ils (elles) deviennent
+
+    1. devenir + n.
+
+            Exp. Il veut devenir médecin.
+            Tu veux devenir cadre dans une entreprise ?
+
+    2. devenir + adj.
+
+            Exp. La situation devient difficile.
+            Madame Dupont devient vieille.
+
 30. pâle&emsp;&emsp;adj. 蒼白的；暗淡的
 31. frais, fraîche&emsp;&emsp;adj. 天涼的；新鮮的
 32. jaunir&emsp;&emsp;v.i. 變黃
