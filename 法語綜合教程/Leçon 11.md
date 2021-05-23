@@ -487,6 +487,16 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 31. frais, fraîche&emsp;&emsp;adj. 天涼的；新鮮的
 32. jaunir&emsp;&emsp;v.i. 變黃
 33. tomber&emsp;&emsp;v.i. 落下，掉下
+
+        Attention ! Ton portable va tomber (par terre).
+        Les feuilles tombent une à une.
+
+        La nuit tombe.
+        La pluie tombe (très fort).
+
+        Sophie est tombée malade.
+        Sébastien est tombé amoureux de Carla.
+
 34. parfois&emsp;&emsp;adv. 有時
 35. neiger&emsp;&emsp;v.impers. 下雪
 36. tout&emsp;&emsp;pron.indéf. 一切
