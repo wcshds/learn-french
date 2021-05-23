@@ -449,10 +449,10 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 25. mûrir&emsp;&emsp;v.i. 成熟
 26. diminuer&emsp;&emsp;v. 縮短，減少
 
-    1. vi.
+    1. vi.（反義：augmenter）
 
             Exp. La chaleur diminue.
-            Sa colère diminue.
+            Sa colère diminue.	他的愤怒消退了。
             Les prix diminuent.
 
     2. diminuer qch.
