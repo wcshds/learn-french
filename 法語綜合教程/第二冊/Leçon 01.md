@@ -376,3 +376,30 @@
         </tr>
     </tbody>
 </table>
+
+### 用法
+1. 簡單將來時表示將來發生的動作或狀態。
+
+        Martine réussira dans ses études.
+        Philippe réussira dans son travail.
+        Dans dix ans, j'habiterai dans une petite ville de province.
+        Ma vie sera différente.
+
+2. 以 si 引導的從句表示條件時，si 後面的動詞用直陳式現在時，主句中表示將來能夠實現的動作用簡單將來時。
+
+        Si je ne réussis pas, ce ne sera pas une catastrophe.
+        Si je ne réussis pas cette année, ce sera terrible !
+
+3. Futur proche VS Futur simple
+
+    \* Comparez 1 :
+
+        Le ciel est couvert. Il va pleuvoir. （Futur proche 用來表示馬上就要發生的事）
+        Il pleuvra demain.
+
+        Dans cinquante ans, quel sera l'état de notre planète ?
+
+    \* Comparez 2 : 
+
+        Ils vont venir demain. （主觀能動性強）
+        Ils viendront demain. （客觀預測）
