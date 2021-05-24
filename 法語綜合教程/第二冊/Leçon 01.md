@@ -17,9 +17,15 @@
 <table>
     <tbody>
         <tr>
-            <td><strong>1<sup>er</sup> groupe</strong></td>
-            <td><strong>2<sup>e</sup> groupe</strong></td>
-            <td><strong>3<sup>e</sup> groupe</strong></td>
+            <td width="33.3%" align="center">
+                <strong>1<sup>er</sup> groupe</strong>
+            </td>
+            <td width="33.3%" align="center">
+                <strong>2<sup>e</sup> groupe</strong>
+            </td>
+            <td width="33.3%" align="center">
+                <strong>3<sup>e</sup> groupe</strong>
+            </td>
         </tr>
         <tr>
             <td>continuer</td>
@@ -29,26 +35,41 @@
         <tr>
             <td>
                 je continuerai
+                <br />
                 tu continueras
+                <br />
                 il continuera
+                <br />
                 nous continuerons
+                <br />
                 vous continuerez
+                <br />
                 ils continueront
             </td>
             <td>
                 je réussirai
+                <br />
                 tu réussiras
+                <br />
                 il réussira
+                <br />
                 nous réussirons
+                <br />
                 vous réussirez
+                <br />
                 ils réussiront
             </td>
             <td>
                 je mettrai
+                <br />
                 tu mettras
+                <br />
                 il mettra
+                <br />
                 nous mettrons
+                <br />
                 vous mettrez
+                <br />
                 ils mettront
             </td>
         </tr>
