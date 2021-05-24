@@ -28,9 +28,9 @@
             </td>
         </tr>
         <tr>
-            <td align="center">continuer</td>
-            <td align="center">réussir</td>
-            <td align="center">mettre</td>
+            <td>continuer</td>
+            <td>réussir</td>
+            <td>mettre</td>
         </tr>
         <tr>
             <td>
@@ -71,6 +71,80 @@
                 vous mettrez
                 <br />
                 ils mettront
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+*注意下列動詞的簡單將來時的特殊變位：*
+
+<table>
+    <tbody>
+        <tr>
+            <td>acheter</td>
+            <td>se lever</td>
+            <td>se promener</td>
+            <td>s'appeler</td>
+            <td>payer</td>
+            <td>essayer</td>
+            <td>être</td>
+        </tr>
+        <tr>
+            <td>
+                j'achèterai
+                tu achèteras
+                il achètera
+                nous achèterons
+                vous achèterez
+                ils achèteront
+            </td>
+            <td>
+                je me lèverai
+                tu te lèveras
+                il se lèvera
+                nous nous lèverons
+                vous vous lèverez
+                ils se lèveront
+            </td>
+            <td>
+                je me promènerai
+                tu te promèneras
+                il se promènera
+                nous nous promènerons
+                vous vous promènerez
+                ils se promèneront
+            </td>
+            <td>
+                je m'appellerai
+                tu t'appelleras
+                il s'appellera
+                nous nous appellerons
+                vous vous appellerez
+                ils s'appellerons
+            </td>
+            <td>
+                je paierai
+                tu paieras
+                il paiera
+                nous paierons
+                vous paierez
+                ils paieront
+            </td>
+            <td>
+                j'essaierai
+                tu essaieras
+                il essaiera
+                nous essaierons
+                vous essaierez
+                ils essaieront
+            </td>
+            <td>
+                je serai
+                tu seras
+                il sera
+                nous serons
+                vous serez
+                ils seront
             </td>
         </tr>
     </tbody>
