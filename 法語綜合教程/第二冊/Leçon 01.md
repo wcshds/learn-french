@@ -28,9 +28,9 @@
             </td>
         </tr>
         <tr>
-            <td>continuer</td>
-            <td>réussir</td>
-            <td>mettre</td>
+            <td align="center">continuer</td>
+            <td align="center">réussir</td>
+            <td align="center">mettre</td>
         </tr>
         <tr>
             <td>
