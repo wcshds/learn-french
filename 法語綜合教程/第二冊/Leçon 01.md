@@ -154,10 +154,13 @@
                 ils paieront
             </td>
         </tr>
-        <tr></tr>
+        <tr height="16px"></tr>
         <tr>
             <td>être</td>
             <td>essayer</td>
+            <td>avoir</td>
+            <td>aller</td>
+            <td>faire</td>
         </tr>
         <tr>
             <td>
@@ -185,6 +188,45 @@
                 vous essaierez
                 <br />
                 ils essaieront
+            </td>
+            <td>
+                j'aurai
+                <br />
+                tu auras
+                <br />
+                il aura
+                <br />
+                nous aurons
+                <br />
+                vous aurez
+                <br />
+                ils auront
+            </td>
+            <td>
+                j'irai
+                <br />
+                tu iras
+                <br />
+                il ira
+                <br />
+                nous irons
+                <br />
+                vous irez
+                <br />
+                ils iront
+            </td>
+            <td>
+                je ferai
+                <br />
+                tu feras
+                <br />
+                il fera
+                <br />
+                nous ferons
+                <br />
+                vous ferez
+                <br />
+                ils feront
             </td>
         </tr>
     </tbody>
