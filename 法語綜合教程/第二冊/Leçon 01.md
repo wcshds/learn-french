@@ -92,58 +92,93 @@
         <tr>
             <td>
                 j'achèterai
+                <br />
                 tu achèteras
+                <br />
                 il achètera
+                <br />
                 nous achèterons
+                <br />
                 vous achèterez
+                <br />
                 ils achèteront
             </td>
             <td>
                 je me lèverai
+                <br />
                 tu te lèveras
+                <br />
                 il se lèvera
+                <br />
                 nous nous lèverons
+                <br />
                 vous vous lèverez
+                <br />
                 ils se lèveront
             </td>
             <td>
                 je me promènerai
+                <br />
                 tu te promèneras
+                <br />
                 il se promènera
+                <br />
                 nous nous promènerons
+                <br />
                 vous vous promènerez
+                <br />
                 ils se promèneront
             </td>
             <td>
                 je m'appellerai
+                <br />
                 tu t'appelleras
+                <br />
                 il s'appellera
+                <br />
                 nous nous appellerons
+                <br />
                 vous vous appellerez
+                <br />
                 ils s'appellerons
             </td>
             <td>
                 je paierai
+                <br />
                 tu paieras
+                <br />
                 il paiera
+                <br />
                 nous paierons
+                <br />
                 vous paierez
+                <br />
                 ils paieront
             </td>
             <td>
                 j'essaierai
+                <br />
                 tu essaieras
+                <br />
                 il essaiera
+                <br />
                 nous essaierons
+                <br />
                 vous essaierez
+                <br />
                 ils essaieront
             </td>
             <td>
                 je serai
+                <br />
                 tu seras
+                <br />
                 il sera
+                <br />
                 nous serons
+                <br />
                 vous serez
+                <br />
                 ils seront
             </td>
         </tr>
