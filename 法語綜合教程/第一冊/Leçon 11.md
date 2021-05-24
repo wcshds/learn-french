@@ -565,7 +565,12 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
 
     2. pron.indéf. 一切（泛指代詞，無性數變化）
 
-            Exp. Tout va bien
+            Exp. Tout va bien !
+            Dans mon studio, tout est jaune : les murs, le lit, la table, l'armoire, etc.
+            N'en parle plus. Je comprends tout.
+            Il sait tout.
+            Elle a tout pour elle : la beauté, la fortune, l'intelligence.
+            C'est tout (pour aujourd'hui).
 
 22. bleu, bleue&emsp;&emsp;adj. 藍色的
 23. un souffle de vent&emsp;&emsp;一絲風
