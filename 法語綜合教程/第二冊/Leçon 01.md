@@ -81,13 +81,12 @@
 <table>
     <tbody>
         <tr>
-            <td>acheter</td>
-            <td>se lever</td>
-            <td>se promener</td>
-            <td>s'appeler</td>
-            <td>payer</td>
-            <td>essayer</td>
-            <td>être</td>
+            <td width="16.6%">acheter</td>
+            <td width="16.6%">se lever</td>
+            <td width="16.6%">se promener</td>
+            <td width="16.6%">s'appeler</td>
+            <td width="16.6%">payer</td>
+            <td width="16.6%">essayer</td>
         </tr>
         <tr>
             <td>
@@ -168,19 +167,10 @@
                 <br />
                 ils essaieront
             </td>
-            <td>
-                je serai
-                <br />
-                tu seras
-                <br />
-                il sera
-                <br />
-                nous serons
-                <br />
-                vous serez
-                <br />
-                ils seront
-            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>être</td>
         </tr>
     </tbody>
 </table>
