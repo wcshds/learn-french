@@ -138,7 +138,7 @@
                 <br />
                 vous vous appellerez
                 <br />
-                ils s'appellerons
+                ils s'appelleront
             </td>
             <td>
                 je paierai
