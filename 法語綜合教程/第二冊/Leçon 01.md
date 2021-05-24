@@ -310,7 +310,6 @@
             <td>pouvoir</td>
             <td>vouloir</td>
             <td>cueillir</td>
-            <td>falloir</td>
         </tr>
         <tr>
             <td>
