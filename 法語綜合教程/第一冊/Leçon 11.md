@@ -563,6 +563,10 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
             Le parking est tout près du supermarché.
             Parlez tout doucement. Le bébé dort.
 
+    2. pron.indéf. 一切（泛指代詞，無性數變化）
+
+            Exp. Tout va bien
+
 22. bleu, bleue&emsp;&emsp;adj. 藍色的
 23. un souffle de vent&emsp;&emsp;一絲風
 24. un fruit&emsp;&emsp;水果
@@ -619,11 +623,8 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
 
 34. parfois&emsp;&emsp;adv. 有時
 35. neiger&emsp;&emsp;v.impers. 下雪
-36. tout&emsp;&emsp;pron.indéf. 一切
-37. glacé, glacée&emsp;&emsp;adj. 結冰的
-38. givré, givrée&emsp;&emsp;adj. 鋪滿霜的
-
-
+36. glacé, glacée&emsp;&emsp;adj. 結冰的
+37. givré, givrée&emsp;&emsp;adj. 鋪滿霜的
 
 
 
