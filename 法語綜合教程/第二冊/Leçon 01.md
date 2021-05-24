@@ -229,5 +229,79 @@
                 ils feront
             </td>
         </tr>
+        <tr>
+            <td>venir</td>
+            <td>voir</td>
+            <td>envoyer</td>
+            <td>recevoir</td>
+            <td>devoir</td>
+        </tr>
+        <tr>
+            <td>
+                je viendrai
+                <br />
+                tu viendras
+                <br />
+                il viendra
+                <br />
+                nous viendrons
+                <br />
+                vous viendrez
+                <br />
+                ils viendront
+            </td>
+            <td>
+                je verrai
+                <br />
+                tu verras
+                <br />
+                il verra
+                <br />
+                nous verrons
+                <br />
+                vous verrez
+                <br />
+                ils verront
+            </td>
+            <td>
+                j'enverrai
+                <br />
+                tu enverras
+                <br />
+                il enverra
+                <br />
+                nous enverrons
+                <br />
+                vous enverrez
+                <br />
+                ils enverront
+            </td>
+            <td>
+                je recevrai
+                <br />
+                tu recevras
+                <br />
+                il recevra
+                <br />
+                nous recevrons
+                <br />
+                vous recevrez
+                <br />
+                ils recevront
+            </td>
+            <td>
+                je devrai
+                <br />
+                tu devras
+                <br />
+                il devra
+                <br />
+                nous devrons
+                <br />
+                vous devrez
+                <br />
+                ils devront
+            </td>
+        </tr>
     </tbody>
 </table>
