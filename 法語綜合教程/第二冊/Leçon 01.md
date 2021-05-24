@@ -304,5 +304,76 @@
                 ils devront
             </td>
         </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td>savoir</td>
+            <td>pouvoir</td>
+            <td>vouloir</td>
+            <td>cueillir</td>
+            <td>falloir</td>
+        </tr>
+        <tr>
+            <td>
+                je saurai
+                <br />
+                tu sauras
+                <br />
+                il saura
+                <br />
+                nous saurons
+                <br />
+                vous saurez
+                <br />
+                ils sauront
+            </td>
+            <td>
+                je pourrai
+                <br />
+                tu pourras
+                <br />
+                il pourra
+                <br />
+                nous pourrons
+                <br />
+                vous pourrez
+                <br />
+                ils pourront
+            </td>
+            <td>
+                je voudrai
+                <br />
+                tu voudras
+                <br />
+                il voudra
+                <br />
+                nous voudrons
+                <br />
+                vous voudrez
+                <br />
+                ils voudront
+            </td>
+            <td>
+                je cueillerai
+                <br />
+                tu cueilleras
+                <br />
+                il cueillera
+                <br />
+                nous cueillerons
+                <br />
+                vous cueillerez
+                <br />
+                ils cueilleront
+            </td>
+        </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td>falloir</td>
+            <td>pleuvoir</td>
+        </tr>
+        <tr>
+            <td>il faudra</td>
+            <td>il pleuvra</td>
+        </tr>
     </tbody>
 </table>
