@@ -89,14 +89,14 @@
             <td colspan="2">forme négative</td>
         </tr>
         <tr>
-            <td>
+            <td colspan="2">
                 lave-toi
                 <br />
                 lavons-nous
                 <br />
                 lavez-vous
             </td>
-            <td>
+            <td colspan="2">
                 ne te lave pas
                 <br />
                 ne nous lavons pas
