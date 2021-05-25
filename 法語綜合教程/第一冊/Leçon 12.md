@@ -13,6 +13,100 @@
         vous - vous
         ils, elles - se
 
+<table>
+    <tbody>
+        <tr>
+            <td colspan="4">se laver</td>
+        </tr>
+        <tr>
+            <td colspan="4">indicatif</td>
+        </tr>
+        <tr>
+            <td>forme affirmative</td>
+            <td>forme négative</td>
+            <td>forme interrogative Ⅰ</td>
+            <td>forme interrogative Ⅱ</td>
+        </tr>
+        <tr>
+            <td>
+                je me lave
+                <br />
+                tu te laves
+                <br />
+                il (elle) se lave
+                <br />
+                nous nous lavons
+                <br />
+                vous vous lavez
+                <br />
+                ils (elles) se lavent
+            </td>
+            <td>
+                je ne me lave pas
+                <br />
+                tu ne te laves pas
+                <br />
+                il (elle) ne se lave pas
+                <br />
+                nous ne nous lavons pas
+                <br />
+                vous ne vous lavez pas
+                <br />
+                ils (elles) ne se lavent pas
+            </td>
+            <td>
+                Me lave-je ... ?
+                <br />
+                Te laves-tu ... ?
+                <br />
+                Se lave-t-il (elle) ... ?
+                <br />
+                Nous lavons-nous ... ?
+                <br />
+                Vous lavez-vous ... ?
+                <br />
+                Se lavent-ils (elles) ... ?
+            </td>
+            <td>
+                Est-ce que je me lave ... ?
+                <br />
+                Est-ce que tu te laves ... ?
+                <br />
+                Est-ce qu'il (elle) se lave ... ?
+                <br />
+                Est-ce que nous nous lavons ... ?
+                <br />
+                Est-ce que vous vous lavez ... ?
+                <br />
+                Est-ce qu'ils (elle) se lavent ... ?
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">impératif</td>
+        </tr>
+        <tr>
+            <td colspan="2">forme affirmative</td>
+            <td colspan="2">forme négative</td>
+        </tr>
+        <tr>
+            <td>
+                lave-toi
+                <br />
+                lavons-nous
+                <br />
+                lavez-vous
+            </td>
+            <td>
+                ne te lave pas
+                <br />
+                ne nous lavons pas
+                <br />
+                ne vous lavez pas
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 2. 在語言交際中，自反代詞 se 須根據主語的人稱、性、數的變化而變化。
 3. 在否定句中，ne 放在自反代詞前，pas 放在動詞後：
 
@@ -84,3 +178,39 @@
     lire le journal	看報紙
     regarder la télévision	看電視
     surfer sur Internet	上網
+
+
+# Dialogue
+
+### Vocabulaire
+
+1. une occupation
+2. se lever
+3. l'habitude
+4. d'habitude
+5. avant
+6. supposer
+7. se brosser
+8. une dent
+9. se laver
+10. un visage
+11. une main
+12. la vitesse
+13. en vitesse
+14. se regarder
+15. la glace
+16. dépendre
+17. Ça dépend.
+18. si
+19. avoir cours
+20. se peigner
+21. et puis
+22. ensuite
+23. un stylo
+24. un cahier
+25. le sac à dos
+26. y
+27. directement
+28. passer
+29. prendre
+30. le petit déjeuner
