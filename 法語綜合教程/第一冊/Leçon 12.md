@@ -22,10 +22,10 @@
             <td colspan="4" align="center"><strong>indicatif</strong></td>
         </tr>
         <tr>
-            <td align="center">forme affirmative</td>
-            <td align="center">forme négative</td>
-            <td align="center">forme interrogative Ⅰ</td>
-            <td align="center">forme interrogative Ⅱ</td>
+            <td align="center" width="25%">forme affirmative</td>
+            <td align="center" width="25%">forme négative</td>
+            <td align="center" width="25%">forme interrogative Ⅰ</td>
+            <td align="center" width="25%">forme interrogative Ⅱ</td>
         </tr>
         <tr>
             <td>
@@ -85,8 +85,8 @@
             <td colspan="4" align="center"><strong>impératif</strong></td>
         </tr>
         <tr>
-            <td colspan="2">forme affirmative</td>
-            <td colspan="2">forme négative</td>
+            <td colspan="2" align="center" width="50%">forme affirmative</td>
+            <td colspan="2" align="center" width="50%">forme négative</td>
         </tr>
         <tr>
             <td colspan="2">
