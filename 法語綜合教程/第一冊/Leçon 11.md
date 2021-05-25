@@ -549,17 +549,25 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
 20. le ciel&emsp;&emsp;天空
 21. tout
 
-    1. adv. 非常
+    1. adv. 非常, tout, toute, toutes
+
+        \* tout 修飾陽性名詞不進行性數變化
 
             Exp. Il habite tout seul dans ce grand appartement.
             Les enfants jouent tout seuls dans le jardin.
 
+        \* tout 修飾以輔音開始的陰性形容詞一定要性數搭配
+
             C'est un salle de cinéma toute neuve.
             Regarde tes mains, elles sont toutes sales !
+
+        \* tout 修飾以元音或啞音h開始的陰性形容詞可以性數搭配，也可以不搭配
 
             Elle est tout / toute heureuse de le rencontrer dans la rue.
             Il boit la bouteille tout / toute entière.
 
+        \* tout 修飾副詞不用搭配
+        
             Le parking est tout près du supermarché.
             Parlez tout doucement. Le bébé dort.
 
