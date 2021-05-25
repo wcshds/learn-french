@@ -33,19 +33,21 @@
 ### 意義
 代動詞具有以下四種意義：
 
-1. 自反意義。這類動詞由及物動詞構成，它所表示的動作涉及施動者本身。自反人稱代詞可以是動詞的直接賓語或間接賓語。如：
+1. 自反意義。這類動詞由**及物動詞**構成，它所表示的動作涉及施動者本身。自反人稱代詞可以是動詞的直接賓語或間接賓語。如：
 
-        Il se réveille.
-        Il se brosse les dents.
+        Il se réveille. （se 是直接賓語）
+        Il se brosse les dents. （se 是間接賓語）
 
 2. 相互意義。它所表示的動作在兩個或幾個人互相之間進行。這時自反人稱代詞可以是動詞的直接賓語或間接賓語。如：
 
-        Nous nous regardons.
-        Nous nous téléphonons.
+        Nous nous regardons. （nous 是直接賓語）
+        Nous nous téléphonons. （nous 是間接賓語）
 
 3. 被動意義。它所表示的動作是被動的。如：
 
         Ça se dit en français ?
+
+        se prononcer 發音
 
 4. 絕對意義。這類動詞的自反人稱代詞是固有的，不起語法上的作用，如：
 
