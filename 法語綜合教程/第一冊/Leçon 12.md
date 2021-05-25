@@ -16,16 +16,16 @@
 <table>
     <tbody>
         <tr>
-            <td colspan="4">se laver</td>
+            <td colspan="4" align="center"><h3>se laver</h3></td>
         </tr>
         <tr>
-            <td colspan="4">indicatif</td>
+            <td colspan="4" align="center"><strong>indicatif</strong></td>
         </tr>
         <tr>
-            <td>forme affirmative</td>
-            <td>forme négative</td>
-            <td>forme interrogative Ⅰ</td>
-            <td>forme interrogative Ⅱ</td>
+            <td align="center">forme affirmative</td>
+            <td align="center">forme négative</td>
+            <td align="center">forme interrogative Ⅰ</td>
+            <td align="center">forme interrogative Ⅱ</td>
         </tr>
         <tr>
             <td>
@@ -82,7 +82,7 @@
             </td>
         </tr>
         <tr>
-            <td colspan="4">impératif</td>
+            <td colspan="4" align="center"><strong>impératif</strong></td>
         </tr>
         <tr>
             <td colspan="2">forme affirmative</td>
