@@ -129,6 +129,24 @@
     </tbody>
 </table>
 
+*許多第二組動詞是在形容詞後加上詞尾-ir 産生的：*
+
+    jaune - jaunir
+    brun - brunir
+    bleu - bleuir
+    rouge - rougir
+    blanc - blanchir
+    pâle - pâlir
+    grand - grandir
+    gros - grossir
+    noir - noircir
+    mûr - mûrir
+    mince - mincir
+    vielle - vieillir
+    riche - enrichir
+    dur - durcir
+    
+
 
 ## L'impératif（命令式）
 
@@ -567,7 +585,7 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
             Il boit la bouteille tout / toute entière.
 
         \* tout 修飾副詞不用搭配
-        
+
             Le parking est tout près du supermarché.
             Parlez tout doucement. Le bébé dort.
 
