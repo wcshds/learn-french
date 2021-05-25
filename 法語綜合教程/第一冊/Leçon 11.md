@@ -295,6 +295,38 @@
     Ne regarde pas la télévision maintenant.
 
 
+# 重點句型
+
+### Quel temps fait-il ?
+
+    Il fait beau.
+    Il y a du soleil.
+    Il y a des nuages.
+
+    Il fait mauvais.
+    Il pleut.
+    Il y a de la pluie.
+
+    Il fait du vent.
+    Il y a du vent.
+
+    Il tonne.
+
+    Il neige.
+    Il y a de la neige.
+
+### Quelle est la température ?
+
+    Il fait quarante degrés.
+    Il fait moins trente degrés.
+
+### Les quatre saisons de l'année
+
+    Au printemps, il fait doux.
+    En été, il fait chaud.
+    En automne, il fait frais.
+    En hiver, il fait froid.
+
 # Dialogue
 (Joëlle et Thérèse dans la chambre.)
 
@@ -656,41 +688,3 @@ En hiver, il fait froid. Parfois il neige. Tout est glacé et givré. Les arbres
 35. neiger&emsp;&emsp;v.impers. 下雪
 36. glacé, glacée&emsp;&emsp;adj. 結冰的
 37. givré, givrée&emsp;&emsp;adj. 鋪滿霜的
-
-
-
-Quel temps fait-il ?
-
-Il fait beau.
-Il y a du soleil.
-Il y a des nuages.
-
-Il fait mauvais.
-Il pleut.
-Il y a de la pluie.
-
-Il fait du vent.
-Il y a du vent.
-
-Il tonne.
-
-Il neige.
-Il y a de la neige.
-
-
-
-Quelle est la température ?
-
-Il fait quarante degrés.
-Il fait moins trente degrés.
-
-
-
-Les quatre saisons de l'année
-
-Au printemps, il fait doux.
-En été, il fait chaud.
-En automne, il fait frais.
-En hiver, il fait froid.
-
-
