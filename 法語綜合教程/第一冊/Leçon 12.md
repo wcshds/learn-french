@@ -184,33 +184,33 @@
 
 ### Vocabulaire
 
-1. une occupation
-2. se lever
-3. l'habitude
-4. d'habitude
-5. avant
-6. supposer
-7. se brosser
-8. une dent
-9. se laver
-10. un visage
-11. une main
-12. la vitesse
-13. en vitesse
-14. se regarder
-15. la glace
-16. dépendre
-17. Ça dépend.
-18. si
-19. avoir cours
-20. se peigner
-21. et puis
-22. ensuite
-23. un stylo
-24. un cahier
-25. le sac à dos
-26. y
-27. directement
-28. passer
-29. prendre
-30. le petit déjeuner
+1. une occupation&emsp;&emsp;事情
+2. se lever&emsp;&emsp;v.pr. 起牀；起身
+3. l'habitude&emsp;&emsp;n.f. 習慣
+4. d'habitude&emsp;&emsp;通常
+5. avant&emsp;&emsp;prép. 在……之前
+6. supposer&emsp;&emsp;v.t. 猜想
+7. se brosser&emsp;&emsp;v.pr. 刷
+8. une dent&emsp;&emsp;牙齒
+9. se laver&emsp;&emsp;v.pr. 洗；洗澡
+10. un visage&emsp;&emsp;臉
+11. une main&emsp;&emsp;手
+12. la vitesse&emsp;&emsp;速度
+13. en vitesse&emsp;&emsp;loc.adv. 迅速地
+14. se regarder&emsp;&emsp;v.pr. 看自己；照（鏡子）
+15. la glace&emsp;&emsp;鏡子
+16. dépendre&emsp;&emsp;v.t.ind. 依……而定
+17. Ça dépend.&emsp;&emsp;不一定。
+18. si&emsp;&emsp;conj. 如果
+19. avoir cours&emsp;&emsp;有課
+20. se peigner&emsp;&emsp;v.pr. 梳頭
+21. et puis&emsp;&emsp;然後，接着
+22. ensuite&emsp;&emsp;adv. 然後
+23. un stylo&emsp;&emsp;鋼筆
+24. un cahier&emsp;&emsp;本子
+25. le sac à dos&emsp;&emsp;背包
+26. y&emsp;&emsp;adv. 那兒
+27. directement&emsp;&emsp;adv. 直接
+28. passer&emsp;&emsp;v.i. 經過
+29. prendre&emsp;&emsp;v.t. 吃
+30. le petit déjeuner&emsp;&emsp;早餐
