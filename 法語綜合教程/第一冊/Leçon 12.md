@@ -181,15 +181,11 @@
 *注意：*
 1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加 s ： 
 
-    * Va**s**-y.
-
-    * N'y va pas.
+        Vas-y.
+        N'y va pas.
     
-    <br />
-
-    * Entre**s**-y.
-
-    * N'y entre pas.
+        Entres-y.
+        N'y entre pas.
 
 
 
