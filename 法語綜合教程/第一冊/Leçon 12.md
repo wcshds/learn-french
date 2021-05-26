@@ -178,18 +178,18 @@
 
         Allez-y. Vas-y. Penses-y.
 
-    *注意：*
-    1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加 s ： 
+*注意：*
+1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加 s ： 
 
-        * Va**s**-y.
+    * Va**s**-y.
 
-        * N'y va pas.
-        
-        <br />
+    * N'y va pas.
+    
+    <br />
 
-        * Entre**s**-y.
+    * Entre**s**-y.
 
-        * N'y entre pas.
+    * N'y entre pas.
 
 
 
