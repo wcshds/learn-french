@@ -176,6 +176,17 @@
 
         Nous y allons demain. Cette question, je ne veux pas y répondre. N'y va pas. N'y pense pas.
 
+        Allez-y. Vas-y. Penses-y.
+
+    *注意：*
+    1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加 s ： 
+
+        \* Va**s**-y.
+        \* N'y va pas.
+
+        \* Entre**s**-y.
+        \* N'y entre pas.
+
 
 
 
