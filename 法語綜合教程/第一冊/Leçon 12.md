@@ -148,6 +148,36 @@
         s'en aller	走開
         s'écrier	喊叫
 
+# Le pronom adverbial « y »（副代詞 y）
+
+### 用法
+
+1. y 可以代替由介詞 à 引導的間接賓語。要注意的是，y 通常代替物，而不代替人：
+
+        - Il participe à ce congrès ?
+        - Oui, il y participe sûrement.
+
+        - Elle s'intéresse à la politique ?
+        - Oui, elle s'y intéresse. / Non, elle ne s'y intéresse pas.
+
+        - Les étudiants répondent-ils bien aux questions du professeur ?
+        - Oui, ils y répondent bien. / Non, ils n'y répondent pas bien.
+
+2. 副代詞 y 可以用來代替以 à, dans, sur, en 等介詞引導的地點狀語，表示「在那裡」，一般放在**相關**動詞（而不看動詞是否變位）前，但在肯定命令式中放在動詞後：
+
+        - Tu vas à Paris ?
+        - Oui, j'y vais demain et j'y reste trois jours.
+
+        - Patrice est chez lui ?
+        - Oui, il y est. / Non, il n'y est pas.
+
+        - Vous connaissez le Perou ?
+        - Pas très bien, mais je vais y aller l'année prochaine.
+
+        Nous y allons demain. Cette question, je ne veux pas y répondre. N'y va pas. N'y pense pas.
+
+
+
 
 # La routine
 
@@ -186,18 +216,47 @@
 
 1. une occupation&emsp;&emsp;事情
 2. se lever&emsp;&emsp;v.pr. 起牀；起身
-3. l'habitude&emsp;&emsp;n.f. 習慣
-4. d'habitude&emsp;&emsp;通常
+
+        Le soleil se lève.
+
+3. une habitude&emsp;&emsp;習慣
+
+    \* avoir une bonne/mauvaise habitude
+
+    \* avoir l'habitude de + v.
+
+        Exp. Mon grand-père a l'habitude de se lever à cinq heures et demie.
+        Philippe a l'habitude de lire avant de se coucher.
+
+4. d'habitude&emsp;&emsp;通常（一般放於句首）
+
+        Exp. D'habitude, je me lève tard.
+        D'habitude, Monsieur Dupont va au bureau à vélo.
+        Comme d'habitude, il arrive en retard.
+
 5. avant&emsp;&emsp;prép. 在……之前
+
+        avant-hier	前天
+        après-demain	後天
+
 6. supposer&emsp;&emsp;v.t. 猜想
 7. se brosser&emsp;&emsp;v.pr. 刷
 8. une dent&emsp;&emsp;牙齒
+
+        se brosser les dents, le visage, les mains
+
 9. se laver&emsp;&emsp;v.pr. 洗；洗澡
 10. un visage&emsp;&emsp;臉
 11. une main&emsp;&emsp;手
 12. la vitesse&emsp;&emsp;速度
+
+        TGV = Train à grande vitesse	高鐵
+
 13. en vitesse&emsp;&emsp;loc.adv. 迅速地
 14. se regarder&emsp;&emsp;v.pr. 看自己；照（鏡子）
+
+        se regarder dans la glace
+
 15. la glace&emsp;&emsp;鏡子
 16. dépendre&emsp;&emsp;v.t.ind. 依……而定
 17. Ça dépend.&emsp;&emsp;不一定。
