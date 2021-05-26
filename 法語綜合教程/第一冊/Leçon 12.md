@@ -184,7 +184,7 @@
         * Va**s**-y.
 
         * N'y va pas.
-
+        <br />
         * Entre**s**-y.
 
         * N'y entre pas.
