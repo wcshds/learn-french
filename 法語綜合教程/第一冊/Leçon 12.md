@@ -187,6 +187,19 @@
         Entres-y.
         N'y entre pas.
 
+2. y 不可以用來代替人。
+
+    penser à 表示「思念；想」。可以說 penser  à qn. 或 penser à qch.。使用該動詞時，應特別注意代詞的形式：
+
+    1. 表示「à + 物」，用 y：
+
+            - Tu penses à ton travail ?
+            - Oui, j'y pense.
+
+    2. 表示「à + 人」，用「à + 重讀人稱代詞」：
+
+            - Tu penses à tes parents ?
+            - Oui, je pense à eux.
 
 
 # La routine
