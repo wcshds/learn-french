@@ -421,19 +421,26 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
 3. de bon matin&emsp;&emsp;一清早
 4. se montrer&emsp;&emsp;v.pr. 露面；出現
 
-    * montrer qch.
+    * montrer&emsp;&emsp;qch.
 
-        Exp. À la douane, il faut montrer ses papiers aux douaniers.
-        (Montrez) votre passeport, s'il vous plaît.	請出示您的戶照。
-        Julie montre ses photos à ses parents.
-        Je vais lui montrer qu'il a tort.	我要向他指出他錯了。
-        *Les Rougon-Macquart* de Zola montre toutes les couches sociales du Second Empire.
-        Ce film montre la vie des étudiants étrangers à Barcelone.
+            Exp. À la douane, il faut montrer ses papiers aux douaniers.
+            (Montrez) votre passeport, s'il vous plaît.	請出示您的戶照。
+            Julie montre ses photos à ses parents.
+            Je vais lui montrer qu'il a tort.	我要向他指出他錯了。
+            Les Rougon-Macquart de Zola montre toutes les couches sociales du Second Empire.
+            Ce film montre la vie des étudiants étrangers à Barcelone.
 
     * se montrer
 
+            Exp. Le soleil se montre entre les nuages.	太陽在雲層間時隱時現。
+            Cette petite fille se montre toujours courageuse.	這個小女孩總是展現她的勇氣。
 
 5. à peine&emsp;&emsp;loc.adv. 剛剛
+
+        Exp. Philippe comprend à peine la grammaire française.	Philippe勉強懂法語語法。
+        Il y a du smog aujourd'hui. On voit à peine l'immeuble devant nous.
+        - Combien pèses-tu ? - À peine 50 kilos.
+
 6. une lumière&emsp;&emsp;光綫
 7. passer&emsp;&emsp;v.i. 穿過，透過
 8. entre&emsp;&emsp;prép. 在……之間
@@ -443,6 +450,27 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
 12. rester&emsp;&emsp;v.i. 停留
 13. aussitôt&emsp;&emsp;adv. 即刻
 14. ouvrir&emsp;&emsp;v.t. 打開
+
+    變位（第三組）：
+
+        j'ouvre
+        tu ouvres
+        il (elle) ouvre
+        nous ouvrons
+        vous ouvrez
+        ils (elles) ourvrent
+
+    1. ouvrir qch.&emsp;&emsp;打開（機械的東西）
+
+            Exp. Ouvrez la fenêtre, il fait chaud.
+            Monsieur Duparc va ouvrir une bouteille de champagne pour fêter l'anniversaire de sa femme.
+            Marc ouvre son sac pour prendre son stylo.
+
+    2. vi.
+
+            Exp. Ce magasin n'ouvre pas le dimanche. (fermer)
+            À quelle heure ouvre ce supermarché ?
+
 15. un robinet&emsp;&emsp;水龍頭
 16. avec&emsp;&emsp;prép. 用；和……一起
 17. l'eau&emsp;&emsp;n.f. 水
