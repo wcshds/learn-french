@@ -393,3 +393,70 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
             prendre un livre, prendre le métro
 
 30. le petit déjeuner&emsp;&emsp;早餐
+
+
+# Texte
+
+### Vocabulaire
+
+1. dormir&emsp;&emsp;v.i. 睡覺
+
+    變位（第三組）：
+
+        je dors
+        tu dors
+        il (elle) dort
+        nous dormons
+        vous dormez
+        ils (elles) dorment
+    
+    <br />
+
+        Exp. Je suis très fatigué. J'ai envie de dormir.
+        Tu as bien dormi ? (Bien dormi ?)
+        dormir dans son lit, sous la tente, à la belle étoile
+        Ne réveillez pas le chat qui dort.	不要自找麻煩。
+
+2. une nuit&emsp;&emsp;夜
+3. de bon matin&emsp;&emsp;一清早
+4. se montrer&emsp;&emsp;v.pr. 露面；出現
+
+    * montrer qch.
+
+        Exp. À la douane, il faut montrer ses papiers aux douaniers.
+        (Montrez) votre passeport, s'il vous plaît.	請出示您的戶照。
+        Julie montre ses photos à ses parents.
+        Je vais lui montrer qu'il a tort.	我要向他指出他錯了。
+        *Les Rougon-Macquart* de Zola montre toutes les couches sociales du Second Empire.
+        Ce film montre la vie des étudiants étrangers à Barcelone.
+
+    * se montrer
+
+
+5. à peine&emsp;&emsp;loc.adv. 剛剛
+6. une lumière&emsp;&emsp;光綫
+7. passer&emsp;&emsp;v.i. 穿過，透過
+8. entre&emsp;&emsp;prép. 在……之間
+9. un rideau (des rideaux)&emsp;&emsp;窗簾
+10. un oiseau (des oiseaux)&emsp;&emsp;鳥
+11. chanter&emsp;&emsp;v.t., v.i. 唱
+12. rester&emsp;&emsp;v.i. 停留
+13. aussitôt&emsp;&emsp;adv. 即刻
+14. ouvrir&emsp;&emsp;v.t. 打開
+15. un robinet&emsp;&emsp;水龍頭
+16. avec&emsp;&emsp;prép. 用；和……一起
+17. l'eau&emsp;&emsp;n.f. 水
+18. un savon&emsp;&emsp;肥皂
+19. s'essuyer&emsp;&emsp;v.pr. 擦乾
+20. une serviette&emsp;&emsp;毛巾
+21. la toilette&emsp;&emsp;梳洗
+22. mettre&emsp;&emsp;v.t. 穿，戴
+23. une chemise&emsp;&emsp;（男式）襯衫
+24. blanc, blanche&emsp;&emsp;adj. 白色的
+25. un pantalon&emsp;&emsp;長褲
+26. une ceinture&emsp;&emsp;皮帶，腰帶
+27. enfin&emsp;&emsp;adv. 最後
+28. se chausser&emsp;&emsp;v.pr. 穿鞋
+29. une chaussette&emsp;&emsp;短統襪
+30. une chaussure&emsp;&emsp;鞋子
+31. des chaussure de sport&emsp;&emsp;運動鞋
