@@ -432,7 +432,7 @@ D : Non, ce n'est pas bizarre, c'est mon passe-temps favori.
 
     變位（第三組）：
 
-        je écris
+        j'écris
         tu écris
         il (elle) écrit
         nous écrivons
