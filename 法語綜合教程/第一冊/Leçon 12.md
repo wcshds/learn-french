@@ -235,6 +235,20 @@
 
 # Dialogue
 
+(Dialogue entre Philippe et un ami.)
+
+Ami : Philippe, à quelle heure est-ce que tu te lèves d'habitude ?
+
+Philippe : Ça dépend. Si j'ai cours, je me lève à six heures et demie. Si je n'ai pas cours, je ne me lève pas avant sept heures.
+
+Ami : Qu'est-ce que tu fais après ?
+
+P : Comme toi, je suppose ! Je vais dans la salle de bains. Je me brosse les dents, je me lave le visage et les mains en vitesse. Et je me regarde dans la glace pour me peigner. Et puis je m'habille. Ensuite, je mets mon stylo, mes livres, mes cahiers dans mon sac à dos, et je vais en classe.
+
+Ami : Tu y vas directement ?
+
+P : Non, je passe à la cantine pour prendre le petit déjeuner.
+
 ### Vocabulaire
 
 1. une occupation&emsp;&emsp;事情
@@ -373,7 +387,7 @@
             prendre le petit déjeuner	吃早飯
             prendre le déjeuner	吃午飯
             prendre le dîner	吃晚飯
-            
+
     2. 拿；買；乘坐（交通工具）
 
             prendre un livre, prendre le métro
