@@ -397,6 +397,12 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
 
 # Texte
 
+Marc dort toute la nuit. Mais il se réveille de bon matin. Le jour se montre à peine. Une lumière douce passe entre les rideaux. Un petit oiseau chante à la fenêtre.
+
+Marc ne reste pas au lit, il se lève aussitôt et entre dans la salle de bains. Il ouvre le robinet pour se laver à l'eau chaude et avec du savon. Il se brosse les dents, se lave les mains et le visage. Il s'essuie avec une serviette de toilette. Puis, il se regarde dans la glace et se peigne.
+
+Après la toilette, il s'habille. Il met une chemise blanche, un pantalon et une ceinture. Enfin, il se chausse. Aujourd'hui, il porte des chaussettes grises et des chaussures de sport.
+
 ### Vocabulaire
 
 1. dormir&emsp;&emsp;v.i. 睡覺
