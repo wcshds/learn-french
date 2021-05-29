@@ -179,7 +179,7 @@
         Allez-y. Vas-y. Penses-y.
 
 *注意：*
-1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加 s ： 
+1. 以 -er 結尾的動詞第二人稱單數的命令式，如果在 y 的前面，應當加回 s ： 
 
         Vas-y.
         N'y va pas.
@@ -240,6 +240,29 @@
 1. une occupation&emsp;&emsp;事情
 2. se lever&emsp;&emsp;v.pr. 起牀；起身
 
+        變位（第一組）：
+
+            je me lève
+            tu te lèves
+            il (elle) se lève
+            nous nous levons
+            vous vous levez
+            ils (elles) se lèvent
+
+        *注意：以 -er 結尾的規則動詞中，如有「e + 輔音字母 + er」的形式，在變位時，因發音關係，需在第一、二、三人稱單數以及第三人稱複數變位時將輔音前的 e 改爲 è 或重複輔音字母，如：*
+
+            se lever : 
+                je me lève
+                tu te lèves
+                il (elle) se lève
+                ils (elles) se lèvent
+
+            s'appeler : 
+                je m'appelle
+                tu t'appelles
+                il (elle) s'appelle
+                ils (elles) 'appellent
+
         Le soleil se lève.
 
 3. une habitude&emsp;&emsp;習慣
@@ -282,9 +305,34 @@
 
 15. la glace&emsp;&emsp;鏡子
 16. dépendre&emsp;&emsp;v.t.ind. 依……而定
+
+    變位（第三組）：
+
+        je dépends
+        tu dépends
+        il (elle) dépend
+        nous dépendons
+        vous dépendez
+        ils (elles) dépendent
+
+    dépendre de qn./qch.
+
 17. Ça dépend.&emsp;&emsp;不一定。
+
+    本義表示「這要看情況了」，較口語化。
+
 18. si&emsp;&emsp;conj. 如果
+
+        si + il -> s'il
+        si + ils -> s'ils
+
+        （si 和 elle (elles) 不省音）
+
 19. avoir cours&emsp;&emsp;有課
+
+    \* avoir cours VS avoir des cours
+    
+
 20. se peigner&emsp;&emsp;v.pr. 梳頭
 21. et puis&emsp;&emsp;然後，接着
 22. ensuite&emsp;&emsp;adv. 然後
