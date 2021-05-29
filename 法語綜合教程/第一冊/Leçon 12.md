@@ -281,9 +281,9 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
 
 3. une habitude&emsp;&emsp;習慣
 
-    \* avoir une bonne/mauvaise habitude
+    * avoir une bonne/mauvaise habitude
 
-    \* avoir l'habitude de + v.
+    * avoir l'habitude de + v.
 
         Exp. Mon grand-père a l'habitude de se lever à cinq heures et demie.
         Philippe a l'habitude de lire avant de se coucher.
