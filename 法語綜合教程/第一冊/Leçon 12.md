@@ -357,4 +357,25 @@
             passer qch. à qn.	把某物遞給某人
 
 29. prendre&emsp;&emsp;v.t. 吃
+
+    變位（第三組）：
+
+        je prends
+        tu prends
+        il (elle) prend
+        nous prenons
+        vous prenez
+        ils (elle) prennent
+
+    1. 吃
+
+            prendre une glace	吃一個冰淇淋
+            prendre le petit déjeuner	吃早飯
+            prendre le déjeuner	吃午飯
+            prendre le dîner	吃晚飯
+            
+    2. 拿；買；乘坐（交通工具）
+
+            prendre un livre, prendre le métro
+
 30. le petit déjeuner&emsp;&emsp;早餐
