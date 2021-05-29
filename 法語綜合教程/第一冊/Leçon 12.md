@@ -275,8 +275,8 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
             je m'appelle
             tu t'appelles
             il (elle) s'appelle
-            ils (elles) 'appellent
-
+            ils (elles) 'appellent    
+    <br />
         Le soleil se lève.
 
 3. une habitude&emsp;&emsp;習慣
