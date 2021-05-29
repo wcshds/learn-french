@@ -330,8 +330,10 @@
 
 19. avoir cours&emsp;&emsp;有課
 
-    \* avoir cours VS avoir des cours
-    
+    * avoir cours VS avoir des cours
+
+        avoir cours 指的是一種概念
+        avoir des cours 強調數量
 
 20. se peigner&emsp;&emsp;v.pr. 梳頭
 21. et puis&emsp;&emsp;然後，接着
@@ -339,8 +341,20 @@
 23. un stylo&emsp;&emsp;鋼筆
 24. un cahier&emsp;&emsp;本子
 25. le sac à dos&emsp;&emsp;背包
+
+    le sac à main&emsp;&emsp;手提包
+
 26. y&emsp;&emsp;adv. 那兒
 27. directement&emsp;&emsp;adv. 直接
 28. passer&emsp;&emsp;v.i. 經過
+
+    1. passer à&emsp;&emsp;經過（中間停留）
+    2. passer par&emsp;&emsp;途經
+    3. v.t.
+
+            passer un bon week-end	度過愉快的週末
+            passer un examen	參加考試
+            passer qch. à qn.	把某物遞給某人
+
 29. prendre&emsp;&emsp;v.t. 吃
 30. le petit déjeuner&emsp;&emsp;早餐
