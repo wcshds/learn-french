@@ -263,19 +263,19 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
             vous vous levez
             ils (elles) se lèvent
 
-        *注意：以 -er 結尾的規則動詞中，如有「e + 輔音字母 + er」的形式，在變位時，因發音關係，需在第一、二、三人稱單數以及第三人稱複數變位時將輔音前的 e 改爲 è 或重複輔音字母，如：*
+    *注意：以 -er 結尾的規則動詞中，如有「e + 輔音字母 + er」的形式，在變位時，因發音關係，需在第一、二、三人稱單數以及第三人稱複數變位時將輔音前的 e 改爲 è 或重複輔音字母，如：*
 
-            se lever : 
-                je me lève
-                tu te lèves
-                il (elle) se lève
-                ils (elles) se lèvent
+        se lever : 
+            je me lève
+            tu te lèves
+            il (elle) se lève
+            ils (elles) se lèvent
 
-            s'appeler : 
-                je m'appelle
-                tu t'appelles
-                il (elle) s'appelle
-                ils (elles) 'appellent
+        s'appeler : 
+            je m'appelle
+            tu t'appelles
+            il (elle) s'appelle
+            ils (elles) 'appellent
 
         Le soleil se lève.
 
