@@ -476,8 +476,21 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
 17. l'eau&emsp;&emsp;n.f. 水
 18. un savon&emsp;&emsp;肥皂
 19. s'essuyer&emsp;&emsp;v.pr. 擦乾
+
+    變位（第一組）：
+
+        je m'essuie
+        tu t'essuies
+        il (elle) s'essuie
+        nous nous essuyons
+        vous vous essuyez
+        ils (elles) s'essuient
+
 20. une serviette&emsp;&emsp;毛巾
 21. la toilette&emsp;&emsp;梳洗
+
+    les toilettes&emsp;&emsp;廁所
+
 22. mettre&emsp;&emsp;v.t. 穿，戴
 23. une chemise&emsp;&emsp;（男式）襯衫
 24. blanc, blanche&emsp;&emsp;adj. 白色的
