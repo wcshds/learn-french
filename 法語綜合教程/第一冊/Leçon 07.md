@@ -389,8 +389,8 @@ D : C'est dommage. Au revoir, Lavande magique.
 
 ### 課文注釋
 
-1. commencer à + v.  開始做某事
-2. C'est la première fois que... 這是我第一次……（強調句）
+1. commencer à + v.&emsp;&emsp;開始做某事
+2. C'est la première fois que...&emsp;&emsp;這是我第一次……（強調句）
 
     C'est la première fois que je rencontre un Japonais sur Internet.
 
@@ -412,7 +412,7 @@ D : C'est dommage. Au revoir, Lavande magique.
 
     C'est avec Sophie que je vais au cinéma.
 
-3. parler de qn, qqch.  談論某人/某事
+3. parler de qn, qqch.&emsp;&emsp;談論某人/某事
 4. 道歉的說法：
 
     Excusez-moi.
@@ -431,37 +431,37 @@ D : C'est dommage. Au revoir, Lavande magique.
 
     Pas grave.
 
-5. appeler qn.  打電話給某人
+5. appeler qn.&emsp;&emsp;打電話給某人
 
 ### Vocabulaire
 
-1. une conversation  會話
-2. sur Internet [ ɛ̃tɛʀnɛt ]  在因特網上
+1. une conversation&emsp;&emsp;會話
+2. sur Internet [ ɛ̃tɛʀnɛt ]&emsp;&emsp;在因特網上
 
-    sur 在……上；關於……
+    sur&emsp;&emsp;在……上；關於……
 
-3. en ligne  在綫
+3. en ligne&emsp;&emsp;在綫
 
     1. 指在網上
     2. 指在打電話
 
-4. un salon  客廳；沙龍
-5. un Chat  <英>閒聊，聊天
-6. un dragon  龍
-7. céleste  adj. 天上的
-8. une lavande  薰衣草
-9. magique  adj. 神奇的
-10. une femme  女人
-11. un homme  男人
-12. un Français, une Française  法國人
-13. un Chinois, une Chinoise  中國人
+4. un salon&emsp;&emsp;客廳；沙龍
+5. un Chat&emsp;&emsp;<英>閒聊，聊天
+6. un dragon&emsp;&emsp;龍
+7. céleste&emsp;&emsp;adj. 天上的
+8. une lavande&emsp;&emsp;薰衣草
+9. magique&emsp;&emsp;adj. 神奇的
+10. une femme&emsp;&emsp;女人
+11. un homme&emsp;&emsp;男人
+12. un Français, une Française&emsp;&emsp;法國人
+13. un Chinois, une Chinoise&emsp;&emsp;中國人
 
     français, chinois等詞作爲語言講時首字母小寫；作爲一國人講時首字母必須大寫。
 
     Il est Français. Il est français. 大小寫皆可，但前者是名詞，後者是形容詞。（後者用得更多）
 
 
-14. adorer  v.t. 酷愛
+14. adorer&emsp;&emsp;v.t. 酷愛
 
     變位（第一組）：
 
@@ -489,9 +489,9 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         J'adore lire des romans français.
 
-15. le kung-fu  功夫
-16. chinois, e  中國的
-17. aimer  v.t. 喜歡
+15. le kung-fu&emsp;&emsp;功夫
+16. chinois, chinoise&emsp;&emsp;中國的
+17. aimer&emsp;&emsp;v.t. 喜歡
 
     變位（第一組）：
 
@@ -517,8 +517,8 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         J'aime aller au cinéma, mais je n'aime pas regarder télévision.
 
-18. le parfum  香水
-19. apprendre  v.t. 學習
+18. le parfum&emsp;&emsp;香水
+19. apprendre&emsp;&emsp;v.t. 學習
 
     變位（第三組）：
 
@@ -530,7 +530,7 @@ D : C'est dommage. Au revoir, Lavande magique.
         ils (elles) apprennent
 
 
-20. faire  v.t. 做
+20. faire&emsp;&emsp;v.t. 做
 
     變位（第三組）：
 
@@ -548,13 +548,13 @@ D : C'est dommage. Au revoir, Lavande magique.
     Les étudiants font des exercices après la classe.  學生們在課後做練習。
 
 
-21. la vie  生活
+21. la vie&emsp;&emsp;生活
 
-    la vie en rose  玫瑰人生
+    la vie en rose&emsp;&emsp;玫瑰人生
 
-22. un employé, une employée  職員
-23. une banque  銀行
-24. habiter  v.t.&v.i. 居住
+22. un employé, une employée&emsp;&emsp;職員
+23. une banque&emsp;&emsp;銀行
+24. habiter&emsp;&emsp;v.t.&v.i. 居住
 
     變位（第一組）：
 
@@ -582,8 +582,8 @@ D : C'est dommage. Au revoir, Lavande magique.
         Elle habite (à) Paris.
 
 
-25. une ville  城市
-26. connaître  v.t. 認識；瞭解
+25. une ville&emsp;&emsp;城市
+26. connaître&emsp;&emsp;v.t. 認識；瞭解
 
     變位（第三組）：
 
@@ -611,7 +611,7 @@ D : C'est dommage. Au revoir, Lavande magique.
         Joëlle connaît un Français dans un salon de discussion.
 
 
-27. venir  v.i. 來
+27. venir&emsp;&emsp;v.i. 來
 
     變位（第三組）：
 
@@ -634,15 +634,15 @@ D : C'est dommage. Au revoir, Lavande magique.
 
         Je viens de Shanghai, et toi ? D'où viens-tu ?
 
-28. premier, première  adj. 第一的
+28. premier, première&emsp;&emsp;adj. 第一的
 
     la première dame 第一夫人
 
-29. une fois  次
+29. une fois&emsp;&emsp;次
 
-    la première fois 第一次
+    la première fois&emsp;&emsp;第一次
 
-30. entrer  v.i. 進來
+30. entrer&emsp;&emsp;v.i. 進來
 
     變位（第一組）：
 
@@ -664,9 +664,9 @@ D : C'est dommage. Au revoir, Lavande magique.
         Le professeur entre dans la salle de class à huit heures et quart.
 
 
-31. ici  這裡
-32. au revoir  再見
-33. un dommage  遺憾
+31. ici&emsp;&emsp;這裡
+32. au revoir&emsp;&emsp;再見
+33. un dommage&emsp;&emsp;遺憾
 
     C'est dommage.  
 
@@ -709,32 +709,32 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
 
 ### Vocabulaire
 
-1. une année  年；年級
+1. une année&emsp;&emsp;年；年級
 
     Bonne année !  新年快樂
 
     étudiant,e de première année  一年級的學生
 
-2. grand, grande  adj. 高的
-3. mince  adj. 苗條的
-4. élégant, élégante  adj. 優雅的
-5. long, longue  adj. 長的
-6. un cheveu (des cheveux)  頭髮
-7. brun, brune  adj. 褐色的
-8. un œil [ œj ] (des yeux [ jø ])  眼睛
+2. grand, grande&emsp;&emsp;adj. 高的
+3. mince&emsp;&emsp;adj. 苗條的
+4. élégant, élégante&emsp;&emsp;adj. 優雅的
+5. long, longue&emsp;&emsp;adj. 長的
+6. un cheveu (des cheveux)&emsp;&emsp;頭髮
+7. brun, brune&emsp;&emsp;adj. 褐色的
+8. un œil [ œj ] (des yeux [ jø ])&emsp;&emsp;眼睛
 
-    œil pour œil = dent pour dent  以牙還牙，以眼還眼
+    œil pour œil = dent pour dent&emsp;&emsp;以牙還牙，以眼還眼
 
-9. noir, noire  adj. 黑色的
-10. doux, douce  adj. 溫柔的
-11. le sens [ sɑ̃ːs ] de l'humour  幽默感
-12. drôle  adj. 滑稽的
+9. noir, noire&emsp;&emsp;adj. 黑色的
+10. doux, douce&emsp;&emsp;adj. 溫柔的
+11. le sens [ sɑ̃ːs ] de l'humour&emsp;&emsp;幽默感
+12. drôle&emsp;&emsp;adj. 滑稽的
 
-        也可指貶義
+    也可指貶義
 
-13. gai, gaie  adj. 愉快的
-14. amusant, amusante  adj. 風趣的（主要指褒義的）
-15. rencontrer  v.t. 遇見
+13. gai, gaie&emsp;&emsp;adj. 愉快的
+14. amusant, amusante&emsp;&emsp;adj. 風趣的（主要指褒義的）
+15. rencontrer&emsp;&emsp;v.t. 遇見
 
     變位（第一組）：
 
@@ -745,13 +745,13 @@ Aujourd'hui, elle rencontre un Français sur Internet. Il s'appelle Dragon céle
         vous rencontrez
         ils (elles) rencontrent
 
-16. quelqu'un  pron. indéf. 某人
-17. un pseudonyme  假名；網名
-18. bien sûr  loc. adv. 當然
-19. petit, petite  adj. 小的
-20. gros, grosse  adj. 胖的
-21. malin, maligne  adj. 狡黠的
-22. savoir v.t. 知道
+16. quelqu'un&emsp;&emsp;pron.indéf. 某人
+17. un pseudonyme&emsp;&emsp;假名；網名
+18. bien sûr&emsp;&emsp;loc.adv. 當然
+19. petit, petite&emsp;&emsp;adj. 小的
+20. gros, grosse&emsp;&emsp;adj. 胖的
+21. malin, maligne&emsp;&emsp;adj. 狡黠的
+22. savoir&emsp;&emsp;v.t. 知道
 
     變位（第三組）：
 
