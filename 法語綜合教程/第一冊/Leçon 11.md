@@ -396,23 +396,23 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
     * dehors, en dehors de
     * dedans, dans
 
-        Attendez-moi dehors.
-        Je suis dehors toute la journée.
-        On va manger dehors. (dans le jardin OU en ville, au restaurant)
-        Dehors ! (Va-t'en !)	快走！
+            Attendez-moi dehors.
+            Je suis dehors toute la journée.
+            On va manger dehors. (dans le jardin OU en ville, au restaurant)
+            Dehors ! (Va-t'en !)	快走！
 
 11. un thermomètre&emsp;&emsp;溫度計
 12. toi-même&emsp;&emsp;pron. 你自己
 
     * soi 泛指的重讀人稱代詞，表示「自己」
         
-        Après la conférence, chacun rentre chez soi.
-        Après la conférence, Pierre rentre chez lui.
+            Après la conférence, chacun rentre chez soi.
+            Après la conférence, Pierre rentre chez lui.
 
     * soi-mème
 
-        Ici, on fait tout soi-même.
-        Tu ne viens pas ? Alors j'y vais moi-même.
+            Ici, on fait tout soi-même.
+            Tu ne viens pas ? Alors j'y vais moi-même.
 
 13. sois&emsp;&emsp;動詞 être 的命令式
 14. la température&emsp;&emsp;溫度
@@ -442,13 +442,13 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 
     * habiller + qn./qch.
 
-        Exp. habiller un enfant le matin	每天早上給孩子穿衣服
-        habiller un livre	包書皮
+            Exp. habiller un enfant le matin	每天早上給孩子穿衣服
+            habiller un livre	包書皮
 
     * s'habiller
 
-        Exp. Je ne sais pas comment m'habiller aujourd'hui.	我不知道今天穿什麽。
-        Coco Chanel s'habille toujours en noir.	香奈兒女士總是穿黑色的衣服。
+            Exp. Je ne sais pas comment m'habiller aujourd'hui.	我不知道今天穿什麽。
+            Coco Chanel s'habille toujours en noir.	香奈兒女士總是穿黑色的衣服。
 
 17. sortir&emsp;&emsp;v. 出去
 
