@@ -142,7 +142,7 @@
     noir - noircir
     mûr - mûrir
     mince - mincir
-    vielle - vieillir
+    vieille - vieillir
     riche - enrichir
     dur - durcir
     
@@ -393,8 +393,8 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 
 10. dehors [ dəɔːʁ ]&emsp;&emsp;adv. 在外面
 
-    \* dehors, en dehors de
-    \* dedans, dans
+    * dehors, en dehors de
+    * dedans, dans
 
         Attendez-moi dehors.
         Je suis dehors toute la journée.
@@ -404,12 +404,12 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 11. un thermomètre&emsp;&emsp;溫度計
 12. toi-même&emsp;&emsp;pron. 你自己
 
-    \* soi 泛指的重讀人稱代詞，表示「自己」
+    * soi 泛指的重讀人稱代詞，表示「自己」
         
         Après la conférence, chacun rentre chez soi.
         Après la conférence, Pierre rentre chez lui.
 
-    \* soi-mème
+    * soi-mème
 
         Ici, on fait tout soi-même.
         Tu ne viens pas ? Alors j'y vais moi-même.
@@ -440,12 +440,12 @@ T : Non, il ne pleut plus; le temps change vite, tu vois, après la pluie, le be
 
 16. s'habiller&emsp;&emsp;v.pr. 穿衣
 
-    \* habiller + qn./qch.
+    * habiller + qn./qch.
 
         Exp. habiller un enfant le matin	每天早上給孩子穿衣服
         habiller un livre	包書皮
 
-    \* s'habiller
+    * s'habiller
 
         Exp. Je ne sais pas comment m'habiller aujourd'hui.	我不知道今天穿什麽。
         Coco Chanel s'habille toujours en noir.	香奈兒女士總是穿黑色的衣服。
