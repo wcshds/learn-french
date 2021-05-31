@@ -72,6 +72,16 @@ M : Mais est-ce que tu as le permis de conduire ?
 
 A : Je vais l'avoir bientôt, puisque je suis en train d'apprendre à conduire dans une auto-école.
 
+### 課文注釋
+
+1. sur 在這裡表示「關於……」
+2. environ 一般置於前。
+
+        Il me faut environ un quart d'heure.
+
+2. permis de conduire（駕照）前必須加限定詞（定冠詞或主有形容詞），因爲每個人衹有一本駕照。
+3. puisque 後接顯而易見（大家都知道的）原因。
+
 ### Vocabulaire
 
 1. un vélo&emsp;&emsp;自行車
