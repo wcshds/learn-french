@@ -26,10 +26,10 @@
         à pied
         en/à vélo, à bicyclette
         en voiture					prendre + adj.poss. + voiture
-        en (auto)bus				prendre le bus
+        en (auto)bus					prendre le bus
         en métro					prendre le métro
-        en train                    prendre le train
-        en taxi						prendre un taxi
+        en train					prendre le train
+        en taxi					prendre un taxi
         en avion					prendre l'avion
 
 2. Combien de temps te faut-il \[en bus\] ?
