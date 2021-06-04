@@ -4,7 +4,7 @@
 <table>
     <tbody>
         <tr>
-            <td rowspan="3">singulier</td>
+            <td rowspan="3" align="center">singulier</td>
             <td>première personne</td>
             <td align="center">me</td>
             <td>Elle me donne un coup de téléphone.</td>
@@ -20,7 +20,7 @@
             <td>Je lui donne mon adresse.</td>
         </tr>
         <tr>
-            <td rowspan="3">pluriel</td>
+            <td rowspan="3" align="center">pluriel</td>
             <td>première personne</td>
             <td align="center">nous</td>
             <td>Ils nous parlent.</td>
