@@ -106,7 +106,7 @@
 
     3. personne
 
-            - Quelqu'un a téléphoné ? - NOn, personne. (Non, personne n'a téléphoné.)
+            - Quelqu'un a téléphoné ? - Non, personne. (Non, personne n'a téléphoné.)
 
 3. quelque chose（「某物，什麽東西」） & rien（「沒有任何東西」）
 

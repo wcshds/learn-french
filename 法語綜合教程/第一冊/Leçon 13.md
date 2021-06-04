@@ -1,3 +1,43 @@
+# Grammaire
+## Les pronoms personnels compléments d'objets indirects（間接賓語人稱代詞）
+### 構成和用法
+<table>
+    <tbody>
+        <tr>
+            <td rowspan="3">singulier</td>
+            <td>première personne</td>
+            <td>me</td>
+            <td>Elle me donne un coup de téléphone.</td>
+        </tr>
+        <tr>
+            <td>deuxième personne</td>
+            <td>te</td>
+            <td>Il te donne sone numéro de téléphone.</td>
+        </tr>
+        <tr>
+            <td>troisième personne</td>
+            <td>lui</td>
+            <td>Je lui donne mon adresse.</td>
+        </tr>
+        <tr>
+            <td rowspan="3">pluriel</td>
+            <td>première personne</td>
+            <td>nous</td>
+            <td>Ils nous parlent.</td>
+        </tr>
+        <tr>
+            <td>deuxième personne</td>
+            <td>vous</td>
+            <td>Nous vous téléphonons.</td>
+        </tr>
+        <tr>
+            <td>troisième personne</td>
+            <td>leur</td>
+            <td>Tu leur envoies un message.</td>
+        </tr>
+    </tbody>
+</table>
+
 # les moyens de transport
 
 1. les transports en commun&emsp;&emsp;公共交通
