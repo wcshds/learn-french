@@ -1,6 +1,5 @@
 # Grammaire
 ## Les pronoms personnels compléments d'objets indirects（間接賓語人稱代詞）
-### 構成和用法
 間接賓語人稱代詞代替由介詞 à 引導的名詞。
 <table>
     <tbody>
@@ -94,8 +93,19 @@
 
     Je vais ranger mes affaires.	我馬上就整理東西。
 
+### 用法
+1. 在否定句中，ne ... pas 放在助動詞 aller 的兩邊：
 
+        Il ne va pas prendre l'avion.
 
+2. 在主謂倒裝疑問句中，倒置的是助動詞 aller：
+
+        Quand v-t-il revenir ?
+
+3. 如果句中有作賓語的代詞，要將賓語代詞放在動詞不定式的前面：
+
+        Je vais lui dire bonjour.
+        Il va nous téléphoner.
 
 # les moyens de transport
 
