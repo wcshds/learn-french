@@ -82,7 +82,7 @@
 ## Le futur proche（最近將來時）
 最近將來時表示即將發生的動作。由 aller 的直陳式現在時變位加上動詞不定式構成。
 
-<table>
+<table align="center">
     <tbody>
         <tr width="100%">
             <td align="center">aller（直陳式現在時） + 動詞不定式</td>
