@@ -74,6 +74,9 @@
         Les  amis de Marc lui envoient souvent des messages par e-mail. Marc aime leur répondre le soir, parce qu'il est occupé dans la journée.
 
 
+總而言之，除了肯定命令式外，間接賓語人稱代詞都放在**相關動詞**前。
+
+
 # les moyens de transport
 
 1. les transports en commun&emsp;&emsp;公共交通
