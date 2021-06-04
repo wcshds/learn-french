@@ -6,33 +6,33 @@
         <tr>
             <td rowspan="3">singulier</td>
             <td>première personne</td>
-            <td>me</td>
+            <td align="center">me</td>
             <td>Elle me donne un coup de téléphone.</td>
         </tr>
         <tr>
             <td>deuxième personne</td>
-            <td>te</td>
+            <td align="center">te</td>
             <td>Il te donne sone numéro de téléphone.</td>
         </tr>
         <tr>
             <td>troisième personne</td>
-            <td>lui</td>
+            <td align="center">lui</td>
             <td>Je lui donne mon adresse.</td>
         </tr>
         <tr>
             <td rowspan="3">pluriel</td>
             <td>première personne</td>
-            <td>nous</td>
+            <td align="center">nous</td>
             <td>Ils nous parlent.</td>
         </tr>
         <tr>
             <td>deuxième personne</td>
-            <td>vous</td>
+            <td align="center">vous</td>
             <td>Nous vous téléphonons.</td>
         </tr>
         <tr>
             <td>troisième personne</td>
-            <td>leur</td>
+            <td align="center">leur</td>
             <td>Tu leur envoies un message.</td>
         </tr>
     </tbody>
