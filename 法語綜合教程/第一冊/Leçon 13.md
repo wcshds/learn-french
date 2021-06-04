@@ -13,7 +13,7 @@
         <tr>
             <td>deuxième personne</td>
             <td align="center">te</td>
-            <td>Il te demande ton numéro de téléphone.</td>
+            <td>Il te demande ton numéro de téléphone ?</td>
         </tr>
         <tr>
             <td>troisième personne</td>
@@ -38,6 +38,41 @@
         </tr>
     </tbody>
 </table>
+
+*注意：如果動詞以元音開始，動詞前的間接賓語人稱代詞 me, te 要用 m', t' 的形式：*
+
+    Est-ce que vous m'envoyez un message par e-mail ?
+    Je t'enseigne le français, tu m'enseigne l'anglais, ça va ?
+
+### 位置
+1. 間接賓語人稱代詞位於主語和動詞之間：
+
+    Il me faut un quart d'heure de bicyclette pour venir ici.
+    Voilà mon ami Philippe. Je lui parle de ma famille.
+    Je pense beaucoup à mes parents, et je leur téléphone souvent.
+
+2. 在否定式中，間接賓語人稱代詞和變位動詞一起，放在 ne 和 pas 之間：
+
+        - Tu lui téléphones souvent ? - Non, je ne lui téléphone pas souvent.
+
+3. 在肯定命令式中，間接賓語人稱代詞的位置在動詞後：
+
+        Téléphone-lui !
+    
+    此時， me 要變爲 moi：
+
+        Téléphone-moi !
+
+    但在否定命令式中，間接賓語人稱代詞的位置在動詞前：
+
+        Ne lui téléphone pas !
+        Ne me répondez pas maintenant.
+
+4. 當句中有動詞不定式時，間接賓語人稱代詞位於人稱動詞和不定式之間：
+
+        Je veux lui parler.
+        Les  amis de Marc lui envoient souvent des messages par e-mail. Marc aime leur répondre le soir, parce qu'il est occupé dans la journée.
+
 
 # les moyens de transport
 
