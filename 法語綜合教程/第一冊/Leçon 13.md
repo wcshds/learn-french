@@ -59,7 +59,7 @@
 
         Téléphone-lui !
     
-    此時， me 要變爲 moi：
+    此時， me 要變爲 moi，te 要變爲 toi：
 
         Téléphone-moi !
 
@@ -71,11 +71,24 @@
 4. 當句中有動詞不定式時，間接賓語人稱代詞位於人稱動詞和不定式之間：
 
         Je veux lui parler.
+        Je ne veux pas lui parler.
         Les  amis de Marc lui envoient souvent des messages par e-mail. Marc aime leur répondre le soir, parce qu'il est occupé dans la journée.
 
 <br />
 
 總而言之，除了肯定命令式外，間接賓語人稱代詞都放在**相關動詞**前。
+
+
+## Le futur proche（最近將來時）
+最近將來時表示即將發生的動作。由 aller 的直陳式現在時變位加上動詞不定式構成。
+
+<table>
+    <tbody>
+        <tr>
+            <td width="100%" align="center">aller（直陳式現在時） + 動詞不定式</td>
+        </tr>
+    </tbody>
+</table>
 
 
 # les moyens de transport
