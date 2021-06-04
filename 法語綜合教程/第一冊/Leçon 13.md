@@ -13,28 +13,28 @@
         <tr>
             <td>deuxième personne</td>
             <td align="center">te</td>
-            <td>Il te donne sone numéro de téléphone.</td>
+            <td>Il te demande ton numéro de téléphone.</td>
         </tr>
         <tr>
             <td>troisième personne</td>
             <td align="center">lui</td>
-            <td>Je lui donne mon adresse.</td>
+            <td>Je lui parle de ma famille.</td>
         </tr>
         <tr>
             <td rowspan="3" align="center">pluriel</td>
             <td>première personne</td>
             <td align="center">nous</td>
-            <td>Ils nous parlent.</td>
+            <td>Le professeur nous pose des questions.</td>
         </tr>
         <tr>
             <td>deuxième personne</td>
             <td align="center">vous</td>
-            <td>Nous vous téléphonons.</td>
+            <td>Qui vous enseigne le français ?</td>
         </tr>
         <tr>
             <td>troisième personne</td>
             <td align="center">leur</td>
-            <td>Tu leur envoies un message.</td>
+            <td>Elle a beaucoup d'amis et elle leur écrit souvent.</td>
         </tr>
     </tbody>
 </table>
