@@ -84,8 +84,8 @@
 
 <table>
     <tbody>
-        <tr>
-            <td width="100%" align="center">aller（直陳式現在時） + 動詞不定式</td>
+        <tr width="100%">
+            <td align="center">aller（直陳式現在時） + 動詞不定式</td>
         </tr>
     </tbody>
 </table>
