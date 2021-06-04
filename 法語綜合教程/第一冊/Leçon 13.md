@@ -1,6 +1,7 @@
 # Grammaire
 ## Les pronoms personnels compléments d'objets indirects（間接賓語人稱代詞）
 ### 構成和用法
+間接賓語人稱代詞代替由介詞 à 引導的名詞。
 <table>
     <tbody>
         <tr>
