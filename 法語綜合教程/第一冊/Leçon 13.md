@@ -129,6 +129,7 @@
         la moto
         le scooter	小摩托車
         le vélo (*Vélib 共享單車)
+        le roller	溜冰鞋
 
 3. l'arret de bus&emsp;&emsp;公交車站
 
@@ -291,6 +292,11 @@ A : Je vais l'avoir bientôt, puisque je suis en train d'apprendre à conduire d
 
 
 # Texte
+Le père de Nathalie est représentant pour une compagnie informatique. Il va dans des entreprises pour vendre des ordinateurs et des imprimantes. Il ne prend pas l'autobus, ni le métro. Il va au bureau et chez ses clients en automobile. Il conduit beaucoup.
+
+Aujourd'hui, il va à Hangzhou en voiture et rencontre un vieux client.
+
+Demain, il va prendre l'avion parce qu'il va rencontrer un nouveau client à Chengdu. Il va aller à l'aéroport à huit heures. L'avion va décoller à neuf heures trente. Quand l'avion va atterrir à Chengdu, il va prendre un taxi pour aller chez son client. Il va revenir samedi soir.
 
 ### Vocabulaire
 1. un représentant, une représentante&emsp;&emsp;代理人
