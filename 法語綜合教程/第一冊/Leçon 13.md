@@ -85,10 +85,16 @@
 <table align="center">
     <tbody>
         <tr width="100%">
-            <td align="center">aller（直陳式現在時） + 動詞不定式</td>
+            <td>aller（直陳式現在時） + 動詞不定式</td>
         </tr>
     </tbody>
 </table>
+
+*注意：aller 爲助動詞，完全失去原意：*
+
+    Je vais ranger mes affaires.	我馬上就整理東西。
+
+
 
 
 # les moyens de transport
