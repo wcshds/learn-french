@@ -84,7 +84,7 @@
 <table align="center">
     <tbody>
         <tr width="100%">
-            <td>aller（直陳式現在時） + 動詞不定式</td>
+            <td>aller（直陳式現在時） + infinitif（動詞不定式）</td>
         </tr>
     </tbody>
 </table>
@@ -92,6 +92,12 @@
 *注意：aller 爲助動詞，完全失去原意：*
 
     Je vais ranger mes affaires.	我馬上就整理東西。
+    Elle va venir en autobus.
+    Je vais être en retard.
+    Nous allons passer beaucoup d'examens.
+    Tu vas avoir des problèmes, si tu continues comme ça.
+    Vous allez apprendre à conduire ?
+    Ils vont prendre un taxi pour aller au cinéma.
 
 ### 用法
 1. 在否定句中，ne ... pas 放在助動詞 aller 的兩邊：
@@ -100,7 +106,7 @@
 
 2. 在主謂倒裝疑問句中，倒置的是助動詞 aller：
 
-        Quand v-t-il revenir ?
+        Quand va-t-il revenir ?
 
 3. 如果句中有作賓語的代詞，要將賓語代詞放在動詞不定式的前面：
 
@@ -262,7 +268,12 @@ A : Je vais l'avoir bientôt, puisque je suis en train d'apprendre à conduire d
 
     變位（第三組）：
 
-
+        je conduis
+        tu conduis
+        il (elle) conduit
+        nous conduisons
+        vous conduisez
+        ils (elles) conduisent
 
     1. conduire + qn.&emsp;&emsp;開車送某人
 
@@ -277,3 +288,53 @@ A : Je vais l'avoir bientôt, puisque je suis en train d'apprendre à conduire d
             Il conduit bien.
 
 29. auto-école&emsp;&emsp;駕駛學校
+
+
+# Texte
+
+### Vocabulaire
+1. un représentant, une représentante&emsp;&emsp;代理人
+2. une compagnie&emsp;&emsp;公司
+3. informatique&emsp;&emsp;adj. 信息技術的
+4. une entreprise&emsp;&emsp;企業
+5. vendre&emsp;&emsp;v.t. 銷售
+
+    變位（第三組）：
+
+        je vends
+        tu vends
+        il (elle) vend
+        nous vendons
+        vous vendez
+        ils (elles) vendent
+
+6. un ordinateur&emsp;&emsp;電腦
+7. une imprimante&emsp;&emsp;打印機
+8. un métro&emsp;&emsp;地鐵
+9. un bureau&emsp;&emsp;辦公室
+10. un client, une cliente&emsp;&emsp;顧客，客戶
+11. une automobile&emsp;&emsp;汽車
+12. en automobile&emsp;&emsp;駕車
+13. vieux, vieil, vieille&emsp;&emsp;adj. 相識已久的
+
+        un vieux monsieur
+        un vieil homme
+        une vieille femme
+        deux vieux messieurs
+        deux vieux hommes
+        deux vielles femmes
+
+14. un avion&emsp;&emsp;飛機
+15. nouveau, nouvel, nouvelle&emsp;&emsp;adj. 新的
+
+        un nouveau livre
+        un nouvel appartement
+        une nouvelle maison
+        deux nouveaux livres
+        deux nouveaux appartement
+        deux nouvelles maisons
+
+16. un aéroport&emsp;&emsp;機場
+17. décoller&emsp;&emsp;v.i. 起飛
+18. atterrir&emsp;&emsp;v.i. 降落
+19. revenir&emsp;&emsp;v.i. 回來
