@@ -64,7 +64,7 @@
 ### Les doubles pronoms（雙賓語代詞）
 1. 在肯定句、否定句、疑問句中，如果同時有兩個賓語人稱代詞或副代詞（y, en）時，它們的排列順序如下：
 
-    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms.svg" width="80%" />
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms-1.svg" width="80%" />
 
     1. me, te, nous, vous 可以是直接或間接賓語，位於賓語排列順序的第一位：
 
@@ -93,46 +93,22 @@
 
     1. 在肯定命令句中，同時有兩個人稱代詞時，直接賓語 le, la, les 在前，間接賓語 moi, toi, lui, nous, vous, leur 在後，並全用連字號連接：
 
-<table align="center">
-    <tbody>
-        <tr>
-            <td width="200px" align="center">verbe</td>
-            <td width="200px" align="center">
-                le
-                <br />
-                la
-                <br />
-                les
-            </td>
-            <td width="200px" align="center">
-                moi
-                <br />
-                toi
-                <br />
-                lui
-                <br />
-                nous
-                <br />
-                vous
-                <br />
-                leur
-            </td>
-        </tr>
-    </tbody>
-</table>
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms-2.svg" width="80%" />
 
-        Donne-moi le stylo. = Donne-le-moi.
-        Montrez-nous votre voiture. = Montrez-la-nous.
-        Donnez-leur le livre. = Donnez-le-leur.
+            Donne-moi le stylo. = Donne-le-moi.
+            Montrez-nous votre voiture. = Montrez-la-nous.
+            Donnez-leur le livre. = Donnez-le-leur.
 
-<br />
 
-2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
+    2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
 
-    Ne me donne pas le journal. = Ne me le donne pas.
-    Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
+            Ne me donne pas le journal. = Ne me le donne pas.
+            Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
 
-3. 
+    3. 副代詞 en 在命令式中：
+
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms-3.svg" width="80%" />
+        
 
     
 
