@@ -61,6 +61,14 @@
 
         Je veux de la glace. Elle en veut aussi.	我要吃冰淇淋，她也要。
 
+### Les doubles pronoms（雙賓語代詞）
+<script>
+    alert("Bonjour !")
+</script>
+1. 在肯定句、否定句、疑問句中，如果同時有兩個賓語人稱代詞或副代詞（y, en）時，它們的排列順序如下：
+
+
+
 
 # Dialogue
 (Laurent, ami français de Marc, vient le voir sur le campus. À midi, au resto U.)
