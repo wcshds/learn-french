@@ -108,6 +108,11 @@
     3. 副代詞 en 在命令式中：
 
     <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms-3.svg" width="80%" />
+
+            Donnez-moi des journaux. = Donnez-m'en.
+                                     ≠ Ne m'en donnez pas.
+            Achetez-leur des livres. = Achetez-leur-en.
+                                     ≠ Ne leur en achetez pas.
         
 
     
