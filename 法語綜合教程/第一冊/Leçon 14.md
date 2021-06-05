@@ -65,6 +65,36 @@
 # Dialogue
 (Laurent, ami français de Marc, vient le voir sur le campus. À midi, au resto U.)
 
+Laurent : Comment est la cuisine de ton université ?
+
+Marc : Excellente. Le menu varie chaque jour. Au repas de midi et du soir, il y a toujours de la viande, soit des côtelettes frites, soit un tranche de porc à la sauce de soja.
+
+L : Avez-vous du poisson tous les jours ?
+
+M : Pas tous les jours, mais nous avons plusieurs légumes : des choux, des navets, des carottes, des pommes de terre, des haricots et des petits pois selon la saison.
+
+L : Vous prenez toujours du riz ?
+
+M : Non, nous mangeons aussi des nouilles ou des petits pains cuits à la vapeur.
+
+L : Alors, qu'est-ce que nous prenons aujourd'hui ?
+
+M : Des nouilles. Veux-tu ?
+
+L : Avec plaisir.
+
+M : Ensuite, tu prends du poisson ou de la viande ?
+
+L : Du poisson.
+
+M : Moi, je prends de la viande et du riz. J'ai faim.
+
+L : Regarde, à la table voisine, on vient d'apporter du rôti de bœuf. Ce plat est très appétissant.
+
+M : Bon, alors je vais en prendre. Tu veux boire quelque chose ? Du vin ou de la bière ?
+
+L : Oui, j'aimerais bien avoir une bière, s'il te plaît.
+
 ### Vocabulaire
 1. avoir faim&emsp;&emsp;感到餓
 2. un loup&emsp;&emsp;狼
