@@ -63,7 +63,7 @@
 
 ### Les doubles pronoms（雙賓語代詞）
 <script>
-    alert("Bonjour !")
+    console.log("Bonjour !")
 </script>
 1. 在肯定句、否定句、疑問句中，如果同時有兩個賓語人稱代詞或副代詞（y, en）時，它們的排列順序如下：
 
