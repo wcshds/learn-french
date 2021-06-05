@@ -98,7 +98,7 @@ L : Oui, j'aimerais bien avoir une bière, s'il te plaît.
 ### 課文注釋
 1. 描述食品與配料的關係時，通常用「主體 + à + 配料」的結構，如：
 
-        un tranche de porc à la sauce de soja
+        un tranche de porc à la sauce de soja	豬肉薄片配醬油
         un café au lait			牛奶咖啡
         un gâteau au chocolat			巧克力蛋糕
         une tarte aux pommes			蘋果派
