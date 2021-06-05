@@ -63,6 +63,7 @@
 
 
 # Dialogue
+(Laurent, ami français de Marc, vient le voir sur le campus. À midi, au resto U.)
 
 ### Vocabulaire
 1. avoir faim&emsp;&emsp;感到餓
@@ -129,17 +130,86 @@
 28. selon&emsp;&emsp;prép. 根據
 29. du riz&emsp;&emsp;n.m. 米飯；稻
 30. manger&emsp;&emsp;v.t. 吃
-31. nouilles&emsp;&emsp;n.f.pl. 麫條
+
+    變位（第一組）：
+
+        je mange
+        tu manges
+        il (elle) mange
+        nous mangeons
+        vous mangez
+        ils (elles) mangent
+
+    <br />
+
+        Exp. manger du pain 	吃麫包
+        manger un bifteck 	吃一份牛排
+
+        manger comme quatre 	吃得很多
+        manger comme un oiseau 	吃得很少
+        manger comme un cochon 	吃相不好
+
+        La vengeance est un plat qui se mange froid. 	君子報仇，十年不晚。
+
+31. des nouilles&emsp;&emsp;n.f.pl. 麫條
 32. ou&emsp;&emsp;conj. 或者
 33. un petit pain cuit à la vapeur&emsp;&emsp;饅頭
 34. vouloir&emsp;&emsp;v.t. 想要，願意
+
+    變位（第三組）：
+
+        je veux
+        tu veux
+        il (elle) veut
+        nous voulons
+        vous voulez
+        ils (elles) veulent
+
+    <br />
+
+        Exp. - Veux-tu des nouilles - Non, je n'en veux pas.
+
+    * vouloir + v.
+
+        Exp. « Je veux être Chateaubriand ou rien. » Victor Hugo
+        Je voudrais bien connaître cette dame.
+        Qu'est-ce que ça veut dire ?	這是什麽意思？
+
+        Vouloir, c'est pouvoir.	有志者事竟成。
+
 35. avec plaisir&emsp;&emsp;非常樂意
 36. une table&emsp;&emsp;桌子，餐桌
 37. voisin, voisine&emsp;&emsp;adj. 隔壁的，鄰近的
 38. apporter&emsp;&emsp;v.t. 拿來，帶來
+
+        Exp. Allez chercher ce livre et apportez-le-moi.
+        Il nous apporte toujours un petit cadeau.
+        Le facteur apporte des courriers.	郵遞員帶來郵件
+
 39. le rôti de bœuf&emsp;&emsp;烤牛肉
 40. un plat&emsp;&emsp;一道菜
 41. appétissant, appétissante&emsp;&emsp;adj. 引起食欲的
 42. boire&emsp;&emsp;v.t. 喝
+
+    變位（第三組）：
+
+        je bois
+        tu bois
+        il (elle) boit
+        nous buvons
+        vous buvez
+        ils (elles) boivent
+
+    * boire + qch.
+
+            Exp. boire du vin/du lait/une tasse de thé/un café
+
+            Ce n'est pas la mer à boire.	又不是要去喝大海。（事情沒那麽難。）
+            Elle regarde le conférencier et boit ses paroles.
+
+            Il boit comme un trou.	他酗酒。
+
+            boisson(s) chaude(s) / fraîche(s) / froide(s)	熱飲 / 冷飲
+
 43. du vin&emsp;&emsp;葡萄酒
 44. de la bière&emsp;&emsp;啤酒
