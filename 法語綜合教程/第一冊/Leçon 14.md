@@ -96,15 +96,15 @@
 <table>
     <tbody>
         <tr>
-            <td width="50px" align="center">verbe</td>
-            <td width="50px" align="center">
+            <td width="150px" align="center">verbe</td>
+            <td width="150px" align="center">
                 le
                 <br />
                 la
                 <br />
                 les
             </td>
-            <td width="50px" align="center">
+            <td width="150px" align="center">
                 moi
                 <br />
                 toi
