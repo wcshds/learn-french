@@ -121,6 +121,19 @@
     </tbody>
 </table>
 
+        Donne-moi le stylo. = Donne-le-moi.
+        Montrez-nous votre voiture. = Montrez-la-nous.
+        Donnez-leur le livre. = Donnez-le-leur.
+
+<br />
+
+    2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
+
+        Ne me donne pas le journal. = Ne me le donne pas.
+        Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
+
+3. 
+
     
 
 
