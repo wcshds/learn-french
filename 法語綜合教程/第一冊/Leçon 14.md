@@ -63,7 +63,65 @@
 
 ### Les doubles pronoms（雙賓語代詞）
 1. 在肯定句、否定句、疑問句中，如果同時有兩個賓語人稱代詞或副代詞（y, en）時，它們的排列順序如下：
-<img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms.svg" width="80%" />
+
+    <img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms.svg" width="80%" />
+
+    1. me, te, nous, vous 可以是直接或間接賓語，位於賓語排列順序的第一位：
+
+            - Je vous donne le cahier ?
+            - Oui, vous me le donnez.
+            - Non, vous ne me le donnez pas.
+
+    2. le, la, les 是直接賓語人稱代詞，排在 me, te, nous, vous 之後，其他代詞之前：
+
+            Elle nous lit le texte. = Elle nous le lit.
+
+    3. lui, leur 是間接賓語人稱代詞，其位置在 le, la, les 之後：
+
+            Le professeur lui pose cette question. = Il la lui pose.
+            Je montre les photos à mes amis. = Je les leur montre.
+
+    4. 副代詞 y 位於倒數第二位：
+
+            On voit les enfants au jardin. = On les y voit.
+
+    5. 副代詞 en 排在最後：
+
+            Ils nous servent du café. = Ils nous en servent.
+
+2. 雙賓語代詞在命令式中的位置
+
+    1. 在肯定命令句中，同時有兩個人稱代詞時，直接賓語 le, la, les 在前，間接賓語 moi, toi, lui, nous, vous, leur 在後，並全用連字號連接：
+
+<table>
+    <tbody>
+        <tr>
+            <td width="50px" align="center">verbe</td>
+            <td width="50px" align="center">
+                le
+                <br />
+                la
+                <br />
+                les
+            </td>
+            <td width="50px" align="center">
+                moi
+                <br />
+                toi
+                <br />
+                lui
+                <br />
+                nous
+                <br />
+                vous
+                <br />
+                leur
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+    
 
 
 
