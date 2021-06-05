@@ -127,10 +127,10 @@
 
 <br />
 
-    2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
+2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
 
-        Ne me donne pas le journal. = Ne me le donne pas.
-        Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
+    Ne me donne pas le journal. = Ne me le donne pas.
+    Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
 
 3. 
 
