@@ -91,27 +91,43 @@
         faire la cuisine	做飯
 
 8. excellent, excellente&emsp;&emsp;adj. 出色的
-9. un menu&emsp;&emsp;菜單
+9. le menu&emsp;&emsp;菜單
 10. varier&emsp;&emsp;vi. 變化，變動
-11. un repas&emsp;&emsp;一頓飯
+
+        variable	adj. 有變化的
+        invariable	adj. 不變的
+
+11. un repas&emsp;&emsp;一頓飯（相當於英語中的 meal）
+
+        les trois repas 	三餐
+
 12. de la viande&emsp;&emsp;肉
 13. soit ... soit ...&emsp;&emsp;要麽……要麽……
-14. de la côtelette&emsp;&emsp;排骨
+14. une côtelette&emsp;&emsp;排骨
+
+        une côtelette frite 	炸排骨
+
 15. frit, frite&emsp;&emsp;adj. 油炸的
 16. une tranche&emsp;&emsp;片，薄片
-17. de le porc&emsp;&emsp;豬肉
+
+        une tranche de porc 	一片豬肉
+
+17. du porc&emsp;&emsp;豬肉
 18. la sauce de soja&emsp;&emsp;醬油
-19. de le poisson&emsp;&emsp;魚
+19. du poisson&emsp;&emsp;魚
 20. plusieurs&emsp;&emsp;adj.indéf. 好幾個
-21. des légumes&emsp;&emsp;n.m. 蔬菜
+21. des légumes&emsp;&emsp;n.m.pl. 蔬菜
 22. un chou (des choux)&emsp;&emsp;卷心菜
-23. navet&emsp;&emsp;蘿卜
-24. carotte&emsp;&emsp;胡蘿卜
+23. le navet&emsp;&emsp;白蘿卜
+24. la carotte&emsp;&emsp;胡蘿卜
 25. une pomme de terre&emsp;&emsp;土豆
-26. des haricots&emsp;&emsp;n.m. 刀豆，四季豆
-27. des petits pois&emsp;&emsp;n.m. 豌豆
+26. des haricots&emsp;&emsp;n.m.pl. 刀豆，四季豆
+
+    haricots 的 h 是噓音，不可以聯誦
+
+27. des petits pois&emsp;&emsp;n.m.pl. 豌豆
 28. selon&emsp;&emsp;prép. 根據
-29. riz&emsp;&emsp;n.m. 米飯；稻
+29. du riz&emsp;&emsp;n.m. 米飯；稻
 30. manger&emsp;&emsp;v.t. 吃
 31. nouilles&emsp;&emsp;n.f.pl. 麫條
 32. ou&emsp;&emsp;conj. 或者
@@ -125,5 +141,5 @@
 40. un plat&emsp;&emsp;一道菜
 41. appétissant, appétissante&emsp;&emsp;adj. 引起食欲的
 42. boire&emsp;&emsp;v.t. 喝
-43. de le vin&emsp;&emsp;葡萄酒
+43. du vin&emsp;&emsp;葡萄酒
 44. de la bière&emsp;&emsp;啤酒
