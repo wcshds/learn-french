@@ -83,17 +83,17 @@ M : Des nouilles. Veux-tu ?
 
 L : Avec plaisir.
 
-M : Ensuite, tu prends du poisson ou de la viande ?
+M : Tu prends du poisson ou de la viande ?
 
 L : Du poisson.
 
 M : Moi, je prends de la viande et du riz. J'ai faim.
 
-L : Regarde, à la table voisine, on vient d'apporter du rôti de bœuf. Ce plat est très appétissant.
+L : Regarde, à la table voisine, on mange un rôti de bœuf. C'est très appétissant, ce plat.
 
-M : Bon, alors je vais en prendre. Tu veux boire quelque chose ? Du vin ou de la bière ?
+M : Bon, alors je vais t'en apporter un. Tu veux boire quelque chose ? Du vin ou de la bière ?
 
-L : Oui, j'aimerais bien avoir une bière, s'il te plaît.
+L : Oui, j'aimerais bien une bière, s'il te plaît.
 
 ### 課文注釋
 1. 描述食品與配料的關係時，通常用「主體 + à + 配料」的結構，如：
@@ -102,6 +102,8 @@ L : Oui, j'aimerais bien avoir une bière, s'il te plaît.
         un café au lait				牛奶咖啡
         un gâteau au chocolat				巧克力蛋糕
         une tarte aux pommes				蘋果派
+
+2. 在 des petits pains cuit à la vapeur 中 des 不用改爲 de，因爲 petits pains 作爲一個整體表示「饅頭」。
 
 ### Vocabulaire
 1. avoir faim&emsp;&emsp;感到餓
