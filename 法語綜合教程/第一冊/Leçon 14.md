@@ -66,7 +66,7 @@
     console.log("Bonjour !")
 </script>
 1. 在肯定句、否定句、疑問句中，如果同時有兩個賓語人稱代詞或副代詞（y, en）時，它們的排列順序如下：
-
+<img src="https://raw.githubusercontent.com/wcshds/learn-french/master/%E6%B3%95%E8%AA%9E%E7%B6%9C%E5%90%88%E6%95%99%E7%A8%8B/images/Les%20doubles%20pronoms.svg" />
 
 
 
