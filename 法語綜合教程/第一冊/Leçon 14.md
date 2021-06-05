@@ -22,7 +22,14 @@
 </table>
 
 *注意：*
-1. de l' 用於以元音字母或啞音 h 開始的名詞前面，如 de l'air, de l'huile 等。
+1. de l' 用於以元音字母或啞音 h 開始的名詞前面，如：
+
+        de l'air		空氣
+        de l'argent		錢
+        de l'huile d'olive	橄㰖油
+        de l'eau		水
+
+
 2. des 衹用於少部分詞，如：des légumes, des fruits。這裡的 des 也可看作是不定冠詞。
 
 ### 用法
