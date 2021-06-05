@@ -93,18 +93,18 @@
 
     1. 在肯定命令句中，同時有兩個人稱代詞時，直接賓語 le, la, les 在前，間接賓語 moi, toi, lui, nous, vous, leur 在後，並全用連字號連接：
 
-<table>
+<table align="center">
     <tbody>
         <tr>
-            <td width="150px" align="center">verbe</td>
-            <td width="150px" align="center">
+            <td width="200px" align="center">verbe</td>
+            <td width="200px" align="center">
                 le
                 <br />
                 la
                 <br />
                 les
             </td>
-            <td width="150px" align="center">
+            <td width="200px" align="center">
                 moi
                 <br />
                 toi
