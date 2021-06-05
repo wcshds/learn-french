@@ -85,9 +85,34 @@
 
             On voit les enfants au jardin. = On les y voit.
 
+        *注意：le, la 和 y 要省音爲 l'y，如：*
+
+            Pierre habite loin de son école. Son père conduit Pierre à l'école tous les jours.
+            = Son père l'y conduit tous les jours.
+
     5. 副代詞 en 排在最後：
 
             Ils nous servent du café. = Ils nous en servent.
+
+    *注意：以下代詞不能同時使用：*
+    1. y 和 en（除了 Il y en a）
+
+            Exp. Je mets des fleurs dans un vase.
+            - J'y mets des fleurs.
+            - J'en mets dans un vase.
+
+    2. me, te, nous, vous 和 lui, leur
+
+            Exp. Il me présente à Philippe.
+            - Il me présente à lui.
+            不能說 Il me lui présente.
+
+    3. lui, leur 和 y
+
+            Exp. Je téléphone à mes amis en France.
+            - Je leur téléphone en France.
+            不能說 Je leur y téléphone.
+
 
 2. 雙賓語代詞在命令式中的位置
 
