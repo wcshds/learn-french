@@ -5,18 +5,18 @@
 <table>
     <tbody>
         <tr>
-            <td></td>
-            <td>singulier</td>
-            <td>pluriel</td>
+            <td width="33.33%"></td>
+            <td width="33.33%" align="center">singulier</td>
+            <td width="33.33%" align="center">pluriel</td>
         </tr>
         <tr>
-            <td>masculin</td>
-            <td>du (de l')</td>
-            <td rowspan="2">des</td>
+            <td align="center">masculin</td>
+            <td align="center">du (de l')</td>
+            <td rowspan="2" align="center">des</td>
         </tr>
         <tr>
-            <td>féminin</td>
-            <td>de la (de l')</td>
+            <td align="center">féminin</td>
+            <td align="center">de la (de l')</td>
         </tr>
     </tbody>
 </table>
