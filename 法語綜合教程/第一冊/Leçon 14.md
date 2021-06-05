@@ -20,3 +20,32 @@
         </tr>
     </tbody>
 </table>
+
+*注意：de l' 用於以元音字母或啞音 h 開始的名詞前面，如 de l'air, de l'huile 等。*
+
+### 用法
+
+1. 部分冠詞用在不可數的物質名詞前，表示部分概念：
+
+        Je bois du café.
+
+2. 部分冠詞用在不可數的抽象名詞前，表示部分概念：
+
+        Avec de la patience, on arrive à tout.	衹要有耐心，一切都會成功。
+
+*注意：如果表示確指或整體概念，則用定冠詞：*
+
+    J'aime le café.
+    La patience est une grande vertu.	耐长是一大優點。
+
+3. 和不定冠詞一樣，部分冠詞在 beaucoup de, un peu de 等副詞短語後被省略：
+
+        Je veux un peu de vin.	我要一點葡萄酒。
+
+4. 在否定句中，直接賓語前的部分冠詞由 de 代替：
+
+        Je ne prends pas de viande.	我不吃肉。
+
+5. 「部分冠詞 + 名詞」可以用副代詞 en 代替：
+
+        Je veux de la glace. Elle en veut aussi.	我要吃冰淇淋，她也要。
