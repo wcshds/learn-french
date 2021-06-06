@@ -63,10 +63,12 @@
         <tr>
             <td>
                 avoir
+                <br />
                 être
             </td>
             <td>
                 eu [ y ]
+                <br />
                 été
             </td>
             <td></td>
@@ -74,12 +76,16 @@
         <tr>
             <td>
                 dormir
+                <br />
                 rire
+                <br />
                 servir
             </td>
             <td>
                 dormi
+                <br />
                 ri
+                <br />
                 servi
             </td>
             <td>i</td>
@@ -87,48 +93,80 @@
         <tr>
             <td>
                 attendre
+                <br />
                 boire
+                <br />
                 connaître
+                <br />
                 entendre
+                <br />
                 falloir
+                <br />
                 lire
+                <br />
                 pleuvoir
+                <br />
                 pouvoir
+                <br />
                 répondre
+                <br />
                 savoir
+                <br />
                 vendre
+                <br />
                 vouloir
+                <br />
                 voir
             </td>
             <td>
                 attendu
+                <br />
                 bu
+                <br />
                 connu
+                <br />
                 entendu
+                <br />
                 fallu
+                <br />
                 lu
+                <br />
                 plu
+                <br />
                 pu
+                <br />
                 répondu
+                <br />
                 su
+                <br />
                 vendu
+                <br />
                 voulu
+                <br />
                 vu
             </td>
             <td>u</td>
         <tr>
             <td>
                 asseoir
+                <br />
                 mettre
+                <br />
                 prendre
+                <br />
                 apprendre
+                <br />
                 comprendre
             </td>
             <td>
                 assis
+                <br />
                 mis
+                <br />
                 pris
+                <br />
                 appris
+                <br />
                 compris
             </td>
             <td>is</td>
@@ -136,16 +174,24 @@
         <tr>
             <td>
                 couvrir
+                <br />
                 dire
+                <br />
                 écrire
+                <br />
                 faire
+                <br />
                 ouvrir
             </td>
             <td>
                 couvert
+                <br />
                 dit
+                <br />
                 écrit
+                <br />
                 fait
+                <br />
                 ouvert
             </td>
             <td>t</td>
