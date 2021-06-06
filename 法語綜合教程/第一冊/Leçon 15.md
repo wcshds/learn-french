@@ -299,8 +299,11 @@
 1. 諸如 bien, déja, trop, beaucoup, encore, toujours 之類的副詞，以及 rien 這樣的代詞，一般都放在助動詞和過去分詞之間：
 
         Vous avez bien dit.
+        Tu as bien fait. (Bien fait !)
         Balzac a vraiment beaucoup écrit.
-        Je n'ai rien vu.
+        Je n'ai jamais été à Nanjing.
+        J'ai tout entendu.
+        Je n'ai rien vu/entendu/fait.
 
 2. 作直接賓語或間接賓語的人稱代詞、副代詞 en 和 y 要放在助動詞前；在否定句中，要注意否定詞 ne ... pas 的位置：
 
