@@ -4,10 +4,10 @@
 
 ### 構成
 
-<table>
+<table align="center">
     <tbody>
         <tr>
-            <td width="80%" align="center">助動詞 avoir（直陳式現在時） + 動詞的過去分詞 = 直陳式複合過去時</td>
+            <td width="80%">助動詞 avoir（直陳式現在時） + 動詞的過去分詞 = 直陳式複合過去時</td>
         </tr>
     </tbody>
 </table>
