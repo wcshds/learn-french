@@ -289,7 +289,8 @@
 
         Exp. J'ai vu le film Intouchables cinq fois.
         As-tu fini tes devoirs ?
-        Avez-vous été à Nanjing ? (Non, je n'ai jamais été à Nanjing.)
+        Avez-vous été à Nanjing ?	你去過南京嗎？
+        Non, je n'ai jamais été à Nanjing.	不，我沒去過南京。
         Son père a travaillé en Afrique comme médecin sans frontières (MSF).
         Ils ont acheté cette maison de campagne.
         Martine a attendu son copain pendant une heure.
