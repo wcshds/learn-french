@@ -53,9 +53,9 @@
 
 部分常見的第三組動詞的過去分詞如下：
 
-<table>
+<table width="80%">
     <tbody>
-        <tr width="80%">
+        <tr>
             <td width="26.66%">不定式</td>
             <td width="26.66%">過去分詞</td>
             <td width="26.66%">詞尾</td>
