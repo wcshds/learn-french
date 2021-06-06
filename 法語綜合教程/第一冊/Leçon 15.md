@@ -11,3 +11,41 @@
         </tr>
     </tbody>
 </table>
+
+過去分詞(le participe passé)的構成
+
+<table>
+    <tbody>
+        <tr>
+            <td>第一組動詞</td>
+            <td>把詞尾 -er 變成&emsp;-é</td>
+            <td>regarder -> regardé</td>
+        </tr>
+        <tr>
+            <td>第二組動詞</td>
+            <td>把詞尾 -ir 變成&emsp;-i</td>
+            <td>jaunir -> jauni</td>
+        </tr>
+        <tr>
+            <td>第三組動詞</td>
+            <td>
+                -i
+                <br />
+                -u
+                <br />
+                -is
+                <br />
+                -t
+            </td>
+            <td>
+                dormir -> dormi
+                <br />
+                attendre -> attendu
+                <br />
+                mettre -> mis
+                <br />
+                faire -> fait
+            </td>
+        </tr>
+    </tbody>
+</table>
