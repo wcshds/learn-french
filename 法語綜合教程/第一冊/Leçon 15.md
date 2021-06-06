@@ -198,3 +198,58 @@
         </tr>
     </tbody>
 </table>
+
+複合過去時各種形式（以faire爲例）
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="4">faire</td>
+        </tr>
+        <tr>
+            <td colspan="4">Passé composé de l'indicatif</td>
+        </tr>
+        <tr>
+            <td>Forme affirmative</td>
+            <td>Forme négative</td>
+            <td>Forme interrogative</td>
+            <td>Forme interrogative négative</td>
+        </tr>
+        <tr>
+            <td>
+                j'ai fait
+                tu as fait
+                il (elle) a fait
+                nous avons fait
+                vous avez fait
+                ils (elles) ont fait
+            </td>
+            <td>
+                je n'ai pas fait
+                tu n'as pas fait
+                il (elle) n'a pas fait
+                nous n'avons pas fait
+                vous n'avez pas fait
+                ils (elles) n'ont pas fait
+            </td>
+            <td>
+                Ai-je fait ... ?
+                As-tu fait ... ?
+                A-t-il (elle) fait ... ?
+                Avons-nous fait ... ?
+                Avez-vous fait ... ?
+                Ont-ils (elles) fait ... ?
+            </td>
+            <td>
+                N'ai-je pas fait ... ?
+                N'as-tu pas fait ... ?
+                N'a-t-il (elle) pas fait ... ?
+                N'avons-nous pas fait ... ?
+                N'avez-vous pas fait ... ?
+                N'ont-ils (elles) pas fait ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+*注意：在否定式和否定疑問式下，ne 須與後面元音字母省音。*
