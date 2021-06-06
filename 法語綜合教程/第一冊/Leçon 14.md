@@ -337,6 +337,15 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 
 
 # Texte
+(Paris. L'heure du déjeuner. Charles, camarade de lycée de Marc, a une faim de loup.)
+
+Il est midi. Les cours sont finis. Dehors, il fait beau. Charles est très content. Après le déjeuner, il va aller au jardin du Luxembourg avec ses copains...
+
+Charles prend le bus et va au réstaurant universitaire. Il regarde le menu. Maintenant Charles n'est plus content. Il est en colère !
+
+« Du poisson, encore du poisson, toujours du poisson ! C'est la troisième fois cette semaine qu'il y a du poisson. ... Ils exagèrent ! »
+
+Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y a de la glace. Charles adore la glace ! Alors, il hésite une minute ou deux. Puis, il prend son plateau et va attendre patiemment son tour.
 
 ### Vocabulaire
 1. Charles&emsp;&emsp;夏爾
@@ -361,13 +370,51 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 8. (être) en colère&emsp;&emsp;憤怒
 9. troisième&emsp;&emsp;adj. 第三的
 10. exagérer&emsp;&emsp;v.i. 誇張
-11. une grève&emsp;&emsp;罷工
+
+    變位（第一組）：
+
+        j'exagère
+        tu exagères
+        il (elle) exagère
+        nous exagérons
+        vous exagérez
+        ils (elles) exagèrent
+
+11. la grève&emsp;&emsp;罷工
+
+        faire la grève	罷工
+
 12. la grève de la faim&emsp;&emsp;絕食
 13. un dessert [ desɛːʁ ]&emsp;&emsp;餐後甜點
-14. une glace&emsp;&emsp;冰淇淋
+14. de la glace&emsp;&emsp;冰淇淋
 15. hésiter&emsp;&emsp;v.i. 猶豫
+
+        Exp. J'hésite.	我再想想。
+        Il prend une décision sans hésiter.	他毫不猶豫地做了決定。
+        Ils n'hésitent pas une seconde.
+        Nous hésitons entre les deux routes.
+        N'hésitez pas, le temps presse.	別猶豫了，時間很緊了。
+
+        N'hésitez pas à me poser des questions.
+
 16. une minute&emsp;&emsp;分鐘
 17. un plateau (des plateaux)&emsp;&emsp;托盤
 18. patiemment [ pasjamɑ̃ ]&emsp;&emsp;adv. 耐心地
 19. un tour&emsp;&emsp;輪流
+
+    * Moment (dans une succession)
+
+            Exp. Chacun son tour.	每個人都會輪到。
+            C'est mon tour.	輪到我了。
+            C'est à son tour de parler.	輪到他講話了。
+
+    * faire le tour de qch.
+
+            Exp. Monsieur Lane rêve de faire le tour du monde.	Lane先生夢想環遊世界。
+            Le Tour de France	環法自行車賽
+
+    * tour 作陰性名詞時表示的是「塔」
+
+            la Tour Eiffel	艾菲爾鐵塔
+
 20. attendre son tour&emsp;&emsp;等着輪到自己
