@@ -17,17 +17,17 @@
 <table>
     <tbody>
         <tr>
-            <td width="33.33%">第一組動詞</td>
+            <td width="33.33%" align="center">第一組動詞</td>
             <td colspan="2" width="33.33%">把詞尾 -er 變成&emsp;-é</td>
             <td width="33.33%">regarder -> regardé</td>
         </tr>
         <tr>
-            <td>第二組動詞</td>
-            <td colspan="2">把詞尾 -ir 變成&emsp;-i</td>
+            <td align="center">第二組動詞</td>
+            <td colspan="2">把詞尾 -ir 變成&emsp;&emsp;-i</td>
             <td>jaunir -> jauni</td>
         </tr>
         <tr>
-            <td>第三組動詞</td>
+            <td align="center">第三組動詞</td>
             <td align="center">有四种詞尾：</td>
             <td>
                 -i
