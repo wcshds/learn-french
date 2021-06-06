@@ -88,7 +88,7 @@
                 <br />
                 servi
             </td>
-            <td>i</td>
+            <td align="center">i</td>
         </tr>
         <tr>
             <td>
@@ -145,7 +145,7 @@
                 <br />
                 vu
             </td>
-            <td>u</td>
+            <td align="center">u</td>
         <tr>
             <td>
                 asseoir
@@ -169,7 +169,7 @@
                 <br />
                 compris
             </td>
-            <td>is</td>
+            <td align="center">is</td>
         </tr>
         <tr>
             <td>
@@ -194,7 +194,7 @@
                 <br />
                 ouvert
             </td>
-            <td>t</td>
+            <td align="center">t</td>
         </tr>
     </tbody>
 </table>
