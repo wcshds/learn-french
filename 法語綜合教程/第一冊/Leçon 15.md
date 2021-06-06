@@ -275,12 +275,24 @@
 *注意：在否定式和否定疑問式下，ne 須與後面元音字母省音。*
 
 ### 用法
-複合過去時主要用來表達過去已經完成的動作。該動作可能和現在有某種關聯：動作發生的時間可以是過去某一確定的時刻或時段，也可以是過去某個不確定的時間。複合過去時的助動詞 avoir 在此起語法作用，不再具有該動詞本身的意義：
+複合過去時主要用來表達**過去**已經完成的動作：動作發生的時間可以是過去某一確定的時刻或時段，也可以是過去某個不確定的時間。複合過去時的助動詞 avoir 在此起語法作用，不再具有該動詞本身的意義：
 
-    Nous avons vu un film hier soir.
-    Martine a attendu son copain pendant une heure.
-    Qu'est-ce que tu as fait samedi dernier ?
-    J'ai pris du pain à sept heures ce matin.
+1. 動作完成的時間已知
+
+        Exp. Nous avons vu un film hier soir.
+        Qu'est-ce que tu as fait samedi dernier ?
+        J'ai pris/mangé du pain à sept heures ce matin.
+        On a visité le musée du Louvre la semaine dernière.
+        Qu'est-ce que vous avez fait pendant les vacances d'hiver ?
+
+2. 動作完成時間未知
+
+        Exp. J'ai vu le film Intouchables cinq fois.
+        As-tu fini tes devoirs ?
+        Avez-vous été à Nanjing ? (Non, je n'ai jamais été à Nanjing.)
+        Son père a travaillé en Afrique comme médecin sans frontières (MSF).
+        Ils ont acheté cette maison de campagne.
+        Martine a attendu son copain pendant une heure.
 
 *注意：*
 1. 諸如 bien, déja, trop, beaucoup, encore, toujours 之類的副詞，以及 rien 這樣的代詞，一般都放在助動詞和過去分詞之間：
