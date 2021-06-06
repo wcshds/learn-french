@@ -14,7 +14,7 @@
 
 過去分詞(le participe passé)的構成
 
-<table align="center">
+<table>
     <tbody>
         <tr>
             <td width="33.33%" align="center">第一組動詞</td>
@@ -47,6 +47,108 @@
                 <br />
                 faire -> fait
             </td>
+        </tr>
+    </tbody>
+</table>
+
+部分常見的第三組動詞的過去分詞如下：
+
+<table>
+    <tbody>
+        <tr>
+            <td>不定式</td>
+            <td>過去分詞</td>
+            <td>詞尾</td>
+        </tr>
+        <tr>
+            <td>
+                avoir
+                être
+            </td>
+            <td>
+                eu [ y ]
+                été
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>
+                dormir
+                rire
+                servir
+            </td>
+            <td>
+                dormi
+                ri
+                servi
+            </td>
+            <td>i</td>
+        </tr>
+        <tr>
+            <td>
+                attendre
+                boire
+                connaître
+                entendre
+                falloir
+                lire
+                pleuvoir
+                pouvoir
+                répondre
+                savoir
+                vendre
+                vouloir
+                voir
+            </td>
+            <td>
+                attendu
+                bu
+                connu
+                entendu
+                fallu
+                lu
+                plu
+                pu
+                répondu
+                su
+                vendu
+                voulu
+                vu
+            </td>
+            <td>u</td>
+        <tr>
+            <td>
+                asseoir
+                mettre
+                prendre
+                apprendre
+                comprendre
+            </td>
+            <td>
+                assis
+                mis
+                pris
+                appris
+                compris
+            </td>
+            <td>is</td>
+        </tr>
+        <tr>
+            <td>
+                couvrir
+                dire
+                écrire
+                faire
+                ouvrir
+            </td>
+            <td>
+                couvert
+                dit
+                écrit
+                fait
+                ouvert
+            </td>
+            <td>t</td>
         </tr>
     </tbody>
 </table>
