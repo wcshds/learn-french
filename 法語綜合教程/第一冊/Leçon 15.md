@@ -291,7 +291,7 @@
         As-tu fini tes devoirs ?
         Avez-vous été à Nanjing ?	你去過南京嗎？
         Non, je n'ai jamais été à Nanjing.	不，我沒去過南京。
-        Son père a travaillé en Afrique comme médecin sans frontières (MSF).
+        Son père a travaillé en Afrique comme médecin sans frontières (MSF).	他的父親在非洲工作過，作爲無國界醫生。
         Ils ont acheté cette maison de campagne.
         Martine a attendu son copain pendant une heure.
 
