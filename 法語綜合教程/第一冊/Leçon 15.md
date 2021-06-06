@@ -204,48 +204,68 @@
 <table>
     <tbody>
         <tr>
-            <td colspan="4">faire</td>
+            <td colspan="4" align="center">faire</td>
         </tr>
         <tr>
-            <td colspan="4">Passé composé de l'indicatif</td>
+            <td colspan="4" align="center">Passé composé de l'indicatif</td>
         </tr>
         <tr>
-            <td>Forme affirmative</td>
-            <td>Forme négative</td>
-            <td>Forme interrogative</td>
-            <td>Forme interrogative négative</td>
+            <td align="center" width="25%">Forme affirmative</td>
+            <td align="center" width="25%">Forme négative</td>
+            <td align="center" width="25%">Forme interrogative</td>
+            <td align="center" width="25%">Forme interrogative négative</td>
         </tr>
         <tr>
             <td>
                 j'ai fait
+                <br />
                 tu as fait
+                <br />
                 il (elle) a fait
+                <br />
                 nous avons fait
+                <br />
                 vous avez fait
+                <br />
                 ils (elles) ont fait
             </td>
             <td>
                 je n'ai pas fait
+                <br />
                 tu n'as pas fait
+                <br />
                 il (elle) n'a pas fait
+                <br />
                 nous n'avons pas fait
+                <br />
                 vous n'avez pas fait
+                <br />
                 ils (elles) n'ont pas fait
             </td>
             <td>
                 Ai-je fait ... ?
+                <br />
                 As-tu fait ... ?
+                <br />
                 A-t-il (elle) fait ... ?
+                <br />
                 Avons-nous fait ... ?
+                <br />
                 Avez-vous fait ... ?
+                <br />
                 Ont-ils (elles) fait ... ?
             </td>
             <td>
                 N'ai-je pas fait ... ?
+                <br />
                 N'as-tu pas fait ... ?
+                <br />
                 N'a-t-il (elle) pas fait ... ?
+                <br />
                 N'avons-nous pas fait ... ?
+                <br />
                 N'avez-vous pas fait ... ?
+                <br />
                 N'ont-ils (elles) pas fait ... ?
             </td>
         </tr>
