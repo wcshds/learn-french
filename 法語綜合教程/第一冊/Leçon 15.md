@@ -204,7 +204,7 @@
 <table>
     <tbody>
         <tr>
-            <td colspan="4" align="center">faire</td>
+            <td colspan="4" align="center"><strong>faire</strong></td>
         </tr>
         <tr>
             <td colspan="4" align="center">Passé composé de l'indicatif</td>
