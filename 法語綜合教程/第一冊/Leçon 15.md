@@ -17,9 +17,9 @@
 <table>
     <tbody>
         <tr>
-            <td>第一組動詞</td>
-            <td colspan="2">把詞尾 -er 變成&emsp;-é</td>
-            <td>regarder -> regardé</td>
+            <td width="33.33%">第一組動詞</td>
+            <td colspan="2" width="33.33%">把詞尾 -er 變成&emsp;-é</td>
+            <td width="33.33%">regarder -> regardé</td>
         </tr>
         <tr>
             <td>第二組動詞</td>
