@@ -77,7 +77,7 @@
             <td>
                 dormir
                 <br />
-                rire 笑
+                rire&emsp;笑
                 <br />
                 servir&emsp;服務
             </td>
