@@ -23,7 +23,7 @@
         </tr>
         <tr>
             <td align="center">第二組動詞</td>
-            <td colspan="2">把詞尾 -ir 變成&emsp;&emsp;-i</td>
+            <td colspan="2">把詞尾 -ir 變成&emsp;&nbsp;-i</td>
             <td>jaunir -> jauni</td>
         </tr>
         <tr>
