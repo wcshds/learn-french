@@ -273,3 +273,24 @@
 </table>
 
 *注意：在否定式和否定疑問式下，ne 須與後面元音字母省音。*
+
+### 用法
+複合過去時主要用來表達過去已經完成的動作。該動作可能和現在有某種關聯：動作發生的時間可以是過去某一確定的時刻或時段，也可以是過去某個不確定的時間。複合過去時的助動詞 avoir 在此起語法作用，不再具有該動詞本身的意義：
+
+    Nous avons vu un film hier soir.
+    Martine a attendu son copain pendant une heure.
+    Qu'est-ce que tu as fait samedi dernier ?
+    J'ai pris du pain à sept heures ce matin.
+
+*注意：*
+1. 諸如 bien, déja, trop, beaucoup, encore, toujours 之類的副詞，以及 rien 這樣的代詞，一般都放在助動詞和過去分詞之間：
+
+        Vous avez bien dit.
+        Balzac a vraiment beaucoup écrit.
+        Je n'ai rien vu.
+
+2. 作直接賓語或間接賓語的人稱代詞、副代詞 en 和 y 要放在助動詞前；在否定句中，要注意否定詞 ne ... pas 的位置：
+
+        Paul, je l'ai rencontré tout à l'heure dans la classe.
+        Ça fait longtemps que je ne t'ai pas écrit.
+        - Avez-vous habité à la campagne ? - Moi, bien sûr. En fait, j'y ai habité pendant trois ans.
