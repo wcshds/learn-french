@@ -57,8 +57,8 @@
     <tbody>
         <tr>
             <td width="25%">不定式</td>
-            <td width="25">過去分詞</td>
-            <td width="25">詞尾</td>
+            <td width="25%">過去分詞</td>
+            <td width="25%">詞尾</td>
         </tr>
         <tr>
             <td>
