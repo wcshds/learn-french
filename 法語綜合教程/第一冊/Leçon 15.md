@@ -14,7 +14,7 @@
 
 過去分詞(le participe passé)的構成
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td width="33.33%" align="center">第一組動詞</td>
