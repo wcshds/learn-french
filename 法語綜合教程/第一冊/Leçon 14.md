@@ -357,7 +357,6 @@ Charles prend le bus et va au réstaurant universitaire. Il regarde le menu. Mai
 
 Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y a de la glace. Charles adore la glace ! Alors, il hésite un petit moment. Puis, il prend son plateau et attend patiemment son tour.
 
-
 ### Vocabulaire
 1. Charles&emsp;&emsp;夏爾
 2. camarade&emsp;&emsp;n. 同學
@@ -380,6 +379,26 @@ Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y
 
 8. (être) en colère&emsp;&emsp;憤怒
 9. troisième&emsp;&emsp;adj. 第三的
+
+    一般在基數詞後加上 -ième 即構成序數詞：
+
+        deux - deuxième
+        trois - troisième
+        dix - dixième [ dizjɛm ]
+
+    如果基數詞以 e 結尾，要先去掉 e，再加上 -ième
+
+        quatre - quatrième
+        onze - onzième
+        cinquante - cinquantième
+
+    另一些特殊情況：
+
+        premier, première	第一
+        cinq - cinquième
+        neuf - neuvième
+        vingt et un - vingt et unième [ ynjɛm ]
+
 10. exagérer&emsp;&emsp;v.i. 誇張
 
     變位（第一組）：
