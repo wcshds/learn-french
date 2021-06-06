@@ -138,6 +138,9 @@
                                      ≠ Ne m'en donnez pas.
             Achetez-leur des livres. = Achetez-leur-en.
                                      ≠ Ne leur en achetez pas.
+
+
+    *注意：y 一般不用在雙賓語命令式中。*
         
 
 # Dialogue
@@ -331,3 +334,28 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 
 43. du vin&emsp;&emsp;葡萄酒
 44. de la bière&emsp;&emsp;啤酒
+
+
+# Texte
+
+### Vocabulaire
+1. Charles&emsp;&emsp;夏爾
+2. camarade&emsp;&emsp;n. 同學
+3. fini, e&emsp;&emsp;adj. 結束的
+4. le jardin du Luxembourg&emsp;&emsp;盧森堡公園
+5. un copain, une copine&emsp;&emsp;夥伴，朋友
+6. un bus&emsp;&emsp;公共汽車
+7. universitaire&emsp;&emsp;adj. 大學的
+8. (être) en colère&emsp;&emsp;憤怒
+9. troisième&emsp;&emsp;adj. 第三的
+10. exagérer&emsp;&emsp;v.i. 誇張
+11. une grève&emsp;&emsp;罷工
+12. la grève de la faim&emsp;&emsp;絕食
+13. un dessert [ desɛːʁ ]&emsp;&emsp;餐後甜點
+14. une glace&emsp;&emsp;冰淇淋
+15. hésiter&emsp;&emsp;v.i. 猶豫
+16. une minute&emsp;&emsp;分鐘
+17. un plateau (des plateaux)&emsp;&emsp;托盤
+18. patiemment [ pasjamɑ̃ ]&emsp;&emsp;adv. 耐心地
+19. un tour&emsp;&emsp;輪流
+20. attendre son tour&emsp;&emsp;等着輪到自己
