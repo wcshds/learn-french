@@ -18,16 +18,17 @@
     <tbody>
         <tr>
             <td>第一組動詞</td>
-            <td>把詞尾 -er 變成&emsp;-é</td>
+            <td colspan="2">把詞尾 -er 變成&emsp;-é</td>
             <td>regarder -> regardé</td>
         </tr>
         <tr>
             <td>第二組動詞</td>
-            <td>把詞尾 -ir 變成&emsp;-i</td>
+            <td colspan="2">把詞尾 -ir 變成&emsp;-i</td>
             <td>jaunir -> jauni</td>
         </tr>
         <tr>
             <td>第三組動詞</td>
+            <td align="center">有四种詞尾：</td>
             <td>
                 -i
                 <br />
