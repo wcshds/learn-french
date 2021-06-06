@@ -79,7 +79,7 @@
                 <br />
                 rire 笑
                 <br />
-                servir 服務
+                servir&emsp;服務
             </td>
             <td>
                 dormi
@@ -104,7 +104,7 @@
                 <br />
                 lire
                 <br />
-                pleuvoir 下雨
+                pleuvoir&emsp;下雨
                 <br />
                 pouvoir
                 <br />
@@ -148,7 +148,7 @@
             <td align="center">u</td>
         <tr>
             <td>
-                asseoir 坐下
+                asseoir&emsp;坐下
                 <br />
                 mettre
                 <br />
@@ -173,7 +173,7 @@
         </tr>
         <tr>
             <td>
-                couvrir 蓋
+                couvrir&emsp;蓋
                 <br />
                 dire
                 <br />
@@ -181,7 +181,7 @@
                 <br />
                 faire
                 <br />
-                ouvrir 打開
+                ouvrir&emsp;打開
             </td>
             <td>
                 couvert
