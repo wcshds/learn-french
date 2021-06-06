@@ -214,6 +214,16 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 
 8. excellent, excellente&emsp;&emsp;adj. 出色的
 9. le menu&emsp;&emsp;菜單
+
+    * menu 可以指抽象的菜單（菜譜）：
+
+            - Qu'est-ce qu'il y a au menu ce soir ?
+            - Toujours le même menu, pain et vin.
+
+    * menu 也可以指實體的菜單：
+
+            Il fait la grimace quand il voit les prix sur le menu. (la carte)
+
 10. varier&emsp;&emsp;vi. 變化，變動
 
         variable	adj. 有變化的
@@ -345,7 +355,8 @@ Charles prend le bus et va au réstaurant universitaire. Il regarde le menu. Mai
 
 « Du poisson, encore du poisson, toujours du poisson ! C'est la troisième fois cette semaine qu'il y a du poisson. ... Ils exagèrent ! »
 
-Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y a de la glace. Charles adore la glace ! Alors, il hésite une minute ou deux. Puis, il prend son plateau et va attendre patiemment son tour.
+Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y a de la glace. Charles adore la glace ! Alors, il hésite un petit moment. Puis, il prend son plateau et attend patiemment son tour.
+
 
 ### Vocabulaire
 1. Charles&emsp;&emsp;夏爾
