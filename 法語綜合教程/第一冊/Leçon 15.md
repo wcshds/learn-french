@@ -56,9 +56,9 @@
 <table>
     <tbody>
         <tr>
-            <td width="33.33%">不定式</td>
-            <td width="33.33%">過去分詞</td>
-            <td width="33.33%">詞尾</td>
+            <td width="26.66%">不定式</td>
+            <td width="26.66%">過去分詞</td>
+            <td width="26.66%">詞尾</td>
         </tr>
         <tr>
             <td>
