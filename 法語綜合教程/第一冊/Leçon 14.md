@@ -128,7 +128,7 @@
     2. 在否定命令句中，雙賓語的位置和在直陳式中相同：
 
             Ne me donne pas le journal. = Ne me le donne pas.
-            Ne leur lisez pas le texte maintenant. = Ne le leur lisez maintenant.
+            Ne leur lisez pas le texte maintenant. = Ne le leur lisez pas maintenant.
 
     3. 副代詞 en 在命令式中：
 
@@ -139,10 +139,6 @@
             Achetez-leur des livres. = Achetez-leur-en.
                                      ≠ Ne leur en achetez pas.
         
-
-    
-
-
 
 # Dialogue
 (Laurent, ami français de Marc, vient le voir sur le campus. À midi, au resto U.)
