@@ -346,6 +346,18 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 5. un copain, une copine&emsp;&emsp;夥伴，朋友
 6. un bus&emsp;&emsp;公共汽車
 7. universitaire&emsp;&emsp;adj. 大學的
+
+    * les grades universitaires&emsp;&emsp;大學的等級
+
+            licence	本科
+            mater	碩士
+            doctorat	博士
+
+    * cité universitaire - cité U&emsp;&emsp;大學城（學生宿舍）
+    * restaurant universitaire - resto U&emsp;&emsp;大學食堂
+    * résidence universitaire&emsp;&emsp;大學住宅區
+    * bibliothèque universitaire&emsp;&emsp;大學圖書館
+
 8. (être) en colère&emsp;&emsp;憤怒
 9. troisième&emsp;&emsp;adj. 第三的
 10. exagérer&emsp;&emsp;v.i. 誇張
