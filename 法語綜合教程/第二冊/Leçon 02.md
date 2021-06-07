@@ -246,5 +246,3 @@
     * les autres
 
             Il y a seulement cinq professeurs dans la salle de réunion; où sont les autres ?
-
-
