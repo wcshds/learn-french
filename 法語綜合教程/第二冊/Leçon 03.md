@@ -31,9 +31,9 @@
 <table>
     <tbody>
         <tr>
-            <td>Infinitif</td>
-            <td>Présent (1<sup>ère</sup> personne du pluriel)</td>
-            <td>Imparfait</td>
+            <td align="center">Infinitif</td>
+            <td align="center">Présent (1<sup>ère</sup> personne du pluriel)</td>
+            <td align="center">Imparfait</td>
         </tr>
         <tr>
             <td>manger</td>
