@@ -176,23 +176,26 @@
 <table>
     <tbody>
         <tr>
-            <td>簡單時態</td>
+            <td><strong>簡單時態</strong></td>
             <td>
                 Nous comprenons tout.
+                <br />
                 Nous ne comprenons pas tout.
             </td>
         </tr>
         <tr>
-            <td>複合時態</td>
+            <td><strong>複合時態</strong></td>
             <td>
                 Nous avons tout compris.
+                <br />
                 Nous n'avons pas tout compris.
             </td>
         </tr>
         <tr>
-            <td>和不定式時</td>
+            <td><strong>和不定式時</strong></td>
             <td>
                 Nous allons tout comprendre.
+                <br />
                 Nous n'allons pas tout comprendre.
             </td>
         </tr>
