@@ -142,4 +142,60 @@
     </tbody>
 </table>
 
-        Quel enfant difficile ! Rien ne lui plaît !    
+        Quel enfant difficile ! Rien ne lui plaît !
+
+4. chacun(e)&emsp;&emsp;「每人，每件東西」
+
+        À la frontière, chacun montre son passeport et sa carte d'embarquement aux douaniers.	在邊境，每個人向海關官員出示擭照和登機牌。
+        Voilà des bonbons, deux pour chacun.
+        Rangez ces lettres dans le dossier, chacune à sa place.	把這些信整理好放入文件中，每一封信都放在原來的位置。
+
+    * chacun(e) de + n.pl. (= chaque + singulier)
+
+            Le film Paris, je t'aime est une suite de 18 courts-métrages sur la ville de Paris. Chacun de ces courts-métrages est filmé par un réalisateur ou une réalisatrice différents.
+
+5. certain(e)s&emsp;&emsp;「有些人，有些事物」
+
+        Certains pensent que ce tableau est un faux.
+        Certaines de ces maisons sont habitées.
+
+        Parmi les salariés de cette entreprise, certains sont employés à mi-temps, d'autres à plein temps.	在這個公司的員工中，有的是兼職，有的是全日制。
+        (= Certains de ces salariés sont employés ...)
+
+6. tout, tous [ tus ], toutes&emsp;&emsp;「所有人，所有的事物」
+
+    * tout&emsp;&emsp;中性代詞，沒有性、數變化
+
+            Dans mon appartement, tout est bleu : les murs, le lit, la table, l'armoire, etc.
+            Pas de problèmes ! Tout va bien !
+            Le tremblement de terre a tout détruit.
+            Quand on conduit une voiture, il faut tout contrôler.
+
+*泛指代詞 tout 在複合時態中及原形動詞之前的位置：*
+
+<table>
+    <tbody>
+        <tr>
+            <td>簡單時態</td>
+            <td>
+                Nous comprenons tout.
+                Nous ne comprenons pas tout.
+            </td>
+        </tr>
+        <tr>
+            <td>複合時態</td>
+            <td>
+                Nous avons tout compris.
+                Nous n'avons pas tout compris.
+            </td>
+        </tr>
+        <tr>
+            <td>和不定式時</td>
+            <td>
+                Nous allons tout comprendre.
+                Nous n'allons pas tout comprendre.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
