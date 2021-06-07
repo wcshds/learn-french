@@ -26,3 +26,103 @@
         étudier : 		j'étudiais		nous étudiions [ etydijɔ̃ ]
         voir : 		je voyais		nous voyions [ vwajjɔ̃ ]
         faire : 		je faisais [ fəzɛ ]	nous faisions [ fəzjɔ̃ ]
+        payer : 		je payais		nous payions
+
+<table>
+    <tbody>
+        <tr>
+            <td>Infinitif</td>
+            <td>Présent (1<sup>ère</sup> personne du pluriel)</td>
+            <td>Imparfait</td>
+        </tr>
+        <tr>
+            <td>manger</td>
+            <td>nous mangeons</td>
+            <td>
+                je mangeais
+                nous mangions
+            </td>
+        </tr>
+        <tr>
+            <td>commencer</td>
+            <td>nous commençons</td>
+            <td>
+                je commençais
+                nous commencions
+            </td>
+        </tr>
+        <tr>
+            <td>étudier</td>
+            <td>nous étudions</td>
+            <td>
+                j'étudiais
+                nous étudiions
+            </td>
+        </tr>
+        <tr>
+            <td>payer</td>
+            <td>nous payons</td>
+            <td>
+                je payais
+                nous payions
+            </td>
+        </tr>
+        <tr>
+            <td>se lever</td>
+            <td>nous nous levons</td>
+            <td>
+                je me levais
+                nous nous levions
+            </td>
+        </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td>finir</td>
+            <td>nous finissons</td>
+            <td>
+                je finissais
+                nous finissions
+            </td>
+        </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td>voir</td>
+            <td>nous voyons</td>
+            <td>
+                je voyais
+                nous voyions
+            </td>
+        </tr>
+        <tr>
+            <td>faire</td>
+            <td>nous faisons</td>
+            <td>
+                je faisais
+                nous faisions
+            </td>
+        </tr>
+        <tr>
+            <td>avoir</td>
+            <td>nous avons</td>
+            <td>
+                j'avais
+                nous avions
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+*注意：*
+1.  無人稱動詞 falloir 和 pleuvoir 的未完成過去時變位形式如下；
+
+        falloir : 		il fallait
+        pleuvoir : 		il pleuvait
+
+2. 動詞 être 的未完成過去時的特殊變位形式：
+
+        j'étais
+        tu étais
+        il (elle) était
+        nous étions
+        vous étiez
+        ils (elles) étaient
