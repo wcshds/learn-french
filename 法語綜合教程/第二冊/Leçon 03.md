@@ -8,4 +8,4 @@
         il (elle, on)	- ait
         nous		- ions
         vous		- iez
-        ils (elles)		-aiment
+        ils (elles)		- aiment
