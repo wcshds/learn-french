@@ -305,8 +305,14 @@
         J'ai tout entendu.
         Je n'ai rien vu/entendu/fait.
 
-2. 作直接賓語或間接賓語的人稱代詞、副代詞 en 和 y 要放在助動詞前；在否定句中，要注意否定詞 ne ... pas 的位置：
+2. 作直接賓語或間接賓語的人稱代詞、副代詞 en 和 y 要放在助動詞前；在否定句中，要注意否定詞 ne ... pas 的位置。如果直接賓語在動詞前面，過去分詞的性、數必須與直接賓語的性、數相一致：
 
-        Paul, je l'ai rencontré tout à l'heure dans la classe.
-        Ça fait longtemps que je ne t'ai pas écrit.
-        - Avez-vous habité à la campagne ? - Moi, bien sûr. En fait, j'y ai habité pendant trois ans.
+        Exp. Paul, je l'ai rencontré tout à l'heure dans la classe.
+        Marie, je l'ai rencontrée hier avant la classe.
+        Ces photos, il les a prises aux États-Unis.
+        Ça fait longtemps que je ne t'ai pas vu(e).（注音否定 ne ... pas ... 位置）
+
+        Ça fait longtemps que je ne t'ai pas écrit.（這裡 te 是間接賓語，因爲 écrire à qn.，所以這裡的過去分詞不用性、數配合。）
+        Son voyage en France ? Il m'en a parlé lundi dernier.（如果直接賓語是副代詞 en，過去分詞也不變。）
+        Combien de livres as-tu lus l'année dernière ? - J'en ai lu cinquante.（衹要是直接賓語提前，過去分詞就要和直接賓語性、數配合，不一定要是直接賓語人稱代詞。）
+        - Avez-vous habité à la campagne ? - Oui, en fait, j'y ai habité pendant trois ans.
