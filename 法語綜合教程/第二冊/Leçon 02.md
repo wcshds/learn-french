@@ -162,7 +162,7 @@
         Parmi les salariés de cette entreprise, certains sont employés à mi-temps, d'autres à plein temps.	在這個公司的員工中，有的是兼職，有的是全日制。
         (= Certains de ces salariés sont employés ...)
 
-6. tout, tous [ tus ], toutes&emsp;&emsp;「所有人，所有的事物」
+6. tout（「一切事物，一切東西」） & tous [ tus ], toutes（「所有人，所有的事物」）
 
     * tout&emsp;&emsp;中性代詞，沒有性、數變化
 
@@ -170,6 +170,27 @@
             Pas de problèmes ! Tout va bien !
             Le tremblement de terre a tout détruit.
             Quand on conduit une voiture, il faut tout contrôler.
+
+
+    * tous, toutes
+
+        1. 作主語：
+
+            Tous ont fait des économies.	所有的人都存了錢。
+            J'ai écrit à plusieurs amis. Tous m'ont répondu.
+
+        2. 作同位語，強化名詞或代詞，一般置於變位動詞之後：
+
+            Les magasins de cette rue sont tous ouverts le dimanche.	這條街上所有的商店週日都開門。
+            Ils sont tous là.	他們所有的人都在。
+            Les amies de ma fille, je ne les connais pas toutes.	我女兒的朋友們，我並不都認識。
+            Les verbes français sont difficiles. Ils ne sont pas tous réguliers.
+            Mes sœurs n'aiment pas la vie parisienne. Elles vivent toutes en province.
+            Nous devons tous faire des efforts pour respecter l'environnement.
+            Leurs enfants ont tous fait des études scientifiques.
+            J'ai pris beaucoup de photos, mais elles ne sont pas toutes réussies.
+            Goûtez nos glaces. Nous les préparons toutes avec des fruits frais.
+
 
 *泛指代詞 tout 在複合時態中及原形動詞之前的位置：*
 
@@ -201,4 +222,29 @@
         </tr>
     </tbody>
 </table>
+
+7. autre(s)
+
+    * un(e) autre&emsp;&emsp;「另一個」
+
+            Cette robe ne me va pas. Est-ce que je peux essayer une autre ?	這條連衣裙不適合我。我能試一下另一條嗎？
+            Une seule baguette, ce n'est pas assez. Prends une autre.
+
+    * d'autres&emsp;&emsp;「另一些」
+
+            Certains prennent des photos, d'autres préfèrent acheter des souvenirs.	有些人在拍照，而另一些人則更想買些紀念品。
+            Certains enfants marchent à dix mois; d'autres marchent plus tard.
+
+    * l'un(e) ... l'autre ...&emsp;&emsp;「（兩者中）一個……另一個……」
+
+            J'ai deux frères : l'un habite à Shanghai, l'autre habite à Beijing.
+
+    * les un(e)s ... les autres ...&emsp;&emsp;「（在一定的範圍裡）一些……另一些……」
+
+            Dans le stade il y a deux équipes de joueurs de basket : les uns ont un tee-shirt bleu, les autres un tee-shirt jaune.
+
+    * les autres
+
+            Il y a seulement cinq professeurs dans la salle de réunion; où sont les autres ?
+
 
