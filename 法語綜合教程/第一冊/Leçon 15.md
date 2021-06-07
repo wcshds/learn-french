@@ -310,7 +310,7 @@
         Exp. Paul, je l'ai rencontré tout à l'heure dans la classe.
         Marie, je l'ai rencontrée hier avant la classe.
         Ces photos, il les a prises aux États-Unis.
-        Ça fait longtemps que je ne t'ai pas vu(e).（注音否定 ne ... pas ... 位置）
+        Ça fait longtemps que je ne t'ai pas vu(e).（注意否定 ne ... pas ... 位置）
 
         Ça fait longtemps que je ne t'ai pas écrit.（這裡 te 是間接賓語，因爲 écrire à qn.，所以這裡的過去分詞不用性、數配合。）
         Son voyage en France ? Il m'en a parlé lundi dernier.（如果直接賓語是副代詞 en，過去分詞也不變。）
