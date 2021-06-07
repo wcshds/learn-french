@@ -24,5 +24,5 @@
         commencer : 	je commençais		nous commencions
         manger : 		je mangeais			nous mangions
         étudier : 		j'étudiais			nous étudiions [ etydijɔ̃ ]
-        voir : 			je voyais			nous voyions [ vwajjɔ̃ ]
+        voir : 		je voyais			nous voyions [ vwajjɔ̃ ]
         faire : 		je faisais [ fəzɛ ]	nous faisions [ fəzjɔ̃ ]
