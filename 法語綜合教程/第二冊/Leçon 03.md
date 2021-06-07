@@ -9,3 +9,20 @@
         nous		- ions
         vous		- iez
         ils (elles)		- aiment
+
+如：parler : nous parl-ons
+
+        je parlais
+        tu parlais
+        il (elle) parlait
+        nous parlions
+        vous parliez
+        ils (elles) parlaient
+
+有些動詞須特別注意：
+
+        commencer : 	je commençais		nous commencions
+        manger : 		je mangeais			nous mangions
+        étudier : 		j'étudiais			nous étudiions [ etydijɔ̃ ]
+        voir : 			je voyais			nous voyions [ vwajjɔ̃ ]
+        faire : 		je faisais [ fəzɛ ]	nous faisions [ fəzjɔ̃ ]
