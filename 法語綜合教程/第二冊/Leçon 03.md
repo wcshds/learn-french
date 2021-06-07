@@ -40,6 +40,7 @@
             <td>nous mangeons</td>
             <td>
                 je mangeais
+                <br />
                 nous mangions
             </td>
         </tr>
@@ -48,6 +49,7 @@
             <td>nous commençons</td>
             <td>
                 je commençais
+                <br />
                 nous commencions
             </td>
         </tr>
@@ -56,6 +58,7 @@
             <td>nous étudions</td>
             <td>
                 j'étudiais
+                <br />
                 nous étudiions
             </td>
         </tr>
@@ -64,6 +67,7 @@
             <td>nous payons</td>
             <td>
                 je payais
+                <br />
                 nous payions
             </td>
         </tr>
@@ -72,6 +76,7 @@
             <td>nous nous levons</td>
             <td>
                 je me levais
+                <br />
                 nous nous levions
             </td>
         </tr>
@@ -81,6 +86,7 @@
             <td>nous finissons</td>
             <td>
                 je finissais
+                <br />
                 nous finissions
             </td>
         </tr>
@@ -90,6 +96,7 @@
             <td>nous voyons</td>
             <td>
                 je voyais
+                <br />
                 nous voyions
             </td>
         </tr>
@@ -98,6 +105,7 @@
             <td>nous faisons</td>
             <td>
                 je faisais
+                <br />
                 nous faisions
             </td>
         </tr>
@@ -106,6 +114,7 @@
             <td>nous avons</td>
             <td>
                 j'avais
+                <br />
                 nous avions
             </td>
         </tr>
