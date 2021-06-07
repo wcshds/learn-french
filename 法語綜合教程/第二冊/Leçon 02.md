@@ -176,7 +176,7 @@
 <table>
     <tbody>
         <tr>
-            <td><strong>簡單時態</strong></td>
+            <td align="center"><strong>簡單時態</strong></td>
             <td>
                 Nous comprenons tout.
                 <br />
@@ -184,7 +184,7 @@
             </td>
         </tr>
         <tr>
-            <td><strong>複合時態</strong></td>
+            <td align="center"><strong>複合時態</strong></td>
             <td>
                 Nous avons tout compris.
                 <br />
@@ -192,7 +192,7 @@
             </td>
         </tr>
         <tr>
-            <td><strong>和不定式時</strong></td>
+            <td align="center"><strong>和不定式時</strong></td>
             <td>
                 Nous allons tout comprendre.
                 <br />
