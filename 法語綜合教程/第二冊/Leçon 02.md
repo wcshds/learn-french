@@ -178,25 +178,25 @@
         <tr>
             <td align="center"><strong>簡單時態</strong></td>
             <td>
-                Nous comprenons tout.
+                Nous comprenons <strong>tout</strong>.
                 <br />
-                Nous ne comprenons pas tout.
+                Nous ne comprenons pas <strong>tout</strong>.
             </td>
         </tr>
         <tr>
             <td align="center"><strong>複合時態</strong></td>
             <td>
-                Nous avons tout compris.
+                Nous avons <strong>tout</strong> compris.
                 <br />
-                Nous n'avons pas tout compris.
+                Nous n'avons pas <strong>tout</strong> compris.
             </td>
         </tr>
         <tr>
             <td align="center"><strong>和不定式時</strong></td>
             <td>
-                Nous allons tout comprendre.
+                Nous allons <strong>tout</strong> comprendre.
                 <br />
-                Nous n'allons pas tout comprendre.
+                Nous n'allons pas <strong>tout</strong> comprendre.
             </td>
         </tr>
     </tbody>
