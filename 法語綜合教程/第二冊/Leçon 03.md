@@ -21,13 +21,6 @@
 
 有些動詞須特別注意：
 
-        commencer : 	je commençais		nous commencions
-        manger : 		je mangeais		nous mangions
-        étudier : 		j'étudiais		nous étudiions [ etydijɔ̃ ]
-        voir : 		je voyais		nous voyions [ vwajjɔ̃ ]
-        faire : 		je faisais [ fəzɛ ]	nous faisions [ fəzjɔ̃ ]
-        payer : 		je payais		nous payions
-
 <table>
     <tbody>
         <tr>
@@ -59,7 +52,7 @@
             <td>
                 j'étudiais
                 <br />
-                nous étudiions
+                nous étudiions [ etydijɔ̃ ]
             </td>
         </tr>
         <tr>
@@ -97,16 +90,16 @@
             <td>
                 je voyais
                 <br />
-                nous voyions
+                nous voyions [ vwajjɔ̃ ]
             </td>
         </tr>
         <tr>
             <td>faire</td>
             <td>nous faisons</td>
             <td>
-                je faisais
+                je faisais [ fəzɛ ]
                 <br />
-                nous faisions
+                nous faisions [ fəzjɔ̃ ]
             </td>
         </tr>
         <tr>
