@@ -316,3 +316,18 @@
         Son voyage en France ? Il m'en a parlé lundi dernier.（如果直接賓語是副代詞 en，過去分詞也不變。）
         Combien de livres as-tu lus l'année dernière ? - J'en ai lu cinquante.（衹要是直接賓語提前，過去分詞就要和直接賓語性、數配合，不一定要是直接賓語人稱代詞。）
         - Avez-vous habité à la campagne ? - Oui, en fait, j'y ai habité pendant trois ans.
+
+
+# 常用的科技産品的表達
+1. PC et tablettes&emsp;&emsp;個人電腦和平板
+2. smartphone&emsp;&emsp;智能手機
+3. réalité virtuelle&emsp;&emsp;虛擬現實
+4. serveurs et stockage&emsp;&emsp;服務器和存儲器
+5. PC portables&emsp;&emsp;筆記本電腦
+6. PC de bureau&emsp;&emsp;臺式機
+7. encre, toner & papier&emsp;&emsp;油墨、墨粉和紙張
+8. taille d'écran&emsp;&emsp;屏幕尺寸
+9. 2-en-1 et tablettes&emsp;&emsp;二合一平板和平板電腦
+10. SSD&emsp;&emsp;固態硬盤
+11. écran tactile&emsp;&emsp;觸摸屏
+12. carte graphique dédiée&emsp;&emsp;專用顯卡

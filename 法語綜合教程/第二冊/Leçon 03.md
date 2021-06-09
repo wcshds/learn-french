@@ -32,7 +32,7 @@
             <td>manger</td>
             <td>nous mangeons</td>
             <td>
-                je mangeais
+                je mang<strong>e</strong>ais
                 <br />
                 nous mangions
             </td>
@@ -41,7 +41,7 @@
             <td>commencer</td>
             <td>nous commençons</td>
             <td>
-                je commençais
+                je commen<strong>ç</strong>ais
                 <br />
                 nous commencions
             </td>
@@ -52,7 +52,7 @@
             <td>
                 j'étudiais
                 <br />
-                nous étudiions [ etydijɔ̃ ]
+                nous étud<strong>ii</strong>ons [ etydijɔ̃ ]
             </td>
         </tr>
         <tr>
@@ -88,18 +88,18 @@
             <td>voir</td>
             <td>nous voyons</td>
             <td>
-                je voyais
+                je vo<strong>y</strong>ais
                 <br />
-                nous voyions [ vwajjɔ̃ ]
+                nous vo<strong>y</strong>ions [ vwajjɔ̃ ]
             </td>
         </tr>
         <tr>
             <td>faire</td>
             <td>nous faisons</td>
             <td>
-                je faisais [ fəzɛ ]
+                je <strong>fai</strong>sais [ fəzɛ ]
                 <br />
-                nous faisions [ fəzjɔ̃ ]
+                nous <strong>fai</strong>sions [ fəzjɔ̃ ]
             </td>
         </tr>
         <tr>
