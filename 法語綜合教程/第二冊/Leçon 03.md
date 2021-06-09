@@ -128,3 +128,29 @@
         nous étions
         vous étiez
         ils (elles) étaient
+
+
+### 用法
+1. un fait habituel（習慣性的動作，這個用法下句子中常有頻率詞）
+
+        Il se levait tous les jours à 6 heures.
+        Chaque jour, il allait à l'école à pied.
+        Pendant les grandes  vacances, ma grand-mère me racontait une histoire différente chaque soir après le dîner.
+        Je chantais souvent de vieilles chansons.
+        Pendant les vacances, nous faisions toujours de longues balades au bord de la mer.
+
+2. description（做一個描述）
+
+        La jeune fille portait une robe extraordinaire et tout le monde la regardait.
+        Hier matin, il faisait beau. Le ciel était bleu, le soleil brillait.
+        Un jour, il neigeait et il gelait. Tout était blanc : les maisons, les arbres, les rues ...
+        Il faisait nuit, il n'y avait personne dans la rue.
+        Dimanche dernier, il faisait lourd, il n'y avait pas un souffle de vent.
+
+3. une action non achevée, non accomplie
+
+        Comparer : En 1999, j'étais à Shanghai.（1999年的時候，我待在上海。  In 1999, I was in Shanghai.）
+        Oui, j'ai été à Shanghai.（我去過上海。 I have been to Shanghai.）
+
+        Comparer : En 1990, je faisais mes études de médecine à Montpellier.（1990年，我在 Montpellier 學醫。—— 未完成過去時表示一種狀態。）
+        Il a fait ses études de médecine pendant sept ans. Il est médecin maintenant.（他學了七年醫。—— 複合過去時表示已經完成了動作。）
