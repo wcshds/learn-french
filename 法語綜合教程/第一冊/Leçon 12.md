@@ -277,6 +277,7 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
             il (elle) s'appelle
             ils (elles) s'appellent    
     <br />
+        
         Le soleil se lève.
 
 3. une habitude&emsp;&emsp;習慣
