@@ -428,7 +428,7 @@ Après la toilette, il s'habille. Il met une chemise blanche, un pantalon et une
 3. de bon matin&emsp;&emsp;一清早
 4. se montrer&emsp;&emsp;v.pr. 露面；出現
 
-    * montrer&emsp;&emsp;qch.
+    * montrer qch.
 
             Exp. À la douane, il faut montrer ses papiers aux douaniers.
             (Montrez) votre passeport, s'il vous plaît.	請出示您的戶照。
