@@ -275,7 +275,7 @@ P : Non, je passe à la cantine pour prendre le petit déjeuner.
             je m'appelle
             tu t'appelles
             il (elle) s'appelle
-            ils (elles) 'appellent    
+            ils (elles) s'appellent    
     <br />
         Le soleil se lève.
 
