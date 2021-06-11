@@ -46,9 +46,9 @@
 ### 位置
 1. 間接賓語人稱代詞位於主語和動詞之間：
 
-    Il me faut un quart d'heure de bicyclette pour venir ici.
-    Voilà mon ami Philippe. Je lui parle de ma famille.
-    Je pense beaucoup à mes parents, et je leur téléphone souvent.
+        Il me faut un quart d'heure de bicyclette pour venir ici.
+        Voilà mon ami Philippe. Je lui parle de ma famille.
+        Je pense beaucoup à mes parents, et je leur téléphone souvent.
 
 2. 在否定式中，間接賓語人稱代詞和變位動詞一起，放在 ne 和 pas 之間：
 
