@@ -71,7 +71,7 @@
 
         Je veux lui parler.
         Je ne veux pas lui parler.
-        Les  amis de Marc lui envoient souvent des messages par e-mail. Marc aime leur répondre le soir, parce qu'il est occupé dans la journée.
+        Les amis de Marc lui envoient souvent des messages par e-mail. Marc aime leur répondre le soir, parce qu'il est occupé dans la journée.
 
 <br />
 
