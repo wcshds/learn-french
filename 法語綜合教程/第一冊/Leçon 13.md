@@ -172,7 +172,7 @@ M : À bicyclette, il me faut vingt-cinq minutes.
 
 A : Moi, je ne suis pas très adroit en vélo. J'ai peur de tomber.
 
-M : Mas c'est bien pratique, le vélo. Et puis, tu es sûr d'arriver à l'heure.
+M : Mais c'est bien pratique, le vélo. Et puis, tu es sûr d'arriver à l'heure.
 
 A : Quelquefois, quand il fait beau, je viens à pied. J'aime marcher.
 
