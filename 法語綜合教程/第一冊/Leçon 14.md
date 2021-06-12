@@ -369,7 +369,7 @@ Est-ce que Charles va faire la grève de la faim ? Non, parce qu'au dessert il y
     * les grades universitaires&emsp;&emsp;大學的等級
 
             licence	本科
-            mater	碩士
+            master	碩士
             doctorat	博士
 
     * cité universitaire - cité U&emsp;&emsp;大學城（學生宿舍）
