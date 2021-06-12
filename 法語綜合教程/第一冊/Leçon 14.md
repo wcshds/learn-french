@@ -302,11 +302,11 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 
     * vouloir + v.
 
-        Exp. « Je veux être Chateaubriand ou rien. » Victor Hugo
-        Je voudrais bien connaître cette dame.
-        Qu'est-ce que ça veut dire ?	這是什麽意思？
+            Exp. « Je veux être Chateaubriand ou rien. » Victor Hugo
+            Je voudrais bien connaître cette dame.
+            Qu'est-ce que ça veut dire ?	這是什麽意思？
 
-        Vouloir, c'est pouvoir.	有志者事竟成。
+            Vouloir, c'est pouvoir.	有志者事竟成。
 
 35. avec plaisir&emsp;&emsp;非常樂意
 36. une table&emsp;&emsp;桌子，餐桌
