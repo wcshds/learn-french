@@ -364,12 +364,18 @@
 
 5. portable&emsp;&emsp;adj. 便㩦的，手提的
 
-        PC portable			筆記本電腦
-        téléphone portable		手機
+        PC portable / ordinateur portable			筆記本電腦
+        téléphone portable			手機
 
 6. hier [ jɛːʁ ]&emsp;&emsp;adv. 昨天
 7. génial, géniale, géniaux&emsp;&emsp;adj. 好的，棒的
-8. un portable&emsp;&emsp;n.m. 筆記本電腦
+
+        Exp. un film génial (= extraordinaire)
+        « Shakespeare, le plus génial des hommes de lettres », Romain Rolland
+
+        C'est génial ! / Génial !	太棒了！
+
+8. un portable&emsp;&emsp;n.m. 手機
 9. pouvoir&emsp;&emsp;v.t. 能夠
 10. emporter&emsp;&emsp;v.t. 帶走
 11. utiliser&emsp;&emsp;v.t. 使用
