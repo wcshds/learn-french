@@ -406,8 +406,8 @@
         Emportez votre parapluie !
         Les voleurs ont tout emporté.	小偷拿走了所有東西。
 
-        À emporter.		打包。
-        Sur place.		堂吃。
+        À emporter.	打包。
+        Sur place.	堂吃。
 
 11. utiliser&emsp;&emsp;v.t. 使用
 12. se servir de&emsp;&emsp;v.pr. 使用
