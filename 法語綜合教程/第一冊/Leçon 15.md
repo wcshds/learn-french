@@ -331,3 +331,51 @@
 10. SSD&emsp;&emsp;固態硬盤
 11. écran tactile&emsp;&emsp;觸摸屏
 12. carte graphique dédiée&emsp;&emsp;專用顯卡
+
+# Dialogue
+
+### Vocabulaire
+1. dis doc [ dɔ̃ ]&emsp;&emsp;喂；喲
+2. ravi, ravie&emsp;&emsp;adj. 欣喜若狂的
+
+        Exp. Je suis ravi(e) de vous connaître. / Ravi(e) de vous connaître.	很高興見到你。
+
+3. Quoi doc [ dɔ̃ ] ?&emsp;&emsp;什麽呀？
+4. acheter&emsp;&emsp;v.t. 購買
+
+    動詞變位（第一組）：
+
+        j'achète
+        tu achètes
+        il (elle) achète
+        nous achetons
+        vous achetez
+        ils (elles) achètent
+
+5. portable&emsp;&emsp;adj. 便㩦的，手提的
+6. hier [ jɛːʁ ]&emsp;&emsp;adv. 昨天
+7. génial, géniale, géniaux&emsp;&emsp;adj. 好的，棒的
+8. un portable&emsp;&emsp;n.m. 筆記本電腦
+9. pouvoir&emsp;&emsp;v.t. 能夠
+10. emporter&emsp;&emsp;v.t. 帶走
+11. utiliser&emsp;&emsp;v.t. 使用
+12. se servir de&emsp;&emsp;v.pr. 使用
+13. entendre&emsp;&emsp;v.t. 聽見
+14. entendre dire ...&emsp;&emsp;聽說……
+15. une chose&emsp;&emsp;東西
+16. O.K. [ ɔke ]&emsp;&emsp;adv. 行！好！可以！
+17. un problème&emsp;&emsp;問題
+18. merci d'avance&emsp;&emsp;事先表示感謝
+19. quand&emsp;&emsp;adv. 何時
+20. tout de suite&emsp;&emsp;loc.adv. 立刻
+21. allumer&emsp;&emsp;v.t. 點亮，打開
+22. un vendeur, une vendeuse&emsp;&emsp;售貨員，營業員
+23. d'abord&emsp;&emsp;loc.adv. 首先
+24. quelques&emsp;&emsp;adj.indéf. 幾個，一些
+25. des connaissances&emsp;&emsp;n.f.pl. 知識
+26. sur&emsp;&emsp;prép. 有關
+27. un écran&emsp;&emsp;屏幕
+28. cliquer&emsp;&emsp;v.i. 點擊
+29. une icône&emsp;&emsp;圖標
+30. une souris&emsp;&emsp;鼠標
+31. surfer [ sœʁfe ]&emsp;&emsp;v.i. 網上衝浪
