@@ -351,6 +351,16 @@
         nous achetons
         vous achetez
         ils (elles) achètent
+    
+    * acheter qch.
+
+            Exp. Tous les jours, il achète son pain chez le boulanger du quartier.
+            J'ai acheté ce livre d'occasion, très bon marché.	我買了一本二手書，非常便宜。
+
+    * acheter qch. à qn.
+
+            Exp. Il a acheté à son fils un vélo pour Noël.
+            Je vais lui acheter ce livre pour son anniversaire.
 
 5. portable&emsp;&emsp;adj. 便㩦的，手提的
 6. hier [ jɛːʁ ]&emsp;&emsp;adv. 昨天
