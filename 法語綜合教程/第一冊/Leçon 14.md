@@ -186,6 +186,8 @@ L : Oui, j'aimerais bien une bière, s'il te plaît.
 
 2. 在 des petits pains cuit à la vapeur 中 des 不用改爲 de，因爲 petits pains 作爲一個整體表示「饅頭」。
 
+3. venir de faire qch. 表示「剛做完某事」。
+
 ### Vocabulaire
 1. avoir faim&emsp;&emsp;感到餓
 2. un loup&emsp;&emsp;狼
