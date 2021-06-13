@@ -364,7 +364,7 @@
 
 5. portable&emsp;&emsp;adj. 便㩦的，手提的
 
-        PC portable / ordinateur portable			筆記本電腦
+        PC portable / ordinateur portable	筆記本電腦
         téléphone portable			手機
 
 6. hier [ jɛːʁ ]&emsp;&emsp;adv. 昨天
