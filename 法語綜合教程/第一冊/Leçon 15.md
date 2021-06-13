@@ -363,6 +363,10 @@
             Je vais lui acheter ce livre pour son anniversaire.
 
 5. portable&emsp;&emsp;adj. 便㩦的，手提的
+
+        PC portable	筆記本電腦
+        téléphone portable	手機
+
 6. hier [ jɛːʁ ]&emsp;&emsp;adv. 昨天
 7. génial, géniale, géniaux&emsp;&emsp;adj. 好的，棒的
 8. un portable&emsp;&emsp;n.m. 筆記本電腦
