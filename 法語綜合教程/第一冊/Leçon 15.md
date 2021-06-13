@@ -377,7 +377,38 @@
 
 8. un portable&emsp;&emsp;n.m. 手機
 9. pouvoir&emsp;&emsp;v.t. 能夠
+
+    變位（第三組）：
+
+        je peux
+        tu peux
+        il (elle) peut
+        nous pouvons
+        vous pouvez
+        ils (elles) peuvent
+
+        p. passé : pu
+
+    1. v. 
+
+            Exp. On ne peut pas tout avoir.
+            Elle n'a pas pu répondre à la question du professeur.
+            Peux-tu me dire quelle température il fait dehors ?
+
+    2. n.m
+
+            Exp. le pouvoir d'achat	購買力
+            « Il y a dans toute musique un pouvoir d'ivresse. » Romain Rolland	所有音樂都有一種讓人陶醉的能力。
+
 10. emporter&emsp;&emsp;v.t. 帶走
+
+        Exp. partir sans rien emporter
+        Emportez votre parapluie !
+        Les voleurs ont tout emporté.	小偷拿走了所有東西。
+
+        À emporter.		打包。
+        Sur place.		堂吃。
+
 11. utiliser&emsp;&emsp;v.t. 使用
 12. se servir de&emsp;&emsp;v.pr. 使用
 13. entendre&emsp;&emsp;v.t. 聽見
