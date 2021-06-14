@@ -410,8 +410,63 @@
         Sur place.	堂吃。
 
 11. utiliser&emsp;&emsp;v.t. 使用
-12. se servir de&emsp;&emsp;v.pr. 使用
+
+    * utiliser, utilisation, utilisateur(trice) 使用者, utile 實用的
+
+            Exp. notice/guide d'utilisation d'un appareil	設備使用說明
+
+12. se servir de&emsp;&emsp;v.pr. 使用（這裡的代動詞表示絕對意義）
+
+    變位（第三組）：
+
+        je sers
+        tu sers
+        il (elle) sert
+        nous servons
+        vous servez
+        ils (elles) servent
+
+        p. passé : servi
+
+    <br />
+
+        Je me sers de mon ordinateur.
+
 13. entendre&emsp;&emsp;v.t. 聽見
+
+    變位（第三組）：
+
+        j'entends
+        tu entends
+        il (elle) entend
+        nous entendons
+        vous entendez
+        ils (elles) entendent
+
+        p. passé : entendu
+
+    * entendre qn.
+
+            Exp. - Vous m'entendez ? - Je vous entends très bien. / Je vous entends mal. Parlez plus fort, s'il vous plaît.
+
+    * entendre qch.
+
+            Exp. Je n'ai rien entendu.
+            J'ai tout entendu.
+
+    * entendre qn. + v.
+
+            Exp. Quand Philippe s'est réveillé, il a entendu les oiseaux chanter.
+            J'ai entendu quelqu'un frapper à la porte.	我聽到有人在敲門。
+
+    * entendre parler de qch.&emsp;&emsp;
+
+            Exp. Je n'ai jamais entendu parler de cela.	我從來沒聽說過這件事。
+
+    * entendre dire que ...
+
+            Exp. J'ai entendu dire qu'ils se sont mariés.
+
 14. entendre dire ...&emsp;&emsp;聽說……
 15. une chose&emsp;&emsp;東西
 16. O.K. [ ɔke ]&emsp;&emsp;adv. 行！好！可以！
@@ -419,10 +474,21 @@
 18. merci d'avance&emsp;&emsp;事先表示感謝
 19. quand&emsp;&emsp;adv. 何時
 20. tout de suite&emsp;&emsp;loc.adv. 立刻
-21. allumer&emsp;&emsp;v.t. 點亮，打開
+21. allumer&emsp;&emsp;v.t. 點亮，打開（電子、電氣設備）
 22. un vendeur, une vendeuse&emsp;&emsp;售貨員，營業員
 23. d'abord&emsp;&emsp;loc.adv. 首先
 24. quelques&emsp;&emsp;adj.indéf. 幾個，一些
+
+    * quelques + 可數名詞複數
+
+            quelques étudiants
+            quelques livres
+
+    * un peu de + 不可數名詞
+
+            un peu d'eau
+            un peu de sel
+
 25. des connaissances&emsp;&emsp;n.f.pl. 知識
 26. sur&emsp;&emsp;prép. 有關
 27. un écran&emsp;&emsp;屏幕
