@@ -20,37 +20,37 @@
             <td width="50%">
                 venir -> venu
                 <br />
-                revenir -> revenu
+                revenir -> revenu	回來
             </td>
         </tr>
         <tr>
-            <td>sortir -> sorti</td>
+            <td>sortir -> sorti	出門</td>
             <td>
-                entrer -> entré
+                entrer -> entré	進來
                 <br />
-                rentrer -> rentré
+                rentrer -> rentré	回來
                 <br />
                 retourner -> retourné
             </td>
         </tr>
         <tr>
-            <td>arriver -> arrivé</td>
-            <td>partir -> parti</td>
+            <td>arriver -> arrivé	到達</td>
+            <td>partir -> parti	出發</td>
         </tr>
         <tr>
-            <td>montrer -> montré</td>
-            <td>descendre -> descendu</td>
+            <td>montrer -> montré	上來</td>
+            <td>descendre -> descendu	下來</td>
         </tr>
         <tr>
-            <td>rester -> resté</td>
-            <td>tomber -> tombé</td>
+            <td>rester -> resté	停留</td>
+            <td>tomber -> tombé	落下</td>
         </tr>
         <tr>
-            <td>naître -> né</td>
-            <td>mourir -> mort</td>
+            <td>naître -> né	出生</td>
+            <td>mourir -> mort	死亡</td>
         </tr>
         <tr>
-            <td>devenir -> devenu</td>
+            <td>devenir -> devenu	變化</td>
         </tr>
     </tbody>
 </table>
