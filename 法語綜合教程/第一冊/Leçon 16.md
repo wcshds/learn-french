@@ -155,3 +155,98 @@
     Nous sommes arrivés par le train.
     Marie et sa mère sont revenues à Shanghai la semaine dernière.
     À quelle heure Paul est-il rentré hier ?
+
+2. 代動詞複合過去時的各種形式（以 se lever 爲例）
+
+<table align="center">
+    <tbody>
+        <tr>
+            <td colspan="2" align="center">
+                <strong>se lever</strong>
+                <br />
+                <strong>Passé composé de l'indicatif</strong>
+            </td> 
+        </tr>
+        <tr>
+            <td width="50%" align="center">Forme affirmative</td>
+            <td width="50%" align="center">Forme négative</td>
+        </tr>
+        <tr>
+            <td>
+                je me suis levé(e)
+                <br />
+                tu t'es levé(e)
+                <br />
+                il s'est levé
+                <br />
+                elle s'est levée
+                <br />
+                nous nous sommes levés(es)
+                <br />
+                vous vous êtes levé(e) (s) (es)
+                <br />
+                ils se sont levés
+                <br />
+                elles se sont levées
+            </td>
+            <td>
+                je ne me suis pas levé(e)
+                <br />
+                tu ne t'es pas levé(e)
+                <br />
+                il ne s'est pas levé
+                <br />
+                elle ne s'est pas levée
+                <br />
+                nous ne nous sommes pas levés(es)
+                <br />
+                vous ne vous êtes pas levé(e) (s) (es)
+                <br />
+                ils ne se sont pas levés
+                <br />
+                elles ne se sont pas levées
+            </td>
+        </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td align="center">Forme interrogative</td>
+            <td align="center">Forme interrogative négative</td>
+        </tr>
+        <tr>
+            <td>
+                Me suis-je levé(e) ... ?
+                <br />
+                T'es-tu levé(e) ... ?
+                <br />
+                S'est-il levé ... ?
+                <br />
+                S'est-elle levée ... ?
+                <br />
+                Nous sommes-nous levés(es) ... ?
+                <br />
+                Vous êtes-vous levé(e) (s) (es) ... ?
+                <br />
+                Se sont-ils levés ... ?
+                <br />
+                Se sont-elles levées ... ?
+            </td>
+            <td>
+                Ne me suis-je pas levé(e) ... ?
+                <br />
+                Ne t'es-tu pas levé(e) ... ?
+                <br />
+                Ne s'est-il pas levé ... ?
+                <br />
+                Ne s'est-elle pas levée ... ?
+                <br />
+                Ne nous sommes-nous pas levés(es) ... ?
+                <br />
+                Ne vous êtes-vous pas levé(e) (s) (es) ... ?
+                <br />
+                Ne se sont-ils pas levés ... ?
+                <br />
+                Ne se sont-elles pas levées ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
