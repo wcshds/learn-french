@@ -57,13 +57,13 @@
 
 複合過去時各種形式（以 aller 爲例）
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td colspan="2" align="center">
-                aller
+                <strong>aller</strong>
                 <br />
-                Passé composé de l'indicatif
+                <strong>Passé composé de l'indicatif</strong>
             </td> 
         </tr>
         <tr>
