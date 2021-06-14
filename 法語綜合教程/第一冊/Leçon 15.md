@@ -494,5 +494,5 @@
 27. un écran&emsp;&emsp;屏幕
 28. cliquer&emsp;&emsp;v.i. 點擊
 29. une icône&emsp;&emsp;圖標
-30. une souris&emsp;&emsp;鼠標
+30. la souris&emsp;&emsp;鼠標
 31. surfer [ sœʁfe ]&emsp;&emsp;v.i. 網上衝浪
