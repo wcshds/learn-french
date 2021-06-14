@@ -4,7 +4,7 @@
 
 ### 構成與用法
 1. 常見的以 être 作助動詞的不及物動詞及其過去分詞如下表：
-<table>
+<table align="center">
     <tbody align="center">
         <tr>
             <td width="50%">aller -> allé</td>
