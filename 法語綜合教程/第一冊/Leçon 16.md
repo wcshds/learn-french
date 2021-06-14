@@ -10,6 +10,7 @@
             <td width="50%">aller -> allé</td>
             <td width="50%">
                 venir -> venu
+                <br />
                 revenir -> revenu
             </td>
         </tr>
@@ -17,7 +18,9 @@
             <td>sortir -> sorti</td>
             <td>
                 entrer -> entré
+                <br />
                 rentrer -> rentré
+                <br />
                 retourner -> retourné
             </td>
         </tr>
