@@ -333,6 +333,61 @@
 12. carte graphique dédiée&emsp;&emsp;專用顯卡
 
 # Dialogue
+(Dialogue entre Martine et Philippe.)
+
+Philippe : Dis doc ! Tu as l'air contente, Martine !
+
+Martine : Oui, Philippe, je suis ravie ! Regarde !
+
+P : Quoi donc ? Tiens ! tu as acheté un ordinateur portable !
+
+M : Oui, je l'ai acheté hier.
+
+P : Génial ! C'est bien pratique, un ordinateur portable. Tu peux l'emporter où tu veux.
+
+M : Et je peux l'utiliser ici ou ailleurs.
+
+P : Mais est-ce que tu sais comment te servir de ton ordinateur portable ?
+
+M : Non, justement, je ne sais pas encore l'utiliser.
+
+P : Alors pourquoi l'acheter ?
+
+M : Parce que j'ai entendu dire qu'on peut trouver beaucoup de choses sur Internet.
+
+P : Qui va t'apprendre à faire ça ?
+
+M : Mais toi !
+
+P : O.K. , pas de problème. Je peux t'aider.
+
+M : Merci d'avance ! 
+
+P : Quand est-ce que tu veux commencer ?
+
+M : Maintenant, tout de suite.
+
+P : Bon, si tu peux. Tu sais comment allumer l'ordinateur ?
+
+M : Oui, le vendeur me l'a appris. Voilà.
+
+P : Qu'est-ce que tu veux apprendre d'abord ?
+
+M : J'aimerais d'ecouvrir Internet.
+
+P : Alors, regarde l'écran. Tu cliques sur cette icône-là.
+
+M : Comment cliquer ?
+
+P : Tu utilises la souris.
+
+M : Comme ça ?
+
+P : Non, il faut cliquer deux fois. Voilà, c'est ça.
+
+M : Et maintenant ?
+
+P : Maintenant, tu attends de surfer sur Internet.
 
 ### Vocabulaire
 1. dis doc [ dɔ̃ ]&emsp;&emsp;喂；喲
