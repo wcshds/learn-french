@@ -62,12 +62,13 @@
         <tr>
             <td colspan="2" align="center">
                 aller
+                <br />
                 Passé composé de l'indicatif
             </td> 
         </tr>
         <tr>
-            <td width="50%">Forme affirmative</td>
-            <td width="50%">Forme négative</td>
+            <td width="50%" align="center">Forme affirmative</td>
+            <td width="50%" align="center">Forme négative</td>
         </tr>
         <tr>
             <td>
@@ -107,8 +108,8 @@
         </tr>
         <tr height="16px"></tr>
         <tr>
-            <td>Forme interrogative</td>
-            <td>Forme interrogative négative</td>
+            <td align="center">Forme interrogative</td>
+            <td align="center">Forme interrogative négative</td>
         </tr>
         <tr>
             <td>
