@@ -54,3 +54,97 @@
         </tr>
     </tbody>
 </table>
+
+複合過去時各種形式（以 aller 爲例）
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2" align="center">
+                aller
+                Passé composé de l'indicatif
+            </td> 
+        </tr>
+        <tr>
+            <td width="50%">Forme affirmative</td>
+            <td width="50%">Forme négative</td>
+        </tr>
+        <tr>
+            <td>
+                je suis allé(e)
+                <br />
+                tu es allé(e)
+                <br />
+                il est allé
+                <br />
+                elle est allée
+                <br />
+                nous sommes allés(es)
+                <br />
+                vous êtes allé(e) (s) (es)
+                <br />
+                ils sont allés
+                <br />
+                elles sont allées
+            </td>
+            <td>
+                je ne suis pas allé(e)
+                <br />
+                tu n'es pas allé(e)
+                <br />
+                il n'est pas allé
+                <br />
+                elle n'est pas allée
+                <br />
+                nous ne sommes pas allés(es)
+                <br />
+                vous n'êtes pas allé(e) (s) (es)
+                <br />
+                ils ne sont pas allés
+                <br />
+                elles ne sont pas allées
+            </td>
+        </tr>
+        <tr height="16px"></tr>
+        <tr>
+            <td>Forme interrogative</td>
+            <td>Forme interrogative négative</td>
+        </tr>
+        <tr>
+            <td>
+                Suis-je allé(e) ... ?
+                <br />
+                Es-tu allé(e) ... ?
+                <br />
+                Est-il allé ... ?
+                <br />
+                Est-elle allée ... ?
+                <br />
+                Sommes-nous allés(es) ... ?
+                <br />
+                Êtes-vous allé(e) (s) (es) ... ?
+                <br />
+                Sont-ils allés ... ?
+                <br />
+                Sont-elles allées ... ?
+            </td>
+            <td>
+                Ne suis-je pas allé(e) ... ?
+                <br />
+                N'es-tu pas allé(e) ... ?
+                <br />
+                N'est-il pas allé ... ?
+                <br />
+                N'est-elle pas allée ... ?
+                <br />
+                Ne sommes-nous pas allé(es) ... ?
+                <br />
+                N'êtes-vous pas allé(e) (s) (es) ... ?
+                <br />
+                Ne sont-ils pas allés ... ?
+                <br />
+                Ne sont-elles pas allées ... ?
+            </td>
+        </tr>
+    </tbody>
+</table>
