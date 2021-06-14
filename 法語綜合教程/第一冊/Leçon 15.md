@@ -351,7 +351,7 @@ P : Mais est-ce que tu sais comment te servir de ton ordinateur portable ?
 
 M : Non, justement, je ne sais pas encore l'utiliser.
 
-P : Alors pourquoi l'acheter ?
+P : Alors pourquoi tu l'as acheté ?
 
 M : Parce que j'ai entendu dire qu'on peut trouver beaucoup de choses sur Internet.
 
@@ -361,7 +361,7 @@ M : Mais toi !
 
 P : O.K. , pas de problème. Je peux t'aider.
 
-M : Merci d'avance ! 
+M : Merci d'avance !
 
 P : Quand est-ce que tu veux commencer ?
 
@@ -373,7 +373,7 @@ M : Oui, le vendeur me l'a appris. Voilà.
 
 P : Qu'est-ce que tu veux apprendre d'abord ?
 
-M : J'aimerais d'ecouvrir Internet.
+M : J'aimerais decouvrir Internet.
 
 P : Alors, regarde l'écran. Tu cliques sur cette icône-là.
 
