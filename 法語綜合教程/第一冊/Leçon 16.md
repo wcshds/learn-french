@@ -3,7 +3,7 @@
 以 être 作助動詞的動詞有兩類：一類是某些表示位置及狀態變化的不及物動詞，另一類是代動詞。
 
 ### 構成與用法
-<table>
+<table align="center">
     <tbody align="center">
         <tr>
             <td>助動詞 être（直陳式現在時） + 動詞的過去分詞 = 直陳式複合過去時</td>
