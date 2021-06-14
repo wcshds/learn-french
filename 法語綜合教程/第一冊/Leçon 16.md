@@ -149,3 +149,9 @@
         </tr>
     </tbody>
 </table>
+
+在以 être 爲助動詞的複合過去時中，過去分詞要與主語進行性、數配合：
+
+    Nous sommes arrivés par le train.
+    Marie et sa mère sont revenues à Shanghai la semaine dernière.
+    À quelle heure Paul est-il rentré hier ?
