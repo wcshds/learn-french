@@ -38,7 +38,7 @@
             <td>partir -> parti	出發</td>
         </tr>
         <tr>
-            <td>montrer -> montré	上來</td>
+            <td>monter -> monté	上來</td>
             <td>descendre -> descendu	下來</td>
         </tr>
         <tr>
@@ -150,11 +150,43 @@
     </tbody>
 </table>
 
-在以 être 爲助動詞的複合過去時中，過去分詞要與主語進行性、數配合：
+*注意：在以 être 爲助動詞的複合過去時中，過去分詞要與主語進行性、數配合：*
 
     Nous sommes arrivés par le train.
     Marie et sa mère sont revenues à Shanghai la semaine dernière.
     À quelle heure Paul est-il rentré hier ?
+
+* aller, venir, revenir
+
+        Exp. Il est allé en Belgique la semaine dernière.
+        Elle est allée à Berlin dimanche dernier.
+        Je l'ai appelée, elle est venue.
+        Hier, ils sont venus chez moi.
+        Marie et sa mère sont revenues à Shanghai le week-end dernier.
+        La lettre est revenue à cause de l'adresse incomplète.
+
+* sortir, entrer, rentrer, retourner
+
+        Exp. Elle est sortie (de sa chambre).
+        Elle a sorti un livre de son sac.
+
+        Nous sommes entré(e)s à l'université la même année.
+        À quelle heure Paul est-il rentré hier ?
+        Madeleine est retournée à Paris après ses études à l'Université de Wuhan.
+
+* arriver, partir
+
+        Exp. Nous sommes arrivé(e)s par le train.
+        Le train de Marseille n'est pas encore arrivé.
+        Elle est partie et elle est revenue très vite.
+
+* monter, descendre
+
+        Exp. Il est monté dans sa chambre.
+        Est-ce que tous les passagers sont montés dans l'avion ?
+
+        Elle est descendre de sa voiture.
+        À la fin du match, le journaliste est descendu sur le court de tennis.
 
 2. 代動詞複合過去時的各種形式（以 se lever 爲例）
 
