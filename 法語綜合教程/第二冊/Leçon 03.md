@@ -135,7 +135,7 @@
 
         Il se levait tous les jours à 6 heures.
         Chaque jour, il allait à l'école à pied.
-        Pendant les grandes  vacances, ma grand-mère me racontait une histoire différente chaque soir après le dîner.
+        Pendant les grandes vacances, ma grand-mère me racontait une histoire différente chaque soir après le dîner.
         Je chantais souvent de vieilles chansons.
         Pendant les vacances, nous faisions toujours de longues balades au bord de la mer.
 
