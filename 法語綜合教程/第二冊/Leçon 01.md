@@ -392,14 +392,14 @@
 
 3. Futur proche VS Futur simple
 
-    \* Comparez 1 :
+    * Comparez 1 :
 
         Le ciel est couvert. Il va pleuvoir. （Futur proche 用來表示馬上就要發生的事）
         Il pleuvra demain.
 
         Dans cinquante ans, quel sera l'état de notre planète ?
 
-    \* Comparez 2 : 
+    * Comparez 2 : 
 
         Ils vont venir demain. （主觀能動性強）
         Ils viendront demain. （客觀預測）
