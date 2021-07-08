@@ -157,45 +157,45 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
 
 ## S'excuser 致歉
-* Oh, pardon, madame. Je suis désolé.
+* Oh, **pardon**, madame. **Je suis désolé**.
 
-    \- Ce n'est rien, monsieur !
+    \- **Ce n'est rien**, monsieur !
 
-* Excusez-moi, monsieur ! Je suis désolée d'être en retard !
+* **Excusez-moi**, monsieur ! **Je suis désolée** d'être en retard !
 
-    \- Je vous en prie, ce n'est pas grave.
+    \- **Je vous en prie, ce n'est pas grave.**
 
 
 ## Demander - Remercier 詢問、致謝
-* Pardon, madame, vous pouvez me dire où est la poste, s'il vous plaît ?
+* **Pardon**, madame, **vous pouvez** me dire où est la poste, **s'il vous plaît** ?
 
     \- Oui, monsieur. C'est au bout de la rue, à droite.
 
-    \- Je vous remercie, madame.
+    \- **Je vous remercie**, madame.
 
-    \- Je vous en prie, monsieur.
+    \- **Je vous en prie**, monsieur.
 
-* Tu peux me prêter 1 &euro;, s'il te plaît ?
+* **Tu peux** me prêter 1 &euro;, **s'il te plaît** ?
 
     \- Oui, bien sûr !
 
-    \- Merci beaucoup !
+    \- **Merci beaucoup !**
 
-    \- De rien !
+    \- **De rien !**
 
 
 ## Féliciter 祝賀
 * Pour une réussite, une promotion, un nouveau travail, la naissance d'un bébé, par exemple : 
 
-    \- Félicitation ! Toutes mes félicitations !
+    \- **Félicitation ! Toutes mes félicitations !**
 
-    \- Je suis content(e) pour toi / vous !
+    \- **Je suis content(e) pour toi / vous !**
 
-    \- Bravo !
+    \- **Bravo !**
 
 * Pour un mariage : 
 
-    \- Tous mes vœux de bonheur !
+    \- **Tous mes vœux de bonheur !**
 
 
 ## Plaindre 同情
@@ -203,10 +203,10 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- Tu sais, je n'ai plus de travail.
 
-    \- Oh, mon pauvre Marc ! Ma pauvre Solange ! Tu n'as pas de chance !
+    \- Oh, **mon pauvre** Marc ! **Ma pauvre** Solange ! Tu n'as pas de chance !
 
 * À l'annonce d'une horrible nouvelle : 
 
     \- Vous savez que nous avons perdu un enfant ?
 
-    \- Oh mon Dieu, c'est terrible, c'est affreux, ce n'est pas possible ! Je suis désolé(e) pour vous !
+    \- Oh mon Dieu, **c'est terrible, c'est affreux, ce n'est pas possible ! Je suis désolé(e) pour vous !**
