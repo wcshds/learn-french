@@ -84,14 +84,14 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
 ## Présenter = Faire les présentations
 * Situation professionnelle 工作場合
-    * Je vous présente Florence Dusapin, notre nouvelle responsable de marketing.
+    * **Je vous présente** Florence Dusapin, notre nouvelle responsable de marketing.
 
-        \- Bonjour, madame, enchanté.
+        \- Bonjour, madame, **enchanté**.
 
-        \- Enchantée, monsieur.
+        \- **Enchantée**, monsieur.
 
 * Contexte amical 友人之間
-    * Nicolas, est-ce que tu connais ma copine\* Émilie ?
+    * Nicolas, **est-ce que tu connais** ma copine\* Émilie ?
 
         \- Non, pas encore. Bonjour, Émilie.
 
@@ -101,18 +101,22 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
 
 ## Quelques gestes 打招呼動作
-* Les Français, et surtout les hommes, se serrent la main pour se dire bonjour ou au revoir.
-* Les femmes qui se connaissent bien (amies, collègues de travail) s'embrassent sur la joue (= elles se font un bisou\* = une bise\*).
+* Les Français, et surtout les hommes, **se serrent la main** pour se dire bonjour ou au revoir.
+* Les femmes qui se connaissent bien (amies, collègues de travail) **s'embrassent** sur la joue (= elles se **font un bisou\*** = **une bise\***).
 
-    On embrasse aussi un enfant (pour lui dire bonjour).
+    On **embrasse** aussi un enfant (pour lui dire bonjour).
     
     *注：根據不同地區的習慣，有的人親吻兩下，也有的人親吻三下，甚至四下。*
 
 
 ## Accueillir 接待
 
-* \- Entrez, je vous en prie ! Je peux prendre votre manteau ?
+* \- **Entrez, je vous en prie !** 
 
-* \- Ça me fait plaisir de vous voir ! Asseyez-vous, je vous en prie !
+    **Je peux** prendre votre manteau ?
 
-* \- Je suis content de te voir ! Assieds-toi !
+* \- **Ça me fait plaisir de vous voir !**
+
+    **Asseyez-vous, je vous en prie !**
+
+* \- **Je suis content de te voir ! Assieds-toi !**
