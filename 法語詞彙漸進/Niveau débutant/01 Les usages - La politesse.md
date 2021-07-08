@@ -131,7 +131,6 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
 
 ## Accueillir 接待
-
 * \- **Entrez, je vous en prie !** 
 
     **Je peux** prendre votre manteau ?
@@ -155,3 +154,59 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     être (v.i.) 是
     content, contente (adj.) 高興的
     Assieds-toi （你）請坐
+
+
+## S'excuser 致歉
+* Oh, pardon, madame. Je suis désolé.
+
+    \- Ce n'est rien, monsieur !
+
+* Excusez-moi, monsieur ! Je suis désolée d'être en retard !
+
+    \- Je vous en prie, ce n'est pas grave.
+
+
+## Demander - Remercier 詢問、致謝
+* Pardon, madame, vous pouvez me dire où est la poste, s'il vous plaît ?
+
+    \- Oui, monsieur. C'est au bout de la rue, à droite.
+
+    \- Je vous remercie, madame.
+
+    \- Je vous en prie, monsieur.
+
+* Tu peux me prêter 1 &euro;, s'il te plaît ?
+
+    \- Oui, bien sûr !
+
+    \- Merci beaucoup !
+
+    \- De rien !
+
+
+## Féliciter 祝賀
+* Pour une réussite, une promotion, un nouveau travail, la naissance d'un bébé, par exemple : 
+
+    \- Félicitation ! Toutes mes félicitations !
+
+    \- Je suis content(e) pour toi / vous !
+
+    \- Bravo !
+
+* Pour un mariage : 
+
+    \- Tous mes vœux de bonheur !
+
+
+## Plaindre 同情
+* À l'annonce d'une mauvaise nouvelle :
+
+    \- Tu sais, je n'ai plus de travail.
+
+    \- Oh, mon pauvre Marc ! Ma pauvre Solange ! Tu n'as pas de chance !
+
+* À l'annonce d'une horrible nouvelle : 
+
+    \- Vous savez que nous avons perdu un enfant ?
+
+    \- Oh mon Dieu, c'est terrible, c'est affreux, ce n'est pas possible ! Je suis désolé(e) pour vous !
