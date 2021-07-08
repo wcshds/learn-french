@@ -83,7 +83,7 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     impoli, impolie (adj.) 不禮貌的
 
 
-## Présenter = Faire les présentations
+## Présenter = Faire les présentations 介紹
 * Situation professionnelle 工作場合
     * **Je vous présente** Florence Dusapin, notre nouvelle responsable de marketing.
 
