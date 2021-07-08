@@ -4,22 +4,22 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 ## Dire bonjour 問候
 * Si vous ne connaissez pas bien quelqu'un, vous dites simplement : 
 
-    \- Bonjour... (madame / monsieur / Isabelle), dans la journée ; et
+    \- **Bonjour**... (**madame** / **monsieur** / Isabelle), dans la journée ; et
 
-    \- Bonsoir..., le soir.
+    \- **Bonsoir**..., le soir.
 
 * Si vous connaissez bien la personne, si c'est un(e) ami(e) : 
-    \- Bonjour / Bonsoir, ma chère Mathilde !
+    \- Bonjour / Bonsoir, **ma chère** Mathilde !
 
-    \- Bonjour, Bénédicte, commment vas-tu ?
+    \- Bonjour, Bénédicte, **commment vas-tu** ?
 
-    \- Bien, merci, et toi ?
+    \- **Bien, merci, et toi ?**
 
-    \- Ça va bien, merci.
+    \- **Ça va bien**, merci.
 
 * La même situation, plus familière : 
     
-    \- Salut\*, Mathilde, ça va ?
+    \- **Salut\***, Mathilde, **ça va** ?
 
     \- Tiens, salut ! Ça va, merci, et toi ?
 
