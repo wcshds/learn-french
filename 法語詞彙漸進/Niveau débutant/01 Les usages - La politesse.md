@@ -165,6 +165,15 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- **Je vous en prie, ce n'est pas grave.**
 
+### Vocabulaire
+
+    pardon (n.m.) 對不起
+    désolé, désolée (adj.) 抱歉
+    être en retard 遲到
+    Excusez-moi 請原諒我
+    Ce n'est rien 沒什麽
+    Ce n'est pas grave 沒關係
+
 
 ## Demander - Remercier 詢問、致謝
 * **Pardon**, madame, **vous pouvez** me dire où est la poste, **s'il vous plaît** ?
@@ -183,6 +192,19 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- **De rien !**
 
+### Vocabulaire
+
+    dire (v.t.) 說、講
+    où (adv.) 哪兒
+    prêter (v.t.) 借給、出借
+    s'il vous plaît, s'il te plaît 請
+    la rue 馬路
+    de rien 不用謝
+    la poste 郵局
+    au bout de (loc. prép.) 在……盡頭、末端
+    à droite 在右面
+    remercier (v.t.) 感謝
+
 
 ## Féliciter 祝賀
 * Pour une réussite, une promotion, un nouveau travail, la naissance d'un bébé, par exemple : 
@@ -197,6 +219,17 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- **Tous mes vœux de bonheur !**
 
+### Vocabulaire
+
+    félicitation (n.f.) 祝賀
+    tous, toutes (adj. ind.) 所有的、全部的
+    mon, ma, mes (adj. pos.) 我
+    content, contente (adj.) 高興的
+    Bravo ! (interj.) 太棒了！
+    mariage (n.m.) 結婚、婚禮
+    vœu (n.m.) 心願
+    bonheur (n.m.) 幸福
+
 
 ## Plaindre 同情
 * À l'annonce d'une mauvaise nouvelle :
@@ -210,3 +243,22 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     \- Vous savez que nous avons perdu un enfant ?
 
     \- Oh mon Dieu, **c'est terrible, c'est affreux, ce n'est pas possible ! Je suis désolé(e) pour vous !**
+
+### Vocabulaire
+
+    annonce (n.f.) 通知
+    mauvais, mauvaise (adj.) 壞的
+    une nouvelle 消息
+    savoir (v.t.) 知道
+    ne + 變位動詞 + plus (adv.) 不再……
+    travail (n.m.) 工作
+    pauvre (adj.) 可憐的
+    avoir (v.t.) 有
+    chance (n.f.) 運氣
+    bon, bonne (adj.) 好的
+    avoir perdu 失去
+    Dieu (n.m.) 上帝
+    terrible (adj.) 可怕的
+    affreux, affreuse (adj.) 可怕的
+    possible (adj.) 可能的
+    désolé, désolée (adj.) 難過的
