@@ -99,6 +99,18 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     *注：隨着時代的不同，人們問候的方式也有所改變。現在的年輕人見面時，一般不用尊稱，而用 tu。叫對方的名字時，也不是連名帶姓，而僅用名字，不帶姓。見面打招呼或告別時，往往習慣說 salut。*
 
+### Vocabulaire
+
+    Je vous présente 我向您介紹……
+    responsable (n.) 負責人
+    enchanté, enchantée (adj.) 榮幸的
+    nouveau, nouvel, nouvelle (adj.) 新的
+    marketing (n.m.) 市場營銷
+    connaître (v.t.) 認識、瞭解
+    non (adv.) 不
+    copain, copine (n.) 夥伴、朋友
+    pas encore 還沒有
+
 
 ## Quelques gestes 打招呼動作
 * Les Français, et surtout les hommes, **se serrent la main** pour se dire bonjour ou au revoir.
@@ -107,6 +119,15 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     On **embrasse** aussi un enfant (pour lui dire bonjour).
     
     *注：根據不同地區的習慣，有的人親吻兩下，也有的人親吻三下，甚至四下。*
+
+### Vocabulaire
+
+    se serrer la main 互相握手
+    se dire bonjour 互相問候
+    se dire au revoir 互相道別
+    s'embrasser (v.pron.) 擁抱、擁吻
+    se faire un bisou (une bise) 互相親吻
+    embrasser un enfant 親吻小孩
 
 
 ## Accueillir 接待
@@ -120,3 +141,17 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     **Asseyez-vous, je vous en prie !**
 
 * \- **Je suis content de te voir ! Assieds-toi !**
+
+### Vocabulaire
+
+    entrer (v.i.) 進來
+    pouvoir (v.t.) 能夠
+    prendre (v.t.) 拿、取
+    un manteau 大衣
+    le plaisir 高興
+    voir (v.t.) 見、看見
+    Asseyez-vous （您）請坐
+    je vous en prie 請
+    être (v.i.) 是
+    content, contente (adj.) 高興的
+    Assieds-toi （你）請坐
