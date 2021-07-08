@@ -6,7 +6,7 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- Bonjour... (madame / monsieur / Isabelle), dans la journée ; et
 
-    \- BOnsoir..., le soir.
+    \- Bonsoir..., le soir.
 
 * Si vous connaissez bien la personne, si c'est un(e) ami(e) : 
     \- Bonjour / Bonsoir, ma chère Mathilde !
