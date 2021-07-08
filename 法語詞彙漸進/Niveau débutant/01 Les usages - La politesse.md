@@ -111,16 +111,8 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
 ## Accueillir 接待
 
-\- Entrez, je vous en prie !
+* \- Entrez, je vous en prie ! Je peux prendre votre manteau ?
 
-Je peux prendre votre manteau ?
+* \- Ça me fait plaisir de vous voir ! Asseyez-vous, je vous en prie !
 
-<br />
-
-\- Ça me fait plaisir de vous voir !
-
-Asseyez-vous, je vous en prie !
-
-<br />
-
-\- Je suis content de te voir ! Assieds-toi !
+* \- Je suis content de te voir ! Assieds-toi !
