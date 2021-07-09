@@ -105,6 +105,7 @@
     *注：*
 
     *1. une petite-fille 和 une petite fille 雖然衹有一連字號之差，但含義卻有所不同：une petite-fille 是複合名詞，指孫女或外孫女。如：Ariane est la petite-fille de Jeanne. 阿麗安娜是熱娜的孫女。而une petite fille 卻解釋「年幼的女孩」，如：Ariane est une petite fille. 阿麗安娜是個小女孩。*
+    
     *2. 形容詞 vieux / vielle 雖有「年老」的含義，但法國人說「某人年紀大」時，往往用 âgé（年長的）這個詞，而避免用 vieux / vielle*
 
 ### Vocabulaire
