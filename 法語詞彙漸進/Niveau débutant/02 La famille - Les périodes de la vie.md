@@ -43,3 +43,39 @@
     une tante	伯母、嬸、姨、舅母
     un neveu	侄、外甥
     une nièce	侄女、外甥女
+
+
+## Les périodes de la vie 人生階段
+* L'enfance - L'adolescence 童年—少年
+
+<table align="center" table-layout="fixed">
+    <tbody>
+        <tr>
+            <td>
+                un bébé
+                <br />
+                de 0 à 2 ans
+            </td>
+            <td>
+                un(e) enfant
+                <br />
+                de 2 à 11/12 ans
+            </td>
+            <td>
+                un(e) adolescent(e)
+                <br />
+                de 12 à 18 ans
+            </td>
+            <td>
+                un(e) adulte
+                <br />
+                après 18 ans
+            </td>
+            <td>
+                une personne âgée
+                <br />
+                ça dépend des personnes !
+            </td>
+        </tr>
+    </tbody>
+</table>
