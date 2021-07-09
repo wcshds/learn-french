@@ -13,7 +13,7 @@
 
 *注：在法國，孩子對長輩的稱呼如下：maman 媽媽，papa 爸爸，papi 爺爺（姥爺），mamie 或者 mamé 奶奶（姥姥），tonton 舅舅（叔叔、伯伯），tatie 嬸嬸（姨媽、舅媽）*
 
-# Vocabulaire
+### Vocabulaire
 
     marié, mariée (adj.)	已緍的
     le mari	丈夫
@@ -48,34 +48,73 @@
 ## Les périodes de la vie 人生階段
 * L'enfance - L'adolescence 童年—少年
 
-<table align="center" table-layout="fixed">
-    <tbody>
-        <tr align="center">
-            <td>
-                un bébé
-                <br />
-                de 0 à 2 ans
-            </td>
-            <td>
-                un(e) enfant
-                <br />
-                de 2 à 11/12 ans
-            </td>
-            <td>
-                un(e) adolescent(e)
-                <br />
-                de 12 à 18 ans
-            </td>
-            <td>
-                un(e) adulte
-                <br />
-                après 18 ans
-            </td>
-            <td>
-                une personne âgée
-                <br />
-                ça dépend des personnes !
-            </td>
-        </tr>
-    </tbody>
-</table>
+    <table align="center" table-layout="fixed">
+        <tbody>
+            <tr align="center">
+                <td>
+                    un bébé
+                    <br />
+                    de 0 à 2 ans
+                </td>
+                <td>
+                    un(e) enfant
+                    <br />
+                    de 2 à 11/12 ans
+                </td>
+                <td>
+                    un(e) adolescent(e)
+                    <br />
+                    de 12 à 18 ans
+                </td>
+                <td>
+                    un(e) adulte
+                    <br />
+                    après 18 ans
+                </td>
+                <td>
+                    une personne âgée
+                    <br />
+                    ça dépend des personnes !
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    * J'ai passé mon enfance en Bretagne. = J'habitais en Bretagne quand j'etais enfant.
+    * Il a eu une adolescence heureuse. = Il était heureux quand il était adolescent.
+
+    *注：*
+
+    *1. enfant 表示子女的意思。如：Annie a trois enfants. 安妮有三個孩子。另外，enfant 還可指2~12歲年齡段的少年兒童。如：Les enfants vont à l'école. 孩子們上學了。*
+
+    *2. bébé 始終是陽性，無論男女嬰兒。「personne」作爲名詞，解釋「人」，無論男女，一律用陰性。*
+
+* L'âge 年齡
+
+    * Quel âge ont Véronique et Denis ?
+
+        Véronique a 38 ans et Denis a 43 ans. Véronique a 5 ans de moins que Denis. Denis a 5 ans de plus que sa femme.
+
+    * Quentin a 7 ans, c'est un petit garçon. Manon a 8 ans, c'est une petite fille.
+    * Elle a 30 ans, elle est encore jeune ! C'est une jeune femme.
+    * J'ai 90 ans, je suis très âgé, je suis trop vieux pour faire du sport !
+    * Les enfants grandissent, ils deviennent toujours plus grands.
+
+        Mon fils a grandi de 4 centimètres !
+
+    *注：*
+
+    *1. une petite-fille 和 une petite fille 雖然衹有一連字號之差，但含義卻有所不同：une petite-fille 是複合名詞，指孫女或外孫女。如：Ariane est la petite-fille de Jeanne. 阿麗安娜是熱娜的孫女。而une petite fille 卻解釋「年幼的女孩」，如：Ariane est une petite fille. 阿麗安娜是個小女孩。*
+    *2. 形容詞 vieux / vielle 雖有「年老」的含義，但法國人說「某人年紀大」時，往往用 âgé（年長的）這個詞，而避免用 vieux / vielle*
+
+### Vocabulaire
+
+    un bébé
+
+
+## La vie et la mort 出生與死亡
+* Aude est née le 28 septembre 1960. Sa date de naissance est le 28/09/1960. Elle a son anniversaire le 28 septembre.
+* Louis a perdu as femme : elle est morte (= décédée) le 10 mai. Le 10 mai est l'anniversaire de sa mort.
+
+### Vocabulaire
+
