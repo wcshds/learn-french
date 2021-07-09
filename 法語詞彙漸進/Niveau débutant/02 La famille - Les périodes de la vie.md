@@ -7,7 +7,7 @@
 * Marc est le frère de Véronique, Véronique est la sœur de Marc.
 * Marc est marié avec Caroline. Caroline est la belle-fille de Victor et Jeanne. Victor est le beau-père de Caroline, Jeanne est sa belle-mère ; Victor et Jeanne sont les beaux-parents. Caroline est aussi la belle-sœur de Véronique.
 * Véronique est mariée avec Denis. Denis est le gendre de Victor et Jeanne ; il est aussi le beau-frère de Marc.
-* Marc et Caroline ont deux enfants : Ariane et Félix, qui sont les petits-enfants de Victor et Jeanne ; Arian est leur petite-fille, Félix est leur petit-fils. Victor et Jeanne sont les grands-parents d'Ariane et Félix. Victor est leur grand-père, et Jeanne leur grand-mère.
+* Marc et Caroline ont deux enfants : Ariane et Félix, qui sont les petits-enfants de Victor et Jeanne ; Ariane est leur petite-fille, Félix est leur petit-fils. Victor et Jeanne sont les grands-parents d'Ariane et Félix. Victor est leur grand-père, et Jeanne leur grand-mère.
 * Véronique et Denis ont un fils, Nicolas. Nicolas est le cousin d'Ariane et Félix. Ariane est la cousine de Nicolas.
 * Marc est l'oncle de Nicolas, Caroline est sa tante. Nicolas est le neveu de Marc et Coraline. Ariane est la nièce de Véronique et Denis.
 
@@ -104,13 +104,29 @@
 
     *注：*
 
-    *1. une petite-fille 和 une petite fille 雖然衹有一連字號之差，但含義卻有所不同：une petite-fille 是複合名詞，指孫女或外孫女。如：Ariane est la petite-fille de Jeanne. 阿麗安娜是熱娜的孫女。而une petite fille 卻解釋「年幼的女孩」，如：Ariane est une petite fille. 阿麗安娜是個小女孩。*
-    
-    *2. 形容詞 vieux / vielle 雖有「年老」的含義，但法國人說「某人年紀大」時，往往用 âgé（年長的）這個詞，而避免用 vieux / vielle*
+    *1. une petite-fille 和 une petite fille 雖然衹有一連字號之差，但含義卻有所不同：une petite-fille 是複合名詞，指孫女或外孫女。如：Ariane est la petite-fille de Jeanne. 阿麗安娜是熱娜的孫女。而 une petite fille 卻解釋「年幼的女孩」，如：Ariane est une petite fille. 阿麗安娜是個小女孩。*
+
+    *2. 形容詞 vieux / vieille 雖有「年老」的含義，但法國人說「某人年紀大」時，往往用 âgé（年長的）這個詞，而避免用 vieux / vieille。*
 
 ### Vocabulaire
 
-    un bébé
+    un bébé	寶寶
+    un(e) adolescent(e)	少年
+    un(e) adulte	成人
+    une personne âgée	老年人
+    passer (v.t.)	度過
+    une enfance	童年
+    habiter (v.t. OU v.i.)	居住
+    avoir (v.t.)	有
+    une adolescence	少年時期
+    l'âgé (n.m.)	年齡
+    an (n.m.)	歲
+    moins...que (adv.)	少於
+    plus...que (adv.)	多於
+    un garçon	男孩
+    jeune (adj.)	年輕的
+    vieux (vieil 用於以元音或啞音 h 開頭的陽性單數名詞前), vieille (adj.)	年老的
+    grandir (v.i.)	長高、長大
 
 
 ## La vie et la mort 出生與死亡
@@ -119,3 +135,7 @@
 
 ### Vocabulaire
 
+    né, née (p.p. ou adj.)
+    la date de naissance
+    l'anniversaire
+    mort, morte (p.p.)
