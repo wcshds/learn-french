@@ -320,20 +320,13 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     ouvrir (v.t.)	打開
     porte (n.f.)	門
     laisser passer	讓……先行
-    demander (v.t.)	要求
-    arriver (v.i.)	到達
-    environ (adv.)	左右
-    plus (adv.)	更加
-    tard (adv.)	晚、遲
-    donner (v.t.)	給予
-    une somme d'argent	一筆錢
+    même (adj.)	一樣的、相同的
     une chose	事情、東西
     être invité, e	應邀
     dîner (v.i.)	用晚餐
     chez (prép.)	在……家裡
     apporter (v.t.)	帶來
     petit, petite (adj.)	小的
-    même (adj.)	一樣的、相同的
     cadeau (n.m.)	禮品
     un bouquet de fleur	一束鮮花
     une boîte de chocolat	一盒巧克力
@@ -342,6 +335,13 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     Qu'est-ce que je peux apporter ?	我帶什麽禮物來？
     si (adv.)	假如
     la politesse	禮節
+    demander (v.t.)	要求
+    arriver (v.i.)	到達
+    environ (adv.)	左右
+    plus (adv.)	更加
+    tard (adv.)	晚、遲
+    donner (v.t.)	給予
+    une somme d'argent	一筆錢
     étrennes (n.f.)	壓歲錢
     facteur (n.m.)	郵遞員
     éboueur (n.m.)	環衛工人
