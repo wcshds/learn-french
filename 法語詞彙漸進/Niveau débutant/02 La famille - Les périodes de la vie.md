@@ -50,7 +50,7 @@
 
 <table align="center" table-layout="fixed">
     <tbody>
-        <tr>
+        <tr align="center">
             <td>
                 un bébé
                 <br />
