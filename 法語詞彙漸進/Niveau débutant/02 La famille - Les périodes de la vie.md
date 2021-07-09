@@ -135,7 +135,8 @@
 
 ### Vocabulaire
 
-    né, née (p.p. ou adj.)
-    la date de naissance
-    l'anniversaire
-    mort, morte (p.p.)
+    né, née (p.p. OU adj.)	出生的
+    la date de naissance	出生日期
+    l'anniversaire (n.m.)	生日
+    mort, morte (p.p. OU adj.)	死亡的
+    décédé, e (p.p. OU adj.)	去世的
