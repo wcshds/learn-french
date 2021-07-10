@@ -21,3 +21,31 @@
 *1. 在法國，衹有登記結婚才具有法律效應。*
 
 *2. 已婚者稱其配偶爲 ma femme（我妻子），mon mari（我丈夫），未婚者稱對象爲 mon amie（我女友），mon ami（我男友），當代年輕人喜歡在「朋友」之前加 petit，petite，以示親密：ma petite amie，mon petit ami。*
+
+## Vocabulaire
+
+    amour (n.m.)	愛、愛情
+    émotion (n.f.)	激情、情感
+    recontrer (v.t.)	遇見、碰見
+    tomber amoureux, se	陷入情網
+    seul, seule (adj.)	獨自的
+    embrasser (v.t.)	擁抱
+    s'embrasser (v.pron.)	互相擁抱
+    passer la nuit	過夜
+    ensemble (adv.)	和……一起
+    faire l'amour	做愛
+    une relation	關係
+    célibataire (adj. et n.)	單身
+    vivre (v.i.)	生活
+    prendre un appartement	租一套公寓
+    sortir avec qn.	和某人一起出去；和某人談戀愛
+    être amoureux	戀愛
+    la passion	激情
+    se marier (v.pron.)	結婚
+    aller à la mairie	去區、鄉政府
+    aller à l'église	去教堂
+    porter (v.t.)	身穿
+    une robe de mariée	婚紗
+    homosexuel, homosexuelle (adj.)	同性戀的
+    vivre en couple	兩個人生活
+    la liaison	連接、結合
