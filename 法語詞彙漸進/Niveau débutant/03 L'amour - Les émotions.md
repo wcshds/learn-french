@@ -72,6 +72,21 @@ Quelques années plus tard ...
 
     Gabriel : - Ah non ! Certainement pas !
 
+## Vocabulaire
+
+    avoir un enfant	有孩子
+    la vie de famille	家庭生活
+    divorcer (v.i.)	離婚
+    demander le divorce	要求離婚
+    quitter (v.t.)	離開
+    la séparation	分手
+    libre (adj.)	自由的
+    partir (v.i.)	去、走、離開
+    se disputer (v.pron.)	爭吵
+    jaloux, jalouse (adj.)	嫉妒的
+    une dispute	爭吵
+    se remarier (v.pron.)	再婚
+
 
 ## Le verbe « aimer » 動詞「愛」、「喜歡」
 * Pour parler de personnes 談論人
@@ -93,3 +108,10 @@ Quelques années plus tard ...
         \- Oui, j'adore le chocolat			-> j'en mange trop !
 
     *注：表示喜歡某物，法國人很少單獨使用 aimer，而往往說 aimer bien，aimer beaucoup，或者adorer。不過，在提問的時候，或者表示否定時卻可以單獨使用 aimer。Vous aimez le chocolat ? - Non, je n'aime pas ça.*
+
+## Vocabulaire
+
+    aimer (v.t.)	愛、熱愛
+    un coupain, une copine	夥伴、朋友
+    grand(e) ami(e) 好友、深交
+    adorer (v.t.)	極其喜歡、迷戀
