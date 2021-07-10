@@ -115,3 +115,43 @@ Quelques années plus tard ...
     un coupain, une copine	夥伴、朋友
     grand(e) ami(e) 好友、深交
     adorer (v.t.)	極其喜歡、迷戀
+
+
+# Quelques émotions 幾種情感
+* La joie 快樂
+
+    Brice est très content de sa nouvelle voiture ;
+
+    il sourit.
+
+* Le bonheur 幸福
+
+    Mathilde est très heureuse avec Gabriel.
+
+    Elle rit beaucoup avec lui, parce qu'il est drôle.
+
+* La tristesse 悲傷
+
+    Colette a perdu son mari, son mari est mort.
+
+    Elle a beaucoup de chagrin. Elle est très malheureuse. Elle pleure tout le temps. Ses amis sont très tristes pour elle.
+
+* La colère 氣憤
+
+    Nicolas a cassé un vase. Sa mère est furieuse contre lui, elle est en colère contre lui : c'est la troisième fois qu'il casse un vase !
+
+* La peur 害怕
+
+    Aude a fait peur à Julien.
+
+    Julien a eu très peur.
+
+* La surprise 驚訝
+
+    Fabrice est surpris (= étonné), parce que Bertrand a téléphoné après trois ans d'absence.
+
+    C'était une bonne surprise (&ne; une mauvaise surprise).
+
+* L'ennui 無聊
+
+    C'est dimanche. Benoît s'ennuie : il ne sait pas quoi faire. Il déteste les dimanches, il trouve que les dimanches sont ennuyeux (&ne; intéressants).
