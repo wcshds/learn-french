@@ -77,4 +77,5 @@ Quelques années plus tard ...
 * Pour parler de personnes 談論人
 
     * Grégoire aime bien Carine = il est copain\* (= ami) avec Carine. Carine est une copine\* (= amie).
-    * Grégoire 
+    * Grégoire aime beaucoup Carine = il a beaucoup d'affection pour elle. Carine est une grande amie.
+    * Grégoire aime Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
