@@ -120,9 +120,7 @@ Quelques années plus tard ...
 # Quelques émotions 幾種情感
 * La joie 快樂
 
-    Brice est très content de sa nouvelle voiture ;
-
-    il sourit.
+    Brice est très content de sa nouvelle voiture ; il sourit.
 
 * Le bonheur 幸福
 
@@ -155,3 +153,23 @@ Quelques années plus tard ...
 * L'ennui 無聊
 
     C'est dimanche. Benoît s'ennuie : il ne sait pas quoi faire. Il déteste les dimanches, il trouve que les dimanches sont ennuyeux (&ne; intéressants).
+
+## Vocabulaire
+
+    sourire (v.i.)	微笑
+    heureux, heureuse (adj.)	幸福的
+    rire (v.i.)	笑
+    perdre (v.t.)	丟失、失去
+    le chagrin	悲傷
+    malheureux, se (adj.)	不幸的
+    pleurer (v.i.)	哭泣
+    triste (adj.)	傷心的、難過的
+    être en colère contre qn.	對……發火
+    furieux, furieuse	狂怒的
+    avoir peur	害怕
+    surpris, surprise (adj.)	吃驚的
+    une surprise	驚訝的
+    étonné, étonnée (adj.)	吃驚的、驚訝的
+    s'ennuyer (v. pr.)	感到無聊
+    ennuyeux, ennuyeuse (adj.)	使人厭倦的
+    
