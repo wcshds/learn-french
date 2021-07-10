@@ -101,7 +101,7 @@ Quelques années plus tard ...
 
     * Est-ce que vous aimez le chocolat ?
 
-        \- Oui, j'aime bien le chocolat&emsp;&emsp;&emsp;&nbsp;-> j'en mange.
+        \- Oui, j'aime bien le chocolat&emsp;&emsp;&emsp;&nbsp;&nbsp;-> j'en mange.
 
         \- Oui, j'aime beaucoup le chocolat&emsp;-> j'en mange avec plaisir.
         
