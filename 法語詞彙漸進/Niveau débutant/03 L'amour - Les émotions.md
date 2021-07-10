@@ -71,3 +71,10 @@ Quelques années plus tard ...
     Patricia : - Maintenant, tu es divorcé, est-ce que tu voudrais te remarier ?
 
     Gabriel : - Ah non ! Certainement pas !
+
+
+# Le verbe « aimer » 動詞「愛」、「喜歡」
+* Pour parler de personnes 談論人
+
+    * Grégoire aime bien Carine = il est copain\* (= ami) avec Carine. Carine est une copine\* (= amie).
+    * Grégoire 
