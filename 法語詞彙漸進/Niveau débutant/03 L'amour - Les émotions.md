@@ -105,7 +105,7 @@ Quelques années plus tard ...
 
         \- Oui, j'aime beaucoup le chocolat&emsp;-> j'en mange avec plaisir.
         
-        \- Oui, j'adore le chocolat&emsp;&emsp;&emsp;&emsp;&nbsp;-> j'en mange trop !
+        \- Oui, j'adore le chocolat&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-> j'en mange trop !
 
     *注：表示喜歡某物，法國人很少單獨使用 aimer，而往往說 aimer bien，aimer beaucoup，或者adorer。不過，在提問的時候，或者表示否定時卻可以單獨使用 aimer。Vous aimez le chocolat ? - Non, je n'aime pas ça.*
 
