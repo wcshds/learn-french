@@ -49,3 +49,25 @@
     homosexuel, homosexuelle (adj.)	同性戀的
     vivre en couple	兩個人生活
     la liaison	連接、結合
+
+
+## Après le mariage... 婚後
+* Patricia : - Tu sais Gabriel et Mathilde vont avoir un enfant ?
+
+    Sandrine : - C'est vrai ? Pourtant, Gabriel n'aime pas la vie de famille !
+<br />
+Quelques années plus tard ...
+
+* Patricia : - Tu sais, Gabriel et Mathilde ont divorcé ! Mathilde a demandé le divorce. Elle a quitté Gabriel il y a six mois.
+
+    Sandrine : - La séparation doit être difficile pour Gabriel !
+
+    Patricia : - Oui, peut-être, mais il est libre, maintenant...
+
+* Patricia : - Pourquoi est-ce que Mathilde est partie ?
+
+    Gabriel : - On se disputait beaucoup. Elle était très jalouse. Elle détestait que je regarde une jolie femme dans la rue ! Les disputes étaient terribles !
+
+    Patricia : - Maintenant, tu es divorcé, est-ce que tu voudrais te remarier ?
+
+    Gabriel : - Ah non ! Certainement pas !
