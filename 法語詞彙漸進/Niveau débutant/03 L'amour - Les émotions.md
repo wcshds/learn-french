@@ -78,4 +78,4 @@ Quelques années plus tard ...
 
     * Grégoire aime bien Carine = il est copain\* (= ami) avec Carine. Carine est une copine\* (= amie).
     * Grégoire aime beaucoup Carine = il a beaucoup d'affection pour elle. Carine est une grande amie.
-    * Grégoire <span class="medium-font">aime</span> Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
+    * Grégoire <font size=5>aime</font> Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
