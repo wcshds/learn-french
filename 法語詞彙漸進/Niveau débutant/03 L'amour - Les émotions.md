@@ -15,8 +15,8 @@
 * Gabriel et Mathilde décident de se marier. Gabriel voudrait seulement un mariage civil, mais Mathilde voudrait aussi un mariage religieux.
 * Gabriel et Mathilde organisent leur mariage. Samedi, à 11 heures, ils vont à la mairie. L'après-midi, à 15 heures, ils vont à l'église. Le soir, il y a une grande fête. Mathilde porte une belle robe de mariée.
 
-*注：在法國，衹有登記結婚才具有法律效應。*
+    *注：在法國，衹有登記結婚才具有法律效應。*
 
 * Simon et Alain sont homosexuels. Ils vivent en couple depuis cinq ans.
 
-*注：已婚者稱其配偶爲 ma femme（我妻子），mon mari（我丈夫），未婚者稱對象爲 mon amie（我女友），mon ami（我男友），當代年輕人喜歡在「朋友」之前加 petit，petite，以示親密：ma petite amie，mon petit ami。*
+    *注：已婚者稱其配偶爲 ma femme（我妻子），mon mari（我丈夫），未婚者稱對象爲 mon amie（我女友），mon ami（我男友），當代年輕人喜歡在「朋友」之前加 petit，petite，以示親密：ma petite amie，mon petit ami。*
