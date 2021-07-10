@@ -22,7 +22,7 @@
 
 *2. 已婚者稱其配偶爲 ma femme（我妻子），mon mari（我丈夫），未婚者稱對象爲 mon amie（我女友），mon ami（我男友），當代年輕人喜歡在「朋友」之前加 petit，petite，以示親密：ma petite amie，mon petit ami。*
 
-## Vocabulaire
+### Vocabulaire
 
     amour (n.m.)	愛、愛情
     émotion (n.f.)	激情、情感
@@ -72,7 +72,7 @@ Quelques années plus tard ...
 
     Gabriel : - Ah non ! Certainement pas !
 
-## Vocabulaire
+### Vocabulaire
 
     avoir un enfant	有孩子
     la vie de famille	家庭生活
@@ -109,7 +109,7 @@ Quelques années plus tard ...
 
     *注：表示喜歡某物，法國人很少單獨使用 aimer，而往往說 aimer bien，aimer beaucoup，或者adorer。不過，在提問的時候，或者表示否定時卻可以單獨使用 aimer。Vous aimez le chocolat ? - Non, je n'aime pas ça.*
 
-## Vocabulaire
+### Vocabulaire
 
     aimer (v.t.)	愛、熱愛
     un coupain, une copine	夥伴、朋友
@@ -117,7 +117,7 @@ Quelques années plus tard ...
     adorer (v.t.)	極其喜歡、迷戀
 
 
-# Quelques émotions 幾種情感
+## Quelques émotions 幾種情感
 * La joie 快樂
 
     Brice est très content de sa nouvelle voiture ; il sourit.
@@ -154,7 +154,7 @@ Quelques années plus tard ...
 
     C'est dimanche. Benoît s'ennuie : il ne sait pas quoi faire. Il déteste les dimanches, il trouve que les dimanches sont ennuyeux (&ne; intéressants).
 
-## Vocabulaire
+### Vocabulaire
 
     sourire (v.i.)	微笑
     heureux, heureuse (adj.)	幸福的
