@@ -78,4 +78,18 @@ Quelques années plus tard ...
 
     * Grégoire aime bien Carine = il est copain\* (= ami) avec Carine. Carine est une copine\* (= amie).
     * Grégoire aime beaucoup Carine = il a beaucoup d'affection pour elle. Carine est une grande amie.
-    * Grégoire <small>aime</small> Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
+    * Grégoire aime Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
+
+    *注：談到人和人的關係時，aimer qn. 表示男女情愛。但是，aimer bien qn. 則不包含愛的意思，而解釋喜歡某人。*
+
+* Pour parler d'activités, de situations, de choses 談論活動、場景、事物
+
+    * Est-ce que vous aimez le chocolat ?
+
+        \- Oui, j'aime bien le chocolat		-> j'en mange.
+
+        \- Oui, j'aime beaucoup le chocolat	-> j'en mange avec plaisir.
+        
+        \- Oui, j'adore le chocolat			-> j'en mange trop !
+
+    *注：表示喜歡某物，法國人很少單獨使用 aimer，而往往說 aimer bien，aimer beaucoup，或者adorer。不過，在提問的時候，或者表示否定時卻可以單獨使用 aimer。Vous aimez le chocolat ? - Non, je n'aime pas ça.*
