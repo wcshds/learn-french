@@ -12,7 +12,7 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- Bonjour / Bonsoir, **ma chère** Mathilde !
 
-    \- Bonjour, Bénédicte, **commment vas-tu** ?
+    \- Bonjour, Bénédicte, **comment vas-tu** ?
 
     \- **Bien, merci, et toi ?**
 
@@ -307,7 +307,7 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
 
     \- des fleurs, une bouteille de bon vin ou de champagne, quand on est amis. Au moment de l'invitation, on peut demander : « **Qu'est-ce que je peux apporter ?** »
 
-* Si **l'invitation** est à 20 heures par example, la politesse demande qu'on arrive environ 10 minutes plus tard.
+* Si **l'invitation** est à 20 heures par exemple, la politesse demande qu'on arrive environ 10 minutes plus tard.
 * Au moment de Noël, on donne une petite somme d'argent (des **étrennes**) au facteur (la poste), aux éboueurs (qui ramassent les poubelles) et aux pompiers. Généralement, ils viennent directement sonner à la porte.
 * Fin décembre, début janvier, on envoie des **cartes de vœux** aux personnes qu'on aime bien et qu'on connaît bien. Il est plus personnel de les écrire à la main.
 
