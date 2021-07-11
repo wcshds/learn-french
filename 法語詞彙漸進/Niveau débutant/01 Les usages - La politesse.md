@@ -19,7 +19,7 @@ En France, on ajoute expressions de politesse « madame », « monsieur », ou l
     \- **Ça va bien**, merci.
 
 * La même situation, plus familière : 
-    
+  
     \- **Salut\***, Mathilde, **ça va** ?
 
     \- Tiens, salut ! Ça va, merci, et toi ?

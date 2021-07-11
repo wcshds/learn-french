@@ -80,7 +80,7 @@
         </tbody>
     </table>
 
-    * J'ai **passé mon enfance** en Bretagne. = J'habitais en Bretagne quand j'etais enfant.
+    * J'ai **passé mon enfance** en Bretagne. = J'habitais en Bretagne quand j'étais enfant.
     * Il **a eu une adolescence** heureuse. = Il était heureux quand il était adolescent.
 
     *注：*
