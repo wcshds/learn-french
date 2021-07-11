@@ -4,7 +4,7 @@
 
 * Clément **a bon caractère**, il est facile de communiquer avec lui.
 
-    Au contraire, Laurent **a mauvais caractère**, il et difficile de lui parler.
+    Au contraire, Laurent **a mauvais caractère**, il est difficile de lui parler.
 
 * Anne est très **sympathique** : tout le monde l'aime bien ; Raymond, au contraire, est vraiment **antipathique** : tout le monde le déteste.
 
@@ -196,6 +196,6 @@ méchant, méchante (adj.)	凶惡的
 agressif, agressive (adj.)	愛挑釁的、好攻擊的
 impatient, impatiente (adj.)	不耐煩的
 prétentieux, prétentieuse (adj.)	自負的
-arrogant, arrogante (adj.)	傲慢的、盛氣淩人
+arrogant, arrogante (adj.)	傲慢的、盛氣淩人的
 ```
 
