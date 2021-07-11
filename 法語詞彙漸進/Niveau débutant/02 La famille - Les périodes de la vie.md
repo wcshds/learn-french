@@ -1,7 +1,7 @@
 # La famille - Les périodes de la vie 家庭——人生階段
 
 ## La famille 家庭
-<img src="../images/La famille-1625979122764.svg" alt="La famille" style="zoom:150%;" />
+<img src="../images/La famille-1625979122764.svg" alt="La famille" style="zoom: 200%;" />
 
 * Victor et Jeanne sont **mariés** : Victor est **le mari** de Jeanne, Jeanne est **la femme** de Victor. Ils ont deux **enfants** : **un fils**, Marc, et **une fille**, Véronique. Victor et Jeanne sont **les parents** de Marc et Véronique.
 * Marc est **le frère** de Véronique, Véronique est **la sœur** de Marc.
