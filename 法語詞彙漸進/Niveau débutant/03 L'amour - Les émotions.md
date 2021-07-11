@@ -1,20 +1,20 @@
 # L'amour - Les émotions 愛情——激情
 
 ## L'amour 愛情
-* Gabriel rencontre Mathilde chez des amis. Il tombe amoureux de Mathilde immédiatement. Mathilde, qui était seule, tombe amoureuse aussi.
-* Un soir, Gabriel invite Mathilde chez lui. Il l'embrasse, ils s'embrassent. Puis ils passent la nuit ensemble, ils font l'amour. Gabriel dit « Je t'aime » à Mathilde.
-* Ils commencent une relation. Gabriel est célibataire, il vit seul, mais après quelques mois, il accepte de vivre avec Mathilde. Ils prennent un appartement ensemble.
-* Patricia : - Est-ce que tu sais que Gabriel sort avec Mathilde ?
+* Gabriel rencontre Mathilde chez des amis. Il **tombe amoureux** de Mathilde immédiatement. Mathilde, qui était **seule**, tombe **amoureuse** aussi.
+* Un soir, Gabriel invite Mathilde chez lui. Il **l'embrasse**, ils **s'embrassent**. Puis ils **passent la nuit ensemble**, ils **font l'amour**. Gabriel dit « **Je t'aime** » à Mathilde.
+* Ils commencent **une relation**. Gabriel est **célibataire**, il **vit seul**, mais après quelques mois, il accepte de **vivre avec** Mathilde. Ils **prennent un appartement** ensemble.
+* Patricia : - Est-ce que tu sais que Gabriel **sort avec** Mathilde ?
 
-    Sandrine : - Mai oui, ils vivent ensemble.
+    Sandrine : - Mai oui, ils **vivent ensemble**.
 
-    Patricia : - Ils sont amoureux ?
+    Patricia : - Ils **sont amoureux** ?
 
-    Sandrine : - Ah oui, c'est la passion !
+    Sandrine : - Ah oui, **c'est la passion** !
 
-* Gabriel et Mathilde décident de se marier. Gabriel voudrait seulement un mariage civil, mais Mathilde voudrait aussi un mariage religieux.
-* Gabriel et Mathilde organisent leur mariage. Samedi, à 11 heures, ils vont à la mairie. L'après-midi, à 15 heures, ils vont à l'église. Le soir, il y a une grande fête. Mathilde porte une belle robe de mariée.
-* Simon et Alain sont homosexuels. Ils vivent en couple depuis cinq ans.
+* Gabriel et Mathilde décident de **se marier**. Gabriel voudrait seulement **un mariage civil**, mais Mathilde voudrait aussi **un mariage religieux**.
+* Gabriel et Mathilde organisent leur mariage. Samedi, à 11 heures, ils **vont à la mairie**. L'après-midi, à 15 heures, ils **vont à l'église**. Le soir, il y a une grande fête. Mathilde porte **une** belle **robe de mariée**.
+* Simon et Alain sont **homosexuels**. Ils **vivent en couple** depuis cinq ans.
 
 *注：*
 
@@ -52,23 +52,23 @@
 
 
 ## Après le mariage... 婚後
-* Patricia : - Tu sais Gabriel et Mathilde vont avoir un enfant ?
+* Patricia : - Tu sais que Gabriel et Mathilde vont **avoir un enfant** ?
 
-    Sandrine : - C'est vrai ? Pourtant, Gabriel n'aime pas la vie de famille !
+    Sandrine : - C'est vrai ? Pourtant, Gabriel n'aime pas **la vie de famille** !
 <br />
 Quelques années plus tard ...
 
-* Patricia : - Tu sais, Gabriel et Mathilde ont divorcé ! Mathilde a demandé le divorce. Elle a quitté Gabriel il y a six mois.
+* Patricia : - Tu sais, Gabriel et Mathilde **ont divorcé** ! Mathilde **a demandé le divorce**. Elle **a quitté** Gabriel il y a six mois.
 
-    Sandrine : - La séparation doit être difficile pour Gabriel !
+    Sandrine : - **La séparation** doit être difficile pour Gabriel !
 
-    Patricia : - Oui, peut-être, mais il est libre, maintenant...
+    Patricia : - Oui, peut-être, mais il **est libre**, maintenant...
 
 * Patricia : - Pourquoi est-ce que Mathilde est partie ?
 
-    Gabriel : - On se disputait beaucoup. Elle était très jalouse. Elle détestait que je regarde une jolie femme dans la rue ! Les disputes étaient terribles !
+    Gabriel : - On **se disputait** beaucoup. Elle était très **jalouse**. Elle détestait que je regarde une jolie femme dans la rue ! **Les disputes** étaient terribles !
 
-    Patricia : - Maintenant, tu es divorcé, est-ce que tu voudrais te remarier ?
+    Patricia : - Maintenant, tu **es divorcé**, est-ce que tu voudrais **te remarier** ?
 
     Gabriel : - Ah non ! Certainement pas !
 
@@ -91,9 +91,10 @@ Quelques années plus tard ...
 ## Le verbe « aimer » 動詞「愛」、「喜歡」
 * Pour parler de personnes 談論人
 
-    * Grégoire aime bien Carine = il est copain\* (= ami) avec Carine. Carine est une copine\* (= amie).
-    * Grégoire aime beaucoup Carine = il a beaucoup d'affection pour elle. Carine est une grande amie.
-    * Grégoire aime Carine = il a une relation amoureuse avec elle. Carine est la femme de sa vie !
+    * Grégoire **aime bien** Carine = il est **copain\*** (= ami) avec Carine. Carine est une **copine\*** (= amie).
+
+    * Grégoire **<big>aime beaucoup</big>** Carine = il a beaucoup d'**affection** pour elle. Carine est **une grande amie**.
+    * Grégoire **<big><big>aime</big></big>** Carine = il a une relation amoureuse avec elle. Carine est **la femme de sa vie** !
 
     *注：談到人和人的關係時，aimer qn. 表示男女情愛。但是，aimer bien qn. 則不包含愛的意思，而解釋喜歡某人。*
 
@@ -101,11 +102,11 @@ Quelques années plus tard ...
 
     * Est-ce que vous aimez le chocolat ?
 
-        \- Oui, j'aime bien le chocolat&emsp;&emsp;&emsp;&nbsp;&nbsp;-> j'en mange.
+        \- Oui, j'**aime bien** le chocolat&emsp;&emsp;&emsp;&nbsp;&nbsp;-> j'en mange.
 
-        \- Oui, j'aime beaucoup le chocolat&emsp;-> j'en mange avec plaisir.
+        \- Oui, j'**<big>aime beaucoup</big>** le chocolat&emsp;-> j'en mange avec plaisir.
         
-        \- Oui, j'adore le chocolat&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-> j'en mange trop !
+        \- Oui, j'**<big><big>adore</big></big>** le chocolat&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;-> j'en mange trop !
 
     *注：表示喜歡某物，法國人很少單獨使用 aimer，而往往說 aimer bien，aimer beaucoup，或者adorer。不過，在提問的時候，或者表示否定時卻可以單獨使用 aimer。Vous aimez le chocolat ? - Non, je n'aime pas ça.*
 
@@ -120,39 +121,39 @@ Quelques années plus tard ...
 ## Quelques émotions 幾種情感
 * La joie 快樂
 
-    Brice est très content de sa nouvelle voiture ; il sourit.
+    Brice est très **content de** sa nouvelle voiture ; il **sourit**.
 
 * Le bonheur 幸福
 
-    Mathilde est très heureuse avec Gabriel.
+    Mathilde est très **heureuse avec** Gabriel.
 
-    Elle rit beaucoup avec lui, parce qu'il est drôle.
+    Elle **rit** beaucoup avec lui, parce qu'il est drôle.
 
 * La tristesse 悲傷
 
-    Colette a perdu son mari, son mari est mort.
+    Colette **a perdu** son mari, son mari **est mort**.
 
-    Elle a beaucoup de chagrin. Elle est très malheureuse. Elle pleure tout le temps. Ses amis sont très tristes pour elle.
+    Elle **a beaucoup de chagrin**. Elle est très **malheureuse**. Elle **pleure** tout le temps. Ses amis sont très **tristes** pour elle.
 
 * La colère 氣憤
 
-    Nicolas a cassé un vase. Sa mère est furieuse contre lui, elle est en colère contre lui : c'est la troisième fois qu'il casse un vase !
+    Nicolas a cassé un vase. Sa mère est **furieuse contre lui**, elle **est en colère contre lui** : c'est la troisième fois qu'il casse un vase !
 
 * La peur 害怕
 
-    Aude a fait peur à Julien.
+    Aude **a fait peur à** Julien.
 
-    Julien a eu très peur.
+    Julien **a eu très peur**.
 
 * La surprise 驚訝
 
-    Fabrice est surpris (= étonné), parce que Bertrand a téléphoné après trois ans d'absence.
+    Fabrice est **surpris** (= **étonné**), parce que Bertrand a téléphoné après trois ans d'absence.
 
-    C'était une bonne surprise (&ne; une mauvaise surprise).
+    C'était **une bonne surprise** (&ne; **une mauvaise surprise**).
 
 * L'ennui 無聊
 
-    C'est dimanche. Benoît s'ennuie : il ne sait pas quoi faire. Il déteste les dimanches, il trouve que les dimanches sont ennuyeux (&ne; intéressants).
+    C'est dimanche. Benoît **s'ennuie** : il **ne sait pas quoi faire**. Il déteste les dimanches, il trouve que les dimanches sont **ennuyeux** (&ne; **intéressants**).
 
 ### Vocabulaire
 
@@ -172,4 +173,3 @@ Quelques années plus tard ...
     étonné, étonnée (adj.)	吃驚的、驚訝的
     s'ennuyer (v. pr.)	感到無聊
     ennuyeux, ennuyeuse (adj.)	使人厭倦的
-    
