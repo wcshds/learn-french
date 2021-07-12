@@ -83,6 +83,20 @@ répéter (v.t.)	重複
 
         \- Mais non, ce n'est pas ça ! Il part à 11h35 !
 
+### Vocabulaire
+
+```
+être d'accord	同意
+discuter (v.t.)	討論、爭論
+penser (v.t.)	想
+croire (v.t.)	認爲、相信
+l'impression (n.f.)	印象、感受
+trouver (v.t.)	覺得
+mauvais, mauvaise (adj.)	壞的、惡的
+sûr, sûre (adj.)	確信的、有把握的
+certain, certaine (adj.)	肯定的、確定的
+```
+
 ## Proposer, accepter ou refuser 提議、接受或推辭
 
 * Tu veux un café ?
@@ -117,5 +131,21 @@ répéter (v.t.)	重複
 
     \- Comme tu veux, ça m'est égal (= je n'ai pas de préférence).
 
-    
+### Vocabulaire
+
+```
+vouloir (v.t.)	想要、願意
+avec plaisir	愉快地
+gentil, gentille (adj.)	可愛的、好的
+inviter (v.t.)	邀請
+proposer (v.t.)	建議
+volontiers (adv.)	樂意地
+dommage (n.m.)	可惜、遺憾
+la proposition	建議
+refuser (v.t.)	拒絕
+libre (adj.)	空閒的
+égal, égale (adj.)	一樣的、平等的
+```
+
+
 
