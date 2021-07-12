@@ -111,11 +111,11 @@ certain, certaine (adj.)	肯定的、確定的
 
 * Isabelle invite ses amis à dîner. Elle propose de dîner ensemble : 
 
-    Isabelle : &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Vous voulez venir dîner samedi ?
+    &emsp;Isabelle : &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Vous voulez venir dîner samedi ?
 
-    Aude : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Oui, volontiers. Ça me ferait très plaisir !
+    &emsp;Aude : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Oui, volontiers. Ça me ferait très plaisir !
 
-    Émilie et Quentin : &emsp;\- Non, c'est dommage, nous sommes déjà invités, samedi !
+    &emsp;Émilie et Quentin : &emsp;\- Non, c'est dommage, nous sommes déjà invités, samedi !
     
 * Aude accepte la proposition, mais Émilie et Quentin refusent l'invitation.
 
