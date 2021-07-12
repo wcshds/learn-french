@@ -185,12 +185,38 @@ libre (adj.)	空閒的
 
     \- Oh, excusez-moi !
 
+### Vocabulaire
+
+```
+un appareil	（電話）機
+un numéro	號碼
+pouvoir (v.t.)	能夠
+un instant	瞬間、片刻
+joindre (v.t.)	連接
+être en ligne	正在打電話
+contacter (v.t.)	同……聯繫
+patienter (v.i.)	耐心等待
+un message	消息、信件
+rappeler (v.t.)	叫回、再一次打電話
+appeler (v.t.)	呼喚、打電話
+```
+
 ## Au répondeur 錄音電話
 
 * « Bonjour, vous êtes bien au 01 45 87 44 00. Nous sommes absents pour le moment, mais laissez-nous un message et vos coordonnées après le signal sonore. Nous vous rappellerons dès que possible. Merci, à bientôt. »
 * « Bonjour, je voudrais laisser un message à Mme Chaviers. Je suis Thierry Dupré, le nouveau directeur de la banque. Pouvez-vous me rappeler au 01 45 87 44 00 ? Merci, à bientôt. »
 
-*注；Les coordonnées 包括聯繫人的姓名、電話、手機號碼、地址等等。*
+*注：Les coordonnées 包括聯繫人的姓名、電話、手機號碼、地址等等。*
+
+### Vocabulaire
+
+```
+pour le moment	目前、眼下
+dès (prép.)	一……就
+laisser (v.t.)	留下
+le directeur, la directrice	經理
+sonore (adj.)	 
+```
 
 
 
