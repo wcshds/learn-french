@@ -103,5 +103,19 @@ répéter (v.t.)	重複
 
     Émilie et Quentin : &emsp;\- Non, c'est dommage, nous sommes déjà invités, samedi !
     
+* Aude accepte la proposition, mais Émilie et Quentin refusent l'invitation.
+
+* Vous êtes libres, dimanche soir ?
+
+    \- Oui, nous sommes libres.
+
+    *ou, au contraire :*
+
+    \- Non, nous sommes désolés, nous sommes pris, dimanche soir.
+
+* Tu préfères aller au cinéma ou au théâtre ?
+
+    \- Comme tu veux, ça m'est égal (= je n'ai pas de préférence).
+
     
 
