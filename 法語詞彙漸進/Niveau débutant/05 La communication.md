@@ -97,7 +97,7 @@ répéter (v.t.)	重複
 
 * Isabelle invite ses amis à dîner. Elle propose de dîner ensemble : 
 
-    Isabelle : &emsp;&emsp;&emsp;&emsp;&emsp;\- Vous voulez venir dîner samedi ?
+    Isabelle : &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Vous voulez venir dîner samedi ?
 
     Aude : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Oui, volontiers. Ça me ferait très plaisir !
 
