@@ -52,6 +52,56 @@ une phrase	句子
 un accent	口音、鄉音
 dire (v.t.)	說
 signifier (v.t.)	意味着
-répéter (v.t.)	
+répéter (v.t.)	重複
 ```
+
+## Donner son opinion 發表意見
+
+* La discussion 討論
+
+    Quand les gens ne sont pas d'accord (= quand ils ont des opinions différentes), ils discutent : ils ont des discussions sur un sujet.
+
+    * Qu'est-ce que vous pensez de cette idée ?
+
+        \- Je crois que c'est une bonne idée.
+
+        \- Moi aussi, je suis d'accord, j'ai l'impression que c'est une bonne idée.
+
+        *ou, au contraire :*
+
+        \- Non, je ne suis pas d'accord. Je trouve que c'est une mauvaise idée.
+
+        \- Vraiment ? Vous êtes sûr ?
+
+        \- Oui, je suis certain !
+
+    * Le train part samedi à 10h35.
+
+        \- C'est vrai, vous avez raison. Il part à 10h35.
+
+        *ou, au contraire :*
+
+        \- Mais non, ce n'est pas ça ! Il part à 11h35 !
+
+## Proposer, accepter ou refuser 提議、接受或推辭
+
+* Tu veux un café ?
+
+    \- Oui, avec plaisir ! Oui, je veux bien !
+
+    *ou, au contraire :*
+
+    \- Non merci, c'est gentil !
+
+    *注：說 Merci 的時候，如帶有表示謝絕的手勢或表情，就表示 Non, merci 。*
+
+* Isabelle invite ses amis à dîner. Elle propose de dîner ensemble : 
+
+    Isabelle : &emsp;&emsp;&emsp;&emsp;&emsp;\- Vous voulez venir dîner samedi ?
+
+    Aude : &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Oui, volontiers. Ça me ferait très plaisir !
+
+    Émilie et Quentin : &emsp;\- Non, c'est dommage, nous sommes déjà invités, samedi !
+    
+    
 
