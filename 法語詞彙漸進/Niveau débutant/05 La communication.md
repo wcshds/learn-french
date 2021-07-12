@@ -147,5 +147,45 @@ libre (adj.)	空閒的
 égal, égale (adj.)	一樣的、平等的
 ```
 
+## Au téléphone 打電話
+
+* Allô, bonjour, je voudrais parler à Michel, s'il vous plaît.
+
+    \- Ne quittez pas, je vous le passe. Michel, c'est pour toi !
+
+* Allô, bonjour, c'est Cécile à l'appareil. Est-ce que je pourrais parler à Sarah, s'il vous plaît ?
+
+    \- Ah ! Je suis désolé, Sarah n'est pas là. Elle est difficile à joindre (= contacter), en ce moment. Est-ce que je peux prendre un message ?
+
+    \- Oui, est-ce que vous pouvez demander à Sarah de m'appeler ce soir, s'il vous plaît ?
+
+    \- Très bien, je lui dirai. Est-ce qu'elle a votre numéro ?
+
+    \- Peut-être pas. C'est le 01 45 87 44 00.
+
+* Société Galaxie, bonjour.
+
+    \- Bonjour madame, je voudrais parler à Christine Leduc, s'il vous plaît.
+
+    \- Oui monsieur, c'est de la part de qui ?
+
+    \- Yves Lamartine.
+
+    \- Un instant, je vous la passe.
+
+    (quelques secondes plus tard)
+
+    \- Je suis désolée, Mme Leduc est en ligne. Vous patientez ?
+
+    \- Non merci, je rappellerai plus tard. Au revoir, madame.
+
+* Allô, Jérôme ?
+
+    \- Ah non, je ne suis pas Jérôme. Vous avez fait erreur !
+
+    \- Oh, excusez-moi !
+
+## Au répondeur 錄音電話
+
 
 
