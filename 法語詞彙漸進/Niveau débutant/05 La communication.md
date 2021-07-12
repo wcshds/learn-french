@@ -187,5 +187,9 @@ libre (adj.)	空閒的
 
 ## Au répondeur 錄音電話
 
+* « Bonjour, vous êtes bien au 01 45 87 44 00. Nous sommes absents pour le moment, mais laissez-nous un message et vos coordonnées après le signal sonore. Nous vous rappellerons dès que possible. Merci, à bientôt. »
 
+* « Bonjour, je voudrais laisser un message à Mme Chaviers. Je suis Thierry Dupré, le nouveau directeur de la banque. Pouvez-vous me rappeler au 01 45 87 44 00 ? Merci, à bientôt. »
+
+    *注；Les coordonnées 包括聯繫人的姓名、電話、手機號碼、地址等等。*
 
