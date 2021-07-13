@@ -51,3 +51,16 @@ l'estomac (n.m.)	胃
 le cœur	心臟
 ```
 
+## Le mouvement \-> La posture 動作——姿勢
+
+* s'asseoir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\-> être assis
+
+    &emsp;\- Je m'assieds sur une chaise.&emsp;&emsp;&emsp;&emsp;&emsp;\- Je suis assis sur une chaise.
+
+    &emsp;\- Asseyez-vous ! Assieds-toi !
+
+* se lever&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\-> être debout
+
+    &emsp;\- Je me lève.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\- Je suis debout.
+
+    &emsp;\- Levez-vous ! Lève-toi !
