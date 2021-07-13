@@ -53,13 +53,13 @@ le cœur	心臟
 
 ## Le mouvement \-> La posture 動作——姿勢
 
-* s'asseoir&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\-> être assis
+* **s'asseoir**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;\-> **être assis**
 
     &emsp;\- Je m'assieds sur une chaise.&emsp;&emsp;&emsp;&emsp;&emsp;\- Je suis assis sur une chaise.
 
     &emsp;\- Asseyez-vous ! Assieds-toi !
 
-* se lever&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\-> être debout
+* **se lever**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\-> **être debout**
 
     &emsp;\- Je me lève.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Je suis debout.
 
@@ -76,23 +76,23 @@ se lever (v.pron.)	起身、起床
 
 ## Quelques activités 活動
 
-* Bastien tient un ballon dans les mains, puis il lance le ballon.
+* Bastien **tient** un ballon dans les mains, puis il **lance** le ballon.
 
-    Manon court et attrape le ballon, mais après, elle tombe.
+    Manon **court** et **attrape** le ballon, mais après, elle **tombe**.
 
-* Maxime porte un sac très lourd.
+* Maxime **porte** un sac très lourd.
 
-* Mathilde pose (= met) le livre sur la table ; Julien enlève le livre de la table.
+* Mathilde **pose** (= **met**) le livre sur la table ; Julien **enlève** le livre de la table.
 
-* Joël marche dans la rue ; il entre dans le magasin.
+* Joël **marche** dans la rue ; il **entre dans** le magasin.
 
-    Joël sort du magasin.
+    Joël **sort du** magasin.
 
-* Louis apporte du champagne.
+* Louis **apporte** du champagne.
 
-    Nadège emmène les enfants au cinéma.
+    Nadège **emmène** les enfants au cinéma.
 
-    « Glaces à emporter »
+    « Glaces **à emporter** »
 
     *注：帶走某人用動詞 emmener，帶走某物用動詞 emporter。*
 
@@ -124,4 +124,3 @@ le champagne	香檳
 emmener (v.t.)	帶走
 un (une) enfant	孩子
 ```
-
