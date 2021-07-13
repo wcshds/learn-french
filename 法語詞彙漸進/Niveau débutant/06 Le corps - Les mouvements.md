@@ -61,6 +61,6 @@ le cœur	心臟
 
 * se lever&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\-> être debout
 
-    &emsp;\- Je me lève.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;\- Je suis debout.
+    &emsp;\- Je me lève.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Je suis debout.
 
     &emsp;\- Levez-vous ! Lève-toi !
