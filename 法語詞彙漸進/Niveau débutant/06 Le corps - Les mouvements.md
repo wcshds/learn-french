@@ -2,7 +2,7 @@
 
 ## Le corps humain 人體
 
-![image-20210713141304438](../images/image-20210713141304438.png)
+<img src="../images/image-20210713141304438.png" alt="image-20210713141304438" style="zoom:80%;" />
 
 ### Vocabulaire
 
@@ -24,7 +24,7 @@ la main	手
 
 ## La tête 頭部
 
-![image-20210713142352393](../images/image-20210713142352393.png)
+<img src="../images/image-20210713142352393.png" alt="image-20210713142352393" style="zoom:80%;" />
 
 ### Vocabulaire
 
@@ -39,7 +39,7 @@ la dent	牙齒
 
 ## Quelques parties du corps
 
-![image-20210713143418469](../images/image-20210713143418469.png)
+<img src="../images/image-20210713143418469.png" alt="image-20210713143418469" style="zoom:80%;" />
 
 ### Vocabulaire
 
@@ -47,7 +47,7 @@ la dent	牙齒
 la peau	皮膚
 les muscles (n.m.)	肌肉
 le sang	血
-l'estomac (n.m.)	 
-le cœur	
+l'estomac (n.m.)	胃
+le cœur	心臟
 ```
 
