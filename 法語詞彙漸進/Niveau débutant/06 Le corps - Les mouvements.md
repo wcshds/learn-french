@@ -64,3 +64,64 @@ le cœur	心臟
     &emsp;\- Je me lève.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;\- Je suis debout.
 
     &emsp;\- Levez-vous ! Lève-toi !
+
+### Vocabulaire
+
+```
+s'asseoir (v.pron.)	坐下
+une chaise	椅子
+sur (prép.)	在……上面
+se lever (v.pron.)	起身、起床
+```
+
+## Quelques activités 活動
+
+* Bastien tient un ballon dans les mains, puis il lance le ballon.
+
+    Manon court et attrape le ballon, mais après, elle tombe.
+
+* Maxime porte un sac très lourd.
+
+* Mathilde pose (= met) le livre sur la table ; Julien enlève le livre de la table.
+
+* Joël marche dans la rue ; il entre dans le magasin.
+
+    Joël sort du magasin.
+
+* Louis apporte du champagne.
+
+    Nadège emmène les enfants au cinéma.
+
+    « Glaces à emporter »
+
+    *注：帶走某人用動詞 emmener，帶走某物用動詞 emporter。*
+
+### Vocabulaire
+
+```
+tenir (v.t.)	拿着、握着
+un ballon	球
+dans (prép.)	在……裡面
+puis (adv.)	接着、然後
+lancer (v.t.)	投、擲、抛
+courir (v.i.)	跑
+attraper (v.t.)	逮住、捉住
+mais (conj.)	但是
+après (adv.)	在……以後
+tomber (v.i.)	摔倒
+porter (v.t.)	提、背、扛
+un sac	包
+lourd, lourde (adj.)	沈重的
+poser (v.t.)	放、擺
+enlever (v.t.)	拿走、搬走
+marcher (v.i.)	走
+la rue	馬路
+entrer (v.i.)	進入
+le magasin	商店
+sortir (v.i.)	出去
+apporter (v.t.)	帶來、拿來
+le champagne	香檳
+emmener (v.t.)	帶走
+un (une) enfant	孩子
+```
+
