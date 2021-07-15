@@ -67,8 +67,8 @@ mesurer (v.i.)	測量
 ### Vocabulaire
 
 ```
-quel âge	 
-jeune (adj.)	
+quel âge	幾歲
+jeune (adj.)	年輕的
 ```
 
 ## 
