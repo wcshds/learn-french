@@ -69,6 +69,7 @@ mesurer (v.i.)	測量
 ```
 quel âge	幾歲
 jeune (adj.)	年輕的
+une dame	女士
 ```
 
 ## Le visage 臉
@@ -93,6 +94,33 @@ jeune (adj.)	年輕的
     * Elle n'est pas très jolie, mais elle a du charme.
     * Il a un grand nez et une petite bouche.
     * Il a des lunettes, une moustache et une barbe.
+
+### Vocabulaire
+
+```
+un œil, des yeux	眼睛
+noir, noire (adj.)	黑色的
+bleu, bleue (adj.)	藍色的
+gris, grise (adj.)	灰色的
+vert, verte (adj.)	綠色的
+marron (adj.inv.)	栗色的
+blond, blonde (adj.)	金黃色的
+châtain (adj.)	栗色的、褐色的
+brun, brune (adj.)	褐色的、棕色的
+roux, rousse (adj.)	紅棕色的
+blanc, blanche (adj.)	白色的
+long, longue (adj.)	長的
+frisé, frisée (adj.)	卷曲的
+des cheveux mi-longs	半長頭髮
+une frange	劉海
+court, courte (adj.)	短的
+raide (adj.)	硬直的
+avoir du charme	有魅力
+un nez	鼻子
+une bouche	嘴巴
+une moustache	（上唇的）小胡子
+une barbe	胡子
+```
 
 ## Il est comment ? Elle est comment ? 他 / 她長得什麽樣？
 
