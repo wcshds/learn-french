@@ -71,5 +71,42 @@ quel âge	幾歲
 jeune (adj.)	年輕的
 ```
 
-## 
+## Le visage 臉
+
+* Les yeux 眼睛
+
+    (Il / Elle) a les yeux noirs, bleus, gris, verts, marron...
+
+    Elle a de grands yeux noirs ; il a de beaux yeux verts.
+
+* Les cheveux 頭髮
+
+    (Il / Elle) a les cheveux blonds, châtains, bruns, roux, noirs, gris, blancs...
+
+    * Elle a les cheveux longs et frisés.
+    * Elle a les cheveux mi-longs avec une frange.
+    * Elle a les cheveux courts et raides.
+
+    *注：法語中表示某人的頭髮或眼睛是什麽顏色，一定要用 avoir les cheveux + 顏色，avoir les yeux + 顏色，**不能用** ses yeux sont noirs，或 ses cheveux sont blonds 這樣的句型。*
+
+* Le visage 臉部
+    * Elle n'est pas très jolie, mais elle a du charme.
+    * Il a un grand nez et une petite bouche.
+    * Il a des lunettes, une moustache et une barbe.
+
+## Il est comment ? Elle est comment ? 他 / 她長得什麽樣？
+
+* Il est beau, il est brun (= il a les cheveux bruns) et il a les yeux verts : 
+
+    C'est un beau brun aux yeux verts.
+
+* Elle est belle, elle est blonde (= elle a les cheveux blonds) et elle a les yeux bleus : 
+
+    C'est une belle blonde aux yeux bleus.
+
+* Elle est rousse, elle a les yeux gris : C'est une rousse aux  yeux gris.
+
+    Elle est petite et blonde : C'est une petite blonde.
+
+    Elle est grande et brune : C'est une grande brune.
 
