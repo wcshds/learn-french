@@ -80,6 +80,42 @@ roulant, roulante (adj.)	滾動的
 soigner (v.t.)	治療
 des médicaments (n.m.)	藥品
 suivre (v.t.)	跟隨、順着
-un traitement	治療、療
-guéri, guérie (adj.)	
+un traitement	治療、療法
+guéri, guérie (adj.)	痊愈的
 ```
+
+## Un accident 事故
+
+* Il y a eu un grave accident sur l'autoroute : il y a un mort et deux blessés. Une ambulance a transporté les blessés à l'hôpital, au service des urgences. Le chirurgien est vite arrivé pour opérer les patients, pour faire une opération.
+* Matthieu a eu un accident de ski : il s'est cassé la jambe.
+
+## Attendre un bébé 懷孕
+
+Fabienne est enceinte, elle attend un enfant. Elle va accoucher dans une clinique. L'accouchement est prévu le 27 mars.
+
+## À la pharmacie 在藥店
+
+* Bonjour madame, je suis enrhumé. Qu'est-ce que vous me conseillez ?
+
+    \- Vous avez de la fièvre ?
+
+    \- Non, je ne pense pas.
+
+    \- Vous pouvez prendre un médicament contre le rhume. Prenez trois comprimés par jour. Je vous conseille aussi de prendre de la vitamine C.
+
+    \- J'ai mal à la gorge, aussi.
+
+    \- Alors, prenez des pastilles contre le mal de gorge.
+
+* À la pharmacie, on achète aussi : 
+
+    ```
+    un comprimé d'aspirine	阿斯匹林片劑
+    un pansement	護瘡膏、包紮
+    un préservatif	避孕套
+    de l'alcool à 90°	90度酒精
+    du coton	 
+    ```
+
+    
+
