@@ -3,18 +3,18 @@
 ## Comment allez-vous ? 您身體怎麽樣？
 
 * Ça va bien ! 身體好！
-    * Je vais bien ! Je suis en bonne santé. J'ai passé une semaine de vacances à la montagne, et maintenant, je suis en forme.
+    * Je **vais bien** ! Je **suis en bonne santé**. J'ai passé une semaine de vacances à la montagne, et maintenant, je **suis en forme**.
 
 * Ça va mal ! 身體不好！
 
-    * Qu'est-ce que vous avez ?
+    * **Qu'est-ce que vous avez ?**
 
-        \- Je suis très fatigué(e) = je suis crevé(e)* : je dois me reposer.
+        \- Je suis très **fatigué(e)** = je suis **crevé(e)*** : je dois **me reposer**.
 
-        \- Je suis malade, je suis en mauvaise santé, je dois aller chez le médecin. J'espère que ce n'est pas grave ! J'espère que je n'ai pas de maladie grave.
+        \- Je suis **malade**, je suis **en mauvaise santé**, je dois **aller chez le médecin**. J'espère que ce n'est pas **grave** ! J'espère que je n'ai pas de **maladie** grave.
 
-    * Patricia a un rhume, elle est enrhumée : elle a mal à la gorge (elle a la gorge rouge), et elle tousse. Renaud a la grippe, il a mal à la tête, il a de la fièvre (il a 39℃ de fièvre).
-    * Serge a mal aux dents, il doit aller chez le dentiste.
+    * Patricia **a un rhume**, elle **est enrhumée** : elle **a mal à la gorge** (elle a la gorge rouge), et elle **tousse**. Renaud **a la grippe**, il **a mal à la tête**, il **a de la fièvre** (il **a 39℃ de fièvre**).
+    * Serge **a mal aux dents**, il doit **aller chez le dentiste**.
 
     *注：*
 
@@ -45,9 +45,9 @@ le dentiste	牙醫
 
 ## Les handicaps 殘疾
 
-* Adèle a une mauvaise (&ne; bonne) vue ; elle porte des lunettes ou des lentilles de contact. Simon ne voit rien, il est aveugle.
-* Léon entend très mal, il est sourd. René ne peut pas parler, il est muet.
-* Damien est handicapé, il est dans un fauteuil roulant.
+* Adèle **a une mauvaise** (&ne; **bonne**) **vue** ; elle porte **des lunettes** ou **des lentilles de contact**. Simon ne voit rien, il est **aveugle**.
+* Léon **entend très mal**, il est **sourd**. René ne peut pas parler, il est **muet**.
+* Damien est **handicapé**, il est **dans un fauteuil roulant**.
 
 ### Vocabulaire
 
@@ -68,11 +68,11 @@ roulant, roulante (adj.)	滾動的
 
 ## Ça va mieux ! 身體好些了！
 
-* Ça va mieux ?
+* **Ça va mieux ?**
 
     \- Oui, ça va mieux !
 
-    Le docteur Darmont a soigné Renaud. Renaud a acheté des médicaments et a suivi un traitement. Maintenant, Renaud va bien, il est guéri.
+    Le docteur Darmont **a soigné** Renaud. Renaud a acheté **des médicaments** et **a suivi un traitement**. Maintenant, Renaud va bien, il est **guéri**.
 
 ### Vocabulaire
 
@@ -86,8 +86,8 @@ guéri, guérie (adj.)	痊愈的
 
 ## Un accident 事故
 
-* Il y a eu un grave accident sur l'autoroute : il y a un mort et deux blessés. Une ambulance a transporté les blessés à l'hôpital, au service des urgences. Le chirurgien est vite arrivé pour opérer les patients, pour faire une opération.
-* Matthieu a eu un accident de ski : il s'est cassé la jambe.
+* Il y a eu **un grave accident** sur l'autoroute : il y a **un mort** et deux **blessés**. **Une ambulance a transporté** les blessés **à l'hôpital**, **au service des urgences**. **Le chirurgien** est vite arrivé pour **opérer les patients**, pour faire **une opération**.
+* Matthieu a eu un accident de ski : il **s'est cassé la jambe**.
 
 ### Vocabulaire
 
@@ -108,7 +108,7 @@ jambe (n.f.)	小腿
 
 ## Attendre un bébé 懷孕
 
-Fabienne est enceinte, elle attend un enfant. Elle va accoucher dans une clinique. L'accouchement est prévu le 27 mars.
+Fabienne est **enceinte**, elle **attend un enfant**. Elle va **accoucher** dans **une clinique**. **L'accouchement** est prévu le 27 mars.
 
 ### Vocabulaire
 
@@ -128,11 +128,11 @@ l'accouchement (n.m.)	分娩
 
     \- Non, je ne pense pas.
 
-    \- Vous pouvez prendre un médicament contre le rhume. Prenez trois comprimés par jour. Je vous conseille aussi de prendre de la vitamine C.
+    \- Vous pouvez **prendre un médicament contre** le rhume. **Prenez** trois **comprimés** **par jour**. Je vous conseille aussi de **prendre de la vitamine C**.
 
     \- J'ai mal à la gorge, aussi.
 
-    \- Alors, prenez des pastilles contre le mal de gorge.
+    \- Alors, prenez **des pastilles contre** le mal de gorge.
 
 * À la pharmacie, on achète aussi : 
 
@@ -152,5 +152,5 @@ contre (prép.)	反對、抵抗
 un comprimé	藥片
 par jour	平均每天
 la vitamine C	維生素C
-pastille (n.f.)	 
+pastille (n.f.)	片劑
 ```
