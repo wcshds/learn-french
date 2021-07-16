@@ -89,9 +89,36 @@ guéri, guérie (adj.)	痊愈的
 * Il y a eu un grave accident sur l'autoroute : il y a un mort et deux blessés. Une ambulance a transporté les blessés à l'hôpital, au service des urgences. Le chirurgien est vite arrivé pour opérer les patients, pour faire une opération.
 * Matthieu a eu un accident de ski : il s'est cassé la jambe.
 
+### Vocabulaire
+
+```
+un mort	死亡者
+blessé, blessée (n.)	傷員
+une ambulance	救護車
+transporter (v.t.)	輸送
+l'hôpital (n.m.)	醫院
+le service des urgences	急診部
+le chirurgien	外科醫生
+opérer (v.t.)	動手術
+patient, patiente (n.)	病人
+une opération	手術
+se casser (v.pr.)	弄斷
+jambe (n.f.)	小腿
+```
+
 ## Attendre un bébé 懷孕
 
 Fabienne est enceinte, elle attend un enfant. Elle va accoucher dans une clinique. L'accouchement est prévu le 27 mars.
+
+### Vocabulaire
+
+```
+enceinte (adj.f.)	懷孕的
+attendre (v.t.)	等待
+accoucher (v.t.indir.)	分娩
+une clinique	診所
+l'accouchement (n.m.)	分娩
+```
 
 ## À la pharmacie 在藥店
 
@@ -114,8 +141,16 @@ Fabienne est enceinte, elle attend un enfant. Elle va accoucher dans une cliniqu
     un pansement	護瘡膏、包紮
     un préservatif	避孕套
     de l'alcool à 90°	90度酒精
-    du coton	 
+    du coton	藥棉
     ```
 
-    
+### Vocabulaire
 
+```
+prendre (v.t.)	服用
+contre (prép.)	反對、抵抗
+un comprimé	藥片
+par jour	平均每天
+la vitamine C	維生素C
+pastille (n.f.)	 
+```
