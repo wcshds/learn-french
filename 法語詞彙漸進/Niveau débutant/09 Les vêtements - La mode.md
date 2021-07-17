@@ -48,6 +48,6 @@ une culotte	短褲
 un soutien-gorge	胸罩
 un collant	連褲襪
 un slip	三角褲
-des chaussettes (n.f.)	 
+des chaussettes (n.f.)	短襪
 ```
 
