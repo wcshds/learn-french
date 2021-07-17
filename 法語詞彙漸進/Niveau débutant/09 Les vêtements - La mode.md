@@ -136,3 +136,75 @@ un haut	上半身、上衣
 bleu clair (adj.inv.)	淡藍色
 ```
 
+## Acheter un vêtement 購衣
+
+* Bonjour, madame, est-ce que je peux vous renseigner ?
+
+    \- Oui, je voudrais essayer la jupe verte qui est dans la vitrine.
+
+    \- Oui, madame. Quelle taille faites-vous ?
+
+    \- Je fais du 42.
+
+    \- Voilà, madame. La cabine est au fond, à droite.
+
+    *Quelques minutes après.*
+
+    \- Alors, ça va ? Ça vous plaît ?
+
+    \- Oui, la couleur me plaît, mais c'est un peu grand.
+
+    \- Est-ce que vous voulez essayer le même modèle en 40 ?
+
+    \- Oui, s'il vous plaît.
+
+    *Quelques minutes plus tard.*
+
+    \- Alors, ça va, la taille ?
+
+    \- Oui et la couleur me va bien, mais la forme ne me va pas.
+
+### Vocabulaire
+
+```
+renseigner (v.t.)	告訴、向……提供情況
+essayer (v.t.)	試衣
+la vitrine	玻璃櫥窗
+taille (n.f.)	尺寸
+la cabine	試衣室
+Ça vous plaît ?	您喜歡嗎？
+même (adj.)	同樣的
+un modèle	式樣
+aller bien à qn.	對……合適
+la forme	樣子、形狀
+```
+
+## Acheter des chaussures 購鞋
+
+* Monsieur, vous désirez ?
+
+    \- Je voudrais essayer les chaussures noires, qui sont dans la vitrine.
+
+    \- Oui, monsieur, vous faites quelle pointure ?
+
+    \- Je fais du 41.
+
+    \- Je suis désolée, monsieur, je n'ai plus ce modèle dans votre pointure.
+
+    \- Qu'est-ce que vous avez dans ma pointure ?
+
+    \- J'ai un autre modèle, en noir. Vous voulez essayer ?
+
+    *Quelques minutes plus tard.*
+
+    \- Alors, ça va ?
+
+    \- Non, pas vraiment, c'est trop petit. Est-ce que vous avez le même modèle, en 42 ?
+
+### Vocabulaire
+
+```
+Vous désirez ?	您要買什麽？
+pointure (n.f.)	 
+```
+
