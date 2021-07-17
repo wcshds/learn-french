@@ -205,6 +205,6 @@ la forme	樣子、形狀
 
 ```
 Vous désirez ?	您要買什麽？
-pointure (n.f.)	 
+pointure (n.f.)	鞋尺碼
 ```
 
