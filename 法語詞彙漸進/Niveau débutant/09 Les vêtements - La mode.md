@@ -116,6 +116,8 @@ une boucle d'oreille	耳環
 
     \- Elle était élégante, très chic\* comme d'habitude. Elle avait une jolie jupe noire et un haut bleu clair. Aude est toujours bien (&ne; mal) habillée.
 
+*注： chic 這個詞可用來形容一個人長得漂亮，或打扮得很得體。*
+
 ### Vocabulaire
 
 ```
@@ -131,6 +133,6 @@ chic (adj.inv.)	帥氣的、別致的
 élégant, élégante (adj.)	優美的、雅致的
 comme d'habitude	如同尋常
 un haut	上半身、上衣
-bleu clair (adj.inv.)	淡 
+bleu clair (adj.inv.)	淡藍色
 ```
 
