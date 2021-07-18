@@ -215,8 +215,7 @@ pour le moment	目前、眼下
 dès (prép.)	一……就
 laisser (v.t.)	留下
 le directeur, la directrice	經理
-sonore (adj.)	 
+sonore (adj.)	  
 ```
-
 
 

@@ -133,6 +133,7 @@ une serviette de bain	浴巾
     *Son amie Corinne **frappe à la porte**, parce que **la sonnette** ne marche pas. Normalement, Corinne **sonne** à la porte.*
 
 * Alexandre n'**a** pas **acheté** son appartement, il **loue** son appartement : il **est locataire**, il n'est pas **propriétaire**. Tous les mois, il **paye un loyer**. Bien sûr, il doit aussi payer **les factures** d'électricité, de téléphone...
+
 * Il aime bien **son deux-pièces**, mais il voudrait **déménager** dans un appartement plus grand et plus **confortable**. Il va demander des renseignements à **une agence immobilière**.
 
 ### Vocabulaire

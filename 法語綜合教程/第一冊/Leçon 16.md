@@ -169,7 +169,7 @@
 
         Exp. Elle est sortie (de sa chambre).
         Elle a sorti un livre de son sac.
-
+    
         Nous sommes entré(e)s à l'université la même année.
         À quelle heure Paul est-il rentré hier ?
         Madeleine est retournée à Paris après ses études à l'Université de Wuhan.
@@ -184,7 +184,7 @@
 
         Exp. Il est monté dans sa chambre.
         Est-ce que tous les passagers sont montés dans l'avion ?
-
+        
         Elle est descendre de sa voiture.
         À la fin du match, le journaliste est descendu sur le court de tennis.
 
