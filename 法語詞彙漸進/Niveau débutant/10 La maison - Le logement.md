@@ -101,6 +101,6 @@ un réveil qui sonne	鈴聲正響的鬧鐘
 un radiateur	電暖氣、熱水汀
 une couverture	被子
 un lit	床
-la moquette	 
+la moquette	機織割絨地毯
 ```
 
