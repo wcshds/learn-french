@@ -1,12 +1,14 @@
 # Les vêtements - La mode 服裝——時裝
 
-On peut être habillé ou, au contraire, nu. L'ensemble des vêtements qu'on porte est une tenue.
+On peut être **habillé** ou, au contraire, **nu**. L'ensemble des vêtements qu'on porte est **une tenue**.
 
 ## Quelques vêtements 服裝
 
-Blandine aime coudre, alors elle achète du tissu pour faire des vêtements. Elle aime faire des vêtements à la mode (&ne; démodés).
+Blandine aime **coudre**, alors elle achète du **tissu** pour **faire des vêtements**. Elle aime faire des vêtements **à la mode** (&ne; **démodés**).
 
 ![image-20210717110803935](../images/image-20210717110803935.png)
+
+*注：有些服裝，如牛仔褲、運動鞋等，法國人往往直接從英語或美語借用。*
 
 ### Vocabulaire
 
@@ -90,7 +92,7 @@ une cravate	領帶
 
 ## Les bijoux 首飾
 
-Les bijoux peuvent être en or, en argent, en diamant... ou en plastique !
+Les bijoux peuvent être **en or**, **en argent**, **en diamant**... ou en **plastique** !
 
 ![image-20210717161405726](../images/image-20210717161405726.png)
 
@@ -108,13 +110,13 @@ une boucle d'oreille	耳環
 
 ## Comment tu t'habilles ? 你如何穿衣？
 
-* Le matin, je m'habille : je mets mes vêtements. Le soir, je me déshabille, j'enlève mes vêtements.
+* Le matin, je **m'habille** : je **mets** mes vêtements. Le soir, je **me déshabille**, j'**enlève** mes vêtements.
 
-* Aujourd'hui, Aude est en pantalon. Ce soir, elle va au théâtre, alors elle se change (= elle change de vêtements). Elle ne reste pas en pantalon, elle met une jupe habillée (= chic\*).
+* Aujourd'hui, Aude **est en** pantalon. Ce soir, elle va au théâtre, alors elle **se change** (= elle change de vêtements). Elle ne **reste** pas **en** pantalon, elle met une jupe **habillée** (= **chic\***).
 
-* Comment est-ce qu'Aude était habillée ?
+* **Comment** est-ce qu'Aude **était habillée** ?
 
-    \- Elle était élégante, très chic\* comme d'habitude. Elle avait une jolie jupe noire et un haut bleu clair. Aude est toujours bien (&ne; mal) habillée.
+    \- Elle était **élégante**, très **chic\*** comme d'habitude. Elle **avait** une **jolie** jupe noire et **un haut** bleu clair. Aude est toujours **bien** (&ne; **mal**) **habillée**.
 
 *注： chic 這個詞可用來形容一個人長得漂亮，或打扮得很得體。*
 
@@ -138,31 +140,31 @@ bleu clair (adj.inv.)	淡藍色
 
 ## Acheter un vêtement 購衣
 
-* Bonjour, madame, est-ce que je peux vous renseigner ?
+* Bonjour, madame, est-ce que **je peux vous renseigner** ?
 
-    \- Oui, je voudrais essayer la jupe verte qui est dans la vitrine.
+    \- Oui, je voudrais **essayer** la jupe verte qui est **dans la vitrine**.
 
-    \- Oui, madame. Quelle taille faites-vous ?
+    \- Oui, madame. **Quelle taille faites-vous ?**
 
-    \- Je fais du 42.
+    \- Je **fais du** 42.
 
-    \- Voilà, madame. La cabine est au fond, à droite.
+    \- Voilà, madame. **La cabine** est au fond, à droite.
 
     *Quelques minutes après.*
 
-    \- Alors, ça va ? Ça vous plaît ?
+    \- Alors, **ça va ? Ça vous plaît ?**
 
-    \- Oui, la couleur me plaît, mais c'est un peu grand.
+    \- Oui, la couleur me plaît, mais **c'est un peu grand**.
 
-    \- Est-ce que vous voulez essayer le même modèle en 40 ?
+    \- Est-ce que vous voulez essayer **le même modèle en** 40 ?
 
     \- Oui, s'il vous plaît.
 
     *Quelques minutes plus tard.*
 
-    \- Alors, ça va, la taille ?
+    \- Alors, **ça va, la taille ?**
 
-    \- Oui et la couleur me va bien, mais la forme ne me va pas.
+    \- Oui et la couleur **me va bien**, mais **la forme ne me va pas**.
 
 ### Vocabulaire
 
@@ -181,25 +183,25 @@ la forme	樣子、形狀
 
 ## Acheter des chaussures 購鞋
 
-* Monsieur, vous désirez ?
+* Monsieur, **vous désirez** ?
 
     \- Je voudrais essayer les chaussures noires, qui sont dans la vitrine.
 
-    \- Oui, monsieur, vous faites quelle pointure ?
+    \- Oui, monsieur, **vous faites quelle pointure ?**
 
-    \- Je fais du 41.
+    \- Je **fais du** 41.
 
-    \- Je suis désolée, monsieur, je n'ai plus ce modèle dans votre pointure.
+    \- Je suis désolée, monsieur, je n'ai plus **ce modèle dans votre pointure**.
 
-    \- Qu'est-ce que vous avez dans ma pointure ?
+    \- **Qu'est-ce que vous avez dans ma pointure ?**
 
-    \- J'ai un autre modèle, en noir. Vous voulez essayer ?
+    \- J'ai un autre modèle, **en** noir. Vous voulez essayer ?
 
     *Quelques minutes plus tard.*
 
     \- Alors, ça va ?
 
-    \- Non, pas vraiment, c'est trop petit. Est-ce que vous avez le même modèle, en 42 ?
+    \- Non, pas vraiment, c'est **trop petit**. Est-ce que vous avez **le même modèle, en** 42 ?
 
 ### Vocabulaire
 
