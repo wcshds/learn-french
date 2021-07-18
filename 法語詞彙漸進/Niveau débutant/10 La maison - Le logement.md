@@ -44,6 +44,63 @@ des toilettes	衛生間
 une entrée	門廳
 une salle de bains	浴室
 une chambre	臥室
-une cuisine	
+une cuisine	廚房
+```
+
+## Quelques meubles dans la salle de séjour 起居室的傢俱
+
+![image-20210718150355542](../images/image-20210718150355542.png)
+
+### Vocabulaire
+
+```
+des rideaux (n.m.)	窗簾
+un tableau	畫
+un canapé	長沙發
+un coussin	靠墊
+une table basse	茶几
+un bouquet de fleurs	一束花
+un vase	花瓶
+une étagère	架子
+une commode	五斗櫥
+une table	桌子
+une chaise	椅子
+un tapis	地毯
+un fauteuil	扶手椅、單人沙發
+```
+
+## Dans le cuisine 在廚房裡
+
+![image-20210718152243157](../images/image-20210718152243157.png)
+
+### Vocabulaire
+
+```
+un placard	壁櫥、吊櫃
+un évier	洗碗槽
+une cuisinière	爐竈
+un four	烤箱
+un congélateur	冰櫃
+un lave-linge	洗衣機
+un lave-vaisselle	洗碗機
+un réfrigérateur (un frigo*)	電冰箱
+```
+
+## Dans la chambre 在臥室裡
+
+![image-20210718154842968](../images/image-20210718154842968.png)
+
+### Vocabulaire
+
+```
+une lampe	電燈
+un oreiller	枕頭
+des draps	床單
+une couette	羽絨褥子
+un réveil qui sonne	鈴聲正響的鬧鐘
+un radiateur	電暖氣、熱水汀
+une couverture	被子
+un lit	床
+la moquette	 
 ```
 
