@@ -122,18 +122,18 @@ une serviette de bain	浴巾
 
 ## Habiter dans un appartement 住公寓
 
-* Alexandre habite au quatrième étage d'un immeuble moderne. Tous les jours, il éteint la lumière avant de partir. Il ferme sa porte à clé, puis il prend l'escalier pour descendre au rez-de-chaussée.
+* Alexandre **habite au** quatrième **étage** d'**un immeuble moderne**. Tous les jours, il **éteint la lumière** avant de partir. Il **ferme sa porte à clé**, puis il **prend l'escalier pour descendre** au rez-de-chaussée.
 
-* Le soir, quand il rentre, il ouvre sa boîte aux lettres pour prendre son courrier. Il est fatigué, alors il prend l'ascenseur pour monter au quatrième. Il ouvre sa porte et allume la lumière.
+* Le soir, quand il **rentre**, il ouvre **sa boîte aux lettres** pour **prendre son courrier**. Il est fatigué, alors il **prend l'ascenseur** pour **monter** au quatrième. Il **ouvre** sa porte et **allume** la lumière.
 
-* Dans la semaine, il reste à la maison (= il reste chez lui), mais le samedi, il sort.
+* Dans la semaine, il **reste à la maison** (= il **reste chez lui**), mais le samedi, il **sort**.
 
-* Quelquefois, il reçoit (= invite) des amis à la maison.
+* Quelquefois, il **reçoit** (= **invite**) **des amis** à la maison.
 
-    *Son amie Corinne frappe à la porte, parce que la sonnette ne marche pas. Normalement, Corinne sonne à la porte.*
+    *Son amie Corinne **frappe à la porte**, parce que **la sonnette** ne marche pas. Normalement, Corinne **sonne** à la porte.*
 
-* Alexandre n'a pas acheté son appartement, il loue son appartement : il est locataire, il n'est pas propriétaire. Tous les mois, il paye un loyer. Bien sûr, il doit aussi payer les factures d'électricité, de téléphone...
-* Il aime bien son deux-pièces, mais il voudrait déménager dans un appartement plus grand et plus confortable. Il va demander des renseignements à une agence immobilière.
+* Alexandre n'**a** pas **acheté** son appartement, il **loue** son appartement : il **est locataire**, il n'est pas **propriétaire**. Tous les mois, il **paye un loyer**. Bien sûr, il doit aussi payer **les factures** d'électricité, de téléphone...
+* Il aime bien **son deux-pièces**, mais il voudrait **déménager** dans un appartement plus grand et plus **confortable**. Il va demander des renseignements à **une agence immobilière**.
 
 ### Vocabulaire
 
