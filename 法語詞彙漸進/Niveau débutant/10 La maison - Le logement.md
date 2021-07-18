@@ -104,3 +104,69 @@ un lit	床
 la moquette	機織割絨地毯
 ```
 
+## Dans la salle de bains 在浴室裡
+
+![image-20210718165800120](../images/image-20210718165800120.png)
+
+### Vocabulaire
+
+```
+une douche	淋浴
+une baignoire	浴缸
+un bidet	帶腳坐浴盆
+un miroir	鏡子
+un lavabo	洗臉池
+un savon	肥皂
+une serviette de bain	浴巾
+```
+
+## Habiter dans un appartement 住公寓
+
+* Alexandre habite au quatrième étage d'un immeuble moderne. Tous les jours, il éteint la lumière avant de partir. Il ferme sa porte à clé, puis il prend l'escalier pour descendre au rez-de-chaussée.
+
+* Le soir, quand il rentre, il ouvre sa boîte aux lettres pour prendre son courrier. Il est fatigué, alors il prend l'ascenseur pour monter au quatrième. Il ouvre sa porte et allume la lumière.
+
+* Dans la semaine, il reste à la maison (= il reste chez lui), mais le samedi, il sort.
+
+* Quelquefois, il reçoit (= invite) des amis à la maison.
+
+    *Son amie Corinne frappe à la porte, parce que la sonnette ne marche pas. Normalement, Corinne sonne à la porte.*
+
+* Alexandre n'a pas acheté son appartement, il loue son appartement : il est locataire, il n'est pas propriétaire. Tous les mois, il paye un loyer. Bien sûr, il doit aussi payer les factures d'électricité, de téléphone...
+* Il aime bien son deux-pièces, mais il voudrait déménager dans un appartement plus grand et plus confortable. Il va demander des renseignements à une agence immobilière.
+
+### Vocabulaire
+
+```
+habiter (v.t. OU v.i.)	居住
+un étage	一層樓
+un immeuble	高樓
+moderne (adj.)	現代的
+éteindre (v.t.)	熄滅的
+la lumière	燈光
+fermer la porte à clé	鎖門
+prendre l'escalier	上樓梯
+descendre (v.i.)	下來
+rentrer (v.i.)	回家
+une boîte aux lettres	信箱
+le courrier	郵件
+prendre l'ascenseur	乘電梯
+monter (v.i.)	上去
+ouvrir (v.t.)	打開
+allumer (v.t.)	點燈
+rester à la maison	呆在家裡
+recevoir (inviter) (v.t.)	接待
+frapper à la porte	敲門
+une sonnette	門鈴
+sonner (v.i.)	按門鈴
+louer (v.t.)	租
+un locataire	房客
+un propriétaire	房東
+payer un loyer	付房租
+une facture	發票
+un deux-pièces	兩間套居室
+déménager (v.i.)	搬家
+confortable (adj.)	舒適的
+une agence immobilière	房屋介紹所
+```
+
