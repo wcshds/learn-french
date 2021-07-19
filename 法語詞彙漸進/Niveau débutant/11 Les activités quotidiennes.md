@@ -84,5 +84,60 @@ faire les courses	購物
 faire le ménage	做家務
 ```
 
+## Se préparer 梳洗準備
 
+![image-20210719222517317](../images/image-20210719222517317.png)
+
+* Le matin, Léa se prépare. Elle fait sa toilette : elle se lave avec du savon, elle prend un douche ou un bain, elle se lave les cheveux avec du shampooing, elle se sèche les cheveux avec un séchoir à cheveux, elle se brosse (= se lave) les dents avec du dentifrice et une brosse à dents. Ensuite, elle se maquille. Maintenant, elle est prête.
+* Jean se rase avec un rasoir et de la mousse à raser.
+
+### Vocabulaire
+
+```
+faire sa toilette	梳洗
+se laver (v.pron.)	洗臉、洗澡
+du savon	肥皂
+prendre une douche	淋浴
+prendre un bain	盆浴
+se laver les cheveux	洗髮
+du shampooing	洗髮香波
+se sécher les cheveux	吹髮
+un séchoir à cheveux	電吹風
+se brosser les dents	刷牙
+du dentifrice	牙膏
+une brosse à dents	牙刷
+se maquiller (v.pron.)	化妝
+prêt, prête (adj.)	準備好的
+se raser (v.pron.)	刮鬍鬚
+un rasoir	剃鬚刀
+de la mousse à raser	剃鬚膏
+```
+
+## Faire le ménage 做家務
+
+![image-20210719223255442](../images/image-20210719223255442.png)
+
+* Carine fait la vaisselle, car elle n'a pas de lave-vaisselle. Elle passe l'aspirateur. Elle nettoie la salle de bains. Elle fait son lit. Elle fait les vitres. Elle fait la lessive : elle met le linge à laver dans le lave-linge (= la machine à laver). Elle lave à la main certains vêtements. Elle fait du repassage : elle repasse un pantalon. Elle plie le linge. Elle le range dans le placards.
+
+### Vocabulaire
+
+```
+faire la vaisselle	洗碗
+un lave-vaisselle	洗碗機
+passer l'aspirateur	使用吸塵器
+nettoyer (v.t.)	打掃
+faire le lit	整理床鋪
+faire les vitres	擦玻璃
+faire la lessive	洗衣服
+le linge à laver	待洗的衣物
+le lave-linge	洗衣機
+la machine à laver	洗衣機
+laver à la main	手洗
+certains, certaines (adj. indéf.)	有些
+faire du repassage	熨燙
+repasser (v.t.)	熨燙
+plier (v.t.)	折疊
+le linge	內衣、床上用
+ranger (v.t.)	
+```
 
