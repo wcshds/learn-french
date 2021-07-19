@@ -137,7 +137,57 @@ certains, certaines (adj. indéf.)	有些
 faire du repassage	熨燙
 repasser (v.t.)	熨燙
 plier (v.t.)	折疊
-le linge	內衣、床上用
-ranger (v.t.)	
+le linge	內衣、床上用品
+ranger (v.t.)	整理
+```
+
+## Les objets quotidiens
+
+Il y a beaucoup de choses dans le sac à main de Lise !
+
+![image-20210720004956863](../images/image-20210720004956863.png)
+
+### Vocabulaire
+
+```
+un stylo	鋼筆
+un paquet de cigarettes	一包香菸
+des clés	鑰匙
+une boîte d'allumettes	一盒火柴
+un briquet	一隻打火機
+des photos de bébé	寶寶的照片
+un agenda	記事本
+un carnet	小本子
+des lunettes de soleil	太陽鏡
+un porte-monnaie	錢包
+un petit parapluie	折傘
+un peigne	梳子
+une trousse de maquillage	化妝包
+un portefeuille	錢夾
+un chéquier	支票薄
+un téléphone mobile	手機
+un portable	手機
+un paquet de mouchoirs en papier	一包紙巾
+des tickets de bus ou de métro	地鐵或汽車票
+```
+
+## Quelques objets utiles à la maison 家用必備品
+
+![image-20210720010737807](../images/image-20210720010737807.png)
+
+### Vocabulaire
+
+```
+une ampoule électrique	電燈泡
+une paire de ciseaux	一把剪刀
+du papier	紙
+du papier à lettres	信紙
+des enveloppes	信封
+un crayon	鉛筆
+une gomme	橡皮
+un taille-crayon	卷筆刀
+une boîte	盒子
+une bougie	蠟燭
+un sac en plastique	塑料袋
 ```
 
