@@ -81,7 +81,7 @@ faire du courrier	寫信
 envoyer (v.t.)	寄
 une lettre	信
 faire les courses	購物
-faire le ménage	
+faire le ménage	做家務
 ```
 
 
