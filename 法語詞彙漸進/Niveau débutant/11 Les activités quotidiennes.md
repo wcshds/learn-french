@@ -91,6 +91,8 @@ faire le ménage	做家務
 * Le matin, Léa se prépare. Elle fait sa toilette : elle se lave avec du savon, elle prend un douche ou un bain, elle se lave les cheveux avec du shampooing, elle se sèche les cheveux avec un séchoir à cheveux, elle se brosse (= se lave) les dents avec du dentifrice et une brosse à dents. Ensuite, elle se maquille. Maintenant, elle est prête.
 * Jean se rase avec un rasoir et de la mousse à raser.
 
+*從語法上講，自反代詞需與主語保持一致：Je me brosse les dents. 我刷牙。 Il se lave les cheveux. 他洗髮。Je 和 me 一致，il 和 se 一致。*
+
 ### Vocabulaire
 
 ```
@@ -141,7 +143,7 @@ le linge	內衣、床上用品
 ranger (v.t.)	整理
 ```
 
-## Les objets quotidiens
+## Les objets quotidiens 日用品
 
 Il y a beaucoup de choses dans le sac à main de Lise !
 
