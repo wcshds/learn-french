@@ -127,6 +127,6 @@ un poulet	雞肉
 un canard	鴨肉
 une dinde	火雞肉
 une aile	翅膀
-une cuisse	大 
+une cuisse	大腿
 ```
 
