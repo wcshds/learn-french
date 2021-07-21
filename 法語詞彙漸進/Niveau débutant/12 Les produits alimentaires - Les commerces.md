@@ -202,3 +202,59 @@ la mayonnaise	蛋黃醬
 les cornichons	酸黃瓜
 ```
 
+## Le pain, la pâtisserie, les sucreries 麫包、糕點、糖果
+
+Pour acheter du pain, on va chez le boulanger (= à la boulangerie), et pour acheter des gâteaux, on va chez le pâtissier (= à la pâtisserie).
+
+Voici quelques spécialités françaises.
+
+![image-20210721230149153](../images/image-20210721230149153.png)
+
+*注：去某個商店買東西，我們可以用這個商店的名稱，如 la boulangerie，也可以用職業名稱，le boulanger。衹不過要注意介詞的搭配：Je vais à la boulangerie. Je vais chez le boulanger. 我去麫包店。*
+
+### Vocabulaire
+
+```
+une baguette	棍子麫包
+un pain de campagne	鄉下麫包
+un croissant	羊角麫包
+un pain aux raisins	葡萄麫包
+un pain au chocolat	巧克力麫包
+une tarte aux pommes	蘋果塔
+une tarte au citron	檸檬
+un gâteau au chocolat	巧克力蛋榚
+un éclair au café	咖啡奶油蛋糕
+un millefeuille	千層糕
+des bonbons (n.m.)	糖果
+des glaces (n.f.) (à la vanille, au chocolat, à la fraise...)	冰激淋（香草味、巧克力味、草莓味……）
+des sorbets (n.m.) (au citron, à la framboise...)	冰糕（檸檬味、覆盆子味）
+```
+
+## Les boissons 飲料
+
+* Le vin et les alcools 葡萄酒和燒酒
+
+    On peut acheter du vin et des alcools dans un supermarché, mais aussi chez un marchand de vin.
+
+    ```
+    le vin (rouge, blanc, rosé)	
+    le champagne	
+    la bière	
+    le cidre (boisson pétillante à base de pomme, légèrement alcoolisée)	
+    les apéritifs (n.m.)	
+    le muscat	
+    le porto	
+    le pastis	
+    le whisky	
+    les digestifs (n.m.)	
+    le cognac	
+    l'armagnac	
+    ```
+
+* Les boissons sans  alcool 不含酒精的飲料
+
+    ```
+    
+    ```
+
+    
