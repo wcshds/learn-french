@@ -130,3 +130,75 @@ une aile	翅膀
 une cuisse	大腿
 ```
 
+## Les produits laitiers 奶製品
+
+* Les fromages 奶酪
+
+    * On achète du bon fromage chez un fromager (= à la fromagerie).
+    * On dit qu'il y a 365 sortes de fromages en France !
+    * Quelques fromages : le camembert, le roquefort, le brie, le fromage de chèvre...
+
+* La crèmerie 乳品
+
+    ![image-20210721200713547](../images/image-20210721200713547.png)
+
+    *注：如果農副産品後面跟 fermier 的形容詞，就表示這個産品的質量比較好。如：camembert fermier 農莊卡門培爾乾酪。œufs fermiers 農莊（新鮮）雞蛋。*
+
+### Vocabulaire
+
+```
+camembert (n.m.)	卡門培爾乾酪
+roquefort (n.m.)	羅克福爾乾酪
+brie (n.m.)	布里乾酪
+le lait	牛奶
+le beurre	黃油
+le yaourt	酸奶
+la crème fraîche	鮮奶油
+les œufs (n.m.)	蛋
+```
+
+## Les produits de base 基本食品
+
+On peut acheter ces produits dans une épicerie = un petit supermarché.
+
+![image-20210721204419260](../images/image-20210721204419260.png)
+
+### Vocabulaire
+
+```
+la farine	麫粉
+le sucre	食糖
+en poudre	粉狀
+en morceaux	塊狀
+les pâtes (n.f.)	麫條
+les spaghetti (n.m.)	意大利麫條
+les macaroni (n.m.)	意大利通心粉
+le riz	大米
+les légumes (n.m.) secs	菜乾
+les lentilles (n.f.)	小扁豆
+les pois (n.m.) chiches	鷹嘴豆
+une boîte de conserve	罐頭
+la confiture	果醬
+la confiture d'orange	甜橙醬
+la confiture de fraise	草莓醬
+```
+
+## Les condiments 調味品
+
+![image-20210721211959789](../images/image-20210721211959789.png)
+
+### Vocabulaire
+
+```
+l'huile (n.f.)	食油
+l'huile d'olive (n.f.)	橄欖油
+l'huile de tournesol (n.m.)	葵花子油
+le vinaigre	醋
+le sel	鹽
+la moutarde	芥末醬
+le poivre	胡椒
+la sauce tomate	番茄醬
+la mayonnaise	蛋黃醬
+les cornichons	酸黃瓜
+```
+
