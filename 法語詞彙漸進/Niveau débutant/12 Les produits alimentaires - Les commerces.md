@@ -236,25 +236,38 @@ des sorbets (n.m.) (au citron, à la framboise...)	冰糕（檸檬味、覆盆�
 
     On peut acheter du vin et des alcools dans un supermarché, mais aussi chez un marchand de vin.
 
-    ```
-    le vin (rouge, blanc, rosé)	
-    le champagne	
-    la bière	
-    le cidre (boisson pétillante à base de pomme, légèrement alcoolisée)	
-    les apéritifs (n.m.)	
-    le muscat	
-    le porto	
-    le pastis	
-    le whisky	
-    les digestifs (n.m.)	
-    le cognac	
-    l'armagnac	
-    ```
-
-* Les boissons sans  alcool 不含酒精的飲料
+    ![image-20210722000816128](../images/image-20210722000816128.png)
 
     ```
-    
+    le vin (rouge, blanc, rosé)	葡萄酒（紅、白、玫瑰）
+    le champagne	香檳
+    la bière	啤酒
+    le cidre (boisson pétillante à base de pomme, légèrement alcoolisée)	蘋果酒（一種以蘋果爲原料酿製成的有氣泡、微含酒精的飲料）
+    les apéritifs (n.m.)	開胃酒
+    le muscat	麝香葡萄酒
+    le porto	波爾圖葡萄酒
+    le pastis	茴香酒
+    le whisky	威士忌
+    les digestifs (n.m.)	助消化酒
+    le cognac	白蘭地
+    l'armagnac	阿馬尼亞燒酒
+    ```
+
+* Les boissons sans alcool 不含酒精的飲料
+
+    ![image-20210722001139041](../images/image-20210722001139041.png)
+
+    ```
+    l'eau minérale	礦泉水
+    l'eau gazeuse	汽水
+    l'eau plate	無汽水
+    le jus de fruits	果汁
+    le jus de pomme	蘋果汁
+    le jus d'orange	橙汁
+    le jus de raisin	葡萄汁
+    le café	咖啡
+    le thé	茶
+    le chocolat chaud	巧克力熱飲
     ```
 
     
