@@ -103,5 +103,6 @@ Les ville et les villages de France ont généralement un joli marché, à l'ext
 à l'extérieur	在外面
 une halle	室內大型菜場
 Et avec ceci ?	除了這些（還要別的東西嗎）？
-comme ça	 
+comme ça	就像這樣
 ```
+
