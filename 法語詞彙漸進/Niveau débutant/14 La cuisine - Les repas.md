@@ -8,6 +8,16 @@
 
 * Brice est cuisinier professionnel, il est chef dans un restaurant.
 
+### Vocabulaire
+
+```
+faire la cuisine	做飯
+cuisinier, cuisinière (n.)	廚師
+préparer un bon plat	準備一道好菜
+chercher une recette	找食譜
+un livre de cuisine	
+```
+
 ## Quelques ustensiles de cuisine 廚房炊具
 
 ![image-20210725225236730](../images/image-20210725225236730.png)
@@ -62,6 +72,6 @@ la cafetière	咖啡壺
 des tartines (n.f.)	麫包片
 du beurre	黃油
 la théière	茶壺
-la passoire à thé	 
+la passoire à thé	茶葉過濾網
 ```
 
