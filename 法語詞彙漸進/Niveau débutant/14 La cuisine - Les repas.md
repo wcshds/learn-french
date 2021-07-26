@@ -15,7 +15,7 @@ faire la cuisine	做飯
 cuisinier, cuisinière (n.)	廚師
 préparer un bon plat	準備一道好菜
 chercher une recette	找食譜
-un livre de cuisine	
+un livre de cuisine	食譜
 ```
 
 ## Quelques ustensiles de cuisine 廚房炊具
@@ -74,4 +74,39 @@ du beurre	黃油
 la théière	茶壺
 la passoire à thé	茶葉過濾網
 ```
+
+## Bon appétit ! 祝您胃口好！
+
+* Quand on a faim, on mange ; quand on a soif, on boit un verre d'eau, de vin...
+* Il y a, en général, trois repas : le matin, les Français prennent le petit déjeuner ; à midi, ils déjeunent, le soir, ils dînent. Vers 16 heures, c'est l'heure du goûter : les enfants mangent un petit gâteau et boivent un jus de fruit, par exemple.
+
+*注：法語中早中晚餐各有名詞：le petit déjeuner, le déjeuner, le dîner。但衹有中餐和晚餐才有自己的動詞：déjeuner 和 dîner。吃早餐沒有專門的動詞，衹能說：prendre un petit déjeuner.*
+
+## Au restaurant 在飯店
+
+* Un repas au restaurant est généralement composé d'une entrée, d'un plat principal et d'un fromage ou un dessert.
+
+    Le serveur : &emsp;&emsp;\- Monsieur, vous avez choisi ?
+
+    Le client : &emsp;&emsp;&emsp;\- Oui, je voudrais un menu à 18&euro;, s'il vous plaît.
+
+    Le serveur : &emsp;&emsp;\- Oui, monsieur. Qu'est que vous prenez, comme entrée ?
+
+    Le client : &emsp;&emsp;&emsp;\- C'est quoi\*, la salade gourmande ?
+
+    Le serveur : &emsp;&emsp;\- C'est une salade verte, avec des haricots verts, du foie gras, des petites tomates. C'est délicieux !
+
+    Le client : &emsp;&emsp;&emsp;\- D'accord, une salade gourmande, alors.
+
+    Le serveur : &emsp;&emsp;\- Et comme plat ?
+
+    Le client : &emsp;&emsp;&emsp;\- Un canard à l'orange. Comme dessert, je vais prendre la crème brûlée.
+
+    Le serveur : &emsp;&emsp;\- Et comme boisson ?
+
+    Le client : &emsp;&emsp;&emsp;\- Une demi-bouteille de côtes-du-rhône rouge, s'il vous plaît.
+
+    *Une heure plus tard.*
+
+    Le client : &emsp;&emsp;&emsp;\- Un café et l'addition, s'il vous plaît !
 
