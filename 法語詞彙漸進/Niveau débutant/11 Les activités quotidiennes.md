@@ -3,21 +3,21 @@
 ## Le matin et le soir 早晚
 
 * Le matin 早晨
-    * Le réveil sonne à 7 heures.
-    * Léa allume la lampe.
-    * Jean et Léa se lèvent.
-    * Ils s'habillent.
-    * Léa accompagne les enfants à l'école.
-    * Jean part de la maison, il part au travail.
-    * La famille déjeune.
+    * Le réveil **sonne** à 7 heures.
+    * Léa **allume** la lampe.
+    * Jean et Léa **se lèvent**.
+    * Ils **s'habillent**.
+    * Léa **accompagne les enfants à l'école**.
+    * Jean **part de la maison**, il part **au travail**.
+    * La famille **déjeune**.
 * Le soir 晚上
-    * Léa va chercher les enfants à l'école.
-    * Jean rentre à la maison, il rentre du travail.
-    * La famille dîne.
-    * Ils se déshabillent.
-    * Jean et Léa se couchent.
-    * Jean met le réveil à 7 heures.
-    * Léa éteint la lampe.
+    * Léa **va chercher** les enfants à l'école.
+    * Jean **rentre à** la maison, il **rentre du** travail.
+    * La famille **dîne**.
+    * Ils **se déshabillent**.
+    * Jean et Léa **se couchent**.
+    * Jean **met le réveil** à 7 heures.
+    * Léa **éteint** la lampe.
 
 ### Vocabulaire
 
@@ -38,27 +38,27 @@ mettre le réveil à 7 heures	將鬧鐘撥到7點
 
 ## Les activités dans la journée 白天活動
 
-* Est-ce que vous écoutez la radio ?
+* Est-ce que vous **écoutez la radio** ?
 
-    \- Oui, j'allume la radio pour écouter les informations à 7 heures et demie.
+    \- Oui, j'**allume** la radio pour écouter **les informations** à 7 heures et demie.
 
-    \- Est-ce que vous regardez la télévision ?
+    \- Est-ce que vous **regardez la télévision** ?
 
-    \- Oui, j'allume la télé\* à 20 heures, mais je l'éteins après les nouvelles.
+    \- Oui, j'**allume la télé\*** à 20 heures, mais je l'**éteins** après **les nouvelles**.
 
-    \- Vous lisez un journal ?
+    \- Vous **lisez un journal** ?
 
     \- Oui, je lis mon journal le soir.
 
     \- Qu'est-ce que vous faites, quand vous rentrez le soir ?
 
-    \- J'ouvre mon courrier, je consulte mon répondeur (= j'écoute les messages), je passe quelques coups de fil\* (= je téléphone à quelques personnes), je fais du courrier (= j'envoie des lettres).
+    \- J'**ouvre mon courrier**, je **consulte mon répondeur** (= j'**écoute** les messages), je **passe** quelques **coups de fil\*** (= je **téléphone à** quelques personnes), je **fais du courrier** (= j'**envoie des lettres**).
 
-    \- Quand est-ce que vous faites les courses ?
+    \- Quand est-ce que vous **faites les courses** ?
 
     \- Le samedi, en général.
 
-    \- Qui fait le ménage dans la maison, vous ou Léa ?
+    \- Qui **fait le ménage** dans la maison, vous ou Léa ?
 
     \- Heuh...
 
@@ -88,8 +88,8 @@ faire le ménage	做家務
 
 ![image-20210719222517317](../images/image-20210719222517317.png)
 
-* Le matin, Léa se prépare. Elle fait sa toilette : elle se lave avec du savon, elle prend un douche ou un bain, elle se lave les cheveux avec du shampooing, elle se sèche les cheveux avec un séchoir à cheveux, elle se brosse (= se lave) les dents avec du dentifrice et une brosse à dents. Ensuite, elle se maquille. Maintenant, elle est prête.
-* Jean se rase avec un rasoir et de la mousse à raser.
+* Le matin, Léa **se prépare**. Elle **fait sa toilette** : elle **se lave** avec **du savon**, elle **prend une douche** ou **un bain**, elle **se lave les cheveux** avec du **shampooing**, elle **se sèche** les cheveux avec **un séchoir à cheveux**, elle **se brosse** (= **se lave**) **les dents** avec **du dentifrice** et **une brosse à dents**. Ensuite, elle **se maquille**. Maintenant, elle est **prête**.
+* Jean **se rase** avec **un rasoir** et de **la mousse à raser**.
 
 *從語法上講，自反代詞需與主語保持一致：Je me brosse les dents. 我刷牙。 Il se lave les cheveux. 他洗髮。Je 和 me 一致，il 和 se 一致。*
 
@@ -119,7 +119,7 @@ de la mousse à raser	剃鬚膏
 
 ![image-20210719223255442](../images/image-20210719223255442.png)
 
-* Carine fait la vaisselle, car elle n'a pas de lave-vaisselle. Elle passe l'aspirateur. Elle nettoie la salle de bains. Elle fait son lit. Elle fait les vitres. Elle fait la lessive : elle met le linge à laver dans le lave-linge (= la machine à laver). Elle lave à la main certains vêtements. Elle fait du repassage : elle repasse un pantalon. Elle plie le linge. Elle le range dans le placards.
+* Carine **fait la vaisselle**, car elle n'a pas de **lave-vaisselle**. Elle **passe l'aspirateur**. Elle **nettoie** la salle de bains. Elle **fait son lit**. Elle **fait les vitres**. Elle **fait la lessive** : elle met **le linge à laver** dans **le lave-linge** (= **la machine à laver**). Elle lave **à la main** certains vêtements. Elle **fait du repassage** : elle **repasse** un pantalon. Elle **plie le linge**. Elle le **range** dans le placards.
 
 ### Vocabulaire
 
