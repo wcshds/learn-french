@@ -1,6 +1,6 @@
 # Faire les courses 購物
 
-Élodie va au supermarché pour acheter différents produits : elle fait les courses.
+Élodie va au supermarché pour acheter différents produits : elle **fait les courses**.
 
 ## Je voudrais... 我要買……
 
@@ -38,11 +38,11 @@ un peu plus (de) ≠ un peu moins (de)	多一點 = 少一點
 
 ## Demander et commenter le prix 詢問和評論價格
 
-* C'est combien ? (pour un seul objet) Ça fait combien ? (pour un total) Quel est le prix de... ?
-* Est-ce que vous pouvez me dire le prix de... ?
-* (Le jambon) est à combien ? (Les tomates) sont à combien ?
-* Je vous dois combien ? (quand on paye un service, une personne...)
-* Le kilo de cerises à 7 &euro;, c'est un peu cher ! (&ne; bon marché)
+* **C'est combien ?** (pour un seul objet) **Ça fait combien ?** (pour un total) **Quel est le prix de... ?**
+* **Est-ce que vous pouvez me dire le prix de... ?**
+* (Le jambon) **est à combien ?** (Les tomates) **sont à combien ?**
+* **Je vous dois combien ?** (quand on paye un service, une personne...)
+* Le kilo de cerises à 7 &euro;, c'est un peu **cher** ! (&ne; **bon marché**)
 
 ### Vocabulaire
 
@@ -57,7 +57,7 @@ bon marché	便宜的
 
 ## Dans une grande surface = Dans un grand supermarché 在大型超市
 
-À l'entrée du magasin, le client prend un chariot ou un panier. Il va dans les différents rayons : le rayon boucherie, le rayon fromages. Quand il a fait ses achats, il va à la caisse pour payer. Le client peut demander une livraison à domicile : un employé du supermarché vient chez le client pour lui livrer (= apporter) ses achats.
+À l'entrée du magasin, **le client** prend **un chariot** ou **un panier**. Il va dans les différents **rayons** : le rayon boucherie, le rayon fromages. Quand il a **fait ses achats**, il va à **la caisse** pour payer. Le client peut demander **une livraison à domicile** : un employé du supermarché vient chez le client pour lui **livrer** (= apporter) ses achats.
 
 ### Vocabulaire
 
@@ -79,23 +79,23 @@ Les ville et les villages de France ont généralement un joli marché, à l'ext
 
 * *Chez le marchand de fruits et légumes*
 
-    \- Madame, vous désirez ?
+    \- Madame, **vous désirez** ?
 
-    \- Je voudrais deux poivrons rouges et un kilo de tomates, s'il vous plaît.
+    \- **Je voudrais** deux poivrons rouges et un kilo de tomates, s'il vous plaît.
 
-    \- Voilà, madame. Et avec ceci ?
+    \- Voilà, madame. **Et avec ceci ?**
 
-    \- C'est tout, merci.
+    \- **C'est tout**, merci.
 
 * *Chez le fromager*
 
     \- Monsieur ?
 
-    \- Je voudrais un morceau de cantal, s'il vous plaît.
+    \- **Je voudrais** un morceau de cantal, s'il vous plaît.
 
-    \- Ça va, comme ça ?
+    \- **Ça va, comme ça ?**
 
-    \- Un peu plus, s'il vous plaît.
+    \- **Un peu plus**, s'il vous plaît.
 
 ### Vocabulaire
 
