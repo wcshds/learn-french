@@ -1,12 +1,12 @@
 # Les produits alimentaires - Les commerces 食品——商品
 
-On peut acheter des légumes et des fruits frais chez le marchand de fruits et légumes.
+On peut acheter des légumes et des fruits **frais** chez **le marchand de fruits et légumes.**
 
 ## Quelques légumes 蔬菜
 
 ![image-20210720174759451](../images/image-20210720174759451.png)
 
-On mange les légumes crus (comme par exemple les radis, les concombres...) ou, au contraire, cuits (les pommes de terre, les haricots verts, les poireaux...). Dans un bistrot, on peut demander « une assiette de crudités », c'est-à-dire une assiette de légumes crus.
+On mange les légumes **crus** (comme par exemple les radis, les concombres...) ou, au contraire, **cuits** (les pommes de terre, les haricots verts, les poireaux...). Dans un bistrot, on peut demander « **une assiette de crudités** », c'est-à-dire une assiette de légumes crus.
 
 ### Vocabulaire
 
@@ -34,7 +34,7 @@ un poivron vert	青椒
 
 ![image-20210720182554431](../images/image-20210720182554431.png)
 
-Anne épluche un fruit.
+Anne **épluche** un fruit.
 
 ### Vocabulaire
 
@@ -58,13 +58,13 @@ un ananas	菠蘿
 
 ## Le poisson 魚類
 
-On achète le poisson et les fruits de mer chez le poissonnier (= à la poissonnerie).
+On achète le poisson et les fruits de mer **chez le poissonnier** (= **à la poissonnerie**).
 
 ![image-20210720203829830](../images/image-20210720203829830.png)
 
-* \- Est-ce que vous pouvez préparer le poisson ?
+* \- Est-ce que vous pouvez **préparer** le poisson ?
 
-    \- Oui, madame. J'enlève la tête et les arêtes ?
+    \- Oui, madame. J'**enlève la tête et les arêtes** ?
 
 ### Vocabulaire
 
@@ -95,7 +95,7 @@ une crevette	蝦
 
 ## La viande 肉類
 
-On achète la viande chez le boucher (= à la boucherie) ; pour la viande de porc, plus particulièrement, on va chez le charcutier (= à la charcuterie).
+On achète la viande **chez le boucher** (= **à la boucherie**) ; pour la viande de porc, plus particulièrement, on va **chez le charcutier** (= **à la charcuterie**).
 
 ![image-20210720213113570](../images/image-20210720213113570.png)
 
@@ -134,9 +134,9 @@ une cuisse	大腿
 
 * Les fromages 奶酪
 
-    * On achète du bon fromage chez un fromager (= à la fromagerie).
+    * On achète du bon fromage **chez un fromager** (= **à la fromagerie**).
     * On dit qu'il y a 365 sortes de fromages en France !
-    * Quelques fromages : le camembert, le roquefort, le brie, le fromage de chèvre...
+    * Quelques fromages : **le camembert**, **le roquefort**, **le brie**, **le fromage de chèvre**...
 
 * La crèmerie 乳品
 
@@ -159,13 +159,15 @@ les œufs (n.m.)	蛋
 
 ## Les produits de base 基本食品
 
-On peut acheter ces produits dans une épicerie = un petit supermarché.
+On peut acheter ces produits dans **une épicerie** = **un** petit **supermarché**.
 
 ![image-20210721204419260](../images/image-20210721204419260.png)
 
 ### Vocabulaire
 
 ```
+épicerie (n.f.)	食品雜貨店
+supermarché (n.m.)	超市
 la farine	麫粉
 le sucre	食糖
 en poudre	粉狀
@@ -204,7 +206,7 @@ les cornichons	酸黃瓜
 
 ## Le pain, la pâtisserie, les sucreries 麫包、糕點、糖果
 
-Pour acheter du pain, on va chez le boulanger (= à la boulangerie), et pour acheter des gâteaux, on va chez le pâtissier (= à la pâtisserie).
+Pour acheter du pain, on va chez **le boulanger** (= à **la boulangerie**), et pour acheter des **gâteaux**, on va chez **le pâtissier** (= à **la pâtisserie**).
 
 Voici quelques spécialités françaises.
 
@@ -215,6 +217,10 @@ Voici quelques spécialités françaises.
 ### Vocabulaire
 
 ```
+boulanger (n.m.)	麫包師
+boulangerie (n.f.)	麫包房
+pâtissier (n.m.)	糕點師
+pâtisserie (n.f.)	糕點鋪
 une baguette	棍子麫包
 un pain de campagne	鄉下麫包
 un croissant	羊角麫包
@@ -234,7 +240,7 @@ des sorbets (n.m.) (au citron, à la framboise...)	冰糕（檸檬味、覆盆�
 
 * Le vin et les alcools 葡萄酒和燒酒
 
-    On peut acheter du vin et des alcools dans un supermarché, mais aussi chez un marchand de vin.
+    On peut acheter du vin et des alcools dans un supermarché, mais aussi chez **un marchand de vin**.
 
     ![image-20210722000816128](../images/image-20210722000816128.png)
 
