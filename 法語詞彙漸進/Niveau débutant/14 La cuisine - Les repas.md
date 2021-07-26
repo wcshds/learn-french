@@ -86,23 +86,23 @@ la passoire à thé	茶葉過濾網
 
 * Un repas au restaurant est généralement composé d'une entrée, d'un plat principal et d'un fromage ou un dessert.
 
-    Le serveur : &emsp;&emsp;\- Monsieur, vous avez choisi ?
+    Le serveur : &emsp;&emsp;&nbsp;\- Monsieur, vous avez choisi ?
 
     Le client : &emsp;&emsp;&emsp;\- Oui, je voudrais un menu à 18&euro;, s'il vous plaît.
 
-    Le serveur : &emsp;&emsp;\- Oui, monsieur. Qu'est que vous prenez, comme entrée ?
+    Le serveur : &emsp;&emsp;&nbsp;\- Oui, monsieur. Qu'est que vous prenez, comme entrée ?
 
     Le client : &emsp;&emsp;&emsp;\- C'est quoi\*, la salade gourmande ?
 
-    Le serveur : &emsp;&emsp;\- C'est une salade verte, avec des haricots verts, du foie gras, des petites tomates. C'est délicieux !
+    Le serveur : &emsp;&emsp;&nbsp;\- C'est une salade verte, avec des haricots verts, du foie gras, des petites tomates. C'est délicieux !
 
     Le client : &emsp;&emsp;&emsp;\- D'accord, une salade gourmande, alors.
 
-    Le serveur : &emsp;&emsp;\- Et comme plat ?
+    Le serveur : &emsp;&emsp;&nbsp;\- Et comme plat ?
 
     Le client : &emsp;&emsp;&emsp;\- Un canard à l'orange. Comme dessert, je vais prendre la crème brûlée.
 
-    Le serveur : &emsp;&emsp;\- Et comme boisson ?
+    Le serveur : &emsp;&emsp;&nbsp;\- Et comme boisson ?
 
     Le client : &emsp;&emsp;&emsp;\- Une demi-bouteille de côtes-du-rhône rouge, s'il vous plaît.
 
