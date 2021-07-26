@@ -82,31 +82,61 @@ la passoire à thé	茶葉過濾網
 
 *注：法語中早中晚餐各有名詞：le petit déjeuner, le déjeuner, le dîner。但衹有中餐和晚餐才有自己的動詞：déjeuner 和 dîner。吃早餐沒有專門的動詞，衹能說：prendre un petit déjeuner.*
 
+### Vocabulaire
+
+```
+avoir faim	餓
+avoir soif	渴
+boire (v.t.)	喝
+un repas	一頓飯
+prendre le petit déjeuner	吃早飯
+déjeuner (v.i.)	吃午飯
+dîner (v.i.)	吃晚飯
+le goûter	下午茶
+```
+
 ## Au restaurant 在飯店
 
 * Un repas au restaurant est généralement composé d'une entrée, d'un plat principal et d'un fromage ou un dessert.
 
-    Le serveur : &emsp;&emsp;&nbsp;\- Monsieur, vous avez choisi ?
+    Le serveur : &emsp;&emsp;\- Monsieur, vous avez choisi ?
 
     Le client : &emsp;&emsp;&emsp;\- Oui, je voudrais un menu à 18&euro;, s'il vous plaît.
 
-    Le serveur : &emsp;&emsp;&nbsp;\- Oui, monsieur. Qu'est que vous prenez, comme entrée ?
+    Le serveur : &emsp;&emsp;\- Oui, monsieur. Qu'est que vous prenez, comme entrée ?
 
     Le client : &emsp;&emsp;&emsp;\- C'est quoi\*, la salade gourmande ?
 
-    Le serveur : &emsp;&emsp;&nbsp;\- C'est une salade verte, avec des haricots verts, du foie gras, des petites tomates. C'est délicieux !
+    Le serveur : &emsp;&emsp;\- C'est une salade verte, avec des haricots verts, du foie gras, des petites tomates. C'est délicieux !
 
     Le client : &emsp;&emsp;&emsp;\- D'accord, une salade gourmande, alors.
 
-    Le serveur : &emsp;&emsp;&nbsp;\- Et comme plat ?
+    Le serveur : &emsp;&emsp;\- Et comme plat ?
 
     Le client : &emsp;&emsp;&emsp;\- Un canard à l'orange. Comme dessert, je vais prendre la crème brûlée.
 
-    Le serveur : &emsp;&emsp;&nbsp;\- Et comme boisson ?
+    Le serveur : &emsp;&emsp;\- Et comme boisson ?
 
     Le client : &emsp;&emsp;&emsp;\- Une demi-bouteille de côtes-du-rhône rouge, s'il vous plaît.
 
     *Une heure plus tard.*
 
     Le client : &emsp;&emsp;&emsp;\- Un café et l'addition, s'il vous plaît !
+
+### Vocabulaire
+
+```
+être composé de	由……組成
+une entrée	第一道正菜
+un plat principal	主菜
+un dessert	飯後甜點
+Vous avez choisi ?	您選好了嗎？
+un menu	套餐
+du foie gras	肥鵝肝
+délicieux, délicieuse (adj.)	鮮美的、口感好的
+Et comme plat ?	主菜呢？（您吃什麽主菜？）
+un canard à l'orange	甜橙烤鴨
+la crème brûlée	焦糖蛋奶凍
+l'addition (n.f.)	結帳
+```
 
