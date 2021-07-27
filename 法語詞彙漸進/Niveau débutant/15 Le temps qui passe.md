@@ -176,7 +176,7 @@ une minute	一分鐘
 une demi-heure	半小時
 trois quarts d'heure	三刻鐘
 toute la journée	一整天
-toute la soirée	 
+toute la soirée	整個晚上
 ```
 
 ## Quelques objets 計時物品
