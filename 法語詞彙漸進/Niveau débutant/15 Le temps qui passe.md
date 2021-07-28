@@ -202,6 +202,27 @@ Il y a beaucoup de jours fériés, en France (= on ne travaille pas ces jours-l�
 * Le 14 juillet (la fête nationale), il y a un défilé militaire, un feu d'artifice et un bal.
 * Le jour des Rois (le 6 janvier) n'est pas férié, mais on mange un bon gâteau, « la galette des Rois ».
 
+### Vocabulaire
+
+```
+un jour férié	節假日
+Pâques	復活節
+Noël	聖誕節
+un sapin de Noël	聖誕樹
+le jour de l'An	元旦
+souhaiter (v.t.)	祝賀
+Bonne année	新年好
+une carte de vœux	賀卡
+une fleur	花
+du muguet	鈴蘭
+défilé (n.m.)	遊行
+militaire (adj.)	軍事的
+feu (n.m.)	火
+le feu d'artifice	焰火
+le roi	國王
+la galette	煎餅
+```
+
 ## Quelques expressions de temps 幾種時間表達方法
 
 * Ce matin, j'ai mis dix heures en voiture pour aller de Paris à Lyon ! C'est complètement fou ! Normalement, je mets cinq heures. En train, il faut (= ça prend) deux heures pour aller de Paris à Lyon.
@@ -225,4 +246,24 @@ Il y a beaucoup de jours fériés, en France (= on ne travaille pas ces jours-l�
     \- Non, excuse-moi, je suis pressé, j'ai un rendez-vous !
 
 *注：注意不要把下面兩個意思混爲一談：\- Vous avez l'heure ? 幾點鐘？ \- Vous avez le temps ? Vous avez deux minutes ? 您有時間嗎？您有兩分鐘的時間嗎？ \- Oui, il est midi et demi. 中午12點半。 \- Non, excusez-moi, je suis pressé. 不，請原諒，我有事。*  
+
+### Vocabulaire
+
+```
+mettre du temps pour faire qch.	花時間做某事
+personnel, personnelle (adj.)	有人稱
+circonstance (n.f.)	環境、情況
+il faut	需要
+ça prend du temps	這耗費時間
+impersonnel, impersonnelle (adj.)	無人稱的
+sûr, sûre (adj.)	肯定的
+un rendez-vous	約會
+être en avance	提前到
+être à l'heure	準時到
+être en retard	遲到
+tôt (adv.)	早
+tard (adv.)	晚
+avoir le temps de faire qch.	有時間做某事
+pressé, pressée (adj.)	有事的、急的
+```
 
