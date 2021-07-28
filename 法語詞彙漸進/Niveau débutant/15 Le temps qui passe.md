@@ -192,3 +192,37 @@ un réveil	鬧鐘
 une pendule	掛鐘
 ```
 
+## Quelques fêtes et traditions 節日與傳統
+
+Il y a beaucoup de jours fériés, en France (= on ne travaille pas ces jours-là). Il existe des fêtes religieuses et des fêtes civiles.
+
+* À Pâques, on offre des œufs en chocolat ; à Noël, on a un sapin de Noël et on offre des cadeaux.
+* Le 1<sup>er</sup> janvier (« le jour de l'An »), on souhaite « la bonne année », on envoie des cartes de vœux aux personnes qu'on aime bien.
+* Le 1<sup>er</sup> mai (« la fête du Travail »), on offre une fleur (du muguet).
+* Le 14 juillet (la fête nationale), il y a un défilé militaire, un feu d'artifice et un bal.
+* Le jour des Rois (le 6 janvier) n'est pas férié, mais on mange un bon gâteau, « la galette des Rois ».
+
+## Quelques expressions de temps 幾種時間表達方法
+
+* Ce matin, j'ai mis dix heures en voiture pour aller de Paris à Lyon ! C'est complètement fou ! Normalement, je mets cinq heures. En train, il faut (= ça prend) deux heures pour aller de Paris à Lyon.
+
+    &#8594; mettre du temps (c'est personnel, ça dépend des circonstances).
+
+    &#8594; ça prend du temps = il faut (c'est impersonnel, officiel, sûr).
+
+* Benjamin a rendez-vous avec Virginie à 19 heures : 
+
+    - à 18h45, il est en avance.
+
+    \- à 19h00, il est à l'heure.
+
+    \- à 19h15, il est en retard.
+
+* Ce matin, Véronique est partie tôt de chez elle, elle est partie à 7 heures ; elle va rentrer tard, pas avant 11 heures du soir.
+
+* Est-ce que tu as le temps de prendre un café avec moi ?
+
+    \- Non, excuse-moi, je suis pressé, j'ai un rendez-vous !
+
+*注：注意不要把下面兩個意思混爲一談：\- Vous avez l'heure ? 幾點鐘？ \- Vous avez le temps ? Vous avez deux minutes ? 您有時間嗎？您有兩分鐘的時間嗎？ \- Oui, il est midi et demi. 中午12點半。 \- Non, excusez-moi, je suis pressé. 不，請原諒，我有事。*  
+
