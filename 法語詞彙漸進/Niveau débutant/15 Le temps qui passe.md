@@ -212,7 +212,7 @@ Il y a beaucoup de jours fériés, en France (= on ne travaille pas ces jours-l�
 
 * Benjamin a rendez-vous avec Virginie à 19 heures : 
 
-    - à 18h45, il est en avance.
+    \- à 18h45, il est en avance.
 
     \- à 19h00, il est à l'heure.
 
