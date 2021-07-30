@@ -14,17 +14,19 @@
 
 * Le lycée technique (pour apprendre un métier tel que coiffeur, électricien...).
 
-
+    
 
 * À la fin du lycée, les élèves passent un examen, le bac[calauréat].
-* Si Paul a\* son bac (= s'il est reçu à son bac), il pourra aller / entrer à l'université. Au contraire, s'il rate\* (= s'il est recalé à) son bac, il devra redoubler sa terminale (= recommencer l'année).
 
+    Si Paul a\* son bac (= s'il est reçu à son bac), il pourra aller / entrer à l'université. Au contraire, s'il rate\* (= s'il est recalé à) son bac, il devra redoubler sa terminale (= recommencer l'année).
 
+    
 
 * L'université comprend plusieurs facultés : les étudiants vont à la fac\* de médecine, de lettres, de sciences...
+
 * Les « grands écoles » (Polytechnique, École normale supérieure, École des mines...) sont plus difficiles que l'université.
 
-
+    
 
 * Où est-ce que vous avez fait vos études ?
 
