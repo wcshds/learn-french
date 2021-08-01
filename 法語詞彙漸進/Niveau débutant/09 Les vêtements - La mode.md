@@ -23,7 +23,7 @@ démodé, démodée (adj.)	過時的、不再流行的
 une veste	上衣
 un pantalon	長褲
 une jupe	短裙
-une robe	連衣褲
+une robe	連衣 
 un pull	針織套衫
 un tailleur	女式西服
 un ensemble	女式套裝
