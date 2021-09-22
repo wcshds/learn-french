@@ -391,6 +391,7 @@ M : Et maintenant ?
 P : Maintenant, tu attends de surfer sur Internet.
 
 ### Vocabulaire
+
 1. dis doc [ dɔ̃ ]&emsp;&emsp;喂；喲
 2. ravi, ravie&emsp;&emsp;adj. 欣喜若狂的
 
@@ -428,7 +429,7 @@ P : Maintenant, tu attends de surfer sur Internet.
 
         Exp. un film génial (= extraordinaire)
         « Shakespeare, le plus génial des hommes de lettres », Romain Rolland
-    
+        
         C'est génial ! / Génial !	太棒了！
 
 8. un portable&emsp;&emsp;n.m. 手機
@@ -442,7 +443,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous pouvons
         vous pouvez
         ils (elles) peuvent
-    
+        
         p. passé : pu
 
     1. v. 
@@ -461,7 +462,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         Exp. partir sans rien emporter
         Emportez votre parapluie !
         Les voleurs ont tout emporté.	小偷拿走了所有東西。
-    
+        
         À emporter.	打包。
         Sur place.	堂吃。
 
@@ -481,7 +482,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous servons
         vous servez
         ils (elles) servent
-    
+        
         p. passé : servi
 
     <br />
@@ -498,7 +499,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous entendons
         vous entendez
         ils (elles) entendent
-    
+        
         p. passé : entendu
 
     * entendre qn.
