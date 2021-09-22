@@ -65,3 +65,25 @@
 ```
 
 *2. 在否定式中，ne ... pas 放在助動詞兩邊，如：je n'avais pas parlé*
+
+### 用法
+
+1. 表示在一個過去的動作之前已經完成的動作，一般與複合過去時或未完成過去時連用。
+
+    ```
+    J'ai lu le roman que tu m'avais conseillé de lire.
+    Quand je suis arrivé chez elle, elle était partie.
+    Quand il est rentré à la maison, ses parents avaient déjà dîné.
+    Le jardin était mouillé, car il avait plu.
+    ```
+
+2. 表示過去習慣性的動作，往往與未完成過去時連用。
+
+    ```
+    Quand il avait déjeuné, il sortait.
+    À Paris, je me promenais le long de la Seine, quand j'avais terminé mon travail.
+    Dès que Paul avait fini ses devoirs, il allait jouer au football.
+    ```
+
+    
+
