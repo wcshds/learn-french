@@ -3,6 +3,7 @@
 ## Le futur simple（簡單將來時）
 
 ### 構成
+
 簡單將來時在**動詞不定式**的後面加下列詞尾構成：
 
     -ai
@@ -396,7 +397,7 @@
 
             Le ciel est couvert. Il va pleuvoir. （Futur proche 用來表示馬上就要發生的事）
             Il pleuvra demain.
-
+        
             Dans cinquante ans, quel sera l'état de notre planète ?
 
     * Comparez 2 : 
