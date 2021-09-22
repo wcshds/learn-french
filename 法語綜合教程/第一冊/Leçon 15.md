@@ -311,7 +311,7 @@
         Marie, je l'ai rencontrée hier avant la classe.
         Ces photos, il les a prises aux États-Unis.
         Ça fait longtemps que je ne t'ai pas vu(e).（注意否定 ne ... pas ... 位置）
-
+        
         Ça fait longtemps que je ne t'ai pas écrit.（這裡 te 是間接賓語，因爲 écrire à qn.，所以這裡的過去分詞不用性、數配合。）
         Son voyage en France ? Il m'en a parlé lundi dernier.（如果直接賓語是副代詞 en，過去分詞也不變。）
         Combien de livres as-tu lus l'année dernière ? - J'en ai lu cinquante.（衹要是直接賓語提前，過去分詞就要和直接賓語性、數配合，不一定要是直接賓語人稱代詞。）
@@ -333,6 +333,7 @@
 12. carte graphique dédiée&emsp;&emsp;專用顯卡
 
 # Dialogue
+
 (Dialogue entre Martine et Philippe.)
 
 Philippe : Dis doc ! Tu as l'air contente, Martine !
@@ -427,7 +428,7 @@ P : Maintenant, tu attends de surfer sur Internet.
 
         Exp. un film génial (= extraordinaire)
         « Shakespeare, le plus génial des hommes de lettres », Romain Rolland
-
+    
         C'est génial ! / Génial !	太棒了！
 
 8. un portable&emsp;&emsp;n.m. 手機
@@ -441,7 +442,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous pouvons
         vous pouvez
         ils (elles) peuvent
-
+    
         p. passé : pu
 
     1. v. 
@@ -460,7 +461,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         Exp. partir sans rien emporter
         Emportez votre parapluie !
         Les voleurs ont tout emporté.	小偷拿走了所有東西。
-
+    
         À emporter.	打包。
         Sur place.	堂吃。
 
@@ -480,7 +481,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous servons
         vous servez
         ils (elles) servent
-
+    
         p. passé : servi
 
     <br />
@@ -497,7 +498,7 @@ P : Maintenant, tu attends de surfer sur Internet.
         nous entendons
         vous entendez
         ils (elles) entendent
-
+    
         p. passé : entendu
 
     * entendre qn.
