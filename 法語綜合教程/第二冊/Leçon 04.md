@@ -55,3 +55,13 @@
         </tr>
     </tbody>
 </table>
+
+*注：*
+
+*1. 動詞 être 和 avoir 的直陳式愈過去時變位形式如下：*
+
+```
+être : j'avais été			avoir : j'avais eu
+```
+
+*2. 在否定式中，ne ... pas 放在助動詞兩邊，如：je n'avais pas parlé*
