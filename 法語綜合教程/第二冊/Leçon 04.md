@@ -12,8 +12,8 @@
             <td colspan="3" align="center"><strong>avoir, être（直陳式未完成過去時）+ 過去分詞</strong></td>
         </tr>
         <tr>
-        	<td align="center">parler</td>
-            <td>
+        	<td align="center" width="33.3%">parler</td>
+            <td width="33.3%">
             	j'avais<br />
                 tu avais<br />
                 il (elle) avait<br />
@@ -21,7 +21,7 @@
                 vous aviez<br />
                 ils (elles) avaient
             </td>
-            <td align="center">parlé</td>
+            <td align="center" width="33.3%">parlé</td>
         </tr>
         <tr>
         	<td align="center">aller</td>
@@ -55,4 +55,3 @@
         </tr>
     </tbody>
 </table>
-
