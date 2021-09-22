@@ -109,3 +109,60 @@ Sa consultation n'a pas duré longtemps : 15 minutes au maximum. Après la consu
     ```
 
 17. derrière&emsp;&emsp;prép. 在……後面
+
+18. gros, grosse&emsp;&emsp;adj. （體積）大的
+
+19. un camion&emsp;&emsp;n.m. 卡車，載重汽車
+
+20. se garer&emsp;&emsp;v.pr. （車輛）停放；停車
+
+21. une consultation&emsp;&emsp;n.f. （醫生）診病
+
+    ```
+    Le tarif des consultations a augmenté.	診費漲價了。
+    ```
+
+22. durer&emsp;&emsp;v.i. 持續，延續
+
+    ```
+    La conférence a duré deux heures.
+    ```
+
+23. au maximum [maksimɔm]&emsp;&emsp;loc.adv. 至多，最多
+
+    au minimum&emsp;&emsp;最少
+
+24. le stationnement [stasjɔnmɑ̃]&emsp;&emsp;n.m. 停車
+
+    ```
+    stationnement interdit	禁止停車
+    ```
+
+25. une surprise&emsp;&emsp;n.f. 驚訝，詫異
+
+26. un commissariat&emsp;&emsp;n.m. 警察分局，派出所
+
+27. proche&emsp;&emsp;adj. 鄰近的，靠近的
+
+28. déclarer&emsp;&emsp;v.t. 申報；宣布，聲明
+
+    ```
+    Il lui déclare son amour.
+    déclarer la guerre à un pays	向一個國家宣戰
+    ```
+
+29. signer&emsp;&emsp;v.t. 簽署，在……上簽名
+
+    ```
+    signer une pétition	簽署請願書
+    ```
+
+30. une déclaration&emsp;&emsp;n.f. 申報，申報單；聲明
+
+31. un parapluie&emsp;&emsp;n.m. 兩傘
+
+32. un porte-bonheur&emsp;&emsp;n.m.inv. 護聲符，吉祥物
+
+33. un détail&emsp;&emsp;n.m. 細節，詳細情況
+
+34. une sorte de ...&emsp;&emsp; 一種……，某種類似……的東西
