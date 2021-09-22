@@ -397,7 +397,7 @@
 
             Le ciel est couvert. Il va pleuvoir. （Futur proche 用來表示馬上就要發生的事）
             Il pleuvra demain.
-        
+            
             Dans cinquante ans, quel sera l'état de notre planète ?
 
     * Comparez 2 : 

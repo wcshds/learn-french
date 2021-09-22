@@ -151,6 +151,6 @@
 
         Comparer : En 1999, j'étais à Shanghai.（1999年的時候，我待在上海。  In 1999, I was in Shanghai.）
         Oui, j'ai été à Shanghai.（我去過上海。 I have been to Shanghai.）
-
+        
         Comparer : En 1990, je faisais mes études de médecine à Montpellier.（1990年，我在 Montpellier 學醫。—— 未完成過去時表示一種狀態。）
         Il a fait ses études de médecine pendant sept ans. Il est médecin maintenant.（他學了七年醫。—— 複合過去時表示已經完成了動作。）

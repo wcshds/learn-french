@@ -23,6 +23,36 @@
             </td>
             <td align="center">parlé</td>
         </tr>
+        <tr>
+        	<td align="center">aller</td>
+            <td>
+            	j'étais<br />
+                tu étais<br />
+                il (elle) était<br />
+                nous étions<br />
+                vous étiez<br />
+                ils (elles) étaient
+            </td>
+            <td align="center">
+                allé(e)(s)<br />
+                （和主語的性數一致）
+            </td>
+        </tr>
+        <tr>
+        	<td align="center">se lever</td>
+            <td>
+            	je m'étais<br />
+                tu t'étais<br />
+                il (elle) s'était<br />
+                nous nous étions<br />
+                vous vous étiez<br />
+                ils (elles) s'étaient
+            </td>
+            <td align="center">
+                levé(e)(s)<br />
+                （和主語的性數一致）
+            </td>
+        </tr>
     </tbody>
 </table>
 
